@@ -34,7 +34,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.TreeMap;
 
-import javax.annotation.Nullable;
+import android.support.annotation.Nullable;
 
 /**
  * Various helper functions for the state database
