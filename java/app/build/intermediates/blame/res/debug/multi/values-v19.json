@@ -1,0 +1,154 @@
+[
+    {
+        "outputFile": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-v19/emoji-categories.xml",
+                    "position": {
+                        "startLine": 888,
+                        "startColumn": 4,
+                        "startOffset": 25294,
+                        "endLine": 907,
+                        "endColumn": 12,
+                        "endOffset": 25751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endLine": 173,
+                    "endColumn": 12,
+                    "endOffset": 4676
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-v19/emoji-categories.xml",
+                    "position": {
+                        "startLine": 431,
+                        "startColumn": 4,
+                        "startOffset": 12509,
+                        "endLine": 588,
+                        "endColumn": 12,
+                        "endOffset": 16710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 4681,
+                    "endLine": 353,
+                    "endColumn": 12,
+                    "endOffset": 9535
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-v19/emoji-categories.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 5734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 9540,
+                    "endLine": 517,
+                    "endColumn": 12,
+                    "endOffset": 13963
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-v19/emoji-categories.xml",
+                    "position": {
+                        "startLine": 589,
+                        "startColumn": 4,
+                        "startOffset": 16715,
+                        "endLine": 755,
+                        "endColumn": 12,
+                        "endOffset": 21159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 13968,
+                    "endLine": 646,
+                    "endColumn": 12,
+                    "endOffset": 18072
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-v19/emoji-categories.xml",
+                    "position": {
+                        "startLine": 756,
+                        "startColumn": 4,
+                        "startOffset": 21164,
+                        "endLine": 887,
+                        "endColumn": 12,
+                        "endOffset": 25289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 647,
+                    "startColumn": 4,
+                    "startOffset": 18077,
+                    "endLine": 872,
+                    "endColumn": 12,
+                    "endOffset": 24821
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-v19/emoji-categories.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 5739,
+                        "endLine": 430,
+                        "endColumn": 12,
+                        "endOffset": 12504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 873,
+                    "startColumn": 4,
+                    "startOffset": 24826,
+                    "endLine": 875,
+                    "endColumn": 12,
+                    "endOffset": 24938
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-v19/spinner-style.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 998,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1110
+                    }
+                }
+            }
+        ]
+    }
+]

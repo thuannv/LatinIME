@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/values-sw430dp-v13/values-sw430dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-sw430dp/config-per-form-factor.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 61,
+                        "endOffset": 929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 58,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-sw430dp/config-per-form-factor.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 934,
+                        "endColumn": 58,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 72,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-sw430dp/config-per-form-factor.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 730,
+                        "endColumn": 72,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 64,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-sw430dp/config-per-form-factor.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 993,
+                        "endColumn": 64,
+                        "endOffset": 1053
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 68,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-sw430dp/config-per-form-factor.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1058,
+                        "endColumn": 68,
+                        "endOffset": 1122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 77,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-sw430dp/config-per-form-factor.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1243,
+                        "endColumn": 77,
+                        "endOffset": 1316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endColumn": 56,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-sw430dp/config-per-form-factor.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1321,
+                        "endColumn": 56,
+                        "endOffset": 1373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 53,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-sw430dp/config-screen-metrics.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 763,
+                        "endColumn": 53,
+                        "endOffset": 812
+                    }
+                }
+            }
+        ]
+    }
+]

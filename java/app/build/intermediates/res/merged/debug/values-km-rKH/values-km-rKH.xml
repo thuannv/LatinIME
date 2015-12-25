@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="current_language_has_spaces">false</bool>
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g> មិល្លី​វិនាទី"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"បោះបង់"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"យល់ព្រម"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"ចេញ"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"ជ្រើស​គណនី​ដើម្បី​ប្រើ"</string>
+    <string msgid="2846876462199625974" name="account_selected">"កំពុង​ប្រើ <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"បន្ថែម"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"សូមបន្ថែមគណនី Google ទៅឧបករណ៍នេះដើម្បីបើកដំណើរការលក្ខណៈពិសេសនេះ"</string>
+    <string msgid="6163126614514489951" name="add_style">"បន្ថែម​រចនាប័ទ្ម"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"កំណត់​​កម្មវិធី​ពិនិត្យ​​អក្ខរាវិរុទ្ធ​សម្រាប់ ​​Android (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"បាន​លាក់​ក្ដារចុច"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"បង្ហាញ​ក្ដារ​ចុច <ns1:g id="KEYBOARD_MODE">%s</ns1:g>"</string>
+    <string msgid="6320102637491234792" name="app_name">"កម្មវិធី​ផ្ដល់​វចនានុក្រម"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"ការ​សរសេរ​ជា​អក្សរ​ធំ​​ស្វ័យប្រវត្តិ​"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"សរសេរ​ពាក្យ​ដំបូង​​​ជា​អក្សរ​ធំ​​នៃ​ប្រយោគ​នីមួយ​ៗ"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"ការ​កែ​​​ស្វ័យប្រវត្តិ"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"ចន្លោះ​មិន​ឃើញ ​និង​សញ្ញា​​វណ្ណយុត្ត​កែ​ពាក្យ​ដែល​បាន​វាយ​ខុស​ស្វ័យប្រវត្តិ"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"បំពាន"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"ល្មម"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"បិទ"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"បំពាន​ខ្លាំង"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"ការ​ស្នើ​ពាក្យ​បន្ទាប់"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"ប្រើ​ពាក្យ​មុន​​នៅ​ពេល​ធ្វើ​ការ​​​ស្នើ"</string>
+    <string msgid="3988017840431881491" name="button_default">"លំនាំដើម"</string>
+    <string msgid="6830980399865683324" name="cancel">"បោះ​បង់​"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"បោះ​បង់​"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"មាន​បញ្ហា​ក្នុង​ការ​​ភ្ជាប់​ទៅ​​សេវា​កម្ម​វចនានុក្រម"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"ផ្ទុក​ឡើងវិញ"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"ទិន្នន័យធ្វើសមកាលកម្មរបស់អ្នកនឹងត្រូវបានលុបពីពពក។ តើអ្នកប្រាកដទេ?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"លុប"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"លុបទិន្នន័យដែលបានធ្វើសមកាលកម្មរបស់អ្នកចេញពី Google"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"លុបទិន្នន័យក្លោត"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"បោះបង់"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"បញ្ជីឯកសារផ្ទាល់ខ្លួនរបស់អ្នកនឹងត្រូវបានធ្វើសមកាលកម្ម និងបម្រុងទុកនៅក្នុងម៉ាស៊ីនមេ Google។ ព័ត៌មានស្ថិតិនៃចំនួនពាក្យដែលឧស្សាហ៍ប្រើអាចត្រូវបានប្រមូលដើម្បីធ្វើឲ្យផលិតផលរបស់ពួកយើងប្រសើរជាងមុន។ ការប្រមូល និងការប្រើប្រាស់ព័ត៌មាន នឹងត្រូវអនុលោមតាម "<a href="https://www.google.com/policies/privacy">"គោលការណ៍ភាពឯកជនរបស់ Google"</a>"។"</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"សមកាលម្មត្រូវបានបើក"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"ធ្វើសមកាលកម្មបញ្ជីឯកសារផ្ទាល់ខ្លួនឆ្លងឧបករណ៍"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"ការធ្វើសមកាលកម្មមិនមាននោះទេសម្រាប់ឧបករណ៍ដែលមានគណនីកម្មវិធី Google សម្រាប់ធុរកិច្ច។"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"សមកាលកម្មលើក្តារចុច Google"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"ផ្នែក​បន្ថែម​វចនានុក្រម"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"កំណត់​រចនាសម្ព័ន្ធ​វិធីសាស្ត្រ​បញ្ចូល"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"មាន​រចនាប័ទ្ម​បញ្ចូល​ដូច​គ្នា​ដូច​ហើយ៖ <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"ចាំបាច់​ត្រូវ​បើក​រចនាប័ទ្ម​បញ្ចូល​ផ្ទាល់​ខ្លួន​របស់​អ្នក មុន​ពេល​អ្នក​ចាប់ផ្ដើម​ប្រើ​វា។ តើ​អ្នក​ចង់​បើក​វា​ឥឡូវ​នេះ​ឬ?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"រចនាប័ទ្ម​បញ្ចូល​ផ្ទាល់ខ្លួន"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"វចនានុក្រម​អ្នកប្រើ"</string>
+    <string msgid="756853268088330054" name="delete_dict">"លុប"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"ចុច​ ដើម្បី​ពិនិត្យ​មើល​ឡើង​​វិញ​ និង​ទាញ​យក"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"វចនានុក្រម​អាច​ប្រើ​បាន​សម្រាប់ <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"វចនានុក្រម​​​អាច​ប្រើ​បាន"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"បាន​ដំឡើង បាន​បិទ"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"បច្ចុប្បន្ន​កំពុង​ទាញ​យក"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"វចនានុក្រម​​​​​អាច​ប្រើ​បាន"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"បាន​ដំឡើង"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"កម្មវិធី​ផ្ដល់​វចនានុក្រម"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"សេវាកម្ម​​វចនានុក្រម"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"ការ​កំណត់​សម្រាប់​វចនានុក្រម"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"ផ្នែក​បន្ថែម​វចនានុក្រម​​"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"ទាញ​យក​តាម​វ៉ាយហ្វាយ"</string>
+    <string msgid="6014835283119198591" name="download_description">"ព័ត៌មាន​បច្ចុប្បន្នភាព​វចនានុក្រម"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"ទាញ​យក​ឥឡូវ​នេះ (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g> មេកាបៃ)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"វចនានុក្រម​ផ្ទាល់ខ្លួន"</string>
+    <string msgid="5031294444630523247" name="enable">"បើក"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"ធ្វើឲ្យ <ns1:g id="APPLICATION_NAME">%s</ns1:g> ប្រសើរ​ឡើង"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"បើក​ការ​បំបែក​ក្ដារចុច"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"ជម្រើស​​បញ្ចូល"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"ក្ដារចុច Android (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"ការ​កំណត់​ក្ដារ​ចុច Android (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"មើល​ការ​​អណ្ដែត​ដែល​មាន​ចលនា​ជា​មុន"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"​មើល​ពាក្យ​​​ដែល​បាន​ស្នើ​​​ខណៈ​ពេល​កំពុង​ធ្វើ​កាយ​វិការ"</string>
+    <string msgid="826951152254563827" name="gesture_input">"បើក​ការ​​បញ្ចូល​​កាយវិការ"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"បញ្ចូល​ពាក្យ​ដោយ​រំកិល​​​តាម​​អក្សរ"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"បង្ហាញ​ដាន​កាយវិការ"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"កាយវិការ​​ឃ្លា"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"បញ្ចូល​​ដកឃ្លា​​​អំឡុង​​​កាយវិការ​ ដោយ​រំកិល​ទៅ​គ្រាប់​ចុច​ដកឃ្លា"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"ការ​កំណត់"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"មាន​វចនានុក្រម"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"ជំនួយ &amp; មតិ​ត្រឡប់"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"ប៉ះ​ម្ដង​ទៀត​ ដើម្បី​រក្សា​ទុក"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"ប៉ះ​ទីនេះ​ដើម្បី​រក្សាទុក"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"ប្ដូរ​ទៅ​​​វិធីសាស្ត្រ​បញ្ចូល​​​ផ្សេង​ទៀត"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"គ្រាប់ចុច​ប្ដូរ​ភាសា​តាម​វិធីសាស្ត្រ​បញ្ចូល​ផ្សេងទៀត"</string>
+    <string msgid="180852772562189365" name="install_dict">"ដំឡើង"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"លំនាំដើម"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"​សោ​លេចឡើង​បោះបង់​ការ​​ពន្យារពេល​"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"គ្មាន​ការ​ពន្យារពេល"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"រូបរាង​ក្ដារចុច"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"ប្លង់"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"កាលបរិច្ឆេទ"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"កាល​បរិច្ឆេទ​ និង​ពេល​វេលា"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"អ៊ីមែល"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"ការ​ផ្ញើ​សារ"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"លេខ"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"ទូរស័ព្ទ"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"អត្ថបទ"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"ពេលវេលា"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"រូបរាង​ក្ដារចុច"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"រួចរាល់"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"ទៅ"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"បន្ទាប់"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"ផ្អាក"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"មុន"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"ស្វែងរក"</string>
+    <string msgid="482252074224462163" name="label_send_key">"ផ្ញើ"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"រង់ចាំ"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"ភាសា"</string>
+    <string msgid="730467549913588780" name="last_update">"បាន​ធ្វើ​បច្ចុប្បន្នភាព​ចុងក្រោយ"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"វចនានុក្រម​ចម្បង"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"វចនានុក្រម​ចម្បង"</string>
+    <string msgid="5638680861387748936" name="message_loading">"កំពុង​ផ្ទុក..."</string>
+    <string msgid="4457761393932375219" name="message_updating">"ពិនិត្យមើល​បច្ចុប្បន្នភាព"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"មិន​បាន​ជ្រើស​គណនី"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"គ្មាន​វចនានុក្រម"</string>
+    <string msgid="6172462888202790482" name="not_now">"មិនមែន​ឥឡូវ"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"លេច​ឡើង​នៅ​​ពេល​ចុច​គ្រាប់​ចុច"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"កុំ​ស្នើ​ឲ្យ​ពាក្យ​បំពាន​មាន​សក្ដានុពល​"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"ទប់ស្កាត់​​ពាក្យ​​បំពាន"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"សញ្ញាអារម្មណ៍សម្រាប់ក្តារចុចពិតប្រាកដ"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"គ្រាប់ចុច Alt បង្ហាញផ្ទាំងសញ្ញាអារម្មណ៍"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"ពន្យារពេល​​​ចុច​គ្រាប់​ចុច​ឲ្យ​​យូរ"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"កម្រិត​សំឡេង​ពេល​ចុច​គ្រាប់​ចុច"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"ថិរវេលា​​ញ័រ​​ពេល​ចុច​គ្រាប់ចុច"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"បង្ហាញ​ការ​ស្នើ​​កែ"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"បង្ហាញ​ពាក្យ​​បាន​​ផ្ដល់​​ស្នើ​​ខណៈ​ពេល​​​វាយ​បញ្ចូល"</string>
+    <string msgid="4486081658752944606" name="remove">"លុប​ចេញ"</string>
+    <string msgid="7646738597196767214" name="save">"រក្សាទុក"</string>
+    <string msgid="5709487854987078367" name="select_language">"ភាសា"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"គណនី &amp;amp ភាពឯកជន"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"កម្រិត​ខ្ពស់"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"រូបរាង &amp;amp ប្លង់"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"ការ​កែ​​អត្ថបទ"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"កាយវិការ​បញ្ចូល"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"ចំណូលចិត្ត"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"រូបរាង"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"លំនាំ​ដើម​​​ប្រព័ន្ធ"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"បាន​បញ្ចប់"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"ជំហាន​បន្ទាប់"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"បាន​ចាប់ផ្ដើម"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"បើក​នៅ​ក្នុង​ការ​កំណត់"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>បាន​បើក​នៅ​ក្នុង​​ការ​កំណត់​​ភាសា​ &amp; ការ​បញ្ចូល​របស់ ដូច្នេះ​ជំហាន​នេះ​រួចរាល់​ហើយ។ បន្ត​ទៅ​ជំហាន​បន្ទាប់!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"សូម​ពិនិត្យ​ \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" នៅ​ក្នុង​ការ​កំណត់​ភាសា &amp; និង​ការ​បញ្ចូល​របស់​អ្នក។ វា​នឹង​ដំណើរការ​នៅ​លើ​ឧបករណ៍​របស់​អ្នក។"</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"បើក <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"ប្ដូរ​វិធីសាស្ត្រ​បញ្ចូល"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"បន្ទាប់ ជ្រើស \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" ជា​វិធី​សាស្ត្រ​បញ្ចូល​អត្ថបទ​សកម្ម​របស់​អ្នក។"</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"ប្ដូរ​ទៅ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"កំណត់​រចនា​សម្ព័ន្ធ​ភាសា​បន្ថែម"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"ឥឡូវ​​អ្នក​អាច​​វាយ​បញ្ចូល​នៅ​ក្នុង​​កម្មវិធី​​ពេញ​ចិត្ត​របស់​អ្នក​ទាំងអស់​ជាមួយ <ns1:g id="APPLICATION_NAME">%s</ns1:g> ។"</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"សូម​អបអរ​សាទរ,​ អ្នក​​បាន​កំណត់​​រួចរាល់​ហើយ!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"រៀបចំ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"ជាមួយ​​​ការ​វាយ​បញ្ចូល​ដោយ​ប្រើ​​​កាយវិការ"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"សូម​ស្វាគមន៍​មក​កាន់ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"ភាសា​ដែល​បាន​ជ្រើស​នៅ​លើ​ឧបករណ៍​ចល័ត​មាន​វចនានុក្រម​អាច​ប្រើ​បាន។&lt;br/> យើង​ផ្ដល់​អនុសាសន៍​ឲ្យ &lt;b>ទាញ​យក&lt;/b> វចនានុក្រម​ភាសា <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> ដើម្បី​បង្កើន​បទពិសោធន៍​វាយ​បញ្ចូល​របស់​អ្នក។&lt;br/> &lt;br/> ការ​ទាញ​យក​អាច​ចំណាយ​ពេល​ប្រហែល​ពីរ​នាទី​នៅ​តាម 3G។ ការ​គិត​ថ្លៃ​អាច​អនុវត្ត​ប្រសិន​បើ​អ្នក​មិន​ប្រើ &lt;b>ផែនការ​ទិន្នន័យ​គ្មាន​ដែន​កំណត់&lt;/b>.&lt;br/> បើ​អ្នក​មិន​ប្រាកដ​​ថា​ផែនការ​ណា​មួយ​ដែល​អ្នក​មាន យើង​ផ្ដល់​អនុសាសន៍​ឲ្យ​​ភ្ជាប់​វ៉ាយហ្វាយ ដើម្បី​ចាប់ផ្ដើម​ទាញ​យក​ដោយ​ស្វ័យ​ប្រវត្តិ។&lt;br/> &lt;br/> ជំនួយ៖ អ្នក​អាច​ទាញ​យក និង​លុប​វចនានុក្រម​ដោយ​ចូល​ទៅ​ &lt;b>ភាសា &amp; ការ​បញ្ចូល&lt;/b> នៅ​ក្នុង​ម៉ឺនុយ &lt;b>ការ​កំណត់&lt;/b> សម្រាប់​ឧបករណ៍​ចល័ត។"</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"គ្រាប់​ចុច​ប្ដូរ​​ភាសា"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"បង្ហាញ​នៅ​ពេល​ដែល​បើក​ភាសា​បញ្ចូល​ច្រើន"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"បង្ហាញ​រូប​តំណាង​កម្មវិធី"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"បង្ហាញ​រូប​តំណាង​កម្មវិធី​នៅ​ក្នុង​កម្ម​​វិធី​ចាប់ផ្ដើម"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"សំឡេង​នៅ​ពេល​ចុច​គ្រាប់ចុច"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"កម្មវិធី​ពិនិត្យ​អក្ខរាវិរុទ្ធ Android  (AOSP​)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"សញ្ញាលេខលំដាប់បញ្ជាក់ភេទស្រី"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"សញ្ញាម៉ុយ"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"សញ្ញាលេខលំដាប់ភេទបញ្ជាក់ប្រុស"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"S ស្រួច"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A បន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A សក់ព្រួញ"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A សក់ទឹករលក"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A សក់ចុចពីរ"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A រង្វង់ពីលើ"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"សញ្ញា A និង E ជាប់គ្នា"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C ស៊ីឌីឡា"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E បន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E សក់ព្រួញ"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E សក់ចុចពីរ"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I បន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I សក់ព្រួញ"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I សក់ចុចពីរ"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"សញ្ញាអ៊េដ"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N សក់ទឹករលក"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O បន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O សក់ព្រួញ"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O សក់ទឹករលក"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O សក់ចុចពីរ"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O ឆូត"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U បន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U សក់ព្រួញ"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U សក់ចុចពីរ"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"សញ្ញាសន"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y សក់ចុចពីរ"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A សក់ឆូត"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A សក់អក្សរយូ"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A ជើងកណ្តៀវ"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C សក់ព្រួញ"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C ចុចពីលើ"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C សក់អក្សរវី"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D មានវណ្ណយុត្តិ"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D ឆូត"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E សក់ឆូត"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E សក់អក្សរយូ"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E ចុចពីលើ"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E ជើងកណ្តៀវ"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E សក់អក្សរវី"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G សក់ព្រួញ"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G សក់អក្សរយូ"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G ចុចពីលើ"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G ស៊ីឌីឡា"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H សក់ព្រួញ"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H ឆូត"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I សក់ទឹករលក"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I សក់ឆូត"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I សក់អក្សរយូ"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I ជើងកណ្តៀវ"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"I អត់ចុចពីលើ"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"សញ្ញា IJ"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J សក់ព្រួញ"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K ស៊ីឌីឡា"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"អក្សរក្រា"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L ស៊ីឌីឡា"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L មានវណ្ណយុត្តិ"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L ចុចកណ្តាល"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L ឆូត"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N ស៊ីឌីឡា"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N សក់អក្សរវី"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N មានសញ្ញាវណ្ណយុត្តិនៅខាងមុខ"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"សញ្ញាអ៊ីង"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O សក់ឆូត"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O សក់អក្សរយូ"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O បន្តក់បញ្ឆិតស្តាំទ្វេ"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"សញ្ញា O និង E ជាប់គ្នា"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R ស៊ីឌីឡា"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R សក់អក្សរវី"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S សក់ព្រួញ"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S ស៊ីឌីឡា"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S សក់អក្សរវី"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T ស៊ីឌីឡា"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T មានវណ្ណយុត្តិ"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T ឆូត"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U សក់ទឹករលក"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U សក់ឆូត"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U សក់អក្សរយូ"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U រង្វង់ពីលើ"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U បន្តក់បញ្ឆិតស្តាំទ្វេ"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U ជើងកណ្តៀវ"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W សក់ព្រួញ"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y សក់ព្រួញ"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z បន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z ចុចពីលើ"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z សក់អក្សរវី"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"S វែង"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O មានស្នែង"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U មានស្នែង"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S មានក្បៀសខាងក្រោម"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T មានក្បៀសខាងក្រោម"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"អក្សរអ៊ីបញ្ច្រាស"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A ចុចខាងក្រោម"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A ទំពក់ពីលើ"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A សក់ព្រួញ និងបន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A សក់ព្រួញ និងបន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A សក់ព្រួញ និងទំពក់ពីលើ"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A សក់ព្រួញ និងទឹករលក"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A សក់ព្រួញ និងចុចខាងក្រោម"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A សក់អក្សរយូ និងបន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A សក់អក្សរយូ និងបន្តប់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A សក់អក្សរយូរ និងទំពក់ពីលើ"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A សក់អក្សរយូរ និងទឹករលក"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A សក់អក្សរយូ និងចុចខាងក្រោម"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E ចុចពីក្រោម"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E ទំពក់ពីលើ"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E សក់ទឹករលក"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E សក់ព្រួញ និងបន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E សក់ព្រួញ និងបន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E សក់ព្រួញ និងទំពក់ពីលើ"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E សក់ព្រួញ និងទឹករលក"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E សក់ព្រួញ និងចុចខាងក្រោម"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I ទំពក់ពីលើ"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I ចុចខាងក្រោម"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O ចុចខាងក្រោម"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O ទំពក់ពីលើ"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O សក់ព្រួញ និងបន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O សក់ព្រួញ និងបន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O សក់ព្រួញ និងទំពក់ពីលើ"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O សក់ព្រួញ និងទឹករលក"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O សក់ព្រួញ និងចុចខាងក្រោម"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O មានស្នែង និងបន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O មានស្នែង និងបន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O មានស្នែង និងទំពក់ពីលើ"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O មានស្នែង និងសក់ទឹករលក"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O មានស្នែង និងចុចខាងក្រោម"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U ចុចខាងក្រោម"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U ទំពក់ពីលើ"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U មានស្នែង និងបន្តក់បញ្ឆិតស្តាំ"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U មានស្នែង និងបន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U មានស្នែង និងទំពក់ពីលើ"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U មានស្នែង និងសក់ទឹករលក"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U មានស្នែង និងចុចខាងក្រោម"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y បន្តក់បញ្ឆិតឆ្វេង"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y ចុចខាងក្រោម"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y ទំពក់ពីលើ"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y សក់ទឹករលក"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g> កែ <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> ទៅ​ជា <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> អនុវត្ត​ការ​កែ​ស្វ័យ​ប្រវត្តិ"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"បាន​បដិសេធ​តួអក្សរ​ជំនួស"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"បាន​បដិសេធ​ការ​ស្នើ​ជំនួស"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"អត្ថបទ​បច្ចុប្បន្ន​គឺ %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"បន្ទាប់"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"មុន"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"លុប"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"ចំណុច"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"សញ្ញា​អារម្មណ៍"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"ប្ដូរ​​ភាសា"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"ការ​បញ្ចូល​សំឡេង"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"របៀប​អក្សរ"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"របៀប​ទូរស័ព្ទ"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"​របៀប​និមិត្ត​សញ្ញា​ទូរស័ព្ទ"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"របៀប​និមិត្ត​សញ្ញា"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"របៀប​និមិត្ត​សញ្ញា​​ច្រើន​ទៀត"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Return"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"ស្វែងរក"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"ការកំណត់"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"បាន​បើក Caps lock"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"បាន​បើក Shift"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"ដកឃ្លា"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"និមិត្ត​សញ្ញា​​ច្រើន​ទៀត"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"និមិត្តសញ្ញា"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Tab"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"អក្សរ"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"លេខ"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"និមិត្តសញ្ញា"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"មិន​ស្គាល់​តួអក្សរ"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"អក្សរ​ធំ <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"សញ្ញា​អារម្មណ៍"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"ធម្មជាតិ"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"វត្ថុ"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"មនុស្ស"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"ទីកន្លែង"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"ថ្មីៗ"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"និមិត្តសញ្ញា"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"សញ្ញា​រក្សា​សិទ្ធ​"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"សញ្ញា​​​ចុះ​បញ្ជី"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"សញ្ញានាគក្រហមម៉ាចុង"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"រូបតុក្កតាបៀពណ៌ខ្មៅ"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"ឈាម​ប្រភេទ A"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"ឈាម​ប្រភេទ B"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"ឈាម​ប្រភេទ O"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"ចំណត"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"ឈាម​ប្រភេទ AB"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"ប្រអប់ CL"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"ប្រអប់ cool"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"ប្រអប់ free"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"ប្រអប់ ID"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"ប្រអប់ new"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"ប្រអប់ N G"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"ប្រអប់ OK"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"ប្រអប់ SOS"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"ប្រអប់ up!"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"ប្រអប់ vs"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"សញ្ញានៅទីនេះកាតាកាណាជ្រុង"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"សញ្ញាសេវាកម្មកាតាកាណាជ្រុង"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"សញ្ញាឥតគិតថ្លៃជ្រុង"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"សញ្ញាកន្លែងកក់រួចជ្រុង"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"សញ្ញាហាមឃាត់ជ្រុង"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"សញ្ញាកន្លែងទំនេរជ្រុង"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"សញ្ញាព្រមទទួលជ្រុង"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"សញ្ញាជួលពេញជ្រុង"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"សញ្ញាមានផ្តល់ជូនជ្រុង"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"សញ្ញាប្រចាំខែជ្រុង"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"សញ្ញាកម្មវិធីជ្រុង"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"សញ្ញាបញ្ចុះតម្លៃជ្រុង"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"សញ្ញាដំណើរការអាជីវកម្មជ្រុង"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"សញ្ញាអត្ថប្រយោជន៍មូល"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"សញ្ញាយល់ព្រមមូល"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"ស៊ីក្លូន"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"អ័ភ្រ"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"ឆត្រ​បិទ"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"រាត្រី​​មាន​​ផ្កាយ"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"ព្រះ​អាទិត្យ​​​លើ​ភ្នំ"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"ព្រះ​អាទិត្យរះ"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"ទីក្រុង​ពេល​ព្រលប់"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"ព្រះអាទិត្យ​លិច​ចន្លោះ​អាគារ"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"ឥន្ទធនូ"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"ស្ពាន​ពេល​រាត្រី"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"ទឹក​រលក"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"ភ្នំភ្លើង"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"មេឃ​ស្រទំ"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"ភូគោល​​អឺរ៉ុប-អាហ្រិក"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"ភូគោល​អាមេរិក"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"ភូគោល​អាស៊ី-អូស្ត្រាលី"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"ភូគោល​មាន​ខ្សែ​វណ្ឌ"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"​​ព្រះចន្ទ"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"ព្រះ​ចន្ទ​មួយ​ចំណិត​ស្ដាំ"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"ព្រះ​ចន្ទ​ពាក់​កណ្ដាល"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"ព្រះ​ចន្ទ​មួយ​ចំណិត​ឆ្វេង"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"ព្រះចន្ទ​ពេញ​វង់​"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"ព្រះ​ចន្ទ​ភ្លឺ​មួយ​ចំហៀង"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"ព្រះ​ចន្ទ​ភ្លឺ​ពាក់​កណ្ដាល"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"ព្រះ​ចន្ទ​ភ្លឺ​មួយ​ចំណិត​ឆ្វេង"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"ព្រះ​ចន្ទ​មួយ​ចំណិត"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"ព្រះ​ចន្ទ​មាន​មុខ​មនុស្ស"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"ព្រះ​ចន្ទ​មាន​មុខ​មនុស្ស​ពាក់កណ្ដាល​ស្ដាំ"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"ព្រះ​ចន្ទ​មាន​មុខ​មនុស្ស​ពាក់កណ្ដាលឆ្វេង"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"ព្រះចន្ទ​មាន​មុខ​មនុស្ស​ពេញ​វង់"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"ព្រះ​អាទិត្យ​មានមុខ​មនុស្ស"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"ផ្កាយ"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"បាញ់​ផ្កាយ"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"ឆេសណាត់"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"កូន​ឈើ"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"ដើម​ឈើ​បៃតង"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"ដើម​ឈើ​មិន​ខៀវ​ជា​និច្ច"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"ដើម​ត្នោត"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"ដំបង​យក្ស"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"ផ្កា"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"ផ្កាឈឺរី"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"ផ្កា​កុលាប"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"ផ្កា​រំយោល"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"ផ្កា​ឈូករ័ត្ន"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"ផ្កា"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"ស្នៀត​​​​ពោត"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"គួរ​ស្រូវ"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"រុក្ខជាតិ"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"ដើម​ដង្ហិត"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"ស្លឹក​ឈើ"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"ស្លឹក​ឈើ​ជ្រុះ"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"ស្លឹកឈើបក់តាមខ្យល់"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"ផ្សិត"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"ប៉េងប៉ោះ"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"ត្រប់"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"ទំពាំង​បាយ​ជូរ"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"ត្រសក់​ស្រូវ"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"ឪឡឹក"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"ក្រូច​ឃ្វិច"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"ក្រូចឆ្មារ"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"​ចេក"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"ម្នាស់"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"​ប៉ោម​​​ក្រហម"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"​ប៉ោម​​​បៃតង"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"ផ្លែព័រ"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"ផ្លែប៉ែស"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"ផ្លែ​ឈឺរី"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"ផ្លែស្ត្របេរី"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"ហាំប៊ឺហ្គឺ"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"ភីហ្សា​​មួយ​ស្លាយ"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"សាច់ចង្កាក់"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"ភ្លៅ​មាន់"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"ប៊ីស្គី​បាយ"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"ដុំ​បាយ"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"បាយ​មួយ​ចាន"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"ការី​ និង​បាយ"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"ចាន​ចំហុយ"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"ស្ប៉ាហ្គាទី"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"នំប៉័ង"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"ដំឡូង​បំពង"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"ដំឡូង​ដុត"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"ប្រហិត​ដោត​ចង្កាក់"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"ម្ហូប​សមុទ្រ​ដោត​ចង្កាក់"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"ស៊ូស៊ី"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"កំពឹស​ចៀន"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"នំ​ត្រី​រាង​មូល"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"ការ៉េម​​បំពង់"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"ការ៉េម​កែវ"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"ការ៉េម​"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"ដូណាត់"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"ខូគី"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"​​សូកូឡា"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"ស្ករគ្រាប់"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Lollipop"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"សង់ខ្យា"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"ថូ"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"នំ​ខេក"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"ប្រអប់​បេនតូ"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"ឆ្នាំង​អាហារ"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"ចម្អិន​អាហារ"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"សម ​និង​កាំបិត"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"ពែង​តែ​អត់​ដៃកាន់"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"ដប និង​ពែង"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"កែវ​ស្រា"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"កែវ​ស្រា​ក្រឡុក"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"ភេសជ្ជៈ​​​ត្រូពិក"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"កែវ​​ស្រាបៀ​"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"ជល់​កែវ​ស្រាបៀ"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"ដប​ទឹកដោះ​គោ"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"ខ្សែ​បូ"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"ខ្ចប់​កា​ដូរ"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"នំ​ខួប​កំណើត"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"គោម"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"ដើម​ឈើ​បុណ្យ​ណូអែល"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"តា​ណូអែល"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"កាំជ្រួច"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"ពន្លឺ​កាំជ្រួច"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"ប៉េងប៉ោង"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"ឧបករណ៍​​​ផ្ទុះ​ពេល​ជប់លៀង"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"ក្រដាស​ពណ៌​តូចៗ"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"ដើម​​តាណាប៉ាតា"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"ទង់​ជាតិ​ខ្វែង"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"ការ​តុបតែង​ដោយ​​ផ្លែ​ស្រល់"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"តុក្កតា​ជប៉ុន"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"ខ្សែ​បូ​ត្រី​គល់រាំង"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"កណ្ដឹង​ខ្យល់"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"ពិធី​មើល​ព្រះ​ចន្ទ"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"កាបូប​ទៅសាលារៀន"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"មួក​ទទួល​សញ្ញាប័ត្រ"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"សេះ​ក្មេង​ជិះ​លេង"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"កន្ត្រក​វិល"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"រថយន្ត​សម្រាប់​ពាក់​ជិះ​រំអិល"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"ដង​សន្ទូច និង​ត្រី"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"មីក្រូហ្វូន"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"ម៉ាស៊ីន​ថត​ភាព​យន្ត"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"ភាពយន្ត"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"កាស"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"ក្ដារ​លាយ​ពណ៌​វិចិត្រករ"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"មួក​​​សម្ដែង​សិល្បៈ"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"តង់​សៀក​"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"សំបុត្រ"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"បន្ទះកណ្ដឹង"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"សម្ដែង​សិល្បៈ"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"ហ្គេម​​វីដេអូ"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"វាយ​​​ចំគោលដៅ"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"ម៉ាស៊ីន​​​ដាក់​កាក់"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"ល្បែង​បុក​ប៊ីយ៉ា"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"ហ្គេម​ឡុកឡាក់"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"ប៊ូលីង"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"សន្លឹក​បៀរ​​មាន​ផ្កា"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"ណោត​តន្ត្រី"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"ណោត​តន្ត្រីច្រើន"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"ត្រែ"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"ហ្គីតា"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"ខ្ទង់​សម្រាប់​ចុច​តន្ត្រី"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"ត្រុំប៉ែត"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"វីយូឡុង"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"និមិត្តសញ្ញា​តន្ត្រី"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"អាវ​កីឡា​​មាន​ខ្សែ​ឆៀង"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"រ៉ាកែត និង​បាល់"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"ជិះ​ស្គី ​និង​ក្ដារ​​ស្គី​"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"បាល់​បោះ​ និង​វណ្ណ​មូល"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"ទង់ជាតិ​ប្រណាំង​ម៉ូតូ"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"អ្នក​ជិះ​​ក្ដារ​រំអិល​លើ​ព្រិល​"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"អ្នក​រត់"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"អ្នក​ជិះ​ទូក​រអិល​លើ​ទឹក"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"ពាន​រង្វាន់"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"​ប្រណាំង​សេះ"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"​បាល់​ទាត់​អាមេរិក"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"បាល់​អោប"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"អ្នក​ហែលទឹក"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"ការ​សាងសង់​​ផ្ទះ"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"ផ្ទះ​មាន​សួន​ច្បារ"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"អគារ​ការិយាល័យ"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"ការិយាល័យ​ប្រៃសណីយ៍​ជប៉ុន"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"ការិយាល័យ​ប្រៃសណីយ៍​អឺរ៉ុប"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"មន្ទីរពេទ្យ"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"ធនាគារ"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"ម៉ាស៊ីន​​អេធីអឹម"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"សណ្ឋាគារ"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"សណ្ឋាគារ​ក្ដី​ស្រឡាញ់​"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"ហាង​​ទំនិញ ២៤​ម៉ោង"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"សាលារៀន"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"ហាង​​ទំនិញធំៗ"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"រោងចក្រ"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"ចង្កៀង​គោម Izakaya"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"វិមាន​​ជប៉ុន"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"វិមាន​អឺរ៉ុប"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"កណ្ដុរ​ប្រែង"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"កណ្ដុរ​ប្រមះ"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"គោ"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"ក្របី​ទឹក"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"គោ"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"ខ្លា​រខិន"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"ទន្សាយ"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"ឆ្មា"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"នាគ"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"ក្រពើ"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"​ត្រី​បាឡែន"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"ខ្យង់ក្ដក់"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"ពស់"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"សេះ"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"ចៀម​ឈ្មោល"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"ពពែ"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"ចៀម"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"ស្វា"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"មាន់​ឈ្មោល"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"​មាន់"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"ឆ្កែ"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"ជ្រូក"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"ជ្រូក​ព្រៃ"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"ដំរី"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"មឹក"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"ខ្យង​គ្រែង"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"សង្កើច"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"ស្រមោច"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"ឃ្មុំ"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"អណ្ដើក​មាស"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"ត្រី"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"ត្រី​តំបន់​ត្រូពិក"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"ត្រី​ក្រពត"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"អណ្ដើក"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"កូនមាន់ញាស់"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"កូន​មាន់"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"មុខ​កូន​មាន់"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"បក្សី"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"ភេនឃ្វីន"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"ខ្លាឃ្មុំ"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"ឆ្កែ"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"អូដ្ឋ​​បូក​មួយ"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"អូដ្ឋ​បូក​ពីរ"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"ត្រី​ផ្សោត"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"មុខ​កណ្ដុរ"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"មុខ​​គោ"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"មុខ​ខ្លា"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"មុខ​ទន្សាយ"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"មុខ​ឆ្មា"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"មុខ​នាគ"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"ព្រុយ​ត្រី​បាឡែន"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"មុខ​សេះ"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"មុខ​ស្វា"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"មុខ​ឆ្កែ"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"មុខ​ជ្រូក"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"មុខ​កង្កែប"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"មុខ​កណ្ដុរ"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"មុខ​ចចក"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"​​មុខ​ខ្លាឃ្មុំ"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"មុខ​ខ្លាឃ្មុំ​ផេ​ន​ដា"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"ច្រមុះ​ជ្រូក"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"ក្រញាំ​​ជើង"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"ភ្នែក"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"ត្រចៀក"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"ច្រមុះ"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"មាត់"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"អណ្ដាត"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"ចង្អុល​ដៃ​ឡើង​លើ"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"ចង្អុល​ដៃ​​ចុះ​ក្រោម"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"ចង្អុល​ដៃ​ទៅ​ឆ្វេង"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"ចង្អុល​ដៃ​ទៅ​ស្ដាំ"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"កណ្ដាប់ដៃ"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"គ្រវី​បាត​ដៃ"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"សញ្ញា​អូខេ"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"​មេដៃ​ឡើង​លើ"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"​មេដៃ​ចុះ​ក្រោម"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"ទះ​ដៃ"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"លា​ដៃ​"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"មកុដ"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"មួក​​ស្ត្រី"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"វ៉ែនតា"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"ក្រ​វ៉ាត់​ករ​"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"អាវ​យឺត​​"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"ខោ​ខោវប៊យ"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"សំលៀក​បំពាក់"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"គី​ម៉ូណូ"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"ឈុត​ហែល​ទឹក"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"សំលៀកបំពាក់​នារី"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"កាបូប"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"កាបូប​ដៃ"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"ថង់"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"ស្បែកជើង​បុរស"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"ស្បែក​ជើង​កីឡា"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"ស្បែកជើង​កែង"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"ស្បែក​ជើង​ស៊ក​ស្រ្តី"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"​ស្បែក​ជើង​ក​វែង​ស្ត្រី"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"ដាន​ជើង"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"គណនី​ភ្ញៀវ"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"គណនី"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"ក្មេង​​ប្រុស"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"ក្មេង​ស្រី"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"បុរស​"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"ស្ត្រី​"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"គ្រួសារ"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"បុរស​​ និង​ស្ត្រី​កាន់ដៃ​គ្នា"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"បុរស​ពីរ​នាក់​កាន់​ដៃ​គ្នា"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"ស្ត្រី​​​ពីរ​កាន់​ដៃ​គ្នា"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"មន្ត្រី​ប៉ូលិស"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"ស្ត្រី​​ចង​សក់​ទីទុយ"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"កូនក្រមុំ​​ពាក់​​ស្បៃ​មុខ"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"មនុស្ស​​មាន​សក់​​ពណ៌​ទង់ដែង"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"បុរស​​ពុកមាត់​ឆ្មា"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"បុរស​ពាក់​ឈ្នួត"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"បុរស​​ចំណាស់"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"ស្ត្រី​ចំណាស់"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"ទារក"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"កម្មករ​សំណង់"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"ព្រះអង្គម្ចាស់​ក្សត្រី"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"សត្វ​ចម្លែក​ជប៉ុន"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"ម្រេញគង្វាល​ជប៉ុន"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"ខ្មោច"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"អប្សរា​​ទារក"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"មនុស្ស​ក្រៅ​ភព"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"សត្វ​ចម្លែក​ក្រៅ​​ភព"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"ប្រែត"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"លលាដ៍​ក្បាល"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"អ្នក​ផ្ដល់​ព័ត៌មាន"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"អ្នក​យាម"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"អ្នក​រាំ​"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"ក្រេម​លាប​បបូរ​មាត់"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"ថ្នាំ​លាប​​​ក្រចក"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"ម៉ាស្សា​មុខ"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"កាត់សក់"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"ស្លាក​សញ្ញា​កាត់សក់"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"ស៊ីរ៉ាំង"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"ថ្នាំ​គ្រាប់​"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"ស្នាម​ថើប"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"លិខិត​ស្នេហា​"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"រោទ៍"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"ត្បូង​ថ្ម"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"ថើប"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"បាច់​​ផ្កា"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"ប្ដី​ប្រពន្ធ​​ និង​រូប​បេះដូង"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"អាពាហ៍ពិពាហ៍"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"​សំឡេង​បេះដូង​លោត"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"ខូច​ចិត្ត"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"បេះដូង​​ពីរ"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"បេះដូង​​មាន​ពន្លឺ"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"បេះដូង​​លូតលាស់"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"បេះដូង​​ជាប់​ព្រួញ"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"បេះដូង​​ពណ៌​ខៀវ"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"បេះដូង​​ពណ៌​បៃតង"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"បេះដូង​​ពណ៌​លឿង"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"បេះដូង​​ពណ៌ស្វាយ"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"បេះដូង​ជាប់​ខ្សែ​បូ"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"បេះដូង​វិល"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"ការ​តុបតែង​បេះដូង"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"​រាង​ពេជ្រ​​មាន​​ចំណុច​​ខាង​ក្នុង"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"អំពូល​​អគ្គិសនី"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"និមិត្ត​សញ្ញា​កំហឹង"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"គ្រាប់បែក"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"និមិត្ត​សញ្ញា​​ដេក"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"និមិត្ត​សញ្ញា​​ប៉ះ​ទង្គិច​គ្នា"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"និមិត្ត​សញ្ញា​​ស្រក់​ញើស​"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"ដំណក់​ទឹក"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"និមិត្ត​សញ្ញា​​ដកឃ្លា"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"គំនរ​ធូលី"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"ដំឡើង​សាច់ដុំ​ដើមដៃ"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"និមិត្ត​សញ្ញា​​វិលមុខ"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"ប្រអប់​បញ្ចេញ​យោបល់"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"ប្រអប់​គំនិត"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"ផ្កា​​ពណ៌ស"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"និមិត្ត​សញ្ញា​​មួយ​រយ​ពិន្ទុ"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"កាបូប​​លុយ"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"ប្ដូរ​​រូបិយប័ណ្ណ"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"សញ្ញា​ដុល្លារ"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"កាត​​ឥណទាន"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"ក្រដាស​ប្រាក់​​ធនាគារ​មាន​សញ្ញា​​យ៉េន​​"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"លុយដុល្លារ"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"ក្រដាស​ប្រាក់​​ធនាគារ​មាន​សញ្ញា​អឺរ៉ូ"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"ក្រដាស​ប្រាក់​​ធនាគារ​មាន​សញ្ញា​​​ផោន"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"លុយ​មាន​ស្លាប"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"ក្រាហ្វិក​និន្នាការ​ឡើង​​មាន​​សញ្ញា​យ៉េន"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"កៅអី"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"កុំព្យូទ័រ​ផ្ទាល់ខ្លួន"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"វ៉ា​លី​"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"ឌីស​​តូច"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"ថា​ស​​ទន់"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"ថាស"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"ឌីវីឌី"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"ថត​​ឯកសារ"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"ថត​ឯកសារ​បើក"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"ទំព័រ​​កោង"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"ទំព័រ​បញ្ឈរ"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"ប្រតិទិន"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"ហែក​ប្រតិទិន​"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"​កាត​រៀប​តាម​អក្សរ"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"ក្រាហ្វិក​មាន​និន្នាការ​ឡើង"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"ក្រាហ្វិក​មាន​និន្នាការ​ចុះ"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"គំនូស​តាង​របារ"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"ក្ដារ​តម្បៀត​ខ្ទាស់"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"ម្ជុល"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"ម្ជុល​ក្បាល​មូល"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"ដង្កៀប​​ក្រដាស"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"បន្ទាត់​ត្រង់"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"បន្ទាត់​រៀង​ត្រីកោណ"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"ផ្ទាំង​​​ចំណាំ"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"បញ្ជី​កត់ត្រា"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"សៀវភៅ"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"សៀវភៅ​មាន​ក្រប​ពណ៌"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"សៀវភៅ​​បិទ"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"សៀវភៅ​បើក​​"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"សៀវភៅ​​ពណ៌​បៃតង"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"សៀវភៅ​​ពណ៌​ខៀវ"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"សៀវភៅ​​ពណ៌​ទឹកក្រូច"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"សៀវភៅ​"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"ស្លាកឈ្មោះ"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"ក្រដាស​រមូរ"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"កំណត់ចំណាំ"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"អ្នក​ទទួល​ទូរស័ព្ទ"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"ភេយ័រ"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"ម៉ាស៊ីន​​ទូរសារ"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"អង់តែន​​ផ្កាយ​រណប"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"អូប៉ាល័រ​ប្រកាស​សាធារណៈ"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"ឧបករណ៍​បំពង​សំឡេង"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"ថា​ស​​​ចេញ"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"ថា​ស​ចូល"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"កញ្ចប់​"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"និមិត្ត​សញ្ញា​អ៊ីមែល"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"ស្រោម​​សំបុត្រ​ចូល"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"ស្រោម​សំបុត្រ​​មាន​សញ្ញា​ព្រួញ​ពី​លើ"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"ប្រអប់​សំបុត្រ​បិទ​មាន​ទង់​ចុះក្រោម"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"ប្រអប់​សំបុត្រ​បិទ​មាន​ទង់​ឡើង​លើ"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"ប្រអប់​សំបុត្រ​បើក​មាន​ទង់​ឡើង​លើ"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"ប្រអប់​សំបុត្រ​បើក​មាន​ទង់ចុះក្រោម"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"ប្រអប់​ប្រៃសណីយ៍"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"ស្នែង​​ប្រៃសណីយ៍"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"កាសែត"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"ទូរស័ព្ទ​ចល័ត"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"ទូរស័ព្ទ​ចល័ត​មាន​សញ្ញា​ព្រួញ​ចូល​ពី​​ឆ្វេង"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"របៀប​​​ញ័រ"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"បិទ​ទូរស័ព្ទ​​ចល័ត"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"មិន​មាន​ទូរស័ព្ទ​​ចល័ត"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"អង់តែន​មាន​របារ"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"ម៉ាស៊ីន​ថត"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"ម៉ាស៊ីន​ថត​វីដេអូ"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"ទូរទស្សន៍"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"វិទ្យុ"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"ការ​សែត​វីដេអូ"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"ព្រួញ​រមួល​ទៅ​ស្ដាំ"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"ព្រួញ​រាង​ជា​រង្វង់​បើក​​​ស្រប​ទិស​ទ្រនិច​នាឡិកា​ទៅ​ឆ្វេង-ស្ដាំ"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"ព្រួញ​រាង​ជា​រង្វង់​បើក​​ស្រប​ទិស​ទ្រនិច​នាឡិកា​ទៅ​ឆ្វេង-ស្ដាំ​មាន​លេខ​ ១​ក្នុង​រង្វង់​នៅ​ពី​លើ"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"ព្រួញ​រាង​ជា​រង្វង់​បើក​​ស្រប​ទិស​ទ្រនិច​នាឡិកា​ចុះក្រោម-ឡើងលើ"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"ព្រួញ​រាង​ជា​រង្វង់​បើក​​ច្រាស​​ទិស​ទ្រនិច​នាឡិកា​ចុះក្រោម-ឡើងលើ"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"និមិត្ត​សញ្ញា​ពន្លឺ​​ទាប"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"និមិត្ត​សញ្ញា​​ពន្លឺ​ខ្ពស់"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"អូប៉ាល័រ​មាន​បន្ទាត់​កាត់"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"អូប៉ាល័រ"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"អូប៉ាល័រ​មាន​រលក​សំឡេង​មួយ"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"អូប៉ាល័រ​មាន​រលក​សំឡេង​បី"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"ថ្ម"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"ដុយ​អគ្គិសនី"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"កែវ​ពង្រីក​ចង្អុល​ខាង​ឆ្វេង"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"កែវ​ពង្រីក​ចង្អុល​ខាង​ស្ដាំ"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"ចាក់សោ​​​ដោយ​ប្រើ​​ប៊ិច​"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"បិទ​​សោ​ដោយ​ប្រើ​​​​កូនសោ"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"សោ"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"ចាក់សោ"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"បើក​សោ"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"កណ្ដឹង"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"កណ្ដឹង​មាន​បន្ទាត់​កាត់"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"​ចំណាំ"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"និមិត្ត​សញ្ញា​​តំណ"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"ប៊ូតុង​​មូល"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"ថយក្រោយ​មាន​ព្រួញ​ទៅ​ឆ្វេង​ខាង​លើ"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"បញ្ចប់​មាន​ព្រួញ​ទៅ​ឆ្វេង​ខាង​លើ"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"បើក​មាន​សញ្ញា​ឧទាន​​ជា​មួយ​នឹង​ព្រួញ​ទៅ​ឆ្វេង​​ខាង​លើ"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"ឆាប់ៗ​មាន​ព្រួញ​ទៅ​ស្ដាំ​ខាង​លើ"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"កំពូល​មាន​ព្រួញ​ឡើងលើ​នៅ​ខាង​លើ"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"​និមិត្ត​សញ្ញា​គ្មាន​នរណា​ម្នាក់​​អាយុ​​ក្រោម​ដប់ប្រាំ​បី"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"គ្រាប់​ចុច​ ១០"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"និមិត្ត​សញ្ញា​បញ្ចូល​សម្រាប់​អក្សរ​ឡាតាំង​ធំ"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"និមិត្ត​សញ្ញា​បញ្ចូល​សម្រាប់​អក្សរ​ឡាតាំង​តូច"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"និមិត្ត​សញ្ញា​បញ្ចូល​សម្រាប់​​លេខ​"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"ការ​បញ្ចូល​និមិត្តសញ្ញា"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"និមិត្ត​សញ្ញា​បញ្ចូល​សម្រាប់​អក្សរ​ឡាតាំង"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"ភ្លើង"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"ពិល​​អគ្គិសនី"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"ម៉ាឡេត"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"ញញួរ"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"ឡោ​ស៊ី​​"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"កាំបិត​​"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"កាំភ្លើង​ខ្លី"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"មីក្រូទស្សន៍"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"កែវ​យឹត"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"​បាល់​គ្រីស្តាល់"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"ផ្កាយ​ ៦ជ្រុងមាន​ចំណុចកណ្ដាល"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"និមិត្តសញ្ញា​ជប៉ុន​សម្រាប់​អ្នក​ចាប់ផ្ដើម"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"លំពែង​មុខ​បី"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"ប៊ូតុង​ការេ​ពណ៌​ខ្មៅ"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"ប៊ូតុង​ការ៉េ​ពណ៌​ស​"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"រង្វង់​ពណ៌​ក្រហម​​​ធំ"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"រង្វង់​ពណ៌​ខៀវ​ធំ"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"ពេជ្រ​ពណ៌​ទឹកក្រូច​ធំ"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"ពេជ្រ​ពណ៌​ខៀវ​​ធំ"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"ពេជ្រ​ពណ៌​ទឹកក្រូច​​តូច"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"ពេជ្រ​ពណ៌​ខៀវ​​តូច"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"ត្រីកោណ​ពណ៌​ក្រហម​កំពូល​ឡើងលើ"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"ត្រីកោណ​ពណ៌​ក្រហម​កំពូល​​ចុះ​ក្រោម"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"ត្រីកោណ​ពណ៌​ក្រហម​តូច​កំពូល​ឡើងលើ"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"ត្រីកោណ​ពណ៌​ក្រហម​​តូច​កំពូល​​ចុះ​ក្រោម"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"មុខ​នាឡិកា​ម៉ោង​មួយ"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"មុខ​នាឡិកា​ម៉ោង​ពីរ"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"មុខ​នាឡិកា​ម៉ោង​បី"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"មុខ​នាឡិកា​ម៉ោង​បួន"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"មុខ​នាឡិកា​ម៉ោង​​ប្រាំ"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"មុខ​នាឡិកា​ម៉ោង​ប្រាំមួយ"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"មុខ​នាឡិកា​ម៉ោង​ប្រាំពីរ"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"មុខ​នាឡិកា​ម៉ោង​ប្រាំបី"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"មុខ​នាឡិកា​ម៉ោង​ប្រាំ​បួន"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"មុខ​នាឡិកា​ម៉ោង​ដប់"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"មុខ​នាឡិកា​ម៉ោង​ដប់​មួយ"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"មុខ​នាឡិកា​ម៉ោង​ដប់​ពីរ"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"មុខ​នាឡិកា​ម៉ោង​មួយ​កន្លះ"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"មុខ​នាឡិកា​ម៉ោង​ពីរ​កន្លះ"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"មុខ​នាឡិកា​ម៉ោង​​បី​​កន្លះ"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"មុខ​នាឡិកា​ម៉ោង​​បួន​​កន្លះ"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"មុខ​នាឡិកា​ម៉ោង​ប្រាំ​កន្លះ"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"មុខ​នាឡិកា​ម៉ោង​​ប្រាំ​មួយ​កន្លះ"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"មុខ​នាឡិកា​ម៉ោង​ប្រាំ​ពីរ​កន្លះ"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"មុខ​នាឡិកា​ម៉ោង​​ប្រាំ​បី​កន្លះ"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"មុខ​នាឡិកា​ម៉ោង​​ប្រាំ​បួន​​​កន្លះ"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"មុខ​នាឡិកា​ម៉ោង​ដប់​កន្លះ"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"មុខ​នាឡិកា​ម៉ោង​ដប់​​មួយ​កន្លះ"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"មុខ​នាឡិកា​ម៉ោង​ដប់​ពីរ​​កន្លះ"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"ភ្នំ​ហ្វូជី"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"អគារ​ទី​ក្រុង​តូក្យូ"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"រូបសំណាក​​សេរីភាព"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"គំនូរ​ស្រមោល​​ជប៉ុន"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"ម៉ូយ៉ៃ"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"មុខ​ញញឹម​ខាំ​ធ្មេញ"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"មុខ​ញញឹម​ខាំ​ធ្មេញ​ជា​មួយ​ភ្នែក​បើក"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"មុខ​ទ​ទឹក​មាន​ភ្នែក​រីករាយ"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"មុខ​ញញឹម​បើក​មាត់"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"មុខ​ញញឹម​បើក​មាត់ និង​បើក​ភ្នែក"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"ញញឹម​មុខ​​បើក​មាត់ និង​ខ្វល់ខ្វាយ"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"ញញឹម​មុខ​​បើក​មាត់ និង​​បិទ​ភ្នែក​បន្តិច"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"មុខ​ញញឹម​មាន​រង្វង់​ខាង​លើ"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"មុខ​ញញឹម​​មាន​ស្នែង"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"មុខ​មិច​ភ្នែក"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"មុខ​ញញឹម​បើក​ភ្នែក"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"មុខ​បង្ហាញ​រសជាតិ​អាហារ​ឆ្ងាញ់"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"មុខ​​ធូរ​​ស្រាល"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"មុខ​ញញឹម​ជា​មួយ​ភ្នែក​រូប​បេះ​ដូង"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"មុខ​ញញឹម​ពាក់​វ៉ែនតា​ខ្មៅ"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"មុខ​ញញឹម​ចំអក"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"មុខ​​អព្យាក្រឹត"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"មុខ​គ្មាន​អារម្មណ៍"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"មុខ​អត់​សប្បាយ​ចិត្ត"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"មុខ​​​មាន​​ញើស"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"មុខគិត"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"មុខ​​យល់​ច្រឡំ"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"មុខ​​អាក្រក់"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"មុខ​ថើប"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"មុខ​បង្ហាញ​ការ​ថើប"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"មុខ​ថើប​បើក​ភ្នែក"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"មុខ​ថើប​បិទ​ភ្នែក"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"មុខ​លៀន​​អណ្ដាត"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"មុខ​លៀន​​អណ្ដាត ហើយ​មិច​ភ្នែក"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"មុខ​លៀន​អណ្ដាត ហើយ​​បិទ​ភ្នែក​បន្តិច"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"មុខ​ខកចិត្ត"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"មុខ​​ព្រួយ​បារម្ភ"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"មុខ​​ខឹង"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"មុខ​ក្និកក្នក់"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"មុខ​យំ"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"មុខ​លំបាក"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"មុខ​ជ័យ​ជំនះ"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"មុខ​ខកចិត្ត​ប៉ុន្តែ​ធូរស្រាល"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"មុខ​ក្រញូវ​បើកមាត់"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"មុខ​ខូច​ចិត្ត"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"មុខ​ភ័យ​ខ្លាច"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"មុខ​​នឿយហត់"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"មុខ​​ងងុយ​គេង"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"មុខ​អស់កម្លាំង​​"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"មុខ​ក្រញេវក្រញូវ​"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"មុខ​យំ​លឺៗ"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"មុខ​បើក​មាត់"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"មុខ​ស្ងៀមស្ងាត់"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"មុខ​បើក​មាត់​ ហើយ​មាន​ញើស"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"មុខ​ស្រែក​ដោយ​ភ័យ​ខ្លាច"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"មុខ​រ​ភ្ញាក់​ផ្អើល"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"មុខ​ក្រហម"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"មុខ​កំពុង​ដេក"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"មុខ​​កំពុង​វិលមុខ"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"មុខ​អត់មាន​មាត់"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"មុខ​ពាក់​ម៉ាស់"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"មុខ​ឆ្មា​ញញឹម​ខាំធ្មេញ​ ហើយ​បើក​ភ្នែក"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"មុខ​ឆ្មា​ស្រក​ទឹកភ្នែក"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"មុខ​ឆ្មា​ញញឹម​ ហើយ​បើក​មាត់"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"មុខ​ឆ្មា​ញញឹម​ជា​មួ​យ​ភ្នែក​រាង​បេះដូង"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"មុខ​ឆ្មា​ជា​មួយ​ការ​ញញឹម​ញាក់​មុខ"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"មុខ​ឆ្មា​ថើប​ហើយ​បិទ​ភ្នែក"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"មុខ​ឆ្មា​ក្និកក្នក់"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"មុខ​ឆ្មា​យំ"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"មុខ​ឆ្មា​នឿយ​ហត់"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"មុខ​គ្មាន​កាយវិការ​ល្អ"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"មុខ​មាន​កាយវិការ​យល់ព្រម"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"មនុស្ស​អោន​ខ្លួន​ខ្លាំង"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"ស្វា​បិទ​ភ្នែក"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"ស្វា​បិទ​ត្រចៀក"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"ស្វា​បិទ​មាត់"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"មនុស្ស​សប្បាយ​​លើក​ដៃ​មួយ"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"លើក​ដៃ​ទាំង​ពីរ​អបអរ"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"មនុស្ស​ចង​ចិញ្ចើម"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"មនុស្ស​មាន​មុខ​ក្និកក្នក់"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"មនុស្ស​អោប​ដៃ"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"គ្រាប់​​រ៉ុកកែត"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"ឧទ្ធម្ភាគចក្រ"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"ក្បាល​រថភ្លើង"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"ទូរ​​រថភ្លើង"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"រថភ្លើង​ល្បឿន​លឿន"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"រថភ្លើង​ល្បឿន​លឿន​​មាន​ច្រមុះ"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"រថភ្លើង​"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"មេត្រូ"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"រថភ្លើង​ប្រើ​​​ពន្លឺ"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"ស្ថានីយ"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"រថយន្ត​រត់​លើ​ផ្លូវ​ដែក"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"រថយន្ត​រត់​លើ​ផ្លូវ​ដែក"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"រថយន្តក្រុង"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"រថយន្ត​ក្រុង​ខាង​មុខ"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"រថយន្ត​ប្រើ​ចរន្ត​អគ្គិសនី"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"ចំណត​រថយន្ត​ក្រុង"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"រថយន្ត​ទេសចរណ៍​​​តូច"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"រថយន្ត​សង្គ្រោះ​បន្ទាន់"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"ម៉ាស៊ីន​ភ្លើង"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"រថយន្ត​ប៉ូលិស"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"រថយន្ត​ប៉ូលិស​ខាង​មុខ"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"តាក់ស៊ី"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"តាក់ស៊ី​ខាង​មុខ"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"រថយន្ត"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"រថយន្ត​ខាង​មុខ"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"រថយន្ត​​​សម្រាប់​កម្សាន្ត​"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"រថយន្ត​​ចែក​ចាយ"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"ឡាន​កាមីយ៉ុង"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"ត្រាក់ទ័រ"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"ប្រព័ន្ធ​ផ្លូវ​រថភ្លើង"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"ផ្លូវ​​រថភ្លើង​កាត់​​ភ្នំ"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"ផ្លូវ​រថភ្លើង​ផ្អាក​ដំណើរការ"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"ខ្សែ​កាប​ឆ្លង​ភ្នំុ"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"ផ្លូវ​រថភ្លើង​លើ​អាកាស"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"កប៉ាល់"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"ទូកចែវ"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"ទូក​ល្បឿន​លឿន"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"ភ្លើង​ចរាចរណ៍"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"ភ្លើង​ចរាចរណ៍​បញ្ឈរ"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"សញ្ញា​​សំណង់"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"រថយន្ត​​ប៉ូលិស​បើក​សារ៉ែន​វិល"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"បង្គោល​ទង់ជាតិ​រាង​ត្រីកោណ​"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"ទ្វារ"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"សញ្ញា​ហាម​ចូល"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"​សញ្ញា​ជក់​បារី"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"ហាម​ជក់​បារី"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"និមិត្តសញ្ញា​ដាក់​សំរាម​ក្នុង​ធុង"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"និមិត្តសញ្ញា​ហាម​ចោល​សំរាម"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"និមិត្ត​សញ្ញា​ទឹក​ចល័ត"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"និមិត្ត​សញ្ញា​​ទឹក​មិន​ចល័ត"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"កង់"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"ហាម​ជិះ​កង់"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"អ្នក​ជិះកង់"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"អ្នក​ជិះ​កង់​ឡើង​ភ្នំ"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"ថ្មើរជើង"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"មិន​សម្រាប់​ថ្មើរ​ជើង"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"កុមារ​​ឆ្លងកាត់"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"និមិត្ត​សញ្ញា​បុរស"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"និមិត្ត​សញ្ញា​ស្ត្រី"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"បន្ទប់ទឹក"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"និមិត្ត​សញ្ញា​ទារក"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"បង្គន់"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"បន្ទប់​ទឹក"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"ផ្កាឈូក​ងូត​ទឹក"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"​ងូតទឹក"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"អាង​​ងូត​ទឹក"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"ការ​ត្រួត​ពិនិត្យ​លិខិត​ឆ្លង​ដែន"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"គយ"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"ប្រកាស​​ឥវ៉ាន់"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"ឥវ៉ាន់​នៅ​សល់"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"សញ្ញា​ឧទាន​​ពីរ"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"សញ្ញា​​ឧទាន​សញ្ញា​សួរ​​"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"សញ្ញា​​​និក្ខិត្តសញ្ញា"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"ប្រភព​ព័ត៌មាន"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"ព្រួញ​ឆ្វេងស្ដាំ"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"ព្រួញ​ឡើង​លើ​ចុះក្រោម"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"ព្រួញ​ទិសពាយព្យ"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"ព្រួញ​​ទិស​ឥសាន្ត​ឦសាន្ត​"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"ព្រួញ​​ទិស​អាគ្នេយ៍"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"ព្រួញ​​ទិស​និរតី"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"ព្រួញ​ទៅ​ឆ្វេង​មាន​ទំពក់"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"ព្រួញ​ទៅ​​ស្ដាំ​មាន​ទំពក់"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"នាឡិកា​ដៃ"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"នាឡិកា​ពិសោធន៍"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"ត្រីកោណ​ខ្មៅ​ពីរ​ចង្អុល​ទៅ​ស្ដាំ"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"ត្រីកោណ​ខ្មៅ​ពីរ​ចង្អុល​ទៅ​ឆ្វេង"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"ត្រីកោណ​ខ្មៅ​ពីរ​ចង្អុល​​ឡើង​លើ"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"ត្រីកោណ​ខ្មៅ​ពីរ​ចង្អុល​​ចុះក្រោម"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"នាឡិកា​រោទ៍​"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"កែវ​ពិសោធន៍​មាន​ខ្សាច់ហូរ"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"អក្សរ​អឹម​ធំ​ក្នុង​រង្វង់"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"ការ៉េ​តូច​​ពណ៌ខ្មៅ"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"ការ៉េ​តូច​ពណ៌​ស"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"ត្រីកោណ​ចង្អុល​ស្ដាំ​ពណ៌​ខ្មៅ"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"ត្រីកោណ​ចង្អុល​​ឆ្វេង​ពណ៌​ខ្មៅ"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"ការ៉េ​មធ្យម​ពណ៌ស"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"ការ៉េ​មធ្យម​ពណ៌​​ខ្មៅ"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"ការ៉េ​តូច​មធ្យម​ពណ៌​ស"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"ការ៉េ​តូច​មធ្យម​ពណ៌​ខ្មៅ"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"ព្រះអាទិត្យ​ពណ៌​ខ្មៅ​​បញ្ចេញ​ពន្លឺ"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"ពពក"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"ទូរស័ព្ទ​ពណ៌​ខ្មៅ"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"ប្រអប់​មាន​សញ្ញា​ធីក"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"ឆត្រ​មាន​តំណក់​ទឹក​ភ្លៀង"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"ភេសជ្ជៈ​ក្ដៅ"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"ចង្អុល​ដៃ​ចង្អុល​ឡើង​ពណ៌ស"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"មុខ​ញញឹម​ពណ៌​ស"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"មេសៈរាសី"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"តៅរ៉ូស"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"ហ្គិមីនី"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"សញ្ញា​ទី៤​នៃ​រាសីចក្រ"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"លីអូ"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"សញ្ញា​រាសី"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"លីប្រា"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"រាសីវច្ចៈ"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"រាសី​ធ្នូ"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"រាសី​សេះ"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Aquarius"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"រាសី​អាប់អួ"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"ឈុត​ប៊ិច​ពណ៌​ខ្មៅ"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"ឈុត​​ជួង​ពណ៌​ខ្មៅ"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"ឈុត​​កឺ​ពណ៌ខ្មៅ"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"ឈុត​​ការ៉ូ​ពណ៌​ខ្មៅ"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Hot springs"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"និមិត្ត​សញ្ញា​ធុងសំរាម​សកល​ពណ៌​ខ្មៅ"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"និមិត្ត​សញ្ញា​រទេះ​រុញ"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"យុថ្កា"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"សញ្ញា​ព្រមាន"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"សញ្ញា​តង់ស្យុង​​ខ្ពស់"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"រង្វង់​ពណ៌ស​មធ្យម"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"រង្វង់​ពណ៌​ខ្មៅ​មធ្យម"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"បាល់​ទាត់"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"បាល់បោះ"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"អ្នកលេង​ព្រិល​ដោយ​គ្មាន​ព្រិល"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"ព្រះអាទិត្យ​នៅ​​ក្រោយ​ពពក"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"សញ្ញាអាព្យូឈូស"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"ហាមចូល"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"វិហារ​សាសនា"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"បាញ់​ទឹក"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"ទង់ជាតិ​​​ក្នុង​រន្ធ"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"ទូក​ក្ដោង"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"តង់"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"បូម​ប្រេង"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"កន្ត្រៃ​ពណ៌​ខ្មៅ"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"សញ្ញា​ធីក​ពណ៌​ស​ធំ"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"យន្តហោះ"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"ស្រោម​សំបុត្រ"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"លើក​កណ្ដាប់ដៃ"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"លើកដៃ"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"លើក​ដៃ​​ជ័យជម្នះ"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"ខ្មៅដៃ"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"ចុង​ខ្មៅ​ដៃ"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"សញ្ញា​ធីក​ដិត"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"សញ្ញា​គុណ​ដិត"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"បញ្ចេញ​ពន្លឺ"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"ផ្កាយ​ប្រាំ​បី​ជ្រុង"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"ផ្កាយ​ប្រាំ​បី​ជ្រុង​ដិត"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"ផ្កាព្រិល"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"បញ្ចេញ​ពន្លឺ"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"សញ្ញា​​ខ្វែង"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"សញ្ញា​ខ្វែង​ក្នុង​ប្រអប់"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"សញ្ញា​សួរ​ពណ៌​ខ្មៅ"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"សញ្ញា​សួរ​ពណ៌ស"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"សញ្ញា​ឧទាន​ពណ៌​ស"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"សញ្ញា​ឧទាន​ពណ៌ខ្មៅ​ដិត"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"បេះដូង​​​ពណ៌​ខ្មៅ"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"សញ្ញា​បូក​ដិត"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"សញ្ញា​ដក​​ដិត"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"សញ្ញា​​​ចែក​ដិត"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"ព្រួញ​ទៅ​ស្ដាំ​ពណ៌​ខ្មៅ"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"រង្វង់​​អង្កាញ់"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"រង្វង់​អង្កាញ់​ពីរ"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"ព្រួញ​ចង្អុល​ទៅ​ស្ដាំ​បន្ទាប់មក​បត់​ឡើង​លើ"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"ព្រួញ​ចង្អុល​ទៅ​ស្ដាំ​បន្ទាប់មក​បត់​ចុះ​ក្រោម"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"ព្រួញ​ពណ៌ខ្មៅ​ទៅ​ឆ្វេង"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"ព្រួញ​​ពណ៌​ខ្មៅ​ឡើង​លើ"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"ព្រួញ​ពណ៌​ខ្មៅ​​ចុះក្រោម"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"ប្រអប់​ការ៉េ​ធំ​ពណ៌​ខ្មៅ"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"ប្រអប់​ការ៉េ​ធំ​ពណ៌​ស"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"​ផ្កាយ​​មធ្យម​ពណ៌ស"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"រង្វង់​ធំ​​ដិត"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"សញ្ញា​​រលក​ដិត"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"សញ្ញាចាប់ផ្តើមចម្រៀង"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"សញ្ញាអបអរសាទរមូល"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"សញ្ញាសម្ងាត់មូល"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"មិន​ស្គាល់​សញ្ញា​អារម្មណ៍"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"មុខ​អផ្សុក"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"មុខ​ខ្មាស​​អៀន"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"មុខ​ថើប"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"មុខ​ចង​ចិញ្ចើម"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"មុខ​ភ្ញាក់ផ្អើល"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"ពាក់​វ៉ែនតា​"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"គ្មានការផ្តល់យោបល់ទេ"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"I ធំ"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"I ធំមានចំណុចពីលើ"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"គ្មាន​អត្ថបទ​​​បាន​បញ្ចូល"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"តួអក្សរ​ជំនួស​អាច​ប្រើ​បាន"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"ការ​ស្នើ​ជំនួស​អាច​ប្រើ​បាន"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"សញ្ញាឧទានបញ្ច្រាស"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"សញ្ញាសម្រង់ទ្វេចង្អុលមកឆ្វេង"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"ចំណុចកណ្តាល"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"ស្វ័យគុណមួយ"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"សញ្ញាសម្រង់ទ្វេចង្អុលមកស្តាំ"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"សញ្ញាសួរបញ្ច្រាស"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"សញ្ញាសម្រង់ទោលខាងឆ្វេង"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"សញ្ញាសម្រង់ទោលខាងស្តាំ"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"សញ្ញាសម្រង់ខាងក្រោមទោល"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"សញ្ញាសម្រង់ទ្វេខាងឆ្វេង"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"សញ្ញាសម្រង់ទ្វេខាងស្តាំ"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"ឈើឆ្កាង"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"ឈើឆ្កាងទ្វេ"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"សញ្ញាក្នុងមួយម៉ាយ៍"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"បន្តក់រង្វាស់"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"បន្តក់រង្វាស់ទ្វេ"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"សញ្ញាសម្រង់ទោលចង្អុលមកឆ្វេង"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"សញ្ញាសម្រង់ទោលចង្អុលមកស្តាំ"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"ស្វ័យគុណបួន"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"ស្វ័យគុណ n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"សញ្ញាប៉េសូ"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"សញ្ញា Care of"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"ព្រួញទៅស្តាំ"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"ព្រួញចុះក្រោម"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"សំណុំទទេ"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"បន្ថែម"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"តូចជាង ឬស្មើ"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"ធំជាង ឬស្មើ"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"ផ្កាយខ្មៅ"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"មិន​ស្គាល់​និមិត្តសញ្ញា"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"ដោត​កាស ដើម្បី​ស្ដាប់​ពាក្យ​សម្ងាត់​ដែល​និយាយ​​ឮ​ៗ។"</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"សញ្ញា​អារម្មណ៍"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"អង់គ្លេស (​អង់គ្លេស)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"អង់គ្លេស (សហរដ្ឋ​អាមេរិក)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"អេស្ប៉ាញ (សហរដ្ឋ​អាមេរិក​)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (បង្រួម)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (អក្សរ​ពេញ)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"Hinglish"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"ភាសា"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"គ្មាន​ភាសា (អក្សរ​ក្រម)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"តាម​លំដាប់​អក្សរក្រម (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"តាម​លំដាប់​អក្សរក្រម (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"តាម​លំដាប់​អក្សរក្រម (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"តាម​លំដាប់​អក្សរក្រម (កុំព្យូទ័រ)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"តាម​លំដាប់​អក្សរក្រម (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"តាម​លំដាប់​អក្សរក្រម (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"សើប (ឡាតាំង​)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"អង់គ្លេស (ចក្រភព​អង់គ្លេស) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"អង់គ្លេស (អាមេរិក) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"អេស្ប៉ាញ (អាមេរិក) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"Hinglish (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"សើប (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"ប្ដូរ​គណនី"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"ធ្វើសម្មកាលកម្មឥឡូវនេះ"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"ទាញ​យក៖ ការ​ស្នើ​សម្រាប់ <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> នឹង​រួចរាល់​ក្នុង​ពេល​ឆាប់ៗ​នេះ។"</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"ស្នើ​ឈ្មោះ​ទំនាក់ទំនង"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"ប្រើ​ឈ្មោះ​ពី​ទំនាក់ទំនង​សម្រាប់​ការ​​ស្នើ និង​​​កែ"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"កម្មវិធី​ពិនិត្យ​អក្ខរាវិរុទ្ធ​ប្រើ​ធាតុ​ពី​​ក្នុង​បញ្ជី​ទំនាក់ទំនង​របស់​អ្នក"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"រក​មើល​ឈ្មោះ​ទំនាក់ទំនង"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"រយៈ​ពេល​ចុច​ដកឃ្លា​ពីរដង"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"ប៉ះ​ដកឃ្លា​ពីរ​​ដង​បញ្ចូល​​​រយៈ​ពេល​ដែល​អនុវត្ត​តាម​ដកឃ្លា"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"ការ​ស្នើ​ផ្ទាល់​ខ្លួន"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"សិក្សាការភ្ជាប់របស់អ្នកនិងទិន្នន័យ​ដែលបានបញ្ចូលដើម្បីធ្វើសំណើ​ឲ្យល្អ"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"យល់ព្រម"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"ជម្រើស​តិច"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"ជម្រើស​ច្រើន"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"បន្ថែម​ទៅ​វចនានុក្រម"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"ភាសា៖"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"បន្ថែម"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"ឃ្លា"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"ផ្លូវកាត់​ជា​ជម្រើស"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"ផ្លូវកាត់​៖"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"វាយ​បញ្ចូល​ពាក្យ​"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"ពាក្យ៖"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"សម្រាប់​ភាសា​ទាំងអស់"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"លុប"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"កែ"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"លុប"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"កែ​ពាក្យ"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"អ្នក​មិន​មាន​ពាក្យ​ណាមួយ​នៅ​ក្នុង​វចនានុក្រម​អ្នក​ប្រើ​ទេ។ បន្ថែម​ពាក្យ​ដោយ​​​​ប៉ះ​ប៊ូតុង​ បន្ថែម ​ (+)។"</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"ភាសា​ច្រើន​ទៀត…"</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"វចនានុក្រម​​​អ្នក​ប្រើ"</string>
+    <string msgid="2715354215568469385" name="version_text">"កំណែ <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"ញ័រ​នៅ​ពេល​ចុច​គ្រាប់ចុច"</string>
+    <string msgid="3583258583521397548" name="voice_input">"គ្រាប់​ចុច​បញ្ចូល​​សំឡេង"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"គ្មាន​វិធីសាស្ត្រ​បញ្ចូល​សំឡេង​បាន​បើក។ ពិនិត្យ​មើល​ការ​កំណត់​ភាសា &amp; ការ​បញ្ចូល។"</string>
+</resources>

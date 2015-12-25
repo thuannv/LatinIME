@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g>மி.வி."</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"ரத்துசெய்"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"சரி"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"வெளியேறு"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"பயன்படுத்த, கணக்கைத் தேர்ந்தெடு"</string>
+    <string msgid="2846876462199625974" name="account_selected">"இப்போது <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>ஐப் பயன்படுத்துகிறீர்கள்"</string>
+    <string msgid="8299699805688017798" name="add">"சேர்"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"இந்த அம்சத்தை இயக்க, சாதனத்தில் Google கணக்கைச் சேர்க்கவும்"</string>
+    <string msgid="6163126614514489951" name="add_style">"நடையைச் சேர்"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Android Spell Checker Settings (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"விசைப்பலகை மறைக்கப்பட்டது"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"<ns1:g id="KEYBOARD_MODE">%s</ns1:g> விசைப்பலகையைக் காட்டுகிறது"</string>
+    <string msgid="6320102637491234792" name="app_name">"அகராதி வழங்கி"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"தன்னியக்க பேரெழுத்தாக்கல்"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"வரியின் முதல் எழுத்தை பேரெழுத்தாக்கும்"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"தன்னியக்க திருத்தம்"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"ஸ்பேஸ்பாரும், நிறுத்தற்குறிகளும் தவறாக உள்ளிடப்பட்ட வார்த்தைகளை தானாக திருத்தும்"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"தீவிரமாக"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"மிதமாக"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"முடக்கத்தில்"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"மிகத் தீவிரமாக"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"அடுத்த வார்த்தை பரிந்துரைகள்"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"பரிந்துரைகளை உருவாக்க முந்தைய வார்த்தைகளைப் பயன்படுத்தும்"</string>
+    <string msgid="3988017840431881491" name="button_default">"இயல்புநிலை"</string>
+    <string msgid="6830980399865683324" name="cancel">"ரத்துசெய்"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"ரத்துசெய்"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"அகராதி சேவையில் இணைப்பதில் பிரச்சனை ஏற்பட்டது"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"புதுப்பி"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"ஒத்திசைத்தத் தரவு மேகக்கணியிலிருந்து நீக்கப்படும். நிச்சயமாக நீக்கவா?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"நீக்கு"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Google இலிருந்து ஒத்திசைத்த தரவை நீக்கும்"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"மேகக்கணி தரவை நீக்கவும்"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"ரத்துசெய்"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"உங்கள் தனிப்பட்ட அகராதி ஒத்திசைக்கப்பட்டு, Google சேவையகங்களில் காப்புப் பிரதி எடுக்கப்படும். எங்கள் தயாரிப்புகளை மேம்படுத்த உதவ, சொல் உபயோகத்தின் புள்ளிவிவரத் தகவல் சேகரிக்கப்படலாம். எல்லா தகவல்களின் சேகரிப்பும், உபயோகமும் "<a href="https://www.google.com/policies/privacy">"Google இன் தனியுரிமைக் கொள்கைக்கு"</a>" இணங்கியபடியே இருக்கும்."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"ஒத்திசைவு இயக்கப்பட்டது"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"எல்லா சாதனங்களிலும் தனிப்பட்ட அகராதியை ஒத்திசைக்கவும்"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"வணிகத்திற்கான Google Apps கணக்குகள் இயங்கும் சாதனங்களில் ஒத்திசைக்க முடியாது."</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google விசைப்பலகை ஒத்திசைவு"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"துணை அகராதிகள்"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"உள்ளீட்டு முறைகளை உள்ளமைத்தல்"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"இதே உள்ளீட்டு நடை ஏற்கனவே உள்ளது: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"உங்கள் தனிப்பயன் உள்ளீட்டு நடையை பயன்படுத்த தொடங்கும் முன்பு, அதை இயக்க வேண்டும். அதை இப்போது இயக்க விரும்புகிறீர்களா?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"தனிப்பயன் உள்ளீட்டு நடைகள்"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"பயனர் அகராதி"</string>
+    <string msgid="756853268088330054" name="delete_dict">"நீக்கு"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"மதிப்பாய்வு செய்து பதிவிறக்க அழுத்தவும்"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> மொழிக்கு அகராதி கிடைக்கிறது"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"அகராதி கிடைக்கிறது"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"நிறுவப்பட்டது, முடக்கப்பட்டது"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"தற்போது பதிவிறக்குகிறது"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"அகராதி கிடைக்கிறது"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"நிறுவப்பட்டது"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"அகராதி வழங்கி"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"அகராதி சேவை"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"அகராதிகளுக்கான அமைப்பு"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"துணை அகராதிகள்"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"வைஃபை வழியாகப் பதிவிறக்கு"</string>
+    <string msgid="6014835283119198591" name="download_description">"அகராதியின் புதுப்பிப்பு தகவல்"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"இப்போது பதிவிறக்கு (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g>மெ.பை.)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"தனிப்பட்ட அகராதி"</string>
+    <string msgid="5031294444630523247" name="enable">"இயக்கு"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ஐ மேம்படுத்து"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"பிரிக்கப்பட்ட விசைப்பலகையை இயக்கு"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"உள்ளீட்டு விருப்பங்கள்"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android Keyboard (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Android Keyboard Settings (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"நிகழ்நேர மிதக்கும் மாதிரிக்காட்சி"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"சைகையிடும் போது பரிந்துரைக்கும் வார்த்தையைப் பார்க்கலாம்"</string>
+    <string msgid="826951152254563827" name="gesture_input">"சைகை உள்ளீட்டை இயக்கு"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"எழுத்துகள் வழியாக இழுப்பதன் மூலம் வார்த்தையை உள்ளிடலாம்"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"சைகை தடத்தைக் காட்டு"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"சொற்றொடர் சைகை"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"ஸ்பேஸ் விசைக்கு இழுப்பதன் மூலம் சைகைகளுக்கு இடையே இடைவெளிகளை உள்ளிடலாம்"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"அமைப்பு"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"அகராதி உள்ளது"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"உதவி &amp; கருத்து"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"சேமிக்க தொடவும்"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"சேமிக்க இங்கு தொடவும்"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"பிற உள்ளீட்டு முறைகளுக்கு மாறு"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"மொழி மாற்றல் விசை பிற உள்ளீட்டு முறைகளையும் கட்டுப்படுத்துகிறது"</string>
+    <string msgid="180852772562189365" name="install_dict">"நிறுவு"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"இயல்புநிலை"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"விசை பாப்அப் விலக்கின் தாமதம்"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"தாமதம் வேண்டாம்"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"விசைப்பலகை தீம்"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"தளவமைப்பு"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"தேதி"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"தேதி மற்றும் நேரம்"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"மின்னஞ்சல்"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"மெசேஜ்"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"எண்"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"ஃபோன்"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"உரை"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"நேரம்"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"விசைப்பலகை தீம்"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"முடிந்தது"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"செல்"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"அடுத்து"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"இடைநிறுத்து"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"முன்"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"தேடு"</string>
+    <string msgid="482252074224462163" name="label_send_key">"அனுப்பு"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"காத்திரு"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"மொழிகள்"</string>
+    <string msgid="730467549913588780" name="last_update">"இறுதியாகப் புதுப்பித்தது"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"முதன்மை அகராதி"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"முதன்மை அகராதி"</string>
+    <string msgid="5638680861387748936" name="message_loading">"ஏற்றுகிறது..."</string>
+    <string msgid="4457761393932375219" name="message_updating">"புதுப்பிப்புகளுக்காக சரிபார்கிறது"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"கணக்குகள் எதையும் தேர்வுசெய்யவில்லை"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"அகராதிகள் எதுவும் இல்லை"</string>
+    <string msgid="6172462888202790482" name="not_now">"இப்பொழுது வேண்டாம்"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"விழை அழுத்தத்தின்போது பாப்அப் செய்"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"வன்மொழியாக இருக்கும் சாத்தியமுள்ள சொற்களைப் பரிந்துரைக்க வேண்டாம்"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"வன்மொழி சொற்களைத் தடு"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"கைமுறை விசைப்பலகைக்கான ஈமோஜி"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"ஈமோஜி பலகத்தைக் காட்டும் கைமுறை Alt விசை"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"விசையின் நீண்ட அழுத்தத்தின் தாமதம்"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"விசையழுத்த ஒலியளவு"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"விசையழுத்த அதிர்வின் காலஅளவு"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"திருத்துதல் விருப்பங்களைக் காட்டு"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"உள்ளிடும்போது பரிந்துரைக்கப்பட்ட வார்த்தைகளைக் காட்டும்"</string>
+    <string msgid="4486081658752944606" name="remove">"அகற்று"</string>
+    <string msgid="7646738597196767214" name="save">"சேமி"</string>
+    <string msgid="5709487854987078367" name="select_language">"மொழிகள்"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"கணக்குகள் &amp; தனியுரிமை"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"மேம்பட்டவை"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"தோற்றம் &amp; தளவமைப்புகள்"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"உரை திருத்தம்"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"சைகைத் தட்டச்சு"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"விருப்பங்கள்"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"தீம்"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"அமைப்பின் இயல்புநிலை"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"முடிந்தது"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"அடுத்த கட்டம்"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"தொடங்குக"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"அமைப்புகளில் இயக்கு"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"உங்கள் மொழி &amp; உள்ளீட்டு அமைப்புகளில் <ns1:g id="APPLICATION_NAME">%s</ns1:g> பயன்பாடு ஏற்கனவே இயக்கப்பட்டுவிட்டது, அதனால் இந்தப் படிமுறை முடிந்தது. அடுத்த படிமுறைக்குச் செல்கிறது!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"உங்கள் மொழி &amp; உள்ளீட்டு அமைப்புகளில் \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" பயன்பாட்டைச் சரிபார்க்கவும். உங்கள் சாதனத்தில் பயன்பாட்டை இயக்குவதை இது அங்கீகரிக்கும்."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> பயன்பாட்டை இயக்கவும்"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"உள்ளீட்டு முறைகளை மாற்றவும்"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"அடுத்து, உங்கள் செயலில் உள்ள உரை உள்ளீட்டு முறையாக \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" பயன்பாட்டைத் தேர்ந்தெடுக்கவும்."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> க்கு மாறவும்"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"கூடுதல் மொழிகளை உள்ளமை"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> பயன்பாடு மூலம் உங்களுக்கு விருப்பமான எல்லா பயன்பாடுகளிலும் நீங்கள் உள்ளிடலாம்."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"வாழ்த்துகள், தயாராகிவிட்டீர்கள்!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> பயன்பாட்டை அமைக்கிறது"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"சைகை உள்ளீடு மூலம்"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> பயன்பாட்டிற்கு வரவேற்கிறோம்"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"உங்கள் மொபைலில் தேர்ந்தெடுத்த மொழிக்கு அகராதி உள்ளது.&lt;br/> உங்கள் உள்ளீட்டு அனுபவத்தை மேம்படுத்த <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> அகராதியைப்  &lt;b>பதிவிறக்குவதைப்&lt;/b> பரிந்துரைக்கிறோம்.&lt;br/> &lt;br/> 3G இல் பதிவிறக்கத்திற்கு ஒன்று அல்லது இரண்டு நிமிடங்கள் ஆகலாம். உங்களிடம் &lt;b>வரம்பில்லா தரவு திட்டம்&lt;/b> இல்லையெனில் கட்டணம் விதிக்கப்படலாம்.&lt;br/> உங்களிடம் எந்தத் தரவு திட்டம் உள்ளது என்பது உறுதியாகத் தெரியவில்லையெனில், பதிவிறக்கத்தைத் தானாகத் துவங்க, வைஃபை இணைப்பைக் கண்டறிவதைப் பரிந்துரைக்கிறோம்.&lt;br/> &lt;br/> உதவிக்குறிப்பு: உங்கள் மொபைல் சாதனத்தில் &lt;b>அமைப்பு&lt;/b> மெனுவில் உள்ள &lt;b>மொழி &amp; உள்ளீடு&lt;/b> என்பதற்குச் செலவதன் மூலம் அகராதிகளைப் பதிவிறக்கலாம் மற்றும் அகற்றலாம்."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"மொழி மாற்ற விசை"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"பல உள்ளீட்டு மொழிகள் இயக்கப்பட்டிருக்கும்போது காட்டு"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"பயன்பாட்டு ஐகானைக் காட்டு"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"துவக்கியில் பயன்பாட்டு ஐகானைக் காட்டும்"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"விசையழுத்தத்தின்போது ஒலியெழுப்பு"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Android Spell Checker (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"ஃபெமினைன் ஆர்டினல் இன்டிகேட்டர்"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"மைக்ரோ குறி"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"மாஸ்குலின் ஆர்டினல் இன்டிகேட்டர்"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"ஷார்ப் S"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A, கிரேவ்"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A, அக்யூட்"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A, வளைவு"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A, டில்டு"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A, டையாரேசிஸ்"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A, மேல் வளையம்"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"A, E, லிகஷர்"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C, செடில்லா"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E, கிரேவ்"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E, அக்யூட்"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E, வளைவு"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E, டையாரேசிஸ்"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I, கிரேவ்"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I, அக்யூட்"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I, வளைவு"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I, டையாரேசிஸ்"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"ஈத்"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N, டில்டு"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O, கிரேவ்"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O, அக்யூட்"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O, வளைவு"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O, டில்டு"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O, டையாரேசிஸ்"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O, ஸ்ட்ரோக்"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U, கிரேவ்"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U, அக்யூட்"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U, வளைவு"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U, டையாரேசிஸ்"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y, அக்யூட்"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"தோர்ன்"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y, டையாரேசிஸ்"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A, மேக்ரான்"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A, பிரீவ்"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A, ஒகோனெக்"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C, அக்யூட்"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C, வளைவு"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C, மேல் புள்ளி"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C, கேரன்"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D, கேரன்"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D, ஸ்ட்ரோக்"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E, மேக்ரான்"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E, பிரீவ்"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E, மேல் புள்ளி"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E, ஒகோனேக்"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E, கேரன்"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G, வளைவு"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G, பிரீவ்"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G, மேல் புள்ளி"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G, செடில்லா"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H, வளைவு"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H, ஸ்ட்ரோக்"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I, டில்டு"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I, மேக்ரான்"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I, பிரீவ்"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I, ஒகோனேக்"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"புள்ளியற்ற I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"I, J, லிகஷர்"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J, வளைவு"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K, செடில்லா"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"க்ரா"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L, அக்யூட்"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L, செடில்லா"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L, கேரன்"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L, நடுப் புள்ளி"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L, ஸ்ட்ரோக்"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N, அக்யூட்"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N, செடில்லா"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N, கேரன்"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N, தனிமேற்கோள் குறிக்கு அடுத்துவருவது"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"இங்க்"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O, மேக்ரான்"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O, பிரீவ்"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O, டபுள் அக்யூட்"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"O, E, லிகஷர்"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R, அக்யூட்"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R, செடில்லா"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R, கேரன்"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S, அக்யூட்"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S, வளைவு"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S, செடில்லா"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S, கேரன்"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T, செடில்லா"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T, கேரன்"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T, ஸ்ட்ரோக்"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U, டில்டு"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U, மேக்ரான்"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U, பிரீவ்"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U, மேல் வளையம்"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U, டபுள் அக்யூட்"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U, ஒகோனேக்"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W, வளைவு"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y, வளைவு"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z, அக்யூட்"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z, மேல் புள்ளி"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z, கேரன்"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"நீண்ட S"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O, ஹார்ன்"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U, ஹார்ன்"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S, கீழ் காற்புள்ளி"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T, கீழ் காற்புள்ளி"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"செச்சுவா"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A, கீழ் புள்ளி"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A, மேல் ஹூக்"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A, வளைவு மற்றும் அக்யூட்"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A, வளைவு மற்றும் கிரேவ்"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A, வளைவு மற்றும் மேல் ஹூக்"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A, வளைவு மற்றும் டில்டு"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A, வளைவு மற்றும் கீழ் புள்ளி"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A, பிரீவ் மற்றும் அக்யூட்"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A, பிரீவ் மற்றும் கிரேவ்"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A, பிரீவ் மற்றும் மேல் ஹூக்"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A, பிரீவ் மற்றும் டில்டு"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A, பிரீவ் மற்றும் கீழ் புள்ளி"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E, கீழ் புள்ளி"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E, மேல் ஹூக்"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E, டில்டு"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E, வளைவு மற்றும் அக்யூட்"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E, வளைவு மற்றும் கிரேவ்"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E, வளைவு மற்றும் மேல் ஹூக்"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E, வளைவு மற்றும் டில்டு"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E, வளைவு மற்றும் கீழ் புள்ளி"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I, மேல் ஹூக்"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I, கீழ் புள்ளி"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O, கீழ் புள்ளி"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O, மேல் ஹூக்"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O, வளைவு மற்றும் அக்யூட்"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O, வளைவு மற்றும் கிரேவ்"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O, வளைவு மற்றும் மேல் ஹூக்"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O, வளைவு மற்றும் டில்டு"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O, வளைவு மற்றும் கீழ் புள்ளி"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O, ஹார்ன் மற்றும் அக்யூட்"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O, ஹார்ன் மற்றும் கிரேவ்"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O, ஹார்ன் மற்றும் மேல் ஹூக்"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O, ஹார்ன் மற்றும் டில்டு"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O, ஹார்ன் மற்றும் கீழ் புள்ளி"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U, கீழ் புள்ளி"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U, மேல் ஹூக்"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U, ஹார்ன் மற்றும் அக்யூட்"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U, ஹார்ன் மற்றும் கிரேவ்"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U, ஹார்ன் மற்றும் மேல் ஹூக்"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U, ஹார்ன் மற்றும் டில்டு"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U, ஹார்ன் மற்றும் கீழ் புள்ளி"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y, கிரேவ்"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y, கீழ் புள்ளி"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y, மேல் ஹூக்"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y, டில்டு"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> இலிருந்து <ns1:g id="CORRECTED_WORD">%3$s</ns1:g> ஆக <ns1:g id="KEY_NAME">%1$s</ns1:g> திருத்துகிறது"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> தன்னியக்க திருத்தத்தைச் செயல்படுத்துகிறது"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"மாற்று எழுத்துக்குறிகள் நிராகரிக்கப்பட்டன"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"மாற்று பரிந்துரைகள் நிராகரிக்கப்பட்டன"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"நடப்பு உரை %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"அடுத்து"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"முந்தையது"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"ஷிஃப்டு"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"நீக்கு"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"புள்ளி"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"ஈமோஜி"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"மொழியை மாற்று"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"குரல் உள்ளீடு"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"எழுத்துகள் பயன்முறை"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"ஃபோன் பயன்முறை"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"ஃபோன் குறியீடுகள் பயன்முறை"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"குறியீடுகள் பயன்முறை"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"கூடுதல் குறியீடுகள் முறை"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"திரும்பு"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"தேடல்"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"அமைப்பு"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"ஷிஃப்டு"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"ஷிஃப்டு"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"பேரெழுத்தாக்கம் இயக்கப்பட்டது"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"ஷிப்டு இயக்கப்பட்டது"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"ஸ்பேஸ்"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"கூடுதல் குறியீடுகள்"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"குறியீடுகள்"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"டேப்"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"எழுத்துகள்"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"எண்கள்"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"சின்னங்கள்"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"அறியப்படாத எழுத்துக்குறி"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"பேரெழுத்து <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"எமோடிகான்ஸ்"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"இயற்கை"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"பொருட்கள்"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"நபர்கள்"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"இடங்கள்"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"சமீபத்தியவை"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"சின்னங்கள்"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"பதிப்புரிமைச் சின்னம்"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"பதிவுசெய்த சின்னம்"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"மஹ்ஜோங் டைலில் ரெட் டிராகன்"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"சீட்டு அட்டையில் கருப்பு ஜோக்கர்"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"இரத்த வகை A"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"இரத்த வகை B"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"இரத்த வகை O"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"பார்கிங் லாட்"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"இரத்த வகை AB"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"சதுரத்திற்குள் CL"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"சதுரத்திற்குள் cool"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"சதுரத்திற்குள் free"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"சதுரத்திற்குள் ID"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"சதுரத்திற்குள் new"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"சதுரத்திற்குள் N G"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"சதுரத்திற்குள் OK"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"சதுரத்திற்குள் SOS"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"சதுரத்திற்குள் up!"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"சதுரத்திற்குள் vs"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"சதுரத்திற்குள் கட்டகான கோகோ"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"சதுரத்திற்குள் கட்டகான சேவை"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"சதுரத்திற்குள் இலவச ஐடியோகிராஃப்"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"சதுரத்திற்குள் இடத்தைக் காட்டும் விரல் ஐடியோகிராஃப்"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"சதுரத்திற்குள் தடை ஐடியோகிராஃப்"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"சதுரத்திற்குள் காலியிடம் ஐடியோகிராஃப்"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"சதுரத்திற்குள் ஏற்றுக்கொள்ளல் ஐடியோகிராஃப்"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"சதுரத்திற்குள் முழுவதும் நிரம்பிய ஐடியோகிராஃப்"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"சதுரத்திற்குள் கட்டணம் செலுத்திய ஐடியோகிராஃப்"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"சதுரத்திற்குள் மாதந்திர ஐடியோகிராஃப்"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"சதுரத்திற்குள் விண்ணப்ப ஐடியோகிராஃப்"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"சதுரத்திற்குள் சலுகை ஐடியோகிராஃப்"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"சதுரத்திற்குள் வணிக ஐடியோகிராஃப்"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"வட்டத்திற்குள் நன்மைகள் ஐடியோகிராஃப்"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"வட்டத்திற்குள் ஐடியோகிராஃப் ஏற்றுக்கொள்ளல்"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"சூறாவளி"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"பனிமூட்டம்"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"மூடிய குடை"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"நட்சத்திரங்கள் சூழ்ந்த இரவு"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"மலைகளுக்கு இடையே சூரிய உதயம்"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"சூரிய உதயம்"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"அந்திப் பொழுதில் நகரமைப்பு"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"கட்டிடங்கள் மேல் சூரிய அஸ்தமனம்"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"வானவில்"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"இரவில் பாலம்"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"நீர் அலை"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"எரிமலை"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"பால்வெளி வீதி"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"உலக உருண்டையில் ஐரோப்பா ஆப்பிரிக்கா"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"உலக உருண்டையில் அமெரிக்கா"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"உலக உருண்டையில் ஆசியா ஆஸ்திரேலியா"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"தீர்க்க ரேகையுடன் உலக உருண்டை"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"அமாவாசை நிலவு"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"கால்பகுதி வளர்பிறை"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"அரைபாதி வளர்பிறை"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"முக்கால்பகுதி வளர்பிறை"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"முழு நிலவு"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"கால்பகுதி தேய்பிறை"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"அரைபாதி தேய்பிறை"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"முக்கால்பகுதி தேய்பிறை"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"பிறைவடிவம்"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"அமாவாசை நிலவு வடிவத்தில் முகம்"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"அரைபாதி வளர்பிறை வடிவத்தில் முகம்"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"அரைபாதி தேய்பிறை வடிவத்தில் முகம்"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"முழு நிலவு வடிவத்தில் முகம்"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"சூரியன் வடிவத்தில் முகம்"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"மின்னும் நட்சத்திரம்"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"வால்நட்சத்திரம்"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"பருப்பு வகையைச் சார்ந்த கொட்டை"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"நாற்று"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"பசுமையான மரம்"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"இலையுதிர் மரம்"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"பனைமரம்"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"சப்பாத்திக் கள்ளி"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"அல்லிப் பூ"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"செர்ரி மலர்"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"ரோஜா"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"செம்பருத்தி"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"சூரியகாந்தி"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"மலர்"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"தோலுரித்த மக்காச்சோளம்"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"நெற்பயிர்"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"மூலிகை"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"நான்கு இலை கொண்ட குளோவர்"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"மாப்பிள் இலை"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"மரத்திலிருந்து உதிர்ந்த இலை"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"காற்றில் அசைந்தாடும் இலை"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"காளான்"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"தக்காளி"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"கத்தரிக்காய்"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"திராட்சைகள்"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"முலாம்பழம்"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"தர்பூசணி"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"டேன்ஜெரின்"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"எலுமிச்சை"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"வாழைப் பழம்"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"அன்னாசிப்பழம்"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"சிவப்புநிற ஆப்பிள்"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"பச்சைநிற ஆப்பிள்"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"பேரி"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"பீச்சுப்பழம்"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"செர்ரி"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"ஸ்ட்ராபெரி"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"ஹம்பர்கர்"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"பீட்சாவின் ஒரு பகுதி"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"எலும்பைச் சுற்றிய இறைச்சி"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"கோழிக் கால்"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"அரிசி ரொட்டி"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"அரிசி பந்து"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"சமைத்த அரிசி"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"குழம்பும் சாதமும்"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"சூடான உணவுக் கிண்ணம்"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"பாஸ்தா"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"ரொட்டி"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"பிரெஞ்சு ஃபிரைஸ்"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"உருளைக்கிழங்கு வறுவல்"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"டாங்கோ"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"ஓடென்"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"சூஷி"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"இறால் வறுவல்"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"சுருள் வடிவ மீன் கேக்"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"வெண்ணிலா ஐஸ்கிரீம்"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"நுரைபொங்கும் ஐஸ்"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"ஐஸ்கிரீம்"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"டோனட்"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"குக்கீ"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"சாக்லேட் பார்"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"மிட்டாய்"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"லாலிபாப்"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"பாற்கூழ்"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"தேன் கிண்ணம்"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"சிறிய கேக்"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"உணவு பெட்டி"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"உணவு உள்ள கிண்ணம்"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"சமையல்"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"முட்கரண்டியும் கத்தியும்"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"கைப்பிடி இல்லாத தேநீர் கோப்பை"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"அரசி ஒயின் குடுவையும் கிண்ணமும்"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"ஒயின் டம்ளர்"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"மதுகலவை டம்ளர்"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"பழக்கலவைப் பானம்"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"பீர் குவளை"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"பீர் பொங்கும் குவளைகள்"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"குழந்தை பாட்டில்"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"ரிப்பன்"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"அழகாக மடித்த பரிசு"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"பிறந்த நாள் கேக்"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"சிரிக்கும் பூசணிக்காய் விளக்கு"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"கிறிஸ்துமஸ் மரம்"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"கிறிஸ்துமஸ் தாத்தா"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"வாணவேடிக்கைகள்"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"வானத்தில் வெடித்துசிதறும் பட்டாசு"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"பலூன்"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"விழாக்கால வண்ண வேடிக்கை"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"வண்ணக் காகிதங்களைத் தூவும் பந்து"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"தனபதா மரம்"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"குறுக்கே அமைந்த இரண்டு கொடிகள்"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"பைன் அலங்காரம்"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"ஜப்பான் பொம்மைகள்"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"மீன் வடிவ கொடிகள்"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"காற்றில் பறக்கும் மணி"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"முழுநிலவைக் கொண்டாடும் விழா"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"பள்ளிக்கூட பை"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"பட்டமளிப்புத் தொப்பி"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"கேராசூல் ஹார்ஸ்"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"பெர்ரிஸ் வீல்"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"ரோலர் கோஸ்டர்"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"மீன்பிடிக்கும் கருவியும் மீனும்"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"மைக்ரோஃபோன்"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"மூவி கேமரா"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"சினிமா"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"ஹெட்ஃபோன்"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"பெயிண்டிங் தட்டு"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"அரசு விழாக்களில் அணியப்படும் பிரிட்டிஷ் தொப்பி"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"சர்க்கஸ் கூடாரம்"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"டிக்கெட்"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"கிளாப்பர் பலகை"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"நிகழ் கலைகள்"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"வீடியோ கேம்"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"சரியான குறி"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"ஸ்லாட் இயந்திரம்"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"பில்லியர்ட்ஸ்"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"விளையாட்டுப் பகடை"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"பௌலிங்"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"அட்டைகள் விளையாட்டு"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"இசைக் குறிப்பு"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"பல இசைக் குறிப்புகள்"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"சாக்ஸோஃபோன்"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"கிட்டார்"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"இசை விசைப்பலகை"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"ட்ரம்பெட்"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"வயலின்"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"இசை ஸ்கோர்"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"ஓட்டப்பந்தய சட்டை"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"டென்னிஸ் மட்டை மற்றும் பந்து"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"பனிச்சறுக்கு பலகையும் கம்பும்"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"கூடைப்பந்து"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"சதுரங்க அமைப்பில் கொடி"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"பனிச்சறுக்குபவர்"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"ஓடுபவர்"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"அலையில் சாகசம் செய்பவர்"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"கோப்பை"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"குதிரைப் பந்தயம்"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"அமெரிக்க கால்பந்து"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"ரக்பி கால்பந்து"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"நீந்துபவர்"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"வீடு"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"தோட்டத்துடன் கூடிய வீடு"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"அலுவலகக் கட்டிடம்"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"ஜாப்பனீஸ் அஞ்சல் அலுவலகம்"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"ஐரோப்பிய அஞ்சல் அலுவலகம்"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"மருத்துவமனை"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"வங்கி"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"தன்னியக்கக் காசளிப்பு எந்திரம்"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"ஹோட்டல்"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"காதலர்களுக்கான ஹோட்டல்"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"24 மணிநேரக் கடை"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"பள்ளி"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"பல்பொருள் அங்காடி"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"ஆலை"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"சிவப்பு நிற விளக்கு"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"ஜாப்பனீஸ் கோட்டை"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"ஐரோப்பிய கோட்டை"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"எலி"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"மௌஸ்"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"எருது"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"நீர் எருமை"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"பசு"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"சிறுத்தை"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"முயல்"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"பூனை"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"டிராகன்"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"முதலை"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"திமிங்கலம்"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"நத்தை"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"பாம்பு"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"குதிரை"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"செம்மறிக் கிடா"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"ஆடு"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"செம்மறியாடு"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"குரங்கு"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"சேவல்"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"கோழி"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"நாய்"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"பன்றி"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"ஆண் பன்றி"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"யானை"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"ஆக்டோபஸ்"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"கடல் சங்கு"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"மூட்டைப் பூச்சி"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"எறும்பு"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"தேனீ"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"பெண் வண்டு"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"மீன்"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"மஞ்சளும் நீலமும் கலந்த மீன்"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"பலூன் மீன்"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"கடல் ஆமை"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"முட்டை ஓட்டிலிருந்து வெளிவரும் குஞ்சு"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"கோழிக்குஞ்சு"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"உற்றுப் பார்க்கும் கோழிக்குஞ்சு"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"பறவை"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"பென்குயின்"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"கோலா"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"பூடில்"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"ஒற்றை திமில் கொண்ட ஒட்டகம்"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"இரண்டு திமில்கள் கொண்ட ஆசிய ஒட்டகம்"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"டால்பின்"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"எலி முகம்"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"பசு முகம்"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"புலி முகம்"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"முயல் முகம்"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"பூனை முகம்"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"டிராகன் முகம்"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"நீரில் விளையாடும் திமிங்கிலம்"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"குதிரை முகம்"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"குரங்கு முகம்"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"நாய் முகம்"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"பன்றி முகம்"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"தவளை முகம்"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"வெள்ளெலி முகம்"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"ஓநாய் முகம்"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"கரடி முகம்"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"பாண்டாகரடி முகம்"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"பன்றி மூக்கு"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"கால் தடங்கள்"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"கண்கள்"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"காது"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"மூக்கு"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"வாய்"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"நாக்கு"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"வெள்ளை நிறத்தில் விரலை மேல்நோக்கிக் காட்டுதல்"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"வெள்ளை நிறத்தில் விரலை கீழ்நோக்கிக் காட்டுதல்"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"வெள்ளை நிறத்தில் விரலை இடப்பக்கம் நோக்கிக் காட்டுதல்"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"வெள்ளை நிறத்தில் விரலை வலப்பக்கம் நோக்கிக் காட்டுதல்"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"கைமடக்கி குத்துதல்"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"கை அசைத்தல்"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"அருமை என்பதைக் குறிக்கும் கை சின்னம்"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"கட்டை விரலை உயர்த்துதல்"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"கட்டை விரலைத் தாழ்த்துதல்"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"கைதட்டல்"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"கைகளை விரித்தல்"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"கிரீடம்"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"பெண்கள் அணியும் தொப்பி"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"கண்கண்ணாடிகள்"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"டை"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"டி-சர்ட்"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"ஜீன்ஸ்"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"ஆடை"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"கிமோனோ"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"நீச்சலுடை"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"பெண்கள் ஆடைகள்"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"பணப்பை"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"கைப்பை"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"சிறு பை"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"ஆண்கள் ஷூ"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"தடகள வீரருக்கான ஷூக்கள்"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"ஹை ஹீல் செருப்பு"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"பெண்கள் செருப்பு"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"பெண்கள் ஷூக்கள்"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"கால் தடங்கள்"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"மார்பளவு வரை நிழல்"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"மார்பளவு வரை நிழல்கள்"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"சிறுவன்"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"இளம் பெண்"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"ஆண்"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"பெண்"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"குடும்பம்"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"கைகோர்த்த ஆண்களும் பெண்களும்"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"கைகோர்த்த இரண்டு ஆண்கள்"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"கைகோர்த்த இரண்டு பெண்கள்"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"போலீஸ் அதிகாரி"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"முயல் காதுகளுடன் பெண்கள்"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"முக்காடு அணிந்த மணமகள்"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"பொன் நிறத்தில் முடி கொண்டவர்"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"ஒட்டுத்தொப்பியுடன் கூடிய ஆண்"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"தலைப்பாகை அணிந்தவர்"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"வயதானவர்"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"வயதான பெண்மணி"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"பேபி"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"கட்டுமான தொழிலாளி"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"இளவரசி"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"ஜாப்பனீஸ் பயமுறுத்தும் முகம்"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"ஜாப்பனீஸ் பூதம்"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"பேய்"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"குட்டித் தேவதை"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"வேற்று கிரகவாசி"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"ஏலியன் மான்ஸ்டர்"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"வருத்தத்துடன் இருக்கும் பேய்"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"மண்டை ஓடு"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"வழிகாட்டுபவர்"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"பாதுகாவலர்"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"டான்சர்"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"லிப்ஸ்டிக்"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"நெயில்பாலிஷ்"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"முக மசாஜ்"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"முடித்திருத்தம்"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"பார்பர் ஃபோல்"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"மருந்தூசி"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"மாத்திரை"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"முத்தம்"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"காதல் கடிதம்"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"மோதிரம்"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"மாணிக்கக் கல்"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"கிஸ்"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"மலர்க்கொத்து"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"காதலில் திளைக்கும் ஜோடி"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"திருமணம்"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"துடிக்கும் இதயம்"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"உடைந்த இதயம்"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"இரண்டு இதயங்கள்"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"ஜொலிக்கும் இதயம்"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"விரிவடையும் இதயம்"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"அம்புடன் இதயம்"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"நீலநிற இதயம்"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"பச்சைநிற இதயம்"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"மஞ்சள்நிற இதயம்"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"பர்பிள்நிற இதயம்"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"ரிப்பன் கட்டிய இதயம்"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"சுற்றும் இதயங்கள்"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"அலங்கார இதயம்"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"நடுவில் புள்ளியுடன் கூடிய வைர வடிவம்"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"மின்சார ஒளி விளக்கு"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"ஆங்கர் சின்னம்"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"வெடிகுண்டு"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"தூங்கும் சின்னம்"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"வெடித்தல்"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"வியர்வைக் கொட்டும் சின்னம்"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"நீர் விழுதல்"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"காற்றடிக்கும் சின்னம்"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"பைல் ஆஃப் ஃபு"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"மடக்கிய கை"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"தலைச்சுற்றல்"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"பேச்சு வடிவ பலூன்"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"சிந்தனை கொண்ட பலூன்"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"வெள்ளைநிறப் பூ"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"நூறு மதிப்பெண்கள்"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"பணப்பை"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"நாணயப் பரிமாற்றம்"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"பெரிய டாலர் குறியீடு"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"கிரெடிட் கார்டு"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"யென் குறியீடுடன் கூடிய வங்கிநோட்டு"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"டாலர் குறியீடுடன் கூடிய வங்கிநோட்டு"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"யூரோ குறியீடுடன் கூடிய வங்கிநோட்டு"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"பவுண்டு குறியீடுடன் கூடிய வங்கிநோட்டு"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"இறக்கைகள் உள்ள பணம்"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"யென் குறியீட்டுடன் மேல்நோக்கிய போக்கைக் கொண்ட விளக்கப்படம்"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"இருக்கை"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"தனிப்பட்ட கணினி"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"குறும்பெட்டி"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"குறு வட்டு"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"நெகிழ் வட்டு"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"ஆப்டிகல் வட்டு"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"டிவிடி"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"கோப்புறை"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"கோப்பின் திறந்த கோப்புறை"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"கீழே சுருட்டிய பக்கம்"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"மேலே லேசாக மடித்த பக்கம்"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"கேலெண்டர்"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"கிழிக்கும் வகையிலான கேலெண்டர்"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"கார்டில் அட்டவணை"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"மேல்நோக்கிய போக்கைக் கொண்ட விளக்கப்படம்"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"கீழ்நோக்கிய போக்கைக் கொண்ட விளக்கப்படம்"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"பார் விளக்கப்படம்"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"கிளிப்போர்டு"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"பின்"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"வட்ட வடிவ பின்"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"பேப்பர் கிளிப்"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"நேர் ரூலர்"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"முக்கோண ரூலர்"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"புத்தகக்குறி தாவல்கள்"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"லெட்ஜர்"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"நோட்புக்"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"அலங்கார கவர் நோட்புக்"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"மூடிய புத்தகம்"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"திறந்த புத்தகம்"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"பச்சைநிற கவர் புத்தகம்"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"நீலநிற கவர் புத்தகம்"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"ஆரஞ்சுநிற கவர் புத்தகம்"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"புத்தகங்கள்"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"பெயர் பேட்ஜ்"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"உருட்டு"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"மெமோ"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"ஃபோன் ரிசீவர்"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"பேஜர்"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"தொலைநகல் இயந்திரம்"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"சேட்டிலைட் ஆன்டெனா"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"பொது ஒலிபெருக்கி"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"அதிக சத்தம் கொடுக்கும் மெகாஃபோன்"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"அவுட்பாக்ஸ் தட்டு"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"இன்பாக்ஸ் தட்டு"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"பரிசு"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"மின்னஞ்சல் சின்னம்"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"உள்வரும் கடித உறை"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"கடித உறைக்கும் மேலே கீழ்நோக்கிய அம்புக்குறி"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"கீழே ஃபிளாக் உடன் கூடிய மூடப்பட்ட அஞ்சல் பெட்டி"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"மேலே ஃபிளாக் உடன் கூடிய மூடப்பட்ட அஞ்சல் பெட்டி"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"மேலே ஃபிளாக் உடன் கூடிய திறந்த அஞ்சல் பெட்டி"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"கீழே ஃபிளாக் உடன் கூடிய திறந்த அஞ்சல் பெட்டி"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"தபால் பெட்டி"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"தபால் ஹார்ன்"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"செய்தித்தாள்"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"மொபைல்"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"இடப் பக்கத்தில் வலப் புறம் நோக்கிய மொபைல்"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"அதிர்வு முறை"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"மொபைல் ஆஃப்"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"மொபைல் பயன்படுத்தக்கூடாது"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"கோடுகளுடன் ஆன்டெனா"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"கேமரா"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"வீடியோ கேமரா"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"தொலைக்காட்சி"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"ரேடியோ"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"வீடியோ கேசட்"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"பிணைந்த வலப்புறம் நோக்கிய அம்புகள்"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"கடிகாரத்திசையில் வலம் மற்றும் இடப் புறம் நோக்கிய திறந்த வட்ட அம்புகள்"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"கடிகாரத்திசையில் வட்டத்திற்குள் ஒன்று என எழுதப்பட்டதுடன் வலம் மற்றும் இடப் புறம் நோக்கிய திறந்த வட்ட அம்புகள்"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"கடிகாரத்திசையில் கீழ் மற்றும் மேல் நோக்கிய திறந்த வட்ட அம்புகள்"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"எதிர்கடிகாரத்திசையில் கீழ் மற்றும் மேல் நோக்கிய திறந்த வட்ட அம்புகள்"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"ஒளிர்வு குறைவு சின்னம்"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"ஒளிர்வு அதிகம் சின்னம்"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"ரத்து என்னும் ஸ்ட்ரோக்குடன் ஸ்பீக்கர்"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"ஸ்பீக்கர்"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"ஒற்றை ஒலி அலையுடன் ஸ்பீக்கர்"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"மூன்று ஒலி அலைகளுடன் ஸ்பீக்கர்"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"பேட்டரி"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"மின்செருகி"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"இடது பக்கத்திலிருக்கும் உருப்பெருக்கி கண்ணாடி"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"வலது பக்கத்திலிருக்கும் உருப்பெருக்கி கண்ணாடி"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"மை பேனா மூலம் பூட்டுதல்"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"பூட்டிய பூட்டும் சாவியும்"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"சாவி"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"பூட்டு"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"திறந்த பூட்டு"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"மணி"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"ரத்து என்னும் ஸ்ட்ரோக்குடன் மணி"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"புக்மார்க்"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"இணைப்பு சின்னம்"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"ரேடியோ பட்டன்"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"மேலே பின்நோக்கிய இடப்புற அம்பு"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"End என்பதற்கு மேலே இடப்புறம் நோக்கிய அம்பு"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"On க்கு அடுத்து ஆச்சர்யக்குறியுடன், மேலே இடப்புற அம்பு"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Soon க்கு மேலே வலப்புறம் நோக்கிய அம்பு"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Top க்கு மேலே, மேல்நோக்கிய அம்பு"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"18 வயதுக்குட்பட்டவர்களுக்கு அனுமதி இல்லை"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"பெரிய எழுத்தில் பத்து"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"இலத்தீன் பெரிய எழுத்துகளுக்கான உள்ளீட்டு சின்னம்"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"இலத்தீன் சிறிய எழுத்துகளுக்கான உள்ளீட்டு சின்னம்"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"எண்களுக்கான உள்ளீட்டு சின்னம்"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"சின்னங்களுக்கான உள்ளீட்டுச் சின்னம்"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"இலத்தீன் எழுத்துகளுக்கான உள்ளீட்டு சின்னம்"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"நெருப்பு"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"டார்ச்"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"குறடு"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"சுத்தி"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"திருகும் அச்சாணியும்"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"கத்தி"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"துப்பாக்கி"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"நுண்பெருக்கி"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"தொலைநோக்கி"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"கண்ணாடி பந்து"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"ஒற்றைப் புள்ளியுடன் ஆறு பாகம் கொண்ட நட்சத்திரம்"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"தொடக்கத்திற்கான ஜாப்பனீஸ் சின்னம்"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"திரிசூல சின்னம்"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"கருப்பு சதுர பட்டன்"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"வெள்ளை சதுர பட்டன்"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"பெரிய சிவப்பு வட்டம்"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"பெரிய நீல வட்டம்"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"பெரிய ஆரஞ்சுநிற வைரம்"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"பெரிய நீலநிற வைரம்"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"சிறிய ஆரஞ்சுநிற வைரம்"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"சிறிய நீலநிற வைரம்"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"மேல்நோக்கிய சிவப்பு முக்கோணம்"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"கீழ்நோக்கிய சிவப்பு முக்கோணம்"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"மேல்நோக்கிய சிறிய சிவப்பு முக்கோணம்"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"கீழ்நோக்கிய சிறிய சிவப்பு முக்கோணம்"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"ஒரு மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"இரண்டு மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"மூன்று மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"நான்கு மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"ஐந்து மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"ஆறு மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"ஏழு மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"எட்டு மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"ஒன்பது மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"பத்து மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"பதினொரு மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"பன்னிரண்டு மணியைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"ஒரு மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"இரண்டு மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"மூன்று மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"நான்கு மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"ஐந்து மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"ஆறு மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"ஏழு மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"எட்டு மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"ஒன்பது மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"பத்து மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"பதினொரு மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"பன்னிரண்டு மணி, 30 நிமிடத்தைக் காட்டும் கடிகாரம்"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"ஃபுஜி மலை"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"டோக்கியோ கோபுரம்"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"சுதந்திரத் தேவி சிலை"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"ஜப்பான் வரைபடத்தின் நிழல்"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"மொயாய்"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"புன்னகைக்கும் முகம்"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"சிரித்த கண்களுடன் புன்னகைக்கும் முகம்"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"ஆனந்தக் கண்ணீருடன் முகம்"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"திறந்த வாயுடன் சிரிக்கும் முகம்"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"திறந்த வாய்ப் புன்னகை, புன்னகைக்கும் கண்களுடன் முகம்"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"திறந்த வாய்ப் புன்னகையும் குளிர்ந்த வியர்வையும் உள்ள முகம்"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"திறந்த வாய்ப் புன்னகை, இறுக்கமாக மூடப்பட்ட கண்களுடன் முகம்"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"ஒளிவட்டத்துடன் சிரித்த முகம்"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"கொம்புகளுடன் சிரித்த முகம்"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"கண்ணடிக்கும் முகம்"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"சிரித்த கண்களுடன் சிரித்த முகம்"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"ருசியான உணவு சுவைக்கும் முகம்"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"நிம்மதி முகம்"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"இதய வடிவிலான கண்களுடன் சிரித்த முகம்"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"சூரியக்கண்ணாடிகள் அணிந்த சிரித்த முகம்"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"பகட்டாகச் சிரிக்கும் முகம்"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"வாயை நேராக இறுக்கமாக மூடிய முகம்"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"உணர்ச்சியற்ற முகம்"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"அதிருப்தியுடன் கூடிய முகம்"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"வியர்வைச் சொட்டும் முகம்"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"வருத்தமான முகம்"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"குழப்பமான முகம்"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"கண்களை மூடிக்கொண்டு அழும் முகம்"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"முத்தமிடும் முகம்"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"பறக்கும் முத்தம்"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"சிரித்த கண்களுடன் முத்தமிடும் முகம்"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"மூடிய கண்களுடன் முத்தமிடும் முகம்"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"நாக்கை வெளித்தள்ளிய முகம்"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"நாக்கை வெளித்தள்ளியதுடன் கண் சிமிட்டும் முகம்"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"நாக்கை வெளித்தள்ளி இறுக்கமாக மூடப்பட்ட கண்களுடன் முகம்"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"ஏமாற்றமடைந்த முகம்"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"கவலைதோய்ந்த முகம்"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"கோபமான முகம்"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"மஞ்சள்நிற கோப முகம்"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"அழும் முகம்"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"உதவியில்லாமல் இருப்பதை வெளிப்படுத்தும் முகம்"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"பெரும் மூச்சு விடும் முகம்"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"வியர்வை சொட்டும் சோக முகம்"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"கண்களும் வாயும் திறந்த நிலையில் இருக்கும் முகம்"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"கலங்கின முகம்"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"பயந்த முகம்"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"பயந்து அழும் முகம்"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"தூங்கும் முகம்"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"சோர்வான முகம்"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"பற்களைக் கடிக்கும் முகம்"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"சத்தமாக அழும் முகம்"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"திறந்த வாயுடன் முகம்"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"ஆச்சரியத்தை வெளிப்படுத்தும் முகம்"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"திறந்த வாயுடன், வியர்வைச் சொட்டும் முகம்"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"இரண்டு கைகளைக் கன்னத்தில் வைத்து கத்தும் முகம்"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"அதிர்ச்சியடைந்த முகம்"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"சிவந்த கன்னங்களுடன் அதிர்ச்சியடைந்த முகம்"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"தூங்கும் முகம்"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"தலைச்சுற்றும் முகம்"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"வாய் இல்லாத முகம்"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"மருத்துவ முகமூடி அணிந்த முகம்"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"சிரிக்கும் கண்களுடன் புன்னகைக்கும் பூனை முகம்"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"ஆனந்த கண்ணீருடன் பூனை முகம்"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"திறந்த வாய் கொண்ட சிரித்த முகத்துடன் பூனை"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"இதய வடிவிலான கண்களுடன் கூடிய சிரித்த முகப் பூனை"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"பகட்டு புன்னகையுடன் பூனை முகம்"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"மூடிய கண்களுடன் முத்தமிடும் பூனை முகம்"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"எரிச்சலான பூனை முகம்"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"அழும் பூனை முகம்"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"பயந்த பூனை முகம்"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"நல்ல பாவனை இல்லாத முகம்"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"சரி சொல்லும் பாவனையுடன் முகம்"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"மிகப் பணிவானவர்"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"தீயதைப் பார்க்காத குரங்கு"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"தீயதைக் கேட்காத குரங்கு"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"தீயதைப் பேசாத குரங்கு"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"மகிழ்ச்சியில் ஒரு கையை உயர்த்துபவர்"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"விழாவில் இரு கைகளையும் மேலே உயர்த்துதல்"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"வருத்தமாக இருப்பவர்"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"மஞ்சள்நிறத்தில் கோபமான முகம் கொண்டவர்"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"கைகளை மடக்கியவர்"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"ராக்கெட்"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"ஹெலிகாப்டர்"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"நீராவி ரயில்"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"ரயில்வே கார்"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"அதிவேக ரயில்"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"புல்லட் மூக்குடன் கூடிய அதிவேக ரயில்"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"ரயில்"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"மெட்ரோ"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"ஒளியுடன் கூடிய ரயில்"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"நிலையம்"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"டிராம்"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"டிராம் கார்"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"பேருந்து"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"வந்துகொண்டிருக்கும் பேருந்து"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"நகர்வூந்து"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"பேருந்து நிறுத்தும்"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"மினிபஸ்"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"ஆம்புலன்ஸ்"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"தீ வண்டி"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"போலீஸ் கார்"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"வந்துகொண்டிருக்கும் போலீஸ் கார்"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"டாக்ஸி"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"வந்துகொண்டிருக்கும் டாக்ஸி"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"வாகனம்"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"வந்துகொண்டிருக்கும் வாகனம்"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"கேளிக்கை வாகனம்"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"டெலிவரி வண்டி"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"கனரக லாரி"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"டிராக்டர்"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"மோனோரயில்"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"மலைப் பாதை ரயில்"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"சஸ்பென்ஸன் ரயில்பாதை"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"மலை கேபிள்வழி"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"ஏரியல் டிராம் வழி"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"கப்பல்"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"துடுப்பு படகு"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"விரைவுபடகு"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"கிடைமட்ட ட்ராஃபிக் விளக்கு"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"செங்குத்து ட்ராஃபிக் விளக்கு"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"கட்டுமான சின்னம்"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"போலீஸ் கார்களில் சுழலும் விளக்கு"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"கம்பத்தில் முக்கோண கொடி"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"கதவு"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"அனுமதி இல்லை சின்னம்"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"புகைச் சின்னம்"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"புகைபிடிக்கக்கூடாது சின்னம்"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"குப்பையை அதன் இடத்தில் போடும் சின்னம்"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"குப்பையைப் போடக்கூடாது சின்னம்"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"கிண்ணத்தில் குடிநீர் சின்னம்"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"குடிப்பதற்கான தண்ணீர் அல்ல"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"சைக்கிள்"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"சைக்கிளுக்கு அனுமதி இல்லை"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"சைக்கிள் ஓட்டுபவர்கள்"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"மலையில் சைக்கிள் ஓட்டுபவர்கள்"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"பாதசாரிகள்"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"பாதசாரிகளுக்கு அனுமதி இல்லை"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"குழந்தைகள் கடக்கும் வழி"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"ஆண்கள் சின்னம்"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"பெண்கள் சின்னம்"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"கழிவறை"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"குழந்தை சின்னம்"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"கழிப்பிடம்"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"வாட்டர் குளோசட்"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"பொழிவு"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"குளிப்பது"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"குளிக்கும் தொட்டி"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"பாஸ்போர்ட் கட்டுப்பாடு"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"சுங்கம்"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"உடைமை கோருமிடம்"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"உடைமை விடுமிடம்"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"இரட்டை ஆச்சரியக்குறி"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"வியப்புக் கேள்வி குறி"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"வர்த்தக முத்திரை சின்னம்"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"தகவல் மூலம்"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"இடது-வலது அம்புக்குறி"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"மேல்-கீழ் அம்புக்குறி"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"வடமேற்கு அம்புக்குறி"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"வட-கிழக்கு அம்புக்குறி"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"தென்-கிழக்கு அம்புக்குறி"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"தென்-மேற்கு அம்புக்குறி"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"தூண்டிலுடன் இடப்புறம் நோக்கிய அம்புக்குறி"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"தூண்டிலுடன் வலப்புறம் நோக்கிய அம்புக்குறி"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"வாட்ச்"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"மணற்கடிகாரம்"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"வலப்பக்கத்தைச் சுட்டிக்காட்டும் இரட்டை முக்கோணம்"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"இடப்பக்கத்தைச் சுட்டிக்காட்டும் இரட்டை முக்கோணம்"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"மேலே சுட்டிக்காட்டும் இரட்டை முக்கோணம்"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"கீழே சுட்டிக்காட்டும் இரட்டை முக்கோணம்"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"அலார கடிகாரம்"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"சரியும் மணலுடன் மணற்கடிகாரம்"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"வட்டத்திற்குள் பெரிய இலத்தீன் எழுத்து m"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"சிறிய கருப்பு சதுரம்"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"சிறிய வெள்ளைச் சதுரம்"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"வலப்பக்கத்தைச் சுட்டிக்காட்டும் முக்கோணம்"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"இடப்பக்கத்தைச் சுட்டிக்காட்டும் முக்கோணம்"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"நடுத்தர வெள்ளை சதுரம்"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"மிதமான கருப்பு சதுரம்"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"மிதமான வெள்ளைநிறத்தில் சிறிய சதுரம்"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"மிதமான கருப்புநிறத்தில் சிறிய சதுரம்"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"கதிர்களுடன் கூடிய சூரியன்"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"மேகம்"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"கருப்பு தொலைபேசி"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"டிக் செய்யப்பட்ட தேர்வுபெட்டி"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"மழைத்துளிகளுடன் குடை"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"சூடான பானம்"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"வெள்ளை நிறத்தில் விரலை மேல்நோக்கிக் காட்டு"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"கள்ளங்கபடமற்ற சிரித்த முகம்"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"மேஷம்"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"ரிஷபம்"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"மிதுனம்"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"கடகம்"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"சிம்மம்"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"கன்னி"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"துலாம்"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"விருச்சிகம்"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"தனுசு"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"மகரம்"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"கும்பம்"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"மீனம்"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"கருப்புநிற ஸ்பேட்"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"கருப்புநிற கிளப்"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"கருப்புநிற இதயம்"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"கருப்புநிற வைரம்"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"ஆவிபறக்கும் பானம்"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"மறுசுழற்சி சின்னம்"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"சக்கர நாற்காலி சின்னம்"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"நங்கூரம்"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"எச்சரிக்கை அறிகுறி"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"உயர் மின்னழுத்த சின்னம்"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"நடுத்தர வெள்ளை வட்டம்"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"நடுத்தர கருப்பு வட்டம்"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"கால்பந்து"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"பேஸ்பால்"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"பனிமனிதன்"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"மேகத்தின் பின்னால் மறைந்திருக்கும் சூரியன்"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"ஓஃபியாகெஸ்"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"அனுமதி இல்லை"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"தேவாலயம்"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"நீரூற்று"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"துளையில் கொடி"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"உலாப் படகு"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"கூடாரம்"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"எரிபொருள் குழாய்"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"கருப்பு கத்தரிக்கோல்"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"அடர்வெள்ளை நிற டிக் சின்னம்"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"விமானம்"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"கடிதஉறை"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"கைவிரலை மடக்குதல்"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"கைகளைக் காட்டுதல்"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"வெற்றி சின்னம்"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"பென்சில்"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"எழுதுமுனை"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"அடர்கருப்பில் டிக் சின்னம்"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"அடர்ந்த பெருக்கல் குறி"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"ஒளிரும் நட்சத்திரம்"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"எட்டு முனை நட்சத்திரம்"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"எட்டு முனை கருப்பு நட்சத்திரம்"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"ஸ்னோஃபிளாக்"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"ஸ்பார்க்கல்"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"பெருக்கல் குறி"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"சதுரத்திற்குள் பெருக்கல் குறி"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"அடர் நிற கேள்விக் குறி"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"வெள்ளை நிற கேள்விக்குறி"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"வெள்ளை நிற ஆச்சரியக்குறி"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"அடர் நிற ஆச்சரியக்குறி"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"ஆழமான காதலுடன் உள்ள இதயம்"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"அடர் கருப்பில் கூட்டல் குறி"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"அடர் கருப்பில் கழித்தல் குறி"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"அடர் கருப்பில் வகுத்தல் குறி"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"அடர் கருப்பில் வலப்பக்கம் அம்பு"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"சுருள் வளைவு"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"இரட்டை சுருள் வளைவு"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"வலப்புறமாக மேல்நோக்கி வளைந்த அம்புக்குறி"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"வலப்புறமாக கீழ்நோக்கி வளைந்த அம்புக்குறி"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"இடப்புறம் நோக்கிய கருப்பு அம்புக்குறி"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"மேல்நோக்கிய கருப்பு அம்புக்குறி"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"கீழ்நோக்கிய கருப்பு அம்புக்குறி"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"பெரிய கருப்பு சதுரம்"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"பெரிய வெள்ளை சதுரம்"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"நடுத்தர வெள்ளை நட்சத்திரம்"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"பெரிய வட்டம்"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"அலைகுறி"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"பார்ட் ஆல்டெர்னேஷன் மார்க்"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"வட்டத்திற்குள் வாழ்த்துகள் ஐடியோகிராஃப்"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"வட்டத்திற்குள் ரகசியம் குறித்த ஐடியோகிராஃப்"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"அறியப்படாத ஈமோஜி"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"அலுத்துப்போன முகம்"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"சங்கடமான முகம்"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"முத்தமிடும் முகம்"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"கோபமான முகம்"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"ஆச்சரியமான முகம்"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"குளிர்கண்ணாடி அணிந்த முகம்"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"பரிந்துரை எதுவுமில்லை"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"பேரெழுத்து I"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"பேரெழுத்து I, மேல் புள்ளி"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"உரை எதுவும் உள்ளிடப்படவில்லை"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"மாற்று எழுத்துக்குறிகள் உள்ளன"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"மாற்று பரிந்துரைகள் உள்ளன"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"தலைகீழ் ஆச்சரியக் குறி"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"இடது பிரான்சிய வலது மேற்கோள்குறி"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"நடுப் புள்ளி"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"சூப்பர்ஸ்கிரிப்ட் ஒன்"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"வலது பிரான்சிய இரட்டை மேற்கோள்குறி"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"தலைகீழ் கேள்விக் குறி"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"இடது ஒற்றை மேற்கோள் குறி"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"வலது ஒற்றை மேற்கோள் குறி"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"ஒற்றை லோ-9 மேற்கோள் குறி"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"இடது இரட்டை மேற்கோள் குறி"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"வலது இரட்டை மேற்கோள் குறி"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"டேகர்"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"இரட்டை டேகர்"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"விழுக்காட்டுச் சின்னம்"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"அளவுக்குறி"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"இரட்டை அளவுக்குறி"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"இடது பிரான்சிய ஒற்றை மேற்கோள்குறி"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"வலது பிரான்சிய ஒற்றை மேற்கோள்குறி"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"சூப்பர்ஸ்கிரிப்ட் நான்கு"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"சூப்பர்ஸ்கிரிப்ட் லத்தீன் சிற்றெழுத்து n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"பெஸோ குறி"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"கேர் ஆஃப்"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"வலது நோக்கிய அம்பு"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"கீழ் நோக்கிய அம்பு"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"வெற்று கணம்"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"இன்கிரிமென்ட்"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"குறைவு அல்லது சமம்"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"அதிகம் அல்லது சமம்"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"கருப்பு நட்சத்திரம்"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"அறியப்படாத குறியீடு"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"சத்தமாகக் கூறப்படும் கடவுச்சொல் விசைகளைக் கேட்பதற்கு ஹெட்செட்டைச் செருகவும்."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"எமோஜி"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"ஆங்கிலம் (யூகே)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"ஆங்கிலம் (யூஎஸ்)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"ஸ்பானிஷ் (யூஎஸ்)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (வசதியான)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (பாரம்பரியமானது)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"ஹிங்கிலிஷ்"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"மொழி"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"மொழியில்லை (அகரவரிசை)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"அகரவரிசை (எசெர்டி)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"அகரவரிசை (கொல்மக்)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"அகரவரிசை (ட்வொராக்)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"அகரவரிசை (பிசி)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"அகரவரிசை (க்வெர்டி)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"அகரவரிசை (க்வெர்ட்ச்)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"செர்பியன் (லத்தீன்)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"ஆங்கிலம் (யூகே) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"ஆங்கிலம் (யூஎஸ்) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"ஸ்பானிஷ் (யூஎஸ்) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"ஹிங்கிலிஷ் (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"செர்பியன் (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"கணக்குகளை மாற்று"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"இப்போது ஒத்திசைத்தல்"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"பதிவிறக்குகிறது: <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> க்கான பரிந்துரைகள் விரைவில் தயாராகிவிடும்."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"தொடர்பு பெயர்களைப் பரிந்துரை"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"பரிந்துரைகள், திருத்தங்கள் ஆகியவற்றிற்கு தொடர்புகளிலிருந்து பெயர்களை பயன்படுத்து"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"உங்கள் தொடர்புபட்டியலில் இருந்து உள்ளீடுகளை பிழைத்திருத்தி பயன்படுத்துகிறது"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"தொடர்பு பெயர்களை ஆய்வுசெய்"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"புள்ளியைத் தொடர்ந்து இடைவெளியை உள்ளிடு"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"ஸ்பேஸ் பட்டியை இருமுறை தட்டுவது, புள்ளியை தொடர்ந்து இடைவெளியை உள்ளிடும்"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"தனிப்பட்ட பரிந்துரைகள்"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"தொடர்புகளிலிருந்தும், உள்ளிட்ட தரவிலிருந்தும் பரிந்துரைகளை மேம்படுத்த அறியவும்"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"சரி"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"குறைவான விருப்பங்கள்"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"மேலும் விருப்பங்கள்"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"அகராதியில் சேர்"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"மொழி:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"சேர்"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"சொற்றொடர்"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"விருப்பத்திற்குரிய குறுக்குவழி"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"குறுக்குவழி:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"வார்த்தையை உள்ளிடவும்"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"வார்த்தை:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"எல்லா மொழிகளுக்கும்"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"நீக்கு"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"திருத்து"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"நீக்கு"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"வார்த்தையைத் திருத்து"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"பயனர் அகராதியில் உங்களுக்கு எந்த வார்த்தைகளும் இல்லை. சேர் (+) என்ற பொத்தானைத் தொடுவதன் மூலம் வார்த்தையைச் சேர்க்கவும்."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"மேலும் மொழிகள்..."</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"பயனர் அகராதிகள்"</string>
+    <string msgid="2715354215568469385" name="version_text">"<ns1:g id="VERSION_NUMBER">%1$s</ns1:g> பதிப்பு"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"விசையழுத்தின்போது அதிர்வுரு"</string>
+    <string msgid="3583258583521397548" name="voice_input">"குரல் உள்ளீட்டு விசை"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"குரல் உள்ளீட்டு முறைகள் எதுவும் இயக்கப்படவில்லை. மொழி &amp; உள்ளீட்டு அமைப்புகளைச் சரிபார்க்கவும்."</string>
+</resources>

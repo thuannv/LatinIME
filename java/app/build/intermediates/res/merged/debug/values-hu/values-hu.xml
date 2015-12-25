@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g> ms"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"Mégse"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"OK"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"Kijelentkezés"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"Válassza ki a használni kívánt fiókot"</string>
+    <string msgid="2846876462199625974" name="account_selected">"Jelenleg használt fiók: <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"Hozzáadás"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"A funkció engedélyezéséhez adjon egy Google-fiókot az eszközhöz"</string>
+    <string msgid="6163126614514489951" name="add_style">"Új stílus"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Androidos helyesírás-ellenőrző beállításai (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"Billentyűzet elrejtve"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"<ns1:g id="KEYBOARD_MODE">%s</ns1:g> billentyűzet megjelenítve"</string>
+    <string msgid="6320102637491234792" name="app_name">"Szótárszolgáltató"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Automatikusan nagy kezdőbetű"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"Minden mondat első szava nagybetűvel"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"Automatikus javítás"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"A szóköz és központozás automatikusan javítja az elgépelést"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"Agresszív"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"Mérsékelt"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"Ki"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"Nagyon agresszív"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"Következő szóra vonatkozó javaslatok"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"Az előző szó felhasználása a javaslatoknál"</string>
+    <string msgid="3988017840431881491" name="button_default">"Alapértelmezett"</string>
+    <string msgid="6830980399865683324" name="cancel">"Mégse"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"Mégse"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"Csatlakozási hiba"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"Frissítés"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"A szinkronizált adatok törlődnek a felhőből. Biztosan folytatja?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"Törlés"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Törli a Google rendszeréből a szinkronizált adatokat"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"Adatok törlése a felhőből"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"Mégse"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"A rendszer szinkronizálni fogja az Ön személyes szótárát, és biztonsági mentést készít róla a Google szerverein. Termékeink továbbfejlesztése érdekében a rendszer a szavak előfordulási gyakoriságára vonatkozó statisztikai adatokat gyűjthet. Ezen információkat a "<a href="https://www.google.com/policies/privacy">"Google adatvédelmi irányelveivel"</a>" összhangban gyűjtjük és használjuk fel."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"A szinkronizálás be van kapcsolva"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"Szinkronizálja személyes szótárát eszközei között"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"A Google Apps cégeknek-fiókkal rendelkező eszközökön nem érhető el a szinkronizálás"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google-billentyűzet szinkronizálása"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"Bővítmények: szótárak"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"Beviteli módok beállítása"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"Ugyanez a bemenetstílus már létezik: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"Az egyéni stílust először engedélyezni kell. Engedélyezi most?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"Egyedi bevitelstílusok"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"Felhasználói szótár"</string>
+    <string msgid="756853268088330054" name="delete_dict">"Törlés"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"Nyomja meg az áttekintéshez és letöltéshez"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> nyelvhez van rendelkezésre álló szótár"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"Van rendelkezésre álló szótár"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"Telepítve, kikapcsolva"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"Jelenlegi letöltések"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"Van rendelkezésre álló szótár"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"Telepítve"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"Szótárszolgáltató"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"Szótárszolgáltatás"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"Szótárak beállításai"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"Bővítmények: szótárak"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Letöltés Wi-Fivel"</string>
+    <string msgid="6014835283119198591" name="download_description">"Szótárfrissítéssel kapcsolatos információk"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"Töltse le most (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g> MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"Személyes szótár"</string>
+    <string msgid="5031294444630523247" name="enable">"Engedélyezés"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> javítása"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"Megosztott billentyűzet bekapcsolása"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Beviteli beállítások"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android-billentyűzet (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Android-billentyűzet beállításai (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"Dinamikus lebegő előnézet"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"A javasolt szó megtekintése kézmozdulat közben"</string>
+    <string msgid="826951152254563827" name="gesture_input">"Kézmozdulatokkal gépelés"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"Szó beírása úgy, hogy ujjait végigcsúsztatja a betűkön"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"Mozdulat irányának mutatása"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"Kifejezés-kézmozdulat"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"Szóköz írása kézmozdulatok során: húzza el ujját a szóköz felett"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"Beállítások"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Van elérhető szótár"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"Súgó és visszajelzés"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"Érintse meg újból a mentéshez"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"A mentéshez érintse meg itt"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"Váltás más beviteli módra"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"A nyelvkapcsoló gomb egyéb beviteli módokat is tartalmaz"</string>
+    <string msgid="180852772562189365" name="install_dict">"Telepítés"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"Alapbeállítás"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"Gombeltüntetés késése"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"Nincs késés"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"Billentyűzettéma"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"Elrendezés"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"dátum"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"dátum és idő"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"e-mail"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"üzenetváltás"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"szám"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"telefon"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"szöveg"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"idő"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"Billentyűzettéma"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"Kész"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"Mehet"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"Köv."</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"Állj"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"Előző"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"Keresés"</string>
+    <string msgid="482252074224462163" name="label_send_key">"Küld"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"Vár"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"Nyelvek"</string>
+    <string msgid="730467549913588780" name="last_update">"Legutóbb frissítve"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"Fő szótár"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"Fő szótár"</string>
+    <string msgid="5638680861387748936" name="message_loading">"Betöltés…"</string>
+    <string msgid="4457761393932375219" name="message_updating">"Frissítések keresése"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"Nem választott fiókot"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"Nincs szótár"</string>
+    <string msgid="6172462888202790482" name="not_now">"Most nem"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Nagyobb billentyű gombnyomásra"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"Ne javasoljon esetlegesen sértő szavakat"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"Sértő szavak kizárása"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"Hangulatjelek listája"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"Az Alt billentyű lenyomásával megjelenik a hangultjelek listája"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"Hosszú nyomás késleltetése"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"Gombnyomás hangereje"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"Gombnyomás rezgési időtartama"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"Javítási ajánlások megjelenítése"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"A javasolt szavak megjelenítése gépelés közben"</string>
+    <string msgid="4486081658752944606" name="remove">"Eltávolítás"</string>
+    <string msgid="7646738597196767214" name="save">"Mentés"</string>
+    <string msgid="5709487854987078367" name="select_language">"Nyelvek"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"Fiókok és adatvédelem"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"Speciális"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"Megjelenés és elrendezés"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"Szövegjavítás"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"Kézmozdulatokkal történő gépelés"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"Beállítások"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"Téma"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"Alapértelmezett"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"Befejeződött"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"Következő lépés"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"Első lépések"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"Engedélyezés a Beállítások között"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> alkalmazást már engedélyezte a Nyelv és bevitel beállításainál, tehát ez a lépés már kész. Folytassa a következővel!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"Jelölje be a(z) „<ns1:g id="APPLICATION_NAME">%s</ns1:g>” alkalmazást a „Nyelv és bevitel” alatt a futtatás érdekében."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"A(z) <ns1:g id="APPLICATION_NAME">%s</ns1:g> engedélyezése"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"Váltás a beviteli módok között"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"Ezután válassza a(z) „<ns1:g id="APPLICATION_NAME">%s</ns1:g>”  alkalmazást aktív szövegbeviteli módszerként."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"Váltás a(z) <ns1:g id="APPLICATION_NAME">%s</ns1:g> alkalmazásra"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"Állítson be további nyelveket"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"Immár minden kedvenc alkalmazásában gépelhet a(z) <ns1:g id="APPLICATION_NAME">%s</ns1:g> segítségével."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"Gratulálunk, máris elkészült!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"A(z) <ns1:g id="APPLICATION_NAME">%s</ns1:g> beállítása"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"kézmozdulatokkal történő bevitellel"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"Üdvözli a(z) <ns1:g id="APPLICATION_NAME">%s</ns1:g>!"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"A mobileszközön kiválasztott nyelvhez szótár érhető el.&lt;br/> A gépelési élmény javításához javasoljuk a(z) <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> szótár &lt;b>letöltését.&lt;br/> &lt;br/> A letöltés 3G hálózaton keresztül néhány percig tart. Ha &lt;b>előfizetése nem korlátlan&lt;/b>, a letöltés költségekkel járhat.&lt;br/> Ha nem biztos abban, hogy milyen adatcsomagot használ, javasoljuk, hogy keressen egy Wi-Fi-kapcsolatot a letöltés automatikus elindításához.&lt;br/> &lt;br/> Tipp: szótárakat a mobileszköz a &lt;b>Beállítások&lt;/b> menü &lt;b>Nyelv és bevitel&lt;/b> részében tölthet le és távolíthat el."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"A nyelvkapcsoló"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"Megjelenítés, ha több beviteli nyelv engedélyezett"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"Alkalmazásikon megjelenítése"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"Alkalmazásikon megjelenítése az indítóban"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Hangjelzés gombnyomásra"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Androidos helyesírás-ellenőrző (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"Sorszámnévjelölő (nőnemű)"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"„mű” jel"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"Sorszámnévjelölő (hímnemű)"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"Scharfes S"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A, tompa ékezettel"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A, éles ékezettel"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A, kúpos ékezettel"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A, hullámvonallal"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A, trémával"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A, felette körrel"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"A, E, ikerbetű"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C, cédille-jel"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E, tompa ékezettel"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E, éles ékezettel"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E, kúpos ékezettel"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E, trémával"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I, tompa ékezettel"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I, éles ékezettel"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I, kúpos ékezettel"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I, trémával"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Eth betű"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N, hullámvonallal"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O, tompa ékezettel"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O, éles ékezettel"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O, kúpos ékezettel"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O, hullámvonallal"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O, trémával"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O, áthúzva"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U, tompa ékezettel"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U, éles ékezettel"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U, kúpos ékezettel"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U, trémával"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y, éles ékezettel"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Thorn betű"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y, trémával"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A, hosszúsági jellel"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A, rövidségi jellel"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A, horoggal"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C, éles ékezettel"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C, kúpos ékezettel"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C, felette ponttal"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C, hacsekkel"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D, hacsekkel"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D, áthúzva"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E, hosszúsági jellel"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E, rövidségi jellel"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E, felette ponttal"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E, horoggal"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E, hacsekkel"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G, kúpos ékezettel"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G, rövidségi jellel"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G, felette ponttal"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G, cédille-jel"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H, kúpos ékezettel"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H, áthúzva"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I, hullámvonallal"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I, hosszúsági jellel"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I, rövidségi jellel"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I, horoggal"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"Pont nélküli I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"I, J, ikerbetű"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J, kúpos ékezettel"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K, cédille-jel"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Kra betű"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L, éles ékezettel"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L, cédille-jel"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L, hacsekkel"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L, középen ponttal"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L, áthúzva"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N, éles ékezettel"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N, cédille-jel"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N, hacsekkel"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N, előtte aposztróffal"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Eng betű"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O, hosszúsági jellel"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O, rövidségi jellel"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O, dupla éles ékezettel"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"O, E, ikerbetű"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R, éles ékezettel"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R, cédille-jel"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R, hacsekkel"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S, éles ékezettel"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S, kúpos ékezettel"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S, cédille-jel"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S, hacsekkel"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T, cédille-jel"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T, hacsekkel"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T, áthúzva"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U, hullámvonallal"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U, hosszúsági jellel"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U, rövidségi jellel"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U, felette körrel"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U, dupla éles ékezettel"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U, horoggal"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W, kúpos ékezettel"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y, kúpos ékezettel"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z, éles ékezettel"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z, felette ponttal"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z, hacsekkel"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"Hosszú S"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O, szarvval"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U, szarvval"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S, alatta vesszővel"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T, alatta vesszővel"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Schwa betű"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A, alatta ponttal"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A, felette kampóval"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A, kúpos ékezettel és éles ékezettel"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A, kúpos ékezettel és tompa ékezettel"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A, kúpos ékezettel és felette kampóval"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A, kúpos ékezettel és hullámvonallal"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A, kúpos ékezettel és alatta ponttal"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A, rövidségi jellel és éles ékezettel"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A, rövidségi jellel és tompa ékezettel"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A, rövidségi jellel és felette kampóval"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A, rövidségi jellel és hullámvonallal"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A, rövidségi jellel és alatta ponttal"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E, alatta ponttal"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E, felette kampóval"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E, hullámvonallal"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E, kúpos ékezettel és éles ékezettel"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E, kúpos ékezettel és tompa ékezettel"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E, kúpos ékezettel és felette kampóval"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E, kúpos ékezettel és hullámvonallal"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E, kúpos ékezettel és alatta ponttal"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I, felette kampóval"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I, alatta ponttal"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O, alatta ponttal"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O, felette kampóval"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O, kúpos ékezettel és éles ékezettel"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O, kúpos ékezettel és tompa ékezettel"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O, kúpos ékezettel és felette kampóval"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O, kúpos ékezettel és hullámvonallal"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O, kúpos ékezettel és alatta ponttal"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O, szarvval és éles ékezettel"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O, szarvval és tompa ékezettel"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O, szarvval és felette kampóval"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O, szarvval és hullámvonallal"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O, szarvval és alatta ponttal"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U, alatta ponttal"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U, felette kampóval"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U, szarvval és éles ékezettel"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U, szarvval és tompa ékezettel"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U, szarvval és felette kampóval"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U, szarvval és hullámvonallal"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U, szarvval és alatta ponttal"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y, tompa ékezettel"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y, alatta ponttal"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y, felette kampóval"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y, hullámvonallal"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g> billentyű – <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> szóra javítja a következőt: <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> billentyű automatikus javítást végez"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"Az alternatív karakterek billentyűzete bezárva"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"Az alternatív javaslatok panel bezárva"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"A jelenlegi szöveg: %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"Következő"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"Előző"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"Törlés"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"Pont"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"Hangulatjel"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"Nyelvváltás"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"Hangbevitel"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"„Betű” mód"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"„Telefon” mód"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"„Telefonos szimbólumok” mód"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"„Szimbólumok” mód"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"További szimbólumok mód"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Enter"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"Keresés"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"Beállítások"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Caps lock bekapcsolva"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Shift bekapcsolva"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"Szóköz"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"További szimbólumok"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"Szimbólumok"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Tab"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"Betűk"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"Számok"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"Szimbólumok"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"Ismeretlen karakter"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"Nagy <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"Hangulatjelek"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"Természet"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"Objektumok"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"Emberek"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"Helyek"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"Legutóbbiak"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"Szimbólumok"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"Szerzői jog embléma"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"Regisztrált embléma"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"Madzsong vörös sárkány kő"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"Fekete dzsóker kártya"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"A vércsoport"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"B vércsoport"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"0 vércsoport"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"Parkoló"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"AB vércsoport"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"CL négyzetben"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"Cool négyzetben"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"Free négyzetben"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"ID négyzetben"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"New négyzetben"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"NG négyzetben"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"OK négyzetben"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"SOS négyzetben"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"Up felkiáltójellel négyzetben"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"VS négyzetben"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"Itt katakana négyzetben"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"Szolgáltatás katakana négyzetben"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"Díjmentes ideogram négyzetben"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"Foglalt hely ideogram négyzetben"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"Tiltás ideogram négyzetben"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"Üresedés ideogram négyzetben"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"Elfogadás ideogram négyzetben"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"Teljes foglaltság ideogram négyzetben"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Kifizetve ideogram négyzetben"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"Havi ideogram négyzetben"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"Alkalmazás ideogram négyzetben"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"Kedvezmény ideogram négyzetben"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"Munkában ideogram négyzetben"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"Előny ideogram körben"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"Elfogad ideogram körben"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"Ciklon"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"Ködös"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"Összecsukott esernyő"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"Éjszakai ég csillagokkal"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"Napfelkelte a hegyek fölött"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"Napfelkelte"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"Városi látkép alkonyatkor"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"Napnyugta épületek felett"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"Szivárvány"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"Híd éjszaka"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"Hullám"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"Vulkán"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"Tejút"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"Földgömb Európával és Afrikával"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"Földgömb Észak- és Dél-Amerikával"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"Földgömb Ázsiával és Ausztráliával"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"Földgömb délkörökkel"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"Újhold szimbólum"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"Növekvő félhold szimbólum"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"Első negyed holdfázis szimbólum"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"Növekvő hold szimbólum"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"Telihold szimbólum"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"Fogyó hold szimbólum"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"Utolsó negyed holdfázis szimbólum"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"Fogyó félhold szimbólum"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"Holdsarló"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"Újhold arccal"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"Első negyed holdfázis arccal"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"Utolsó negyed holdfázis arccal"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"Telihold arccal"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"Nap arccal"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"Tündöklő csillag"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"Hullócsillag"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"Gesztenye"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"Palánta"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"Örökzöld fa"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"Lombhullató fa"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"Pálmafa"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"Kaktusz"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"Tulipán"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"Cseresznyevirág"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"Rózsa"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"Hibiszkusz"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"Napraforgó"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"Virág"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"Kukoricacső"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"Rizskalász"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"Gyógynövény"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"Négylevelű lóhere"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"Juharlevél"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"Lehullott levél"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"Hulló falevél"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"Gomba"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"Paradicsom"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"Padlizsán"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"Szőlő"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"Dinnye"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"Görögdinnye"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"Mandarin"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"Citrom"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"Banán"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"Ananász"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"Piros alma"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"Zöldalma"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"Körte"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"Barack"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"Cseresznye"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"Eper"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"Hamburger"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"Pizzaszelet"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"Hús csonttal"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"Csirkecomb"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"Rizskeksz"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"Rizsgombóc"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"Főtt rizs"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"Currys rizs"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"Tészta tálban"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"Spagetti"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"Kenyér"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"Sült krumpli"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"Sült édesburgonya"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"Dango"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"Oden"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"Szusi"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"Sült garnéla"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"Haltorta örvény mintával"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"Fagylalt"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"Jégkása"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"Jégkrém"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"Fánk"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"Sütemény"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"Csokoládé"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"Cukorka"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Lollipop"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"Sodó"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"Mézesbödön"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"Tortaszelet"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"Bento tál"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"Egy fazék étel"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"Serpenyő"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"Kés és villa"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"Fületlen teáscsésze"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"Szakés kancsó és csésze"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"Borospohár"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"Koktélos pohár"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"Trópusi ital"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"Söröskorsó"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"Koccintó söröskorsók"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"Cumisüveg"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"Masni"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"Becsomagolt ajándék"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Születésnapi torta"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"Töklámpás"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"Karácsonyfa"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"Télapó"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"Tűzijáték"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"Csillagszóró"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"Léggömb"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"Mini konfettiágyú"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"Konfettigömb"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"Tanabata fa"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"Keresztbe tett zászlók"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"Fenyődísz"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"Japán babák"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"Ponty alakú szélzsákok"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"Szélharang"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"Holdszemlélő ünnep"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"Iskolatáska"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"Diplomaosztón viselt kalap"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"Ló körhintán"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"Óriáskerék"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"Hullámvasút"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"Horgászbot hallal"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"Mikrofon"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"Filmfelvevő gép"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"Mozi"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"Fejhallgató"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"Festőpaletta"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"Cilinder"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"Cirkuszi sátor"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"Jegy"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"Csapó"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"Előadóművészetek"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"Videojáték"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"Telitalálat"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"Játékgép"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"Biliárd"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"Dobókocka"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"Bowling"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"Virág kártya"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"Hangjegy"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"Több hangjegy"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"Szaxofon"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"Gitár"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"Zenei billentyűzet"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"Trombita"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"Hegedű"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"Kotta"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"Futótrikó vállszalaggal"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"Teniszütő és -labda"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"Síléc és sícipő"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"Kosárlabda és kosár"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"Kockás zászló"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"Snowboardozó"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"Futó"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"Szörfös"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"Kupa"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"Lóverseny"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"Amerikaifutball-labda"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"Rögbilabda"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"Úszó"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"Ház"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"Ház kerttel"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"Irodaépület"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"Japán posta"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"Európai posta"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"Kórház"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"Bank"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"ATM"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"Szálloda"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"Motel"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"Kisbolt"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"Iskola"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"Áruház"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"Gyár"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"Japán lámpás"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"Japán kastély"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"Európai kastély"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"Patkány"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"Egér"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"Ökör"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"Vízibivaly"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"Tehén"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"Leopárd"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"Nyúl"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"Macska"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"Sárkány"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"Krokodil"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"Bálna"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"Csiga"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"Kígyó"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"Ló"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"Kos"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"Kecske"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"Juh"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"Majom"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"Kakas"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"Csirke"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"Kutya"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"Sertés"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"Vaddisznó"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"Elefánt"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"Polip"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"Csavart kagyló"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"Rovar"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"Hangya"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"Méh"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"Katicabogár"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"Hal"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"Trópusi hal"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"Gömbhal"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"Teknős"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"Kikelő csibe"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"Kiscsibe"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"Szembe forduló kiscsibe"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"Madár"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"Pingvin"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"Koala"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"Pudli"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"Egypúpú teve"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"Kétpúpú teve"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"Delfin"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"Egérfej"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"Tehénfej"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"Tigrisfej"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"Nyúlfej"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"Macskafej"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"Sárkányfej"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"Vízsugarat fújó bálna"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"Lófej"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"Majomfej"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"Kutyafej"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"Disznófej"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"Békafej"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"Hörcsögfej"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"Farkasfej"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"Medvefej"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"Pandafej"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"Malacorr"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"Mancsnyomok"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"Szempár"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"Fül"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"Orr"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"Száj"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"Nyelv"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"Felfelé mutató fehér kéz"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"Lefelé mutató fehér kéz"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"Balra mutató fehér kéz"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"Jobbra mutató fehér kéz"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"Ökölbe szorított kéz"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"Integető kéz"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"Rendben jelet mutató kéz"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"Felfelé mutató hüvelykujj"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"Lefelé mutató hüvelykujj"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"Tapsoló kéz"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"Kinyitott kéz"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"Korona"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"Női kalap"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"Szemüveg"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"Nyakkendő"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"Póló"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"Farmer"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"Női ruha"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"Kimonó"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"Bikini"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"Blúz"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"Pénztárca"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"Női táska"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"Kézitáska"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"Férficipő"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"Sportcipő"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"Magas sarkú cipő"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"Női szandál"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"Női csizma"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"Lábnyomok"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"Felsőtest sziluettje"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"Felsőtestek sziluettje"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"Fiú"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"Lány"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"Férfi"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"Nő"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"Család"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"Férfi és nő kézen fogva"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"Két férfi kézen fogva"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"Két nő kézen fogva"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"Rendőr"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"Nő nyuszifülekkel"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"Menyasszony fátyollal"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"Szőke lány"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"Kínai férfi"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"Turbános férfi"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"Idős férfi"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"Idős nő"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"Kisbaba"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"Építőmunkás"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"Hercegnő"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"Japán ogre"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Japán manó"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"Kísértet"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"Szárnyas puttó"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"Földönkívüli"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"Idegen szörny"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Manó"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"Koponya"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"Információs pultban ülő személy"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"Gárdista"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"Táncos"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"Rúzs"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"Körömlakk"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"Arcmasszázs"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"Hajvágás"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"Borbélycégér"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"Fecskendő"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"Pirula"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"Rúzsos csóknyom"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"Szerelmes levél"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"Gyűrű"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"Drágakő"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"Csók"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"Csokor"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"Szerelmespár szívvel"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"Esküvő"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"Dobogó szív"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"Összetört szív"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"Két szív"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"Csillogó szív"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"Növekvő szív"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"Szív nyíllal"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"Kék szív"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"Zöld szív"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"Sárga szív"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"Lila szív"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"Szív szalaggal"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"Kört alkotó szívek"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"Szív díszítés"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"Gyémánt alakzat ponttal a közepén"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"Villanykörte"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"Harag szimbóluma"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"Bomba"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"Alvás szimbóluma"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"Robbanás szimbóluma"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"Fröcskölő izzadtság szimbólum"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"Vízcsepp"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"Száguldás szimbóluma"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"Ürülékkupac"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"Megfeszített bicepsz"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"Szédülés szimbóluma"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"Szövegbuborék"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"Gondolatbuborék"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"Fehér virág"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"Század jele"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"Pénzeszsák"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"Pénzváltás"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"Nagy dollárjel"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"Hitelkártya"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"Bankjegy a jen jelével"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"Bankjegy dollárjellel"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"Bankjegy az euró jelével"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"Bankjegy a font jelével"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"Szárnyas pénz"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"Növekvő tendenciát jelző diagram a jen jelével"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"Ülés"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"Számítógép"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"Aktatáska"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"Minidisc"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"Floppy lemez"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"CD"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"DVD"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"Irattartó"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"Nyitott mappa"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"Felkunkorodó aljú papír"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"Felfelé néző papír"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"Naptár"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"Letéphető oldalú naptár"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"Kartoték"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"Növekvő tendenciát jelző diagram"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"Csökkenő tendenciát jelző diagram"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"Oszlopdiagram"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"Jegyzettömb"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"Rajzszög"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"Gömb fejű rajzszög"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"Gemkapocs"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"Egyenes vonalzó"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"Háromszögvonalzó"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"Könyvjelzők"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"Főkönyv"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"Jegyzetfüzet"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"Jegyzetfüzet díszes borítóval"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"Csukott könyv"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"Nyitott könyv"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"Zöld könyv"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"Kék könyv"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"Narancssárga könyv"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"Könyvek"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"Névkitűző"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"Papírtekercs"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"Emlékeztető"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"Telefonkagyló"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"Személyhívó"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"Fax"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"Parabolaantenna"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"Köztéri hangosbeszélő"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"Kézi megafon"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Tálcáról le"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"Tálcára rá"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"Csomag"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"E-mail jele"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"Beérkező levél borítékja"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"Boríték és felette lefelé mutató nyíl"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"Csukott postaláda leeresztett zászlóval"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"Csukott postaláda felemelt zászlóval"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"Nyitott postaláda felemelt zászlóval"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"Nyitott postaláda leeresztett zászlóval"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"Levélszekrény"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"Postakürt"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"Újság"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"Mobiltelefon"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"Mobiltelefon jobbra mutató nyíllal a bal oldalán"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"Rezgő üzemmód"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"Mobiltelefon ki"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"Mobiltelefon nem használható"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"Antenna sávokkal"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"Fényképezőgép"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"Videokamera"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"Televízió"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"Rádió"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"Videokazetta"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"Összecsavarodott jobbra mutató nyilak"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"Az óramutató járásának megfelelően jobbra és balra mutató, kört formázó nyilak"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"Az óramutató járásának megfelelően jobbra és balra mutató, kört formázó nyilak, felettük egy körben lévő egyessel"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"Az óramutató járásának megfelelően fel és le mutató, kört formázó nyilak"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"Az óramutató járásával ellentétesen le és fel mutató, kört formázó nyilak"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"Kis fényerő szimbólum"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"Nagy fényerő szimbólum"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"Hangszóró áthúzva"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"Hangszóró"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"Hangszóró egy hanghullámmal"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"Hangszóró három hanghullámmal"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"Elem"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"Dugós csatlakozó"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"Balra dőlő nagyító"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"Jobbra dőlő nagyító"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"Lakat töltőtollal"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"Bezárt lakat kulccsal"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"Kulcs"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"Lakat"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"Nyitott lakat"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"Csengő"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"Csengő áthúzva"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"Könyvjelző"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"Link szimbóluma"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"Választógomb"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"Back szó felette balra mutató nyíllal"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"End szó felette balra mutató nyíllal"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"On szó felkiáltójellel és felette kétágú vízszintes nyíllal"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Soon szó jobbra mutató nyíllal"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Top szó felette felfelé mutató nyíllal"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"Tizennyolc éven aluliaknak tilos jel"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"Tízes billentyű"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"Beviteli szimbólum latin nagybetűkhöz"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"Beviteli szimbólum latin kisbetűkhöz"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"Bevitel szimbólum számokhoz"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"Bevitel szimbólum szimbólumokhoz"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"Beviteli szimbólum latin betűkhöz"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"Tűz"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"Elemlámpa"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"Csavarkulcs"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"Kalapács"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"Csavar és anya"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"Japán kés"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"Pisztoly"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"Mikroszkóp"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"Távcső"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"Kristálygömb"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"Hatágú csillag a közepén ponttal"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"A kezdő japán szimbóluma"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"Háromágú szigony embléma"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"Fekete négyzetes gomb"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"Fehér négyzetes gomb"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"Nagy piros kör"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"Nagy kék kör"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"Nagy narancssárga gyémánt"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"Nagy kék gyémánt"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"Kis narancssárga gyémánt"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"Kis kék gyémánt"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"Felfelé mutató piros háromszög"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"Lefelé mutató piros háromszög"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"Felfelé mutató kicsi piros háromszög"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"Lefelé mutató kicsi piros háromszög"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"Óra számlapja egy órát mutat"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"Óra számlapja két órát mutat"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"Óra számlapja három órát mutat"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"Óra számlapja négy órát mutat"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"Óra számlapja öt órát mutat"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"Óra számlapja hat órát mutat"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"Óra számlapja hét órát mutat"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"Óra számlapja nyolc órát mutat"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"Óra számlapja kilenc órát mutat"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"Óra számlapja tíz órát mutat"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"Óra számlapja tizenegy órát mutat"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"Óra számlapja tizenkét órát mutat"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"Óra számlapja fél kettőt mutat"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"Óra számlapja fél hármat mutat"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"Óra számlapja fél négyet mutat"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"Óra számlapja fél ötöt mutat"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"Óra számlapja fél hatot mutat"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"Óra számlapja fél hetet mutat"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"Óra számlapja fél nyolcat mutat"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"Óra számlapja fél kilencet mutat"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"Óra számlapja fél tízet mutat"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"Óra számlapja fél tizenegyet mutat"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"Óra számlapja fél tizenkettőt mutat"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"Óra számlapja fél egyet mutat"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"Fudzsi hegy"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"Tokiói torony"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"Szabadság-szobor"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"Japán körvonala"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"Moai"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"Vigyorgó arc"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"Vigyorgó arc mosolygó szemmel"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"Örömében síró arc"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"Tátott szájjal nevető arc"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"Tátott szájjal nevető, mosolygó szemű arc"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"Tátott szájjal nevető, izzadó arc"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"Tátott szájjal nevető, szorosan becsukott szemű arc"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"Mosolygó arc glóriával"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"Mosolygó arc ördögszarvakkal"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"Kacsintó arc"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"Mosolygó arc mosolygó szemmel"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"Szája szélét nyalogató arc"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"Megkönnyebbült arc"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"Mosolygó arc szív alakú szemmel"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"Mosolygó arc napszemüvegben"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"Csücsörítve mosolygó arc"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"Semleges arc"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"Kifejezéstelen arc"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"Unott arc"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"Hidegen verejtékező arc"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"Tűnődő arc"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"Zavarodott arc"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"Megdöbbent arc"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"Csókot adó arc"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"Csókot küldő arc"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"Csókot adó arc mosolygó szemmel"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"Csókot adó arc csukott szemmel"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"Arc kinyújtott nyelvvel"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"Arc kinyújtott nyelvvel és kacsintó szemmel"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"Arc kinyújtott nyelvvel és szorosan becsukott szemmel"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"Csalódott arc"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"Aggódó arc"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"Mérges arc"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"Duzzogó arc"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"Síró arc"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"Állhatatos arc"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"Diadalmas arc"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"Csalódott, de megkönnyebbült arc"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"Tátott szájjal meglepődő arc"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"Szenvedő arc"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"Félelemmel teli arc"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"Elcsigázott arc"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"Álmos arc"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"Fáradt arc"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"Grimaszoló arc"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"Zokogó arc"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"Arc tátott szájjal"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"Csendes arc"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"Tátott szájú, izzadó arc"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"Félelmében sikoltó arc"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"Elképedt arc"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"Kipirult arc"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"Alvó arc"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"Szédülő arc"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"Száj nélküli arc"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"Arc orvosi maszkkal"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"Vigyorgó macskafej mosolygó szemmel"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"Örömében síró macskafej"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"Tátott szájjal nevető macskafej"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"Mosolygó macskafej szív alakú szemmel"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"Macskafej fanyar mosollyal"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"Csókot adó macskafej csukott szemmel"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"Duzzogó macskafej"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"Síró macskafej"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"Elcsigázott macskafej"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"Nem jó jelet mutató arc"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"OK jelet mutató arc"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"Mélyen meghajló ember"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"Nem látok majom"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"Nem hallok majom"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"Nem beszélek majom"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"Boldog ember, egyik kezét felemelve"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"Égnek emelt kézzel örülő személy"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"Meggörnyedt ember"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"Duzzogó arcú ember"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"Összekulcsolt kezű ember"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"Űrrakéta"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"Helikopter"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"Gőzmozdony"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"Vasúti kocsi"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"Gyorsvasút"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"Gyorsvasút lekerekített orral"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"Vonat"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"Metró"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"Hév"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"Állomás"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"Villamos"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"Villamoskocsi"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"Busz"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"Érkező busz"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"Trolibusz"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"Buszmegálló"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"Minibusz"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"Mentőautó"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"Tűzoltóautó"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"Rendőrautó"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"Érkező rendőrautó"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"Taxi"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"Érkező taxi"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"Autó"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"Érkező autó"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"Utcai terepjáró"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"Teherautó"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"Kamion"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"Traktor"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"Egysínű vasút"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"Hegyi vasút"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"Függővasút"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"Hegyi kábelvasút"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"Drótkötélpályás felvonó"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"Hajó"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"Evezős csónak"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"Motorcsónak"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"Vízszintes jelzőlámpa"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"Függőleges jelzőlámpa"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"Útépítés jelző"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"Rendőrautó forgó fényjelzése"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"Háromszög alakú zászló rúdon"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"Ajtó"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"Belépni tilos jelzés"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"Dohányzás jel"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"Dohányozni tilos jel"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"Dobja ki a szemetet jel"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"Ne szemeteljen jel"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"Ivóvíz szimbólum"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"Nem ivóvíz szimbólum"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"Kerékpár"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"Kerékpárral behajtani tilos"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"Kerékpáros"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"Hegyikerékpáros"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"Gyalogos"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"Gyalog bemenni tilos"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"Átkelő gyermekekkel"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"Férfiak jelzés"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"Nők jelzés"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"Mosdó"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"Pelenkázó jelzés"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"WC"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"Toalett"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"Zuhanyzó"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"Fürdő"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"Fürdőkád"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"Útlevélvizsgálat"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"Vám"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"Poggyászkiadó terminál"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"Elveszett poggyász"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"Kettős felkiáltójel"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"Felkiáltó- és kérdőjel"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"Védjegy jel"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"Információs pont"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"Kétágú vízszintes nyíl"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"Kétágú függőleges nyíl"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"Északnyugatra mutató nyíl"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"Északkeletre mutató nyíl"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"Délkeletre mutató nyíl"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"Délnyugatra mutató nyíl"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"Balra mutató kampós nyíl"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"Jobbra mutató kampós nyíl"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"Karóra"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"Homokóra"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"Jobbra mutató fekete kettős háromszög"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"Balra mutató fekete kettős háromszög"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"Felfelé mutató fekete kettős háromszög"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"Lefelé mutató fekete kettős háromszög"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"Ébresztőóra"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"Homokóra folyó homokkal"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"Latin nagy m betű egy körben"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"Kis fekete négyzet"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"Kis fehér négyzet"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"Jobbra mutató fekete háromszög"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"Balra mutató fekete háromszög"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"Közepes fehér négyzet"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"Közepes fekete négyzet"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"Közepesen kicsi fehér négyzet"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"Közepesen kicsi fekete négyzet"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"Fekete nap sugarakkal"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"Felhő"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"Fekete telefon"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"Szavazónégyzet pipával"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"Esernyő esőcseppekkel"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"Forró ital"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"Fehér felfelé mutató ujj"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"Fehér mosolygó arc"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"Kos"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"Bika"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"Ikrek"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"Rák"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"Oroszlán"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"Szűz"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"Mérleg"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"Skorpió"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"Nyilas"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"Bak"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Vízöntő"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"Halak"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"Fekete pikk"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"Fekete treff"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"Fekete szív"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"Fekete káró"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Hőforrások"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"Fekete általános újrahasznosítás jel"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"Kerekes szék szimbólum"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"Horgony"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"Figyelmeztető jel"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"Nagyfeszültség jele"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"Közepes fehér kör"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"Közepes fekete kör"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"Focilabda"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"Baseball-labda"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"Hóember hó nélkül"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"Nap felhő mögött"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"Kígyótartó"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"Behajtani tilos"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"Templom"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"Szökőkút"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"Golfzászló lyukban"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"Vitorláshajó"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"Sátor"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"Benzinkút"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"Fekete olló"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"Nagy fehér pipa jel"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"Repülőgép"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"Boríték"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"Felemelt ököl"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"Felemelt kéz"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"Győzelmet mutató kéz"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"Ceruza"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"Fekete tollhegy"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"Nagy pipa jel"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"Nagy szorzásjel"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"Szikrák"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"Nyolcágú csillag"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"Nyolcágú fekete csillag"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"Hópehely"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"Szikra"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"Kereszt"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"Kereszt négyzetben negatívban"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"Fekete kérdőjel"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"Fehér kérdőjel"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"Fehér felkiáltójel"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"Nagy fekete felkiáltójel"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"Fekete szív"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"Nagy pluszjel"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"Nagy mínuszjel"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"Nagy osztásjel"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"Fekete jobbra mutató nyíl"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"Hurok"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"Dupla hurok"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"Jobbra mutató, majd felfelé kanyarodó nyíl"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"Jobbra mutató, majd lefelé kanyarodó nyíl"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"Balra mutató fekete nyíl"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"Felfelé mutató fekete nyíl"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"Lefelé mutató fekete nyíl"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"Nagy fekete négyzet"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"Nagy fehér négyzet"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"Közepes fehér csillag"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"Nagy kör"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"Hullámos vonal"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"Dalrész kezdete jel"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"Gratuláció ideogram körben"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"Titok ideogram körben"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"Ismeretlen hangulatjel"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"Unott arc"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"Zavarban lévő arc"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"Csókot adó arc"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"Homlokráncoló arc"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"Meglepődött arc"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"Napszemüveges arc"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"Nincs javaslat"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"Nagy I"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"Nagy I, felette ponttal"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"Nincs szöveg megadva"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"Az alternatív karakterek elérhetők"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"Az alternatív javaslatok elérhetők"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"Fordított felkiáltójel"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"Balra mutató francia csúcsos dupla idézőjel"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"Középső pont"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Felső indexszám egy"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"Jobbra mutató francia csúcsos dupla idézőjel"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"Fordított kérdőjel"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"Bal angol szimpla idézőjel"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"Jobb angol szimpla idézőjel"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Bal német szimpla idézőjel"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"Bal dupla idézőjel"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"Jobb dupla idézőjel"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Kereszt"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Kettős kereszt"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Ezrelékjel"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Percjel"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Másodpercjel"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"Balra mutató francia csúcsos szimpla idézőjel"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"Jobbra mutató francia csúcsos szimpla idézőjel"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Felső indexszám négy"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Felső index latin kisbetűs n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Peso jel"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"Százalék"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"Jobbra mutató nyíl"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Lefelé mutató nyíl"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"Üres halmaz"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Növekmény"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"Egyenlő vagy kisebb mint"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"Egyenlő vagy nagyobb mint"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"Fekete csillag"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"Ismeretlen szimbólum"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"Csatlakoztasson egy headsetet, ha hallani szeretné a jelszót felolvasva."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Hangulatjel"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"angol (brit)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"angol (amerikai)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"spanyol (USA)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (kompakt)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (hagyományos)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"Hinglish (hindi-angol)"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"Nyelv"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"Nincs nyelv (ábécé)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"Ábécé (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"Ábécé (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"Ábécé (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"Ábécé (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"Ábécé (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"Ábécé (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"Szerb (latin)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"angol (UK) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"angol (USA) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"spanyol (USA) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"Hinglish (hindi-angol, <ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"Szerb (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"Fiókváltás"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"Szinkronizálás most"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"Letöltés: a(z) <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> nyelvvel kapcsolatos javaslatok hamarosan elérhetők lesznek."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"Javasolt névjegyek"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"A névjegyek használata a javaslatokhoz és javításokhoz"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"A helyesírás-ellenőrző használja a névjegyek bejegyzéseit"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"Névjegyek keresése"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"Dupla szóköz: pont"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"A szóköz kétszeri megérintése beszúr egy pontot, majd egy szóközt"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"Testreszabott javaslatok"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"Javaslatok javítása a kommunikáció és begépelt adatok alapján"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"OK"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"Kevesebb opció"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"További opciók"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"Hozzáadás a szótárhoz"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"Nyelv:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"Hozzáadás"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"Kifejezés"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"Választható gyorsparancs"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"Gyorsparancs:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"Írjon be egy szót"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"Szó:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"Minden nyelven"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"Törlés"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"Szerkesztés"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"Törlés"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"Szó szerkesztése"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"Nincsenek szavak a felhasználói szótárban. Új szavakat a Hozzáadás (+) gomb megérintésével vehet fel."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"További nyelvek…"</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"Felhasználói szótárak"</string>
+    <string msgid="2715354215568469385" name="version_text">"Verzió: <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Rezgés gombnyomásra"</string>
+    <string msgid="3583258583521397548" name="voice_input">"Hangbeviteli gomb"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"Nincs engedélyezett hangbeviteli módszer. Nézze meg a Nyelvi és beviteli beállításokat."</string>
+</resources>

@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_armenian_phonetic.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_armenian_phonetic.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_thai.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_thai.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_kannada.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_kannada.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_arabic.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_arabic.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_pcqwerty.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_pcqwerty.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_nordic.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_nordic.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_east_slavic.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_east_slavic.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_hebrew.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_hebrew.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_exclamation_question.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/keys_exclamation_question.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_malayalam.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_malayalam.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_qwertz.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_qwertz.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_bengali_akkhor.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_bengali_akkhor.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_number_normal.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_number_normal.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_hindi_compact.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_hindi_compact.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_azerty.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_azerty.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_lao.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_lao.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_pcqwerty3_right2.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/keys_pcqwerty3_right2.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_bengali.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_bengali.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_number_password.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_number_password.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_sinhala.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_sinhala.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_nepali_traditional.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_nepali_traditional.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_hindi.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_hindi.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_swiss.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_swiss.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_south_slavic.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_south_slavic.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_greek.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_greek.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/row_pcqwerty5.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/row_pcqwerty5.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_pcqwerty2_right3.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/keys_pcqwerty2_right3.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_colemak.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_colemak.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_mongolian.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_mongolian.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rowkeys_dvorak3.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rowkeys_dvorak3.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_farsi.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_farsi.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_dvorak.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_dvorak.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_symbols_shift.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_symbols_shift.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_space_symbols.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/key_space_symbols.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_dvorak_123.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/keys_dvorak_123.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_styles_enter.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/key_styles_enter.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/kbd_phone_symbols.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/kbd_phone_symbols.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/kbd_number.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/kbd_number.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_pcqwerty4_right3.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/keys_pcqwerty4_right3.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_arabic3_left.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/keys_arabic3_left.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_symbols.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_symbols.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/kbd_phone.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/kbd_phone.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_space_3kw.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/key_space_3kw.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_comma.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/key_comma.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_bulgarian_bds.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_bulgarian_bds.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_tamil.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_tamil.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_bulgarian.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_bulgarian.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_qwerty.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_qwerty.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_georgian.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_georgian.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_nepali_romanized.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_nepali_romanized.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_khmer.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_khmer.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_period.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/key_period.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/row_qwerty4.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/row_qwerty4.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/kbd_more_keys_keyboard_template.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/kbd_more_keys_keyboard_template.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_uzbek.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_uzbek.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_phone.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_phone.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_serbian_qwertz.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_serbian_qwertz.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_space_7kw.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/key_space_7kw.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_styles_common.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/key_styles_common.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/keys_farsi3_right.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/keys_farsi3_right.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rowkeys_pcqwerty1.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rowkeys_pcqwerty1.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_marathi.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_marathi.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/key_settings.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/key_settings.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_telugu.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_telugu.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-v13/rows_spanish.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp/rows_spanish.xml"
+    }
+]

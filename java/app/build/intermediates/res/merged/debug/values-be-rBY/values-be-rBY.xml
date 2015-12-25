@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="im_is_default">true</bool>
+    <string msgid="2441578748772529288" name="label_done_key">"Гатова"</string>
+    <string msgid="1635148082137219148" name="label_go_key">"Пачаць"</string>
+    <string msgid="362972844525672568" name="label_next_key">"Далей"</string>
+    <string msgid="181098308428035340" name="label_pause_key">"Паўза"</string>
+    <string msgid="1211868118071386787" name="label_previous_key">"Назад"</string>
+    <string msgid="2815056534433717444" name="label_send_key">"Адправіць"</string>
+    <string msgid="6402152600878093134" name="label_wait_key">"Чакае"</string>
+</resources>

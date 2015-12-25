@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/anim/key_preview_dismiss_lxx.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/anim/key_preview_dismiss_lxx.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/anim/alt_code_key_while_typing_fadein.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/anim/alt_code_key_while_typing_fadein.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/anim/language_on_spacebar_fadeout.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/anim/language_on_spacebar_fadeout.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/anim/key_preview_show_up_lxx.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/anim/key_preview_show_up_lxx.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/anim/key_preview_dismiss_holo.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/anim/key_preview_dismiss_holo.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/anim/alt_code_key_while_typing_fadeout.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/anim/alt_code_key_while_typing_fadeout.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/anim/key_preview_show_up_holo.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/anim/key_preview_show_up_holo.xml"
+    }
+]

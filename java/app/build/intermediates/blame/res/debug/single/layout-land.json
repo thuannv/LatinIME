@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout-land/setup_steps_screen.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout-land/setup_steps_screen.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout-land/setup_welcome_screen.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout-land/setup_welcome_screen.xml"
+    }
+]

@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/additional_subtype_dialog.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/additional_subtype_dialog.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_steps_screen.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_steps_screen.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_welcome_screen.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_welcome_screen.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_steps_cards.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_steps_cards.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/suggestion_divider.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/suggestion_divider.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/user_dictionary_preference_list_fragment.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/user_dictionary_preference_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/seek_bar_dialog.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/seek_bar_dialog.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_wizard.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_wizard.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/more_keys_keyboard_for_action_lxx.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/more_keys_keyboard_for_action_lxx.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/user_dictionary_add_word.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/user_dictionary_add_word.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/input_view.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/input_view.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_step.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_step.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/more_suggestions.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/more_suggestions.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/dictionary_line.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/dictionary_line.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/download_over_metered.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/download_over_metered.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/emoji_keyboard_page.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/emoji_keyboard_page.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_start_indicator_label.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_start_indicator_label.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/user_dictionary_item.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/user_dictionary_item.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/main_keyboard_frame.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/main_keyboard_frame.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_steps_title.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_steps_title.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/loading_page.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/loading_page.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/user_dictionary_add_word_fullscreen.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/user_dictionary_add_word_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_welcome_title.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_welcome_title.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/setup_welcome_video.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/setup_welcome_video.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/emoji_keyboard_tab_icon.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/emoji_keyboard_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/radio_button_preference_widget.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/radio_button_preference_widget.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/suggestions_strip.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/suggestions_strip.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/more_keys_keyboard.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/more_keys_keyboard.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/layout/emoji_palettes_view.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/layout/emoji_palettes_view.xml"
+    }
+]

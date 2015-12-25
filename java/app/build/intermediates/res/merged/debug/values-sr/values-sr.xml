@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g> ms"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"Откажи"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"Потврди"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"Одјави ме"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"Изаберите налог који ћете користити"</string>
+    <string msgid="2846876462199625974" name="account_selected">"Тренутно користите <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"Додај"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"Додајте Google налог на уређај да бисте омогућили ову функцију"</string>
+    <string msgid="6163126614514489951" name="add_style">"Додајте стил"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Подешавања Android провере правописа (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"Тастатура је сакривена"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"Приказујемо тастатуру у режиму <ns1:g id="KEYBOARD_MODE">%s</ns1:g>"</string>
+    <string msgid="6320102637491234792" name="app_name">"Добављач речника"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Аутоматски унос великих слова"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"Писање великог слова на почетку сваке реченице"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"Аутом. исправљање"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"Размак и интерпункција аутоматски исправљају грешке у куцању"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"Агресивно"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"Умерено"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"Искључи"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"Веома агресивно"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"Предлози за следећу реч"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"Користи претходну реч при давању предлога"</string>
+    <string msgid="3988017840431881491" name="button_default">"Подразумевано"</string>
+    <string msgid="6830980399865683324" name="cancel">"Откажи"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"Откажи"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"Проблем при повезивању с услугом речника"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"Освежи"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"Избрисаћемо синхронизоване податке из клауда. Да ли сте сигурни?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"Избриши"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Брише синхронизоване податке са Google-а"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"Желите да избришете податке из клауда"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"Откажи"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"Синхронизоваћемо лични речник и направићемо његову резервну копију на Google серверима. Можда ћемо прикупљати статистичке податке о учесталости речи да бисмо побољшали производе. Прикупљање и коришћење свих информација ће бити у складу са "<a href="https://www.google.com/policies/privacy">"Google-овом политиком приватности"</a>"."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"Синхронизација је укључена"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"Синхронизујте лични речник на свим уређајима"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"Синхрониз. није доступна за уређаје са налозима Google Apps for Business"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Синхронизуј Google тастатуру"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"Помоћни речници"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"Конфигурисање метода уноса"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"Исти стил уноса већ постоји: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"Прилагођени стил уноса треба да буде омогућен да бисте почели да га користите. Желите ли да га омогућите сада?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"Прилагођени стилови уноса"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"Кориснички речник"</string>
+    <string msgid="756853268088330054" name="delete_dict">"Избриши"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"Притисните за преглед и преузимање"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"Доступан је речник за <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"Речник је доступан"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"Инсталиран је и онемогућен"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"Тренутно се преузима"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"Речник је доступан"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"Инсталиран је"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"Добављач речника"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"Услуга речника"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"Подешавања за речнике"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"Помоћни речници"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Преузми преко Wi-Fi-ја"</string>
+    <string msgid="6014835283119198591" name="download_description">"Информације о ажурирању речника"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"Преузми одмах (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g> MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"Лични речник"</string>
+    <string msgid="5031294444630523247" name="enable">"Омогући"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"Побољшајте апликацију <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"Омогући подељену тастатуру"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Опције уноса"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android тастатура (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Подешавања Android тастатуре (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"Динамички плутајући преглед"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"Приказује предложену реч при уносу покретом"</string>
+    <string msgid="826951152254563827" name="gesture_input">"Омогући унос покретом"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"Унесите реч превлачењем прста преко од слова до слова на екрану"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"Прикажи траг покрета"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"Покрет за фразе"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"Уносите размаке током покрета преласком до тастера за размак"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"Подешавања"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Речник је доступан"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"Помоћ и повратне информације"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"Поново додирните да бисте сачували"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"Додирните овде да бисте сачували"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"Пребаци на друге методе уноса"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"Тастер за пребацивање језика обухвата и друге методе уноса"</string>
+    <string msgid="180852772562189365" name="install_dict">"Инсталирај"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"Подразумевано"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"Одложи одбацивање искачућег прозора тастера"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"Без одлагања"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"Тема тастатуре"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"Распоред"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"датум"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"датум и време"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"имејл"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"размена порука"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"број"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"телефон"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"текст"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"време"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"Тема тастатуре"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"Готов"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"Иди"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"След"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"Пауза"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"Претх"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"Тражи"</string>
+    <string msgid="482252074224462163" name="label_send_key">"Шаљи"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"Чекај"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"Језици"</string>
+    <string msgid="730467549913588780" name="last_update">"Последње ажурирање"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"Главни речник"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"Главни речник"</string>
+    <string msgid="5638680861387748936" name="message_loading">"Учитава се…"</string>
+    <string msgid="4457761393932375219" name="message_updating">"Траже се ажурирања"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"Није изабран ниједан налог"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"Нема доступних речника"</string>
+    <string msgid="6172462888202790482" name="not_now">"Не сада"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Искачући прозор приликом притиска тастера"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"Нема предлагања потенцијално увредљивих речи"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"Блокирај увредљиве речи"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"Емоџи за физичку тастатуру"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"Физички тастер Alt показује палету емоџија"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"Одлагање при дугом притиску"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"Јачина звука при притиску"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"Трајање вибрације при притиску"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"Прикажи предлоге за исправку"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"Приказивање предложених речи током уноса текста"</string>
+    <string msgid="4486081658752944606" name="remove">"Уклони"</string>
+    <string msgid="7646738597196767214" name="save">"Сачувај"</string>
+    <string msgid="5709487854987078367" name="select_language">"Језици"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"Налози и приватност"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"Напредно"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"Изглед и распореди"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"Исправљање текста"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"Куцање покретима"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"Подешавања"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"Тема"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"Подразумевано"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"Завршено"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"Следећи корак"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"Започнимо"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"Омогући у Подешавањима"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"Апликација <ns1:g id="APPLICATION_NAME">%s</ns1:g> је већ омогућена у Подешавањима језика и уноса тако да је овај корак готов. Пређимо на следећи!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"Потврдите апликацију „<ns1:g id="APPLICATION_NAME">%s</ns1:g>“ у Подешавањима језика и уноса. Тако јој одобравате покретање на уређају."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"Омогућите апликацију <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"Пребаци методе уноса"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"Затим изаберите „<ns1:g id="APPLICATION_NAME">%s</ns1:g>“ као активни метод уноса текста."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"Пребаците на <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"Конфигуриши додатне језике"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"Сада можете да куцате у свим омиљеним апликацијама помоћу <ns1:g id="APPLICATION_NAME">%s</ns1:g>."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"Честитамо, све је спремно!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"Подешавање апликације <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"помоћу Куцања покретима"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"Добро дошли у <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"Доступан је речник за изабрани језик на мобилном уређају.&lt;br/> Препоручујемо вам да &lt;b>преузмете&lt;/b> речник за <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> да бисте побољшали доживљај куцања.&lt;br/> &lt;br/> Преузимање може да траје минут или два преко 3G мреже. Трошкови ће можда бити наплаћени ако немате &lt;b>претплатнички пакет без ограничења&lt;/b>.&lt;br/> Ако нисте сигурни који претплатнички пакет имате, препоручујемо вам да пронађете Wi-Fi везу да бисте аутоматски започели преузимање.&lt;br/> &lt;br/> Савет: Речнике можете да преузимате и уклањате ако одете на &lt;b>Језик и унос&lt;/b> у менију &lt;b>Подешавања&lt;/b> на мобилном уређају."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"Тастер за пребацивање језика"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"Прикажи када је омогућено више језика уноса"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"Прикажи икону апликације"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"Икона апликације се приказује у покретачу"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Звук на притисак тастера"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Android провера правописа (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"Знак за редни број у женском роду"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"Знак микро"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"Знак за редни број у мушком роду"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"Оштро с"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"Краткоузлазно а"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"Дугоузлазно а"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"А са циркумфлексом"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"А са тилдом"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"А са умлаутом"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"А са кружићем изнад"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"Лигатура а и е"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"Ц са седиљом"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"Краткоузлазно е"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"Дугоузлазно е"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"Е са циркумфлексом"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"Е са умлаутом"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"Краткоузлазно и"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"Дугоузлазно и"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"И са циркумфлексом"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"И са умлаутом"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Ет"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"Н са тилдом"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"Краткоузлазно о"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"Дугоузлазно о"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"О са циркумфлексом"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"О са тилдом"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"О са умлаутом"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"Прецртано о"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"Краткоузлазно у"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"Дугоузлазно у"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"У са циркумфлексом"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"У са умлаутом"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Дугоузлазни ипсилон"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Торн"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Ипсилон са умлаутом"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"А са макроном"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"А са бревом"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"А са огонеком"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"Дугоузлазно ц"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"Ц са циркумфлексом"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"Ц са тачком изнад"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"Ч"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"Д са квачицом"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"Ђ"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"Е са макроном"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"Е са бревом"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"Е са тачком изнад"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"Е са огонеком"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"Е са квачицом"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"Г са циркумфлексом"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"Г са бревом"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"Г са тачком изнад"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"Г са седиљом"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"Х са циркумфлексом"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"Прецртано х"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"И са тилдом"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"И са макроном"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"И са бревом"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"И са огонеком"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"И без тачке"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"Лигатура и и ј"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"Ј са циркумфлексом"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"К са седиљом"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Кра"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"Дугоузлазно л"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"Л са седиљом"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"Л са квачицом"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"Л са тачком на средини"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"Прецртано л"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"Дугоузлазно н"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"Н са седиљом"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"Н са квачицом"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"Н коме претходи апостроф"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Ангма"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"О са макроном"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"О са бревом"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"О са двоструким акутним акцентом"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"Лигатура о и е"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"Дугоузлазно р"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"Р са седиљом"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"Р са квачицом"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"Дугоузлазно с"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"С са циркумфлексом"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"С са седиљом"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"Ш"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"Т са седиљом"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"Т са квачицом"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"Прецртано т"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"У са тилдом"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"У са макроном"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"У са бревом"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"У са кружићем изнад"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"У са двоструким акутним акцентом"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"У са огонеком"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"Дупло ве са циркумфлексом"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Ипсилон са циркумфлексом"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Дугоузлазно з"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"З са тачком изнад"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Ж"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"Дуго с"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"О са рогом"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"У са рогом"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"С са зарезом испод"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"Т са зарезом испод"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Шва"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"А са тачком испод"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"А са куком изнад"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"А са циркумфлексом, дугоузлазно"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"А са циркумфлексом, краткоузлазно"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"А са циркумфлексом и куком изнад"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"А са циркумфлексом и тилдом"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"А са циркумфлексом и тачком испод"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"А са бревом, дугоузлазно"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"А са бревом, краткоузлазно"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"А са бревом и куком изнад"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"А са бревом и тилдом"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"А са бревом и тачком испод"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"Е са тачком испод"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"Е са куком изнад"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"Е са тилдом"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"Е са циркумфлексом, дугоузлазно"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"Е са циркумфлексом, краткоузлазно"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"Е са циркумфлексом и куком изнад"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"Е са циркумфлексом и тилдом"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"Е са циркумфлексом и тачком испод"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"И са куком изнад"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"И са тачком испод"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"О са тачком испод"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"О са куком изнад"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"О са циркумфлексом, дугоузлазно"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"О са циркумфлексом, краткоузлазно"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"О са циркумфлексом и куком изнад"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"О са циркумфлексом и тилдом"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"О са циркумфлексом и тачком испод"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"О са рогом, дугоузлазно"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"О са рогом, краткоузлазно"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"О са рогом и куком изнад"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"О са рогом и тилдом"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"О са рогом и тачком испод"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"У са тачком испод"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"У са куком изнад"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"У са рогом, дугоузлазно"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"У са рогом, краткоузлазно"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"У са рогом и куком изнад"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"У са рогом и тилдом"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"У са рогом и тачком испод"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Краткоузлазни ипсилон"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Ипсилон са тачком испод"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Ипсилон са куком изнад"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Ипсилон са тилдом"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g> исправља <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> у <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> обавља аутоматско исправљање"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"Алтернативни знаци су одбачени"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"Алтернативни предлози су одбачени"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"Тренутни текст је %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"Претходно"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"Следеће"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"Избриши"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"Тачка"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"Емоџи"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"Пребаци језик"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"Гласовни унос"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"Режим слова"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"Режим телефона"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"Режим симбола телефона"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"Режим симбола"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"Режим Још симбола"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Return"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"Претражи"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"Подешавања"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Caps lock је омогућен"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Shift је омогућен"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"Размак"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"Још симбола"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"Симболи"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Картица"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"Слова"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"Бројеви"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"Симболи"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"Непознати знак"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"Велико <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"Емотикони"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"Природа"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"Предмети"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"Људи"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"Места"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"Недавни контакти"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"Симболи"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"Знак за ауторска права"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"Знак за регистровани бренд"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"Mahjong плочица са црвеним змајем"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"Карта за играње са црним џокером"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"Крвна група А"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"Крвна група Б"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"Нулта крвна група"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"Паркинг"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"Крвна група АБ"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"CL у квадрату"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"„Cool“ у квадрату"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"„Free“ у квадрату"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"„ID“ у квадрату"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"„New“ у квадрату"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"„N G“ у квадрату"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"„OK“ у квадрату"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"„SOS“ у квадрату"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"„Up“ са узвичником у квадрату"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"„VS“ у квадрату"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"Катакана знак за „овде“ у квадрату"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"Катакана знак за услугу у квадрату"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"Идеограф „Бесплатно“ у квадрату"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"Идеограф „Резервисано место“ у квадрату"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"Идеограф „Забрана“ у квадрату"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"Идеограф „Слободно место“ у квадрату"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"Идеограф „Прихватање“ у квадрату"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"Идеограф „Све је попуњено“ у квадрату"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Идеограф „Плаћено“ у квадрату"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"Идеограф „Месечно“ у квадрату"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"Идеограф „Пријава“ у квадрату"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"Идеограф „Попуст“ у квадрату"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"Идеограф „Радимо“ у квадрату"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"Заокружени идеограф „Предност“"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"Заокружени идеограф „Прихвати“"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"Циклон"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"Магла"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"Затворени кишобран"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"Звездана ноћ"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"Излазак сунца изнад планина"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"Излазак сунца"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"Град у сумрак"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"Залазак сунца изнад зграда"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"Дуга"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"Мост ноћу"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"Водени талас"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"Вулкан"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"Млечни пут"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"Земаљска кугла са Европом и Африком"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"Земаљска кугла са Америкама"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"Земаљска кугла са Азијом и Аустралијом"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"Земаљска кугла са меридијанима"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"Симбол младог месеца"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"Симбол месечевог српа у порасту"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"Симбол прве четврти месеца"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"Симбол месеца између прве четврти и пуног месеца"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"Симбол пуног месеца"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"Симбол месеца између пуног месеца и последње четврти"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"Симбол последње четврти месеца"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"Симбол месечевог српа у опадању"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"Месечев срп"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"Млад месец са лицем"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"Прва четврт месеца са лицем"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"Последња четврт месеца са лицем"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"Пун месец са лицем"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"Сунце са лицем"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"Сјајна звезда"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"Звезда падалица"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"Кестен"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"Младица"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"Зимзелено дрво"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"Листопадно дрво"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"Палма"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"Кактус"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"Лала"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"Цвет трешње"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"Ружа"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"Хибискус"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"Сунцокрет"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"Цват"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"Клип кукуруза"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"Стабљика пиринча"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"Биље"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"Детелина са четири листа"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"Јаворов лист"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"Опали лист"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"Опали лист лепрша на ветру"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"Печурка"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"Парадајз"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"Патлиџан"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"Грожђе"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"Диња"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"Лубеница"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"Мандарина"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"Лимун"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"Банана"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"Ананас"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"Црвена јабука"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"Зелена јабука"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"Крушка"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"Бресква"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"Трешње"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"Јагода"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"Хамбургер"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"Парче пице"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"Месо са коском"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"Батак"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"Пиринчани крекер"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"Куглица од пиринча"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"Кувани пиринач"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"Пиринач са каријем"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"Врућа чинија"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"Шпагете"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"Хлеб"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"Помфрит"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"Печени слатки кромпир"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"Данго"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"Оден"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"Суши"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"Пржени шкампи"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"Рибља пљескавица са шаром вртлога"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"Течни сладолед"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"Ломљени лед"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"Сладолед"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"Крофна"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"Колачић"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"Чоколадица"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"Бомбона"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Лизалица"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"Крем"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"Ћуп са медом"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"Тортица"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"Кутија са ручком"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"Чинија хране"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"Кување"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"Виљушка и нож"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"Шољица без дршке"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"Флаша сакеа и чаша"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"Чаша вина"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"Чаша коктела"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"Тропско пиће"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"Кригла пива"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"Кригле пива које се куцају"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"Флашица за бебе"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"Трака"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"Упакован поклон"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Рођенданскa тортa"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"Изрезбарена бундева"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"Новогодишња јелка"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"Божић Бата"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"Ватромет"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"Прскалица"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"Балон"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"Журка"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"Конфете"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"Дрво танабата"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"Укрштене заставе"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"Украс за јелку"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"Јапанске лутке"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"Ветроказ у облику шарана"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"Висећи метални звончићи"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"Церемонија гледања месеца"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"Школска торба"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"Капа за дипломце"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"Коњ са вртешке"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"Панорамски точак"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"Луна-парк"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"Штап за пецање и риба"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"Микрофон"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"Филмска камера"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"Биоскоп"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"Слушалице"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"Сликарска палета"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"Цилиндар"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"Циркуски шатор"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"Карта"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"Режисерска табла"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"Уметнички наступ"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"Видео игра"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"Директан погодак"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"Слот-машина"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"Билијар"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"Коцкица за игру"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"Куглање"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"Карте за играње са цветом"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"Музичка нота"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"Више музичких нота"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"Саксофон"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"Гитара"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"Клавијатура"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"Труба"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"Виолина"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"Нотни запис"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"Спортска мајица са траком"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"Тениски рекет и лоптица"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"Скија и скијашка чизма"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"Кошаркашка лопта и обруч"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"Застава за крај трке"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"Сноубордер"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"Тркач"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"Сурфер"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"Трофеј"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"Коњске трке"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"Амерички фудбал"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"Рагби"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"Пливач"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"Кућа"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"Кућа са баштом"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"Пословна зграда"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"Јапанска пошта"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"Европска пошта"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"Болница"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"Банка"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"Банкомат"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"Хотел"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"Романтични хотел"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"Продавница"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"Школа"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"Робна кућа"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"Фабрика"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"Изакаја лампа"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"Јапански дворац"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"Европски дворац"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"Пацов"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"Миш"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"Во"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"Водени биво"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"Крава"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"Леопард"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"Зец"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"Мачка"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"Змај"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"Крокодил"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"Кит"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"Пуж"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"Змија"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"Коњ"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"Ован"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"Коза"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"Овца"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"Мајмун"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"Петао"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"Кокошка"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"Пас"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"Прасе"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"Вепар"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"Слон"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"Октопод"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"Спирална шкољка"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"Буба"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"Мрав"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"Пчела"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"Бубамара"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"Риба"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"Тропска риба"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"Надувана риба"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"Корњача"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"Пиле које се испилило"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"Пиле"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"Пиле спреда"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"Птица"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"Пингвин"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"Коала"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"Пудлица"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"Једногрба камила"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"Двогрба камила"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"Делфин"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"Лице миша"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"Лице краве"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"Лице тигра"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"Лице зеца"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"Лице мачке"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"Лице змаја"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"Кит који је изронио"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"Лице коња"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"Лице мајмуна"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"Лице пса"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"Лице прасета"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"Лице жабе"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"Лице хрчка"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"Лице вука"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"Лице медведа"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"Лице панде"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"Њушка прасета"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"Отисци шапа"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"Очи"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"Уво"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"Нос"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"Уста"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"Језик"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"Спољни део беле шаке са кажипрстом нагоре"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"Спољни део беле шаке са кажипрстом надоле"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"Спољни део беле шаке са кажипрстом налево"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"Спољни део беле шаке са кажипрстом надесно"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"Песница"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"Рука која маше"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"Знак руком „У реду“"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"Палац окренут нагоре"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"Палац окренут надоле"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"Тапшање"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"Отворене шаке"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"Круна"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"Женски шешир"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"Наочаре"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"Кравата"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"Мајица"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"Фармерке"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"Хаљина"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"Кимоно"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"Бикини"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"Женска гардероба"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"Ташница"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"Ташна"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"Торбица"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"Мушка ципела"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"Патика"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"Ципела са високом штиклом"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"Женска сандала"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"Женске чизме"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"Отисци стопала"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"Силуета бисте"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"Силуета бисти"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"Дечак"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"Девојчица"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"Мушкарац"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"Жена"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"Породица"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"Мушкарац и жена се држе за руке"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"Двојица мушкараца се држе за руке"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"Две жене се држе за руке"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"Полицајац"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"Жена са зечјим ушима"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"Невеста са велом"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"Плавокоса особа"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"Мушкарац са гуа пи мао капом"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"Мушкарац са турбаном"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"Старији човек"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"Старија жена"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"Беба"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"Радник на градилишту"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"Принцеза"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"Јапански џин"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Јапански гоблин"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"Дух"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"Беба анђео"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"Ванземаљац"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"Чудовиште ванземаљац"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Ђаволчић"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"Лобања"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"Особа која даје информације"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"Чувар"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"Плесач"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"Кармин"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"Лак за нокте"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"Масажа лица"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"Фризура"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"Берберски знак"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"Шприц"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"Пилула"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"Отисак пољупца"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"Љубавно писмо"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"Прстен"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"Драгуљ"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"Пољубац"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"Букет"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"Пар са срцем"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"Венчање"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"Срце које куца"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"Сломљено срце"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"Два срца"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"Светлуцаво срце"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"Срце које расте"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"Срце прободено стрелом"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"Плаво срце"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"Зелено срце"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"Жуто срце"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"Љубичасто срце"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"Срце са траком"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"Срца која се окрећу"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"Украс у облику срца"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"Облик дијаманта са тачком у средини"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"Електрична сијалица"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"Симбол љутње"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"Бомба"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"Симбол спавања"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"Симбол судара"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"Симбол капи зноја"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"Капљица"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"Симбол црте"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"Гомила измета"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"Стегнути бицепс"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"Симбол вртоглавице"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"Облачић за говор"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"Балончић за размишљање"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"Бели цвет"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"Симбол за сто поена"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"Врећа новца"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"Мењачница"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"Попуњен симбол долара"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"Кредитна картица"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"Новчаница са знаком јена"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"Новчаница са знаком долара"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"Новчаница са знаком евра"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"Новчаница са знаком фунте"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"Новац са крилима"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"Дијаграм са растућим трендом и знаком јена"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"Седиште"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"Лични рачунар"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"Актен-ташна"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"Мини-диск"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"Дискета"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"Оптички диск"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"DVD"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"Директоријум датотеке"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"Отворени директоријум датотеке"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"Увијена страница"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"Страница окренута нагоре"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"Календар"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"Календар са листовима који се цепају"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"Индекс картица"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"Дијаграм са растућим трендом"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"Дијаграм са опадајућим трендом"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"Тракасти графикон"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"Табла за поруке"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"Прибадача"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"Округла прибадача"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"Спајалица"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"Прав лењир"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"Троугаони лењир"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"Обележивачи страница"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"Главна књига"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"Бележница"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"Бележница са декоративном корицом"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"Затворена књига"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"Отворена књига"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"Зелена књига"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"Плава књига"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"Наранџаста књига"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"Књиге"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"Значка са именом"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"Свитак"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"Меморандум"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"Телефонска слушалица"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"Пејџер"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"Факс"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"Сателитска антена"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"Разглас"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"Навијачки мегафон"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Документи за слање"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"Примљени документи"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"Пакет"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"Симбол имејла"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"Долазна порука"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"Стрелица надоле изнад коверте"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"Затворено поштанско сандуче са спуштеном заставом"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"Затворено поштанско сандуче са подигнутом заставом"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"Отворено поштанско сандуче са подигнутом заставом"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"Отворено поштанско сандуче са спуштеном заставом"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"Поштанско сандуче"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"Поштански рог"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"Новине"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"Мобилни телефон"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"Мобилни телефон са стрелицом надесно са леве стране"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"Режим вибрације"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"Мобилни телефон је искључен"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"Без мобилних телефона"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"Антена са тракама"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"Камера"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"Видео камера"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"Телевизор"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"Радио"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"Видео касета"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"Укрштене стрелице надесно"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"Кружне стрелице надесно и налево у смеру казаљки на сату"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"Кружне стрелице надесно и налево у смеру казаљки на сату преко којих стоји уоквирен број један"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"Кружне стрелице надоле и нагоре у смеру казаљки на сату"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"Кружне стрелице надоле и нагоре у смеру супротном казаљки на сату"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"Симбол слабог осветљења"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"Симбол јаког осветљења"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"Прецртани звучник"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"Звучник"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"Звучник са једним звучним таласом"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"Звучник са три звучна таласа"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"Батерија"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"Електрични утикач"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"Лупа окренута налево"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"Лупа окренута надесно"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"Катанац са пером"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"Затворен катанац са кључем"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"Кључ"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"Катанац"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"Отворени катанац"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"Звоно"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"Прецртано звоно"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"Обележивач"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"Симбол везе"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"Дугме за избор"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"Стрелица налево изнад „Back“"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"Стрелица налево изнад „End“"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"Стрелица налево и надесно изнад „On“ са узвичником"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Стрелица надесно изнад „Soon“"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Стрелица нагоре изнад „Top“"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"Забрањено за особе млађе од 18 година"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"Тастер са бројем 10"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"Симбол уноса за велика латинична слова"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"Симбол уноса за мала латинична слова"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"Симбол уноса за бројеве"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"Улазни симбол за симболе"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"Симбол уноса за латинична слова"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"Пожар"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"Батеријска лампа"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"Француски кључ"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"Чекић"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"Шраф и завртањ"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"Хочо"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"Пиштољ"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"Микроскоп"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"Телескоп"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"Кристална кугла"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"Шестокрака звезда са тачком у средини"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"Јапански симбол за почетника"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"Амблем трозупца"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"Дугме са црним квадратом"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"Дугме са белим квадратом"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"Велики црвени круг"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"Велики плави круг"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"Велики наранџасти дијамант"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"Велики плави дијамант"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"Мали наранџасти дијамант"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"Мали плави дијамант"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"Црвени троугао усмерен нагоре"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"Црвени троугао усмерен надоле"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"Мали црвени троугао усмерен нагоре"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"Мали црвени троугао усмерен надоле"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"Бројчаник који показује један сат"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"Бројчаник који показује два сата"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"Бројчаник који показује три сата"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"Бројчаник који показује четири сата"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"Бројчаник који показује пет сати"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"Бројчаник који показује шест сати"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"Бројчаник који показује седам сати"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"Бројчаник који показује осам сати"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"Бројчаник који показује девет сати"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"Бројчаник који показује десет сати"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"Бројчаник који показује једанаест сати"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"Бројчаник који показује дванаест сати"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"Бројчаник који показује пола два"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"Бројчаник који показује пола три"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"Бројчаник који показује пола четири"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"Бројчаник који показује пола пет"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"Бројчаник који показује пола шест"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"Бројчаник који показује пола седам"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"Бројчаник који показује пола осам"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"Бројчаник који показује пола девет"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"Бројчаник који показује пола десет"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"Бројчаник који показује пола једанаест"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"Бројчаник који показује пола дванаест"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"Бројчаник који показује пола један"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"Планина Фуџи"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"Токијски торањ"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"Кип слободе"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"Силуета Јапана"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"Мојаи"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"Лице са широким осмехом"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"Лице са широким осмехом и насмејаним очима"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"Лице са сузама радосницама"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"Насмејано лице са отвореним устима"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"Насмејано лице са отвореним устима и насмејаним очима"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"Насмејано лице са отвореним устима, обливено хладним знојем"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"Насмејано лице са отвореним устима и чврсто затвореним очима"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"Насмејано лице са ореолом"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"Насмејано лице са роговима"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"Лице које намигује"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"Насмејано лице са насмејаним очима"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"Лице које ужива у укусној храни"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"Лице са изразом олакшања"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"Насмејано лице са очима у облику срца"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"Насмејано лице са наочарима за сунце"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"Лице које се злобно смешка"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"Лице са неутралним изразом"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"Безизражајно лице"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"Лице коме није забавно"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"Лице обливено хладним знојем"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"Замишљено лице"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"Збуњено лице"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"Лице у недоумици"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"Лице које љуби"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"Лице које шаље пољубац"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"Лице које љуби са насмејаним очима"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"Лице које љуби са затвореним очима"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"Лице са исплаженим језиком"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"Лице које се плази и намигује"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"Лице које се плази са чврсто затвореним очима"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"Разочарано лице"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"Забринуто лице"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"Љутито лице"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"Надурено лице"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"Уплакано лице"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"Истрајно лице"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"Лице са победничким изразом"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"Разочарано лице коме је лакнуло"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"Намрштено лице са отвореним устима"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"Намучено лице"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"Уплашено лице"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"Опрезно лице"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"Поспано лице"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"Уморно лице"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"Лице са гримасом"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"Лице које плаче наглас"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"Лице са отвореним устима"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"Лице које ућуткује"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"Лице са отвореним устима, обливено хладним знојем"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"Лице које вришти у страху"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"Запањено лице"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"Зајапурено лице"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"Успавано лице"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"Лице коме се врти"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"Лице без уста"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"Лице са медицинском маском"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"Лице мачке са широким осмехом и насмејаним очима"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"Лице мачке са сузама радосницама"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"Насмејано лице мачке са отвореним устима"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"Насмејано лице мачке са очима у облику срца"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"Лице мачке са киселим осмехом"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"Лице мачке које љуби са затвореним очима"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"Надурено лице мачке"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"Уплакано лице мачке"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"Уморно лице мачке"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"Лице са изразом „нешто није у реду“"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"Лице са изразом одобравања"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"Особа која се дубоко клања"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"Мајмун који не види ништа лоше"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"Мајмун који не чује ништа лоше"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"Мајмун који не говори ништа лоше"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"Срећна особа са подигнутом руком"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"Особа која је из радости подигла руке"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"Намрштена особа"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"Надурена особа"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"Особа са спојеним рукама"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"Ракета"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"Хеликоптер"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"Парна локомотива"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"Вагон"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"Брзи воз"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"Брзи воз са заобљеним врхом"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"Воз"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"Метро"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"Градска железница"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"Станица"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"Трамвај"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"Вагон трамваја"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"Аутобус"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"Аутобус који стиже"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"Тролејбус"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"Аутобуско стајалиште"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"Минибус"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"Хитна помоћ"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"Ватрогасна кола"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"Полицијски ауто"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"Полицијски ауто који стиже"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"Такси"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"Такси који стиже"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"Аутомобил"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"Аутомобил који стиже"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"Камп-возило"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"Камион за испоруку"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"Камион са приколицом"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"Трактор"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"Пруга са једним колосеком"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"Планинска пруга"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"Висећа железница"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"Планинска жичара"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"Висећи трамвај"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"Брод"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"Чамац"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"Брзи моторни чамац"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"Хоризонтални семафор"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"Вертикални семафор"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"Знак за грађевинске радове"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"Ротационо светло полицијског аутомобила"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"Троугласта застава на стубу"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"Врата"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"Симбол за забрањен улаз"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"Симбол за пушење"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"Симбол забрањеног пушења"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"Симбол који упозорава где треба бацати отпад"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"Симбол забране бацања отпада"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"Симбол воде за пиће"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"Симбол воде која није за пиће"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"Бицикл"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"Забрањено за бицикле"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"Бициклиста"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"Планински бициклиста"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"Пешак"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"Забрањено за пешаке"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"Деца прелазе"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"Симбол мушког тоалета"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"Симбол женског тоалета"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"Тоалет"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"Симбол за бебе"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"Тоалет"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"WC"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"Туш"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"Купатило"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"Када"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"Пасошка контрола"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"Царина"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"Преузимање пртљага"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"Остављени пртљаг"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"Двоструки знак узвика"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"Знак узвика и знак питања"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"Знак жига"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"Извор информација"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"Стрелица налево и надесно"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"Стрелица нагоре и надоле"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"Стрелица северозапад"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"Стрелица североисток"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"Стрелица југоисток"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"Стрелица југозапад"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"Закривљена стрелица налево"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"Закривљена стрелица надесно"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"Ручни сат"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"Пешчани сат"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"Црни двоструки троугао усмерен надесно"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"Црни двоструки троугао усмерен налево"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"Црни двоструки троугао усмерен нагоре"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"Црни двоструки троугао усмерен надоле"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"Аларм"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"Пешчани сат са песком који тече"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"Заокружено велико латинично слово м"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"Мали црни квадрат"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"Мали бели квадрат"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"Црни троугао усмерен надесно"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"Црни троугао усмерен налево"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"Средњи бели квадрат"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"Средњи црни квадрат"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"Средње мали бели квадрат"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"Средње мали црни квадрат"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"Црно сунце са зрацима"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"Облак"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"Црни телефон"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"Опција са знаком потврде"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"Кишобран са кишним капима"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"Врућ напитак"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"Бели подигнути кажипрст"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"Бело насмејано лице"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"Ован"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"Бик"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"Близанци"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"Рак"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"Лав"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"Девица"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"Вага"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"Шкорпија"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"Стрелац"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"Јарац"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Водолија"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"Рибе"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"Црни пик"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"Црни треф"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"Црни херц"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"Црни каро"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Термални извори"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"Црни универзални симбол за рециклажу"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"Симбол инвалидских колица"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"Сидро"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"Знак упозорења"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"Знак за високи напон"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"Средњи бели круг"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"Средњи црни круг"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"Фудбалска лопта"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"Бејзбол"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"Снешко без снега"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"Сунце иза облака"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"Змијоноша"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"Забрањен улаз"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"Црква"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"Фонтана"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"Застава у рупи"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"Једрењак"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"Шатор"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"Пумпа за гориво"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"Црне маказе"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"Бели попуњени знак потврде"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"Авион"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"Коверта"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"Подигнута песница"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"Подигнута рука"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"Знак победе"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"Оловка"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"Црно перо"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"Попуњени знак потврде"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"Попуњен знак за множење x"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"Искре"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"Осмокрака звезда"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"Осмокрака црна звезда"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"Пахуљица"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"Искра"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"Знак x"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"Инверзни знак x"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"Орнамент са црним знаком питања"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"Орнамент са белим знаком питања"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"Орнамент са белим знаком узвика"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"Попуњен симбол знака узвика"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"Потпуно црно срце"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"Попуњен знак плус"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"Попуњен знак минус"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"Попуњен знак дељења"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"Црна стрелица надесно"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"Петља"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"Двострука петља"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"Стрелица усмерена надесно па нагоре"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"Стрелица усмерена надесно па надоле"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"Црна стрелица налево"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"Црна стрелица нагоре"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"Црна стрелица надоле"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"Велики црни квадрат"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"Велики бели квадрат"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"Средња бела звезда"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"Попуњени велики круг"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"Таласаста цртица"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"Знак за раздвајање делова"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"Заокружени идеограф за честитање"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"Заокружени идеограф за тајну"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"Непознати емоџи"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"Лице коме је досадно"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"Постиђено лице"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"Лице које љуби"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"Намрштено лице"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"Изненађено лице"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"Лице са наочарима за сунце"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"Нема предлога"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"Велико И"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"Велико И са тачком изнад"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"Текст није унет"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"Доступни су алтернативни знаци"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"Доступни су алтернативни предлози"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"Обрнути знак узвика"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"Леви двоструки угласти наводници"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"Тачка на средини"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Један у експонентном тексту"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"Десни двоструки угласти наводници"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"Обрнути знак питања"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"Леви једноструки наводник"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"Десни једноструки наводник"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Једноструки доњи отворени наводник"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"Леви двоструки наводник"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"Десни двоструки наводник"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Обелиск"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Двоструки обелиск"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Знак за промил"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Прим"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Дупли прим"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"Леви једноструки угласти наводник"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"Десни једноструки угласти наводник"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Четири у експонентном тексту"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Мало латинично н у експонентном тексту"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Знак за пезо"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"За"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"Стрелица надесно"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Стрелица надоле"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"Празан скуп"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Повећање"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"Мање или једнако"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"Веће или једнако"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"Црна звездица"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"Непознат симбол"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"Укључите слушалице да бисте чули наглас изговорене тастере за лозинку."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Емотикони"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"енглески (УК)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"енглески (САД)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"шпански (САД)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (компактна)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (традиционални)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"хенглески"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"Језик"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"Нема језика (абецеда)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"абецеда (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"абецеда (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"абецеда (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"абецеда (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"абецеда (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"абецеда (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"српски (латиница)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"енглески (УК) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"енглески (САД) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"шпански (САД) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"хенглески (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"српски (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"Промените налог"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"Синхронизуј одмах"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"Преузимање: Предлози за <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> ће ускоро бити спремни."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"Предложи имена контаката"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"Користи имена из Контаката за предлоге и исправке"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"Контролор правописа користи уносе са листе контаката"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"Потражи имена контаката"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"Тачка и размак"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"Двоструким додиром размака умеће се тачка праћена размаком"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"Персонализовани предлози"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"Користи комуникације и унете податке ради побољшања предлога"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" АБВГДЂЕЖЗИЈКЛЉМНЊОПРСТЋУФХЦЧЏШ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"Потврди"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"Мање опција"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"Више опција"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"Додавање у речник"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"Језик:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"Додај"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"Фраза"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"Опционална пречица"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"Пречица:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"Унесите реч"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"Реч:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"За све језике"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"Избриши"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"Измени"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"Избриши"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"Измена речи"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"Немате ниједну реч у корисничком речнику. Додајте реч додиром на дугме Додај (+)."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"Још језика..."</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"Кориснички речници"</string>
+    <string msgid="2715354215568469385" name="version_text">"Верзија <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Вибрирај на притисак тастера"</string>
+    <string msgid="3583258583521397548" name="voice_input">"Тастер за гласовни унос"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"Ниједан метод гласовног уноса није омогућен. Проверите Подешавања језика и уноса."</string>
+</resources>

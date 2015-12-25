@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g>ms"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"취소"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"확인"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"로그아웃"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"사용할 계정 선택"</string>
+    <string msgid="2846876462199625974" name="account_selected">"현재 <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>을(를) 사용 중입니다."</string>
+    <string msgid="8299699805688017798" name="add">"추가"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"이 기능을 사용하려면 기기에 Google 계정을 추가하세요."</string>
+    <string msgid="6163126614514489951" name="add_style">"스타일 추가"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Android 맞춤법 검사기 설정(AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"키보드 숨김"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"<ns1:g id="KEYBOARD_MODE">%s</ns1:g> 키보드 표시"</string>
+    <string msgid="6320102637491234792" name="app_name">"사전 제공업체"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"자동 대문자화"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"문장의 첫 단어를 대문자로 표시"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"자동 수정"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"스페이스바와 문장부호 키를 사용하면 오타가 자동으로 교정됩니다."</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"강력"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"약"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"사용 안함"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"매우 강력"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"다음 단어 추천"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"추천할 때 이전 단어를 사용"</string>
+    <string msgid="3988017840431881491" name="button_default">"기본값"</string>
+    <string msgid="6830980399865683324" name="cancel">"취소"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"취소"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"사전 서비스에 연결하는 중에 문제가 발생했습니다."</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"새로고침"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"동기화된 데이터가 클라우드에서 삭제됩니다. 계속하시겠습니까?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"삭제"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Google에서 동기화된 데이터 삭제"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"클라우드 데이터 삭제"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"취소"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"개인 사전이 Google 서버에 동기화되며 백업됩니다. Google의 제품 개선을 위해 단어 빈도에 관한 통계 정보가 수집될 수 있습니다. 모든 정보는 "<a href="https://www.google.com/policies/privacy">"Google 개인정보취급방침"</a>"에 따라 수집되고 사용됩니다."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"동기화가 사용 설정됩니다."</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"개인 사전을 기기 간에 동기화합니다."</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"Google Apps for Work 계정을 사용하는 기기에서는 동기화할 수 없습니다."</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google 키보드 동기화"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"사전 추가"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"입력 방법 설정"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"같은 입력 스타일이 다음과 같이 이미 존재합니다. <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"맞춤 입력 스타일을 사용하려면 사용 설정해야 합니다. 지금 사용 설정하시겠습니까?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"맞춤 입력 스타일"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"사용자 사전"</string>
+    <string msgid="756853268088330054" name="delete_dict">"삭제"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"검토하고 다운로드하려면 누르세요."</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> 사전을 사용할 수 있습니다."</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"사전 사용 가능"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"설치 완료되었으나 사용 중지됨"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"현재 다운로드 중"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"사전 사용 가능"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"설치됨"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"사전 제공업체"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"사전 서비스"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"사전 설정"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"사전 추가"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Wi-Fi를 통해 다운로드"</string>
+    <string msgid="6014835283119198591" name="download_description">"사전 업데이트 정보"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"지금 다운로드(<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g>MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"개인 사전"</string>
+    <string msgid="5031294444630523247" name="enable">"사용"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> 개선"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"분할 키보드 사용"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"입력 옵션"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android 키보드(AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Android 키보드 설정(AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"동적 플로팅 미리보기"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"제스처에 따라 추천 단어 보기"</string>
+    <string msgid="826951152254563827" name="gesture_input">"제스처 타이핑 사용"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"문자를 슬라이드하여 단어 입력"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"제스처 흔적 표시"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"구문 제스처"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"동작 중에 스페이스바 쪽으로 움직여 공백 입력"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"설정"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"사전 사용 가능"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"도움말 및 의견"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"저장하려면 다시 터치"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"저장하려면 여기를 터치하세요."</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"다른 입력 방법으로 전환"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"언어 전환 키가 제공하는 기타 입력 방법"</string>
+    <string msgid="180852772562189365" name="install_dict">"설치"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"기본값"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"키 팝업 해제 지연"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"지연 없음"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"키보드 테마"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"레이아웃"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"날짜"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"날짜 및 시간"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"이메일"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"문자 메시지"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"숫자"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"전화번호"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"텍스트"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"시간"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"키보드 테마"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"완료"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"이동"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"다음"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"중지"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"이전"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"검색"</string>
+    <string msgid="482252074224462163" name="label_send_key">"전송"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"대기"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"언어"</string>
+    <string msgid="730467549913588780" name="last_update">"최종 업데이트"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"기본 사전"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"기본 사전"</string>
+    <string msgid="5638680861387748936" name="message_loading">"로드 중..."</string>
+    <string msgid="4457761393932375219" name="message_updating">"업데이트를 확인하는 중"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"선택한 계정이 없습니다."</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"사용할 수 있는 사전이 없습니다."</string>
+    <string msgid="6172462888202790482" name="not_now">"나중에"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"키를 누를 때 팝업"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"불쾌감을 줄 수 있는 단어는 추천하지 않음"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"불쾌감을 주는 단어 차단"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"물리적 키보드용 그림 이모티콘"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"물리적 Alt 키로 그림 이모티콘 팔레트 표시"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"키 길게 누르기 지연"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"키를 누를 때 소리 볼륨"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"키를 누를 때 진동 시간"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"수정 제안 표시"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"글자를 입력하는 동안 추천 단어 표시"</string>
+    <string msgid="4486081658752944606" name="remove">"삭제"</string>
+    <string msgid="7646738597196767214" name="save">"저장"</string>
+    <string msgid="5709487854987078367" name="select_language">"언어"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"계정 및 개인정보 보호"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"고급"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"모양 및 레이아웃"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"텍스트 수정"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"제스처 타이핑"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"환경설정"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"테마"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"시스템 기본값"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"완료됨"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"다음 단계"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"시작하기"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"\'설정\'에서 사용 설정"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>은(는) 언어 및 입력 설정에서 이미 사용하도록 설정되어 있으므로 이 단계는 완료되었습니다. 다음 단계로 이동하세요."</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"언어 및 입력 설정에서 \'<ns1:g id="APPLICATION_NAME">%s</ns1:g>\'을(를) 확인하세요. 애플리케이션을 기기에서 실행할 수 있도록 승인합니다."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> 사용 설정"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"입력 방법 전환"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"그런 다음, 텍스트 입력 방법으로 \'<ns1:g id="APPLICATION_NAME">%s</ns1:g>\'을(를) 선택합니다."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>(으)로 전환"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"추가 언어 설정"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"이제 즐겨찾는 앱을 <ns1:g id="APPLICATION_NAME">%s</ns1:g>에 입력할 수 있습니다."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"모든 설정이 완료되었습니다."</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> 설정"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"제스처 타이핑 사용"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>에 오신 것을 환영합니다."</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"휴대기기에서 선택한 언어로 사용할 수 있는 사전이 있습니다.&lt;br/> <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> 사전을 &lt;b>다운로드&lt;/b>하여 입력 환경을 개선해 보세요.&lt;br/> &lt;br/> 3G로 다운로드하는 경우 1~2분 정도 걸립니다. &lt;b>무제한 데이터 요금제&lt;/b>가 아닌 경우 요금이 청구될 수 있습니다.&lt;br/> 사용 중인 데이터 요금제를 잘 모르는 경우 Wi-Fi에 연결할 수 있는 곳을 찾아 자동 다운로드를 시작하는 것이 좋습니다.&lt;br/> &lt;br/> 도움말: 사전을 다운로드하거나 삭제하려면 휴대기기의 &lt;b>설정&lt;/b> 메뉴에 있는 &lt;b>언어 및 입력&lt;/b>으로 이동하면 됩니다."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"언어 전환 키"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"여러 입력 언어를 사용하도록 설정할 때 표시"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"앱 아이콘 표시"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"실행기에 애플리케이션 아이콘 표시"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"키를 누를 때 소리 발생"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Android 맞춤법 검사기(AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"여성형 서수 표시기"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"마이크로 기호"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"남성형 서수 표시기"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"샤프 에스"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"에이, 그레이브"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"에이, 어큐트"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"에이, 서컴플렉스"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"에이, 틸드"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"에이, 디애레시스"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"에이, 위 링"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"에이, 이, 리가츄어"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"씨, 세딜라"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"이, 그레이브"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"이, 어큐트"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"이, 서컴플렉스"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"이, 디애레시스"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"아이, 그레이브"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"아이, 어큐트"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"아이, 서컴플렉스"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"아이, 디애레시스"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"에쓰"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"엔, 틸드"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"오, 그레이브"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"오, 어큐트"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"오, 서컴플렉스"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"오, 틸드"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"오, 디애레시스"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"오, 스트로크"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"유, 그레이브"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"유, 어큐트"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"유, 서컴플렉스"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"유, 디애레시스"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"와이, 어큐트"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"쏜"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"와이, 디애레시스"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"에이, 매크론"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"에이, 브레베"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"에이, 오고넥"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"씨, 어큐트"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"씨, 서컴플렉스"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"씨, 위 닷"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"씨, 캐론"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"디, 캐론"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"디, 스트로크"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"이, 매크론"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"이, 브레베"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"이, 위 닷"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"이, 오고넥"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"이, 캐론"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"지, 서컴플렉스"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"지, 브레베"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"지, 위 닷"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"지, 세딜라"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"에이치, 서컴플렉스"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"에이치, 스트로크"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"아이, 틸드"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"아이, 매크론"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"아이, 브레베"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"아이, 오고넥"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"닷리스 아이"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"아이, 제이, 리가츄어"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"제이, 서컴플렉스"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"케이, 세딜라"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"크라"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"엘, 어큐트"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"엘, 세딜라"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"엘, 캐론"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"엘, 가운데 닷"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"엘, 스트로크"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"엔, 어큐트"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"엔, 세딜라"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"엔, 캐론"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"엔, 앞 아포스트로피"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"잉"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"오, 매크론"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"오, 브레베"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"오, 더블 어큐트"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"오, 이, 리가츄어"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"알, 어큐트"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"알, 세딜라"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"알, 캐론"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"에스, 어큐트"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"에스, 서컴플렉스"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"에스, 세딜라"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"에스, 캐론"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"티, 세딜라"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"티, 캐론"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"티, 스트로크"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"유, 틸드"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"유, 매크론"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"유, 브레베"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"유, 위 링"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"유, 더블 어큐트"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"유, 오고넥"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"더블유, 서컴플렉스"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"와이, 서컴플렉스"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"지, 어큐트"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"지, 위 닷"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"지, 캐론"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"롱 에스"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"오, 혼"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"유, 혼"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"에스, 아래 콤마"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"티, 아래 콤마"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"슈와"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"에이, 아래 닷"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"에이, 위 후크"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"에이, 서컴플렉스 및 어큐트"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"에이, 서컴플렉스 및 그레이브"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"에이, 서컴플렉스 및 위 후크"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"에이, 서컴플렉스 및 틸드"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"에이, 서컴플렉스 및 아래 닷"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"에이, 브레베 및 어큐트"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"에이, 브레베 및 그레이브"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"에이, 브레베 및 위 후크"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"에이, 브레베 및 틸드"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"에이, 브레베 및 아래 닷"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"이, 아래 닷"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"이, 위 후크"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"이, 틸드"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"이, 서컴플렉스 및 어큐트"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"이, 서컴플렉스 및 그레이브"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"이, 서컴플렉스 및 위 후크"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"이, 서컴플렉스 및 틸드"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"이, 서컴플렉스 및 아래 닷"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"아이, 위 후크"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"아이, 아래 닷"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"오, 아래 닷"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"오, 위 후크"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"오, 서컴플렉스 및 어큐트"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"오, 서컴플렉스 및 그레이브"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"오, 서컴플렉스 및 위 후크"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"오, 서컴플렉스 및 틸드"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"오, 서컴플렉스 및 아래 닷"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"오, 혼 및 어큐트"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"오, 혼 및 그레이브"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"오, 혼 및 위 후크"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"오, 혼 및 틸드"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"오, 혼 및 아래 닷"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"유, 아래 닷"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"유, 위 후크"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"유, 혼 및 어큐트"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"유, 혼 및 그레이브"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"유, 혼 및 위 후크"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"유, 혼 및 틸드"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"유, 혼 및 아래 닷"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"와이, 그레이브"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"와이, 아래 닷"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"와이, 위 후크"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"와이, 틸드"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g>을(를) 누르면 <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g>을(를) <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>(으)로 수정합니다."</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g>을(를) 누르면 자동 수정됩니다."</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"대체 문자를 닫았습니다."</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"대체 추천 단어를 닫았습니다."</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"입력한 텍스트: %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"다음"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"이전"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift 키"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"삭제"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"글머리 기호"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"그림 이모티콘"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"언어 전환"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"음성 입력"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"문자 모드"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"다이얼 모드"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"전화 기호 모드"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"기호 모드"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"기호 더보기 모드"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"돌아가기"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"검색"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"설정"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift 키"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift 키"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Caps Lock 사용"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Shift 사용"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"스페이스바"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"기호 더보기"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"기호"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"탭"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"문자"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"숫자"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"기호"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"알 수 없는 문자"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"대문자 <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"이모티콘"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"자연"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"물건"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"사람"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"장소"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"최근"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"기호"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"저작권 기호"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"등록 기호"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"마작패 붉은 용"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"블랙 조커 카드"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"혈액형 A"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"혈액형 B"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"혈액형 O"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"주차장"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"혈액형 AB"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"CL 블록"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"COOL 블록"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"FREE 블록"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"ID 블록"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"NEW 블록"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"NG 블록"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"OK 블록"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"SOS 블록"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"UP! 블록"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"VS 블록"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"카타카나 여기 블록"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"카타카나 서비스 블록"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"한자 표기 무료 블록"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"한자 표기 예약석 블록"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"한자 표기 금지 블록"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"한자 표기 빈자리 블록"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"한자 표기 수락 블록"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"한자 표기 빈자리 없음 블록"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"한자 표기 유료 블록"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"한자 표기 월 블록"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"한자 표기 적용 블록"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"한자 표기 할인 블록"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"한자 표기 영업 중 블록"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"한자 표기 이익 원문자"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"한자 표기 수락 원문자"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"태풍"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"안개"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"접은 우산"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"별 밤"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"산 위의 일출"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"일출"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"황혼녘 도시 전경"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"빌딩 너머로 지는 해"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"무지개"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"교량 야경"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"파도"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"화산"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"은하수"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"지구본 유럽-아프리카"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"지구본 미주"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"지구본 아시아-오세아니아"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"자오선이 있는 지구본"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"삭 기호"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"삭현간 요월 기호"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"상현달 기호"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"현망간 철월 기호"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"보름달 기호"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"망현간 철월 기호"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"하현달 기호"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"현삭간 요월 기호"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"초승달"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"얼굴이 있는 삭"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"얼굴이 있는 상현달"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"얼굴이 있는 하현달"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"얼굴이 있는 보름달"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"얼굴이 있는 태양"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"반짝이는 별"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"별똥별"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"밤"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"묘목"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"상록수"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"낙엽수"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"야자나무"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"선인장"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"튤립"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"벚꽃"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"장미"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"무궁화"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"해바라기"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"꽃"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"옥수수"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"벼 이삭"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"허브"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"네 잎 클로버"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"단풍잎"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"낙엽"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"바람에 흩날리는 잎"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"버섯"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"토마토"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"가지"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"포도"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"멜론"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"수박"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"귤"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"레몬"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"바나나"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"파인애플"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"빨간 사과"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"초록 사과"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"배"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"복숭아"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"체리"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"딸기"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"햄버거"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"피자 조각"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"뼈에 붙은 고기"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"닭다리"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"쌀 과자"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"주먹밥"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"공기밥"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"카레라이스"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"라면"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"스파게티"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"빵"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"프렌치프라이"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"군고구마"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"경단 꼬치"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"어묵 꼬지"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"초밥"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"새우튀김"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"소용돌이무늬가 있는 어묵"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"소프트아이스크림"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"빙수"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"아이스크림"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"도넛"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"쿠키"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"초콜릿 바"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"사탕"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"막대 사탕"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"푸딩"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"꿀단지"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"조각 케이크"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"도시락"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"전골냄비"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"프라이팬"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"포크와 나이프"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"손잡이 없는 찻잔"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"술병과 잔"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"와인잔"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"칵테일잔"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"열대음료"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"맥주잔"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"맥주잔 건배"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"젖병"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"리본"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"포장된 선물"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"생일 케이크"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"호박 초롱"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"크리스마스 트리"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"산타클로스"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"불꽃놀이"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"불꽃놀이 폭죽"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"풍선"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"파티 폭죽"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"박 터트리기"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"일본 칠석제 나무"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"교차하는 깃발"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"소나무 장식"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"일본 인형"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"잉어 모양 깃발"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"풍경"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"달맞이 행사"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"책가방"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"학사모"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"회전목마"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"관람차"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"롤러코스터"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"낚싯대와 물고기"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"마이크"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"영화 카메라"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"극장"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"헤드폰"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"그림 팔레트"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"중절모"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"서커스 천막"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"입장권"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"슬레이트"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"공연"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"비디오 게임"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"명중"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"슬롯머신"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"당구"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"주사위"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"볼링"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"화투"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"음표"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"여러 개의 음표"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"색소폰"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"기타"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"건반"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"트럼펫"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"바이올린"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"악보"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"띠를 두른 셔츠"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"테니스 라켓과 공"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"스키와 스키 부츠"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"농구공과 농구 골대"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"바둑판무늬 깃발"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"스노보드를 타는 사람"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"달리는 사람"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"서핑을 하는 사람"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"트로피"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"경마"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"미식축구"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"럭비"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"수영하는 사람"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"주택"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"뜰이 있는 집"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"사무실 건물"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"일본 우체국"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"유럽 우체국"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"병원"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"은행"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"ATM"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"호텔"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"러브호텔"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"편의점"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"학교"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"백화점"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"공장"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"주점 초롱"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"일본 성"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"유럽 성"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"쥐"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"생쥐"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"소"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"물소"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"소"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"표범"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"토끼"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"고양이"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"용"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"악어"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"고래"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"달팽이"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"뱀"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"말"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"숫양"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"염소"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"양"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"원숭이"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"수탉"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"닭"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"개"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"돼지"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"수퇘지"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"코끼리"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"문어"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"소라껍데기"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"벌레"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"개미"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"꿀벌"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"무당벌레"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"물고기"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"열대어"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"복어"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"거북이"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"알 까는 병아리"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"병아리 옆모습"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"병아리 앞모습"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"새"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"펭귄"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"코알라"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"푸들"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"단봉낙타"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"쌍봉낙타"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"돌고래"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"생쥐 얼굴"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"소 얼굴"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"호랑이 얼굴"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"토끼 얼굴"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"고양이 얼굴"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"용 얼굴"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"물 뿜는 고래"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"말 얼굴"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"원숭이 얼굴"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"개 얼굴"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"돼지 얼굴"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"개구리 얼굴"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"햄스터 얼굴"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"늑대 얼굴"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"곰 얼굴"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"판다 얼굴"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"돼지 코"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"동물 발자국"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"눈"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"귀"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"코"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"입"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"혀"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"검지가 위를 가리키는 흰색 손등"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"검지가 아래를 가리키는 흰색 손등"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"검지가 왼쪽을 가리키는 흰색 손등"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"검지가 오른쪽을 가리키는 흰색 손등"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"주먹 기호"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"손을 흔드는 기호"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"OK 하는 손 기호"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"엄지를 올린 손 기호"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"엄지를 내린 손 기호"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"손뼉 치는 손 기호"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"양손을 벌린 기호"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"왕관"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"여성용 모자"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"안경"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"넥타이"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"티셔츠"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"청바지"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"원피스"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"기모노"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"비키니"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"블라우스"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"지갑"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"핸드백"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"파우치"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"남성 구두"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"운동화"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"하이힐"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"여성 샌들"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"여성 부츠"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"발자국"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"상반신 실루엣"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"여러 명의 상반신 실루엣"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"소년"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"소녀"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"남자"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"여자"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"가족"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"손을 잡고 있는 남자와 여자"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"손을 잡고 있는 두 남자"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"손을 잡고 있는 두 여자"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"경찰관"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"토끼 귀를 한 여자"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"면사포를 쓴 신부"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"머리가 금발인 사람"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"중국 전통 모자를 쓴 남자"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"터번을 두른 남자"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"할아버지"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"할머니"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"아기"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"건설 노동자"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"공주"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"도깨비"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"코가 큰 마귀"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"유령"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"아기 천사"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"외계인"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"우주 괴물"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"꼬마 도깨비"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"해골"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"안내 데스크 직원"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"근위대원"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"무용수"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"립스틱"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"매니큐어"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"얼굴 마사지"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"헤어컷"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"이발소의 간판 기둥"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"주사기"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"알약"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"키스 자국"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"연애편지"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"반지"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"보석"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"키스"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"부케"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"연인과 하트"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"결혼"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"두근거리는 하트"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"깨진 하트"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"두 개의 하트"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"반짝이는 하트"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"점점 커지는 하트"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"화살 맞은 하트"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"파란색 하트"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"녹색 하트"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"노란색 하트"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"보라색 하트"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"리본 달린 하트"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"회전하는 하트"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"하트 장식"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"내부에 점에 있는 마름모 도형"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"전구"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"분노 기호"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"폭탄"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"수면 기호"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"충돌 기호"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"땀방울"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"작은 물방울"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"대시 기호"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"똥 덩어리"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"울퉁불퉁한 이두박근"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"어지러움 기호"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"말풍선"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"생각 풍선"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"흰색 꽃"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"백점 기호"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"돈 가방"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"환전"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"굵은 달러 기호"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"신용카드"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"엔화 지폐"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"달러 지폐"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"유로화 지폐"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"파운드화 지폐"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"날개 달린 돈다발"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"엔화 기호가 있는 상향 추세의 차트"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"좌석"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"개인 컴퓨터"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"서류 가방"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"미니 디스크"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"플로피 디스크"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"광학 디스크"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"DVD"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"파일 폴더"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"열려있는 파일 폴더"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"끝이 둥글게 말린 종이"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"종이 앞면"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"달력"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"일일달력"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"카드 색인 바인더"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"상향 추세의 차트"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"하향 추세의 차트"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"막대그래프"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"클립보드"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"압정"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"둥근 압정"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"클립"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"막대자"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"삼각자"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"즐겨찾기 탭"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"원장"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"공책"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"장식 표지가 있는 공책"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"덮인 책"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"펼친 책"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"녹색 책"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"파란색 책"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"주황색 책"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"여러 권의 책"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"명찰"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"두루마리"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"메모"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"전화 수화기"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"호출기"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"팩스기"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"위성 안테나"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"확성기"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"응원 메가폰"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"보낼 편지함 트레이"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"받은 편지함 트레이"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"소포"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"이메일 기호"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"수신 메시지 봉투"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"아래 화살표가 위에 있는 봉투"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"깃발을 내리고 닫혀 있는 우편함"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"깃발을 올리고 닫혀 있는 우편함"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"깃발을 올리고 열려 있는 우편함"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"깃발을 내리고 열려 있는 우편함"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"우체통"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"나팔"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"신문"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"휴대전화"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"오른쪽 화살표가 왼쪽에 있는 휴대전화"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"진동 모드"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"휴대전화 끄기"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"휴대전화 사용 금지"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"신호가 강한 안테나"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"카메라"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"비디오 카메라"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"텔레비전"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"라디오"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"비디오 카세트"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"서로 교차하는 오른쪽 화살표"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"시계 방향으로 오른쪽과 왼쪽으로 각각 순환하는 열린 화살표"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"시계 방향으로 오른쪽과 왼쪽으로 각각 순환하는 열린 화살표와 그 위에 있는 원문자 1"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"시계 방향으로 위아래로 각각 순환하는 열린 화살표"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"시계 반대 방향으로 위아래로 각각 순환하는 열린 화살표"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"낮은 명도 기호"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"높은 명도 기호"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"스피커 사용 중지"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"스피커"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"하나의 음파가 있는 스피커"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"세 개의 음파가 있는 스피커"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"배터리"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"전기 플러그"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"왼쪽을 향한 돋보기"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"오른쪽을 향한 돋보기"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"잉크 펜과 자물쇠"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"열쇠와 자물쇠"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"열쇠"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"자물쇠"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"열려있는 자물쇠"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"종"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"종 사용 중지"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"책갈피"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"사슬 기호"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"라디오 버튼"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"왼쪽 화살표가 위에 있는 BACK"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"왼쪽 화살표가 위에 있는 END"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"좌우 양방향 화살표가 위에 있는 ON!"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"오른쪽 화살표가 위에 있는 SOON"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"위 화살표가 위에 있는 TOP"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"18세 이하 금지 기호"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"키 캡 10"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"라틴어 대문자 입력 기호"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"라틴어 소문자 입력 기호"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"숫자 입력 기호"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"기호 입력 기호"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"라틴어 문자 입력 기호"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"불"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"손전등"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"렌치"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"망치"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"너트와 볼트"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"식칼"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"권총"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"현미경"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"망원경"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"수정구"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"중앙에 점이 있고 6각별"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"일본식 초보자 기호"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"삼지창 엠블럼"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"정사각형 검은색 버튼"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"정사각형 흰색 버튼"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"큰 빨간색 원"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"큰 파란색 원"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"큰 주황색 마름모"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"큰 파란색 마름모"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"작은 주황색 마름모"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"작은 파란색 마름모"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"빨간색 삼각형"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"빨간색 역삼각형"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"작은 빨간색 삼각형"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"작은 빨간색 역삼각형"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"1시를 가리키는 시계"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"2시를 가리키는 시계"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"3시를 가리키는 시계"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"4시를 가리키는 시계"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"5시를 가리키는 시계"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"6시를 가리키는 시계"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"7시를 가리키는 시계"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"8시를 가리키는 시계"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"9시를 가리키는 시계"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"10시를 가리키는 시계"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"11시를 가리키는 시계"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"12시를 가리키는 시계"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"1시 30분을 가리키는 시계"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"2시 30분을 가리키는 시계"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"3시 30분을 가리키는 시계"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"4시 30분을 가리키는 시계"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"5시 30분을 가리키는 시계"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"6시 30분을 가리키는 시계"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"7시 30분을 가리키는 시계"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"8시 30분을 가리키는 시계"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"9시 30분을 가리키는 시계"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"10시 30분을 가리키는 시계"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"11시 30분을 가리키는 시계"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"12시 30분을 가리키는 시계"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"후지 산"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"도쿄 타워"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"자유의 여신상"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"일본의 실루엣"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"모아의 석상"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"이를 드러내고 활짝 웃는 얼굴"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"미소 짓는 눈으로 웃는 얼굴"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"기쁨의 눈물을 흘리는 얼굴"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"입을 벌리고 웃는 얼굴"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"입을 벌리고 미소 짓는 눈으로 웃는 얼굴"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"입을 벌리고 식은땀을 흘리며 웃는 얼굴"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"입을 벌리고 눈을 꼭 감은 채로 웃는 얼굴"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"후광이 있는 웃는 얼굴"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"뿔 달린 웃는 얼굴"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"윙크하는 얼굴"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"미소 짓는 눈으로 웃는 얼굴"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"맛있는 음식을 음미하는 얼굴"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"안심하는 얼굴"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"하트 눈으로 웃는 얼굴"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"선글라스를 쓰고 웃는 얼굴"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"능글맞게 웃는 얼굴"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"감정을 드러내지 않은 얼굴"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"무표정한 얼굴"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"지루해하는 얼굴"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"식은땀 나는 얼굴"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"사색에 잠긴 얼굴"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"혼란에 빠진 얼굴"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"당혹해하는 얼굴"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"키스하는 얼굴"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"키스를 날리는 얼굴"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"미소 짓는 눈으로 키스하는 얼굴"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"눈을 감은 채 키스하는 얼굴"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"메롱 하는 얼굴"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"윙크하며 메롱 하는 얼굴"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"눈을 꼭 감은 채 메롱 하는 얼굴"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"실망한 얼굴"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"걱정하는 얼굴"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"화난 얼굴"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"입을 삐죽 내민 얼굴"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"우는 얼굴"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"인내하는 얼굴"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"의기양양한 얼굴"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"실망하지만 안심하는 얼굴"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"입을 벌리고 찡그리는 얼굴"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"고뇌에 찬 얼굴"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"두려워하는 얼굴"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"지친 얼굴"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"졸린 얼굴"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"피곤해하는 얼굴"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"찡그린 얼굴"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"엉엉 우는 얼굴"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"입을 벌린 얼굴"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"숨죽인 얼굴"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"입을 벌리고 식은땀 흘리는 얼굴"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"공포의 비명을 지르는 얼굴"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"놀라는 얼굴"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"빨개진 얼굴"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"잠자는 얼굴"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"어지러워하는 얼굴"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"입이 없는 얼굴"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"마스크를 한 얼굴"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"미소 짓는 눈으로 웃는 고양이 얼굴"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"기쁨의 눈물을 흘리는 고양이 얼굴"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"입을 벌리고 웃는 고양이 얼굴"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"하트 눈으로 웃는 고양이 얼굴"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"쓴웃음을 짓는 고양이 얼굴"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"눈을 감은 채 키스하는 고양이 얼굴"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"입을 삐죽 내민 고양이 얼굴"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"우는 고양이 얼굴"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"지친 고양이 얼굴"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"안 된다는 신호를 하는 얼굴"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"OK 신호를 하는 얼굴"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"절하는 사람"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"눈을 가린 원숭이"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"귀를 막은 원숭이"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"입을 막은 원숭이"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"한 손을 든 행복한 사람"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"두 손을 들고 축하하는 사람"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"눈살을 찌푸린 사람"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"입을 삐죽 내민 사람"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"두 손을 모은 사람"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"로켓"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"헬리콥터"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"증기 기관차"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"철도 차량"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"고속 열차"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"고속 탄환 열차"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"기차"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"지하철"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"경전철"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"역"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"전차"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"전차 차량"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"버스"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"다가오는 버스"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"트롤리버스"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"버스 정류장"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"미니버스"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"구급차"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"소방차"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"경찰차"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"다가오는 경찰차"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"택시"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"다가오는 택시"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"자동차"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"다가오는 자동차"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"SUV"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"배달 트럭"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"트레일러"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"트랙터"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"모노레일"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"산악 기차"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"케이블카"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"산악용 케이블카"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"공중 케이블카"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"배"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"노 젓는 보트"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"모터보트"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"가로 신호등"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"세로 신호등"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"공사 표지"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"경찰차 사이렌"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"깃대에 있는 삼각 깃발"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"문"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"출입 금지 기호"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"흡연 기호"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"금연 기호"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"쓰레기통 사용 권장 기호"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"쓰레기 무단 투기 금지 기호"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"식수 기호"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"식수 금지 기호"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"자전거"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"자전거 금지"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"자전거 타는 사람"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"산악자전거 타는 사람"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"보행자"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"보행 금지"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"길 건너는 어린이"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"남자 기호"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"여자 기호"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"화장실"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"아기 기호"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"변기"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"WC"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"샤워"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"목욕"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"욕조"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"출입국 관리"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"세관"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"수하물"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"미수취 수하물"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"느낌표 2개"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"느낌표 물음표"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"상표 기호"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"안내소"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"좌우 양방향 화살표"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"상하 양방향 화살표"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"북서쪽 화살표"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"북동쪽 화살표"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"남동쪽 화살표"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"남서쪽 화살표"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"왼쪽을 가리키는 갈고리 화살표"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"오른쪽을 가리키는 갈고리 화살표"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"손목시계"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"모래시계"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"오른쪽을 가리키는 검은색 이중 삼각형"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"왼쪽을 가리키는 검은색 이중 삼각형"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"위를 가리키는 검은색 이중 삼각형"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"아래를 가리키는 검은색 이중 삼각형"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"알람 시계"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"모래가 떨어지는 모래시계"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"라틴어 M 원문자"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"작은 검은색 정사각형"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"작은 흰색 정사각형"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"오른쪽을 가리키는 검은색 삼각형"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"왼쪽을 가리키는 검은색 삼각형"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"중간 크기의 흰색 정사각형"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"중간 크기의 검은색 정사각형"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"중소형의 흰색 정사각형"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"중소형의 검은색 정사각형"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"햇살이 있는 검은색 태양"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"구름"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"검은색 전화기"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"체크표시가 있는 정사각형"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"우산과 빗방울"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"뜨거운 음료"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"위를 가리키는 흰색 검지"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"웃는 흰색 얼굴"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"양자리"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"황소자리"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"쌍둥이자리"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"게자리"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"사자자리"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"처녀자리"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"천칭자리"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"전갈자리"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"궁수자리"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"염소자리"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"물병자리"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"물고기자리"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"검은색 스페이드"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"검은색 클로버"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"검은색 하트"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"검은색 다이아몬드"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"온천"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"검은색 보편적인 재활용 기호"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"휠체어 기호"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"닻"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"경고 기호"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"고압 전류 기호"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"중간 크기의 흰색 원"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"중간 크기의 검은색 원"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"축구공"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"야구공"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"눈송이 없는 눈사람"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"구름에 가려진 태양"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"뱀주인자리"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"진입 금지"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"교회"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"분수"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"골프 홀에 있는 깃발"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"범선"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"텐트"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"주유기"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"검은색 가위"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"굵은 흰색 체크표시"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"비행기"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"봉투"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"위를 향한 주먹"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"위를 향한 손"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"승리의 V를 한 손"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"연필"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"검은색 펜촉"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"굵은 체크표시"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"굵은 곱셈 표시"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"반짝임"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"8각 별표"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"8각 검은 별"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"눈송이"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"광채"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"곱셈 표시"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"음각 곱셈 표시 블록"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"검은색 물음표"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"흰색 물음표"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"흰색 느낌표"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"굵은 느낌표 기호"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"검은색 하트"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"굵은 덧셈 기호"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"굵은 뺄셈 기호"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"굵은 나눗셈 기호"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"검은색 오른쪽 화살표"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"한 번 꼬인 선"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"두 번 꼬인 선"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"오른쪽을 가리키다가 위로 꺾어지는 화살표"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"오른쪽을 가리키다가 아래로 꺾어지는 화살표"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"검은색 왼쪽 화살표"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"검은색 위 화살표"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"검은색 아래 화살표"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"큰 검은색 정사각형"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"큰 흰색 정사각형"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"중간 크기의 흰색 화살표"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"굵은 선으로 된 흰색 원"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"물결 대시"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"부품 교체 마크"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"한자 표기 축하 원문자"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"한자 표기 비밀 원문자"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"알 수 없는 그림 이모티콘"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"지루한 얼굴"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"당황한 얼굴"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"키스하는 얼굴"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"찌푸린 얼굴"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"놀란 얼굴"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"선글라스 쓴 얼굴"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"추천 항목 없음"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"대문자 아이"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"대문자 아이, 위 닷"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"입력한 텍스트 없음"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"대체 문자를 사용할 수 있습니다"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"대체 추천 단어를 사용할 수 있습니다"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"반전 느낌표"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"왼쪽 겹꺾쇠표"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"가운뎃점"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"슈퍼스크립트 1"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"오른쪽 겹꺾쇠표"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"반전 물음표"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"왼쪽 작은따옴표"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"오른쪽 작은따옴표"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"쉼표"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"왼쪽 큰따옴표"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"오른쪽 큰따옴표"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"단검표"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"2중 단검표"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"퍼밀 기호"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"프라임"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"더블 프라임"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"왼쪽 꺾쇠표"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"오른쪽 꺾쇠표"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"슈퍼스크립트 4"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"슈퍼스크립트 라틴 소문자 엔"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"페소 기호"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"전교 기호"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"오른쪽 화살표"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"아래쪽 화살표"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"공집합 기호"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"델타"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"작거나 같음"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"크거나 같음"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"검은 별"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"알 수 없는 기호"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"비밀번호 키를 음성으로 들으려면 헤드셋을 연결하세요."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"이모티콘"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"영어(영국)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"영어(미국)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"스페인어(미국)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g>(컴팩트)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g>(번체)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"인도 영어"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"언어"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"언어 없음(알파벳)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"알파벳(AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"알파벳(콜맥)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"알파벳(드보락)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"알파벳(PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"알파벳(QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"알파벳(QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"세르비아어(라틴 문자)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"영어(영국)(<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"영어(미국)(<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"스페인어(미국)(<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"인도 영어(<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"세르비아어(<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"계정 전환"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"지금 동기화"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"다운로드 중: <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>에 대한 추천항목이 곧 준비됩니다."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"주소록 이름 활용"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"추천 및 수정에 주소록의 이름 사용"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"맞춤법 검사기가 주소록의 항목을 사용합니다."</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"연락처 이름 조회"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"더블스페이스 마침표"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"스페이스바를 두 번 탭하면 마침표와 공백 한 개가 삽입됩니다."</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"맞춤 추천 검색어"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"사용자의 대화 내용과 입력한 데이터를 통해 단어 추천의 정확도를 개선합니다."</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"확인"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"옵션 숨기기"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"옵션 더보기"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"사전에 추가"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"언어:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"추가"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"구문"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"선택적 단축키"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"단축키:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"단어 입력"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"단어:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"모든 언어"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"삭제"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"수정"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"삭제"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"단어 수정"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"사용자 사전에 단어가 없습니다. 추가(+) 버튼을 터치하여 단어를 추가할 수 있습니다."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"더보기…"</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"사용자 사전"</string>
+    <string msgid="2715354215568469385" name="version_text">"버전 <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"키를 누를 때 진동 발생"</string>
+    <string msgid="3583258583521397548" name="voice_input">"음성 입력 키"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"사용 설정된 음성 입력 방법이 없습니다. 언어 및 입력 설정을 확인하세요."</string>
+</resources>

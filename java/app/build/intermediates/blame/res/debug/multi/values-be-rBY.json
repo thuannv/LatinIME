@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/values-be-rBY/values-be-rBY.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-be-rBY/bools.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 42,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 79,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-be-rBY/strings-action-keys.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 974,
+                        "endColumn": 79,
+                        "endOffset": 1049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 77,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-be-rBY/strings-action-keys.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 735,
+                        "endColumn": 77,
+                        "endOffset": 808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 77,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-be-rBY/strings-action-keys.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 813,
+                        "endColumn": 77,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 78,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-be-rBY/strings-action-keys.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 78,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 82,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-be-rBY/strings-action-keys.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 891,
+                        "endColumn": 82,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 82,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-be-rBY/strings-action-keys.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1054,
+                        "endColumn": 82,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 78,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-be-rBY/strings-action-keys.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 78,
+                        "endOffset": 1290
+                    }
+                }
+            }
+        ]
+    }
+]

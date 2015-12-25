@@ -1,0 +1,1279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <integer name="sentence_separator">1417</integer>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g>մվ"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"Չեղարկել"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"Լավ"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"Դուրս գալ"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"Ընտրեք հաշիվ՝ օգտագործելու համար"</string>
+    <string msgid="2846876462199625974" name="account_selected">"Ներկայումս օգտագործում է՝ <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"Ավելացնել"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"Այս հնարավորությունն ընձեռելու համար սարքում հավելեք Google հաշիվ"</string>
+    <string msgid="6163126614514489951" name="add_style">"Ավելացնել ոճ"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Android տառասխալների ուղղիչի կարգավորումներ (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"Ստեղնաշարը թաքցված է"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"Ցուցադրվում է <ns1:g id="KEYBOARD_MODE">%s</ns1:g> ստեղնաշարը"</string>
+    <string msgid="6320102637491234792" name="app_name">"Բառարանի մատակարար"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Ավտոմատ գլխատառացում"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"Գլխատառել յուրաքանչյուր նախադասության առաջին բառը"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"Ինքնուղղում"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"Տպագրական սխալով բառերում ավտոմատ տեղադրել բացակներն ու կետադրական նշանները"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"Ագրեսիվ"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"Համեստ"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"Անջատված"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"Շատ ագրեսիվ"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"Հաջորդ բառի առաջարկներ"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"Առաջարկներ կազմելու համար օգտագործել նախորդ բառը"</string>
+    <string msgid="3988017840431881491" name="button_default">"Լռելյայնը"</string>
+    <string msgid="6830980399865683324" name="cancel">"Չեղարկել"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"Չեղարկել"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"Բառարանային ծառայությանը միացման խնդիր կա"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"Թարմացնել"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"Ձեր համաժամեցրած տվյալները ջնջվելու են ամպից: Շարունակե՞լ:"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"Ջնջել"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Google- ից ջնջում է ձեր համաժամեցրած տվյալները"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"Ջնջել ամպի տվյալները"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"Չեղարկել"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"Ձեր անհատական բառարանը համաժամեցվելու և կրկնօրինակվելու է Google սերվերներում: Կարող են հավաքվել բառերի օգտագործման հաճախականության վիճակագրական տվյալներ՝ մեր արտադրանքների որակը բարելավելու նպատակով: Բոլոր տվյալները հավաքվելու և օգտագործվելու են "<a href="https://www.google.com/policies/privacy">"Google-ի Գաղտնիության քաղաքականության"</a>" դրույթների համաձայն:"</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"Համաժամեցումը միացված է"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"Համաժամեցնել ձեր անհատական բառարանը սարքերի միջև"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"Google Apps for Business հաշիվներով սարքերում համաժամացումը հասանելի չէ"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google Ստեղնաշարի համաժամեցում"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"Ավելացնել բառարաններ"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"Կարգավորել մուտքագրման մեթոդները"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"Մուտքագրման այսպիսի ոճ արդեն գոյություն ունի՝ <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"Մուտքագրման ձեր հատուկ ոճը պետք է միացված լինի նախքան դուք կսկսեք օգտագործել այն: Ցանկանո՞ւմ եք միացնել այն հիմա:"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"Մուտքագրման հատուկ ոճեր"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"Օգտվողի բառարան"</string>
+    <string msgid="756853268088330054" name="delete_dict">"Ջնջել"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"Սեղմեք՝ վերանայելու և ներբեռնելու համար"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> լեզվի համար առկա է բառարան"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"Բառարանն առկա է"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"Տեղադրված է, անջատված է"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"Այս պահին ներբեռնվում է"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"Բառարանն առկա է"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"Տեղադրված է"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"Բառարանի մատակարար"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"Բառարանի ծառայություն"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"Բառարանների կարգավորումներ"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"Ավելացնել բառարաններ"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Ներբեռնել Wi-Fi-ով"</string>
+    <string msgid="6014835283119198591" name="download_description">"Տեղեկություններ բառարանների թարմացման մասին"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"Ներբեռնել հիմա (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g>ՄԲ)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"Անհատական բառարան"</string>
+    <string msgid="5031294444630523247" name="enable">"Միացնել"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"Բարելավել <ns1:g id="APPLICATION_NAME">%s</ns1:g>-ը"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"Միացնել բաժանված ստեղնաշարը"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Ներածման ընտրանքներ"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android Ստեղնաշար (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Android ստեղնաշարի կարգավորումներ (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"Դինամիկ սահող նախատեսք"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"Տեսեք առաջարկված բառը՝ ժեստի միջոցով"</string>
+    <string msgid="826951152254563827" name="gesture_input">"Միացնել ժեստերով մուտքագրումը"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"Մուտքագրեք բառ` սահեցնելով տառերը"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"Ցույց տալ ժեստի հետագիծը"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"Բառակապակցային ժեստ"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"Ներմուծեք բացատներ ժեստերի ընթացքում՝ սահելով բացատ ստեղնի վրայով"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"Կարգավորումներ"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Բառարանն առկա է"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"Օգնություն և հետադարձ կապ"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"Պահպանելու համար կրկին հպեք"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"Պահելու համար հպեք այստեղ"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"Անցնել մուտքագրման այլ եղանակների"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"Լեզվի փոխարկման բանալին ընդգրկում է այլ մուտքագրման եղանակներ ևս"</string>
+    <string msgid="180852772562189365" name="install_dict">"Տեղադրել"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"Նախնականը"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"Ելնող պատուհանի հեռացման հետաձգման ստեղն"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"Առանց հետաձգման"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"Ստեղնաշարի թեման"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"Դասավորություն"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"ամսաթիվ"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"ամսաթիվ և ժամ"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"էլփոստ"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"նամակագրություն"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"թվեր"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"հեռախոսահամար"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"տեքստ"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"ժամանակ"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"Ստեղնաշարի թեման"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"Պատրաստ է"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"Առաջ"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"Հաջորդը"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"Դադարեցնել"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"Նախորդը"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"Որոնում"</string>
+    <string msgid="482252074224462163" name="label_send_key">"Ուղարկել"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"Սպասել"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"Լեզուներ"</string>
+    <string msgid="730467549913588780" name="last_update">"Վերջին անգամ թարմացվել է"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"Հիմնական բառարան"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"Հիմնական բառարան"</string>
+    <string msgid="5638680861387748936" name="message_loading">"Բեռնում..."</string>
+    <string msgid="4457761393932375219" name="message_updating">"Ստուգվում է թարմացումների առկայությունը"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"Հաշիվ չի ընտրվել"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"Բառարաններ չկան"</string>
+    <string msgid="6172462888202790482" name="not_now">"Ոչ հիմա"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Ելնող պատուհան՝ ստեղնի հպման դեպքում"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"Չառաջարկել հավանական վիրավորական բառերը"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"Արգելափակել վիրավորական բառերը"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"Ֆիզիկական ստեղնաշարի զմայլիկ"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"Alt ստեղնը ցուցադրում է զմայլիկների պնակը"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"Ստեղնի երկար սեղմման ուշացում"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"Սեղմման ձայնի բարձրությունը"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"Սեղմման թրթռոցի տևողություն"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"Ցուցադրել ուղղումների առաջարկներ"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"Ցուցադրել առաջարկվող բառերը մուտքագրման ընթացքում"</string>
+    <string msgid="4486081658752944606" name="remove">"Հեռացնել"</string>
+    <string msgid="7646738597196767214" name="save">"Պահել"</string>
+    <string msgid="5709487854987078367" name="select_language">"Լեզուներ"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"Հաշիվներ և գաղտնիություն"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"Հավելյալ"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"Արտաքին տեսք և դասավորություն"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"Տեքստի ուղղում"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"Ժեստերով մուտքագրում"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"Նախընտրանքներ"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"Թեմա"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"Համակարգի լռելյայնները"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"Ավարտված"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"Հաջորդ քայլը"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"Սկսել"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"Միացնել կարգավորումներից"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-ն արդեն միացված է ձեր Լեզվի &amp; մուտքագրման կարգավորումներում, ուստի այս քայլն արված է: Անցնել հաջորդին:"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"Խնդրում ենք ստուգել «<ns1:g id="APPLICATION_NAME">%s</ns1:g>»-ը ձեր Լեզվի &amp; մուտքագրման կարգավորումներում: Դա կլիազորի նրան գործարկվել ձեր սարքում:"</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"Միացնել <ns1:g id="APPLICATION_NAME">%s</ns1:g>-ը"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"Փոխարկել մուտքագրման եղանակները"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"Հաջորդիվ, ընտրեք «<ns1:g id="APPLICATION_NAME">%s</ns1:g>»-ը որպես ձեր ակտիվ տեքստային մուտքագրման եղանակ:"</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"Փոխարկել <ns1:g id="APPLICATION_NAME">%s</ns1:g>-ին"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"Կարգավորել լրացուցիչ լեզուները"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"Այժմ դուք կարող եք մուտքագրել ձեր բոլոր սիրելի հավելվածներում <ns1:g id="APPLICATION_NAME">%s</ns1:g>-ով:"</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"Շնորհավորում ենք, դուք տեղադրեցիք բոլորը:"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"Տեղադրվում է <ns1:g id="APPLICATION_NAME">%s</ns1:g>-ը"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"Ժեստային մուտքագրմամբ"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"Բարի գալուստ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"Ձեր բջջային սարքում ընտրված լեզվով առկա է բառարան:<br/> Խորհուրդ ենք տալիս &lt;b>ներբեռնել&lt;/b> <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> բառարանը՝ ձեր մուտքագրման հմտությունների բարելավման համար:&lt;br/> &lt;br/> Ներբեռնումը կարող է խլել մեկ կամ երկու րոպե 3G-ի դեպքում: Հնարավոր է գանձում կատարվի, եթե դուք չունեք &lt;b>տվյալների անսահմանափակ փաթեթ&lt;/b>.&lt;br/> Եթե դուք վստահ չեք, թե տվյալների որ փաթեթն ունեք, խորհուրդ ենք տալիս գտնել Wi-Fi կապ՝ ներբեռնումն ավտոմատ սկսելու համար:&lt;br/> &lt;br/> Հուշում. դուք կարող եք ներբեռնել և հեռացնել բառարաններ՝ անցնելով ձեր բջջային սարքի &lt;b>Կարգավորումներ ցանկի Լեզու և մուտքագրում&lt;/b> բաժինը:"</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"Լեզվի փոխարկման ստեղն"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"Ցույց տալ, երբ մուտքագրման մի քանի լեզուներ են միացված"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"Ցույց տալ հավելվածի պատկերակը"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"Ցուցադրել հավելվածի պատկերակը թողարկչում"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Ձայնը սեղմման ժամանակ"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Android տառասխալների ուղղիչ (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"Դասական թվականների իգական սեռի ցուցիչ"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"Մյու"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"Դասական թվականների արական սեռի ցուցիչ"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"Էսցետ"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A, վերևում բութի նշանով"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A, վերևում շեշտանշանով"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A, վերևում կոչանիշով"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A, վերևում ալիքանշանով"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A, վերևում երկու կետիկով"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A, վերևում օղակով"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"A, E, կցագիր"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C, սեդիլով"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E, վերևում բութի նշանով"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E, վերևում շեշտանշանով"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E, վերևում կոչանիշով"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E, վերևում երկու կետիկով"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I, վերևում բութի նշանով"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I, վերևում շեշտանշանով"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I, վերևում կոչանիշով"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I, վերևում երկու կետիկով"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Էթ"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N, վերևում ալիքանշանով"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O, վերևում բութի նշանով"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O, վերևում շեշտանշանով"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O, վերևում կոչանիշով"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O, վերևում ալիքանշանով"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O, վերևում երկու կետիկով"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O, թեք հատող գծիկով"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U, վերևում բութի նշանով"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U, վերևում շեշտանշանով"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U, վերևում կոչանիշով"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U, վերևում երկու կետիկով"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y, վերևում շեշտանշանով"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Տոռն"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y, վերևում երկու կետիկով"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A, վերևում գծիկով"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A, վերևում կոր գծիկով"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A, պոչիկով"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C, վերևում շեշտանշանով"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C, վերևում կոչանիշով"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C, վերևում կետիկով"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C, վերևում «ծիտիկով»"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D, աջ կողմի վերևում ապաթարցով"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D, գծիկով"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E, վերևում գծիկով"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E, վերևում կոր գծիկով"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E, վերևում կետիկով"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E, պոչիկով"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E, վերևում «ծիտիկով»"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G, վերևում կոչանիշով"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G, վերևում կոր գծիկով"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G, վերևում կետիկով"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G, սեդիլով"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H, վերևում կոչանիշով"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H, գծիկով"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I, վերևում ալիքանշանով"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I, վերևում գծիկով"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I, վերևում կոր գծիկով"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I, պոչիկով"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"Կետազուրկ I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"I, J, կցագիր"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J, վերևում կոչանիշով"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K, սեդիլով"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Կռա"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L, վերևում շեշտանշանով"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L, սեդիլով"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L, աջ կողմի վերևում ապաթարցով"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L, աջ կողմի մեջտեղում կետիկով"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L, գծիկով"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N, վերևում շեշտանշանով"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N, սեդիլով"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N, վերևում «ծիտիկով»"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N, ձախ կողմում ապաթարցով"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Էնգ"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O, վերևում գծիկով"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O, վերևում կոր գծիկով"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O, վերևում կրկնակի շեշտանշանով"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"O, E, կցագիր"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R, վերևում շեշտանշանով"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R, սեդիլով"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R, վերևում «ծիտիկով»"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S, վերևում շեշտանշանով"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S, վերևում կոչանիշով"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S, սեդիլով"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S, վերևում «ծիտիկով»"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T, սեդիլով"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T, աջ կողմի վերևում ապաթարցով"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T, գծիկով"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U, վերևում ալիքանշանով"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U, վերևում գծիկով"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U, վերևում կոր գծիկով"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U, վերևում օղակով"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U վերևում կրկնակի շեշտանշանով"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U, պոչիկով"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W, վերևում կոչանիշով"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y, վերևում կոչանիշով"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z, վերևում շեշտանշանով"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z, վերևում կետիկով"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z, վերևում «ծիտիկով»"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"Երկար S"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O, աջ կողմում եղջյուրով"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U, աջ կողմում եղջյուրով"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S, ներքևում ստորակետով"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T, ներքևում ստորակետով"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Չեզոք ձայնավոր"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A, ներքևում կետիկով"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A, վերևում կեռիկով"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A, վերևում կոչանիշով և շեշտանշանով"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A, վերևում կոչանիշով և բութի նշանով"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A, վերևում կոչանիշով և կեռիկով"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A, վերևում կոչանիշով և ալիքանշանով"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A, վերևում կոչանիշով և ներքևում կետիկով"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A, վերևում կոր գծիկով և շեշտանշանով"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A, վերևում կոր գծիկով և բութի նշանով"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A, վերևում կոր գծիկով և կեռիկով"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A, վերևում կոր գծիկով և ալիքանշանով"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A, վերևում կոր գծիկով և ներքևում կետիկով"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E, ներքևում կետիկով"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E, վերևում կեռիկով"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E, վերևում ալիքանշանով"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E, վերևում կոչանիշով և շեշտանշանով"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E, վերևում կոչանիշով և բութի նշանով"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E, վերևում կոչանիշով և կեռիկով"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E, վերևում կոչանիշով և ալիքանշանով"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E, վերևում կոչանիշով և ներքևում կետիկով"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I, վերևում կեռիկով"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I, ներքևում կետիկով"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O, ներքևում կետիկով"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O, վերևում կեռիկով"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O, վերևում կոչանիշով և շեշտանշանով"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O, վերևում կոչանիշով և բութի նշանով"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O, վերևում կոչանիշով և կեռիկով"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O, վերևում կոչանիշով և ալիքանշանով"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O, վերևում կոչանիշով և ներքևում կետիկով"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O, աջ կողմում եղջյուրով և վերևում շեշտանշանով"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O, աջ կողմում եղջյուրով և վերևում բութի նշանով"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O, աջ կողմում եղջյուրով և վերևում կեռիկով"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O, աջ կողմում եղջյուրով և վերևում ալիքանշանով"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O, աջ կողմում եղջյուրով և ներքևում կետիկով"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U, ներքևում կետիկով"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U, վերևում կեռիկով"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U, աջ կողմում եղջյուրով և վերևում շեշտանշանով"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U, աջ կողմում եղջյուրով և վերևում բութի նշանով"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U, աջ կողմում եղջյուրով և վերևում կեռիկով"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U, աջ կողմում եղջյուրով և վերևում ալիքանշանով"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U, աջ կողմում եղջյուրով և ներքևում կետիկով"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y, վերևում բութի նշանով"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y, ներքևում կետիկով"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y, վերևում կեռիկով"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y, վերևում ալիքանշանով"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g>-ը շտկում է <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g>-ը՝ դարձնելով <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> ստեղնը ինքնաշտկում է կատարում"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"Լրացուցիչ տառանշաններով ստեղնաշարը փակված է"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"Լրացուցիչ առաջարկներով վահանակը փակված է"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"Տվյալ տեքստը %s է"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"Հաջորդը"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"Նախորդը"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"Ջնջել"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"Կետ"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"Զմայլիկներ"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"Փոխել լեզուն"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"Ձայնային մուտքագրում"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"Տառերի ռեժիմ"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"Հեռախոսային ռեժիմ"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"Հեռախոսի նշանների ռեժիմ"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"Նշանների ռեժիմ"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"Հավելյալ նշանների ռեժիմ"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Վերադառնալ"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"Որոնել"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"Կարգավորումներ"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Caps Lock-ը միացված է"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Shift-ը միացված է"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"Բացատ"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"Հավելյալ նշաններ"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"Նշաններ"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Tab"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"Տառեր"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"Թվեր"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"Նշաններ"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"Անհայտ տառանշան"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"Մեծատառ <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"Զմայլիկներ"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"Բնություն"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"Օբյեկտներ"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"Մարդիկ"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"Վայրեր"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"Վերջինները"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"Նշաններ"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"Հեղինակային իրավունքի նշան"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"Գրանցված ապրանքանիշի նշան"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"Մահջոնգի սալիկ՝ կարմիր վիշապով"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"Սև ջոկեր խաղաքարտ"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"Արյան Ա խումբ"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"Արյան Բ խումբ"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"Արյան Օ խումբ"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"Ավտոկայանատեղի"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"Արյան ԱԲ խումբ"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"Քառակուսի CL"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"Քառակուսի COOL"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"Քառակուսի FREE"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"Քառակուսի ID"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"Քառակուսի NEW"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"Քառակուսի NG"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"Քառակուսի OK"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"Քառակուսի SOS"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"Քառակուսի UP բացականչական նշանով"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"Քառակուսի vs"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"Քառակուսի Կատականա այստեղ"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"Քառակուսի Կատականա ծառայություն"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"Քառակուսի խորհրդանշան անվճար"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"Քառակուսի խորհրդանշան պահված տեղ"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"Քառակուսի խորհրդանշան արգելում"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"Քառակուսի խորհրդանշան թափուր աշխատատեղ"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"Քառակուսի խորհրդանշան ընդունված"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"Քառակուսի խորհրդանշան լրիվ զբաղվածություն"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Քառակուսի խորհրդանշան վճարված"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"Քառակուսի խորհրդանշան ամսական"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"Քառակուսի խորհրդանշան դիմում"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"Քառակուսի խորհրդանշան զեղչ"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"Քառակուսի խորհրդանշան աշխատում է"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"Շրջանաձև խորհրդանշան առավելություն"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"Շրջանաձև խորհրդանշան ընդունում"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"Ցիկլոն"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"Մառախլապատ"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"Փակ անձրևանոց"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"Աստղազարդ գիշեր"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"Արևածագը լեռներում"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"Արևածագ"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"Քաղաքը մթնշաղում"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"Մայրամուտը շենքերի վրա"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"Ծիածան"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"Կամուրջը գիշերը"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"Ծովի ալիք"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"Հրաբուխ"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"Ծիր կաթին"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"Երկրագունդը՝ Եվրոպա-Աֆրիկա"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"Երկրագունդը՝ Ամերիկաներ"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"Երկրագունդը՝ Ավստրալիա"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"Երկրագունդը միջօրեականներով"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"Նորալուսնի նշան"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"Աճող կիսալուսնի նշան"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"Լուսնի առաջին քառորդի նշան"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"Աճող ուռուցիկ լուսնի նշան"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"Լիալուսնի նշան"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"Փոքրացող ուռուցիկ լուսնի նշան"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"Լուսնի վերջին քառորդի նշան"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"Փոքրացող կիսալուսնի նշան"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"Կիսալուսին"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"Դեմքով նորալուսին"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"Առաջին քառորդ լուսին՝ դեմքով"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"Վերջին քառորդ լուսին՝ դեմքով"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"Դեմքով լիալուսին"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"Դեմքով արև"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"Փայլուն աստղ"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"Կրակող աստղ"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"Շագանակ"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"Սածիլ"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"Մշտադալար ծառ"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"Տերևաշատ ծառ"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"Պալմա"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"Կակտուս"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"Կակաչ"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"Բալենու ծաղիկ"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"Վարդ"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"Հիբիսկուս"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"Արևածաղիկ"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"Ծաղիկ"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"Եգիպտացորեն"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"Բրինձ"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"Խոտաբույս"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"Քառատերև երեքնուկ"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"Թխկու տերև"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"Թափված տերև"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"Քամուց թռչող տերև"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"Սունկ"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"Լոլիկ"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"Սմբուկ"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"Խաղող"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"Սեխ"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"Ձմերուկ"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"Մանդարին"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"Կիտրոն"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"Բանան"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"Արքայախնձոր"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"Կարմիր խնձոր"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"Կանաչ խնձոր"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"Տանձ"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"Դեղձ"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"Բալ"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"Ելակ"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"Համբուրգեր"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"Պիցցայի կտոր"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"Ոսկորով միս"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"Հավի բուդ"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"Բրնձի կրեկեր"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"Բրնձի կլորակ"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"Եփած բրինձ"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"Քարի և բրինձ"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"Գոլորշիացող բաժակ"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"Սպագետտի"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"Հաց"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"Տապակած կարտոֆիլ"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"Տապակած քաղցր կարտոֆիլ"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"Դանգո"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"Օդեն"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"Սուշի"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"Տապակած ծովախեցգետին"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"Ձկան տորթ՝ օղակաձև ձևավորմամբ"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"Լցնովի պաղպաղակ"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"Սառցե դեսերտ"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"Պաղպաղակ"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"Դոնաթ"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"Թխվածքաբլիթ"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"Շոկոլադի սալիկ"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"Կոնֆետ"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Շաքարաքլոր"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"Եփովի կրեմ"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"Մեղրանոթ"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"Տորթի կտոր"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"Բենտոյով տուփ"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"Սնունդով լի ափսե"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"Խոհարարություն"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"Դանակ և պատառաքաղ"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"Թեյի անպոչ բաժակ"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"Սակեի շիշ և գավաթ"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"Գինու գավաթ"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"Կոկտեյլի բաժակ"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"Արևադարձային խմիչք"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"Գարեջրի բաժակ"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"Զրնգացող գարեջրի բաժակներ"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"Մանկական շիշ"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"Ժապավեն"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"Փաթեթավորված նվեր"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Ծննդյան տորթ"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"Դդմի լապտեր"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"Տոնածառ"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"Ձմեռ պապ"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"Հրավառություն"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"Բենգալյան կրակ"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"Փուչիկ"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"Ճայթուկ"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"Կոնֆետտի գնդակ"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"Տանաբատա ծառ"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"Հատվող դրոշներ"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"Սոճու ձևավորում"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"Ճապոնական տիկնիկներ"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"Կարպ նավադրոշ"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"Քամու երգ"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"Լուսնի դիտման արարողություն"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"Դպրոցական պայուսակ"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"Ավարտական ​​գլխարկ"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"Ձի կարուսել"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"Սատանայի անիվ"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"Ուրախ սարեր"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"Ձկնորսական կարթ և ձուկ"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"Բարձրախոս"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"Տեսախցիկ"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"Կինոթատրոն"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"Ականջակալ"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"Ներկապնակ"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"Ցիլինդր"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"Կրկեսային վրան"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"Տոմս"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"Ծափափեղկ"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"Կատարողական արվեստ"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"Տեսախաղ"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"Ուղղակի հարված"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"Խաղասարք"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"Բիլիարդ"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"Խաղազառ"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"Բոուլինգ"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"Ծաղկով խաղաքարտեր"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"Երաժշտական ձայնանիշ"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"Մի քանի երաժշտական ձայնանիշ"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"Սաքսոֆոն"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"Կիթառ"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"Երաժշտական ստեղնաշար"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"Շեփոր"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"Ջութակ"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"Նոտագրում"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"Վազքի վերնաշապիկ"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"Թենիսի թիակ և գնդակ"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"Դահուկ և դահուկի կոշիկ"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"Բասկետբոլի գնդակ և զամբյուղ"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"Վերջնակետի դրոշ"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"Ձնատախտակորդ"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"Վազորդ"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"Ալեսահորդ"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"Մրցանակ"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"Ձիարշավ"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"Ամերիկյան ֆուտբոլ"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"Ռեգբի"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"Լողորդ"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"Բնակելի շենք"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"Այգով տուն"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"Գրասենյակային շենք"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"Ճապոնական փոստատուն"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"Եվրոպական փոստատուն"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"Հիվանդանոց"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"Բանկ"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"Բանկոմատ"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"Հյուրանոց"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"Սիրո հյուրանոց"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"Պարենային խանութ"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"Դպրոց"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"Հանրախանութ"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"Գործարան"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"Ճապոնական լապտեր"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"Ճապոնական ամրոց"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"Եվրոպական ամրոց"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"Առնետ"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"Մուկ"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"Եզ"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"Գոմեշ"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"Կով"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"Ընձառյուծ"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"Ճագար"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"Կատու"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"Վիշապ"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"Կոկորդիլոս"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"Կետ"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"Խխունջ"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"Օձ"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"Ձի"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"Խոյ"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"Այծ"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"Ոչխար"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"Կապիկ"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"Աքաղաղ"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"Հավ"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"Շուն"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"Խոզ"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"Վարազ"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"Փիղ"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"Ութոտնուկ"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"Պարուրաձև խեցի"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"Բզեզ"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"Մրջյուն"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"Մեղու"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"Զատիկ"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"Ձուկ"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"Արևադարձային ձուկ"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"Գնդաձուկ"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"Կրիա"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"Թուխսի ճուտ"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"Ճուտիկ"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"Դիմահայաց ճուտիկ"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"Թռչուն"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"Պինգվին"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"Կոալա"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"Պուդել"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"Դրոմադեր ուղտ"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"Երկսապատանի ուղտ"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"Դելֆին"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"Մկան մռութ"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"Կովի մռութ"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"Վագրի մռութ"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"Ճագարի մռութ"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"Կատվի մռութ"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"Վիշապի մռութ"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"Թռչող կետ"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"Ձիու մռութ"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"Կապիկի մռութ"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"Շան մռութ"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"Խոզի մռութ"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"Գորտի մռութ"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"Գերմանամկան դեմք"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"Գայլի մռութ"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"Արջի մռութ"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"Պանդայի մռութ"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"Խոզի քիթ"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"Թաթի հետքեր"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"Աչքեր"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"Ականջ"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"Քիթ"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"Բերան"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"Լեզու"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"Վեր ուղղված սպիտակ ցուցամատ"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"Վար ուղղված սպիտակ ցուցամատ"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"Ձախ ուղղված սպիտակ ցուցամատ"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"Աջ ուղղված սպիտակ ցուցամատ"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"Բռունցքի նշան"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"Թափահարող ձեռքի նշան"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"Ok-ի նշան"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"Բութ մատները վեր նշան"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"Բութ մատները վար նշան"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"Ծափահարող ձեռքերի նշան"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"Բաց ափերով ձեռքերի նշան"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"Թագ"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"Կնոջ գլխարկ"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"Ակնոց"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"Փողկապ"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"Շապիկ"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"Ջինս"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"Զգեստ"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"Կիմոնո"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"Բիկինի"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"Կնոջ հագուստ"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"Դրամապանակ"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"Պայուսակ"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"Քսակ"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"Տղամարդու կոշիկ"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"Մարզակոշիկ"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"Բարձրակրունկ կոշիկ"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"Կնոջ սանդալներ"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"Կնոջ երկարաճիտ կոշիկներ"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"Ոտնահետքեր"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"Կիսանդրու ուրվագիծ"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"Կիսանդրիների ուրվագիծ"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"Տղա"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"Աղջիկ"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"Տղամարդ"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"Կին"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"Ընտանիք"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"Միացված ձեռքերով տղամարդ և կին"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"Միացված ձեռքերով երկու տղամարդ"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"Միացված ձեռքերով երկու կին"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"Ոստիկան"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"Նապաստակի ականջներով կին"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"Քողով հարսնացու"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"Շիկահեր մարդ"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"Չինական գլխարկով տղամարդ"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"Գլխաշորով տղամարդ"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"Ծեր տղամարդ"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"Ծեր կին"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"Մանուկ"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"Շինարար"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"Արքայադուստր"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"Ճապոնական օգր"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Ճապոնական գոբլին"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"Ուրվական"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"Մանուկ հրեշտակ"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"Այլմոլորակային"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"Այլմոլորակային հրեշ"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Սատանայի ճուտ"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"Գանգ"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"Տեղեկատու անձ"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"Պահնորդ"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"Պարող"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"Շրթներկ"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"Եղունգաներկ"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"Դեմքի մերսում"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"Սանրվածք"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"Վարսավիրի նշան"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"Ներարկիչ"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"Հաբ"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"Համբույրի նշան"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"Սիրային նամակ"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"Մատանի"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"Թանկարժեք քար"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"Համբույր"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"Ծաղկեփունջ"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"Զույգը սրտի մեջ"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"Հարսանիք"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"Բաբախող սիրտ"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"Կոտրված սիրտ"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"Երկու սրտեր"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"Պսպղացող սիրտ"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"Աճող սիրտ"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"Խոցված սիրտ"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"Կապույտ սիրտ"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"Կանաչ սիրտ"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"Դեղին սիրտ"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"Մանուշակագույն սիրտ"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"Ժապավենով սիրտ"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"Միացող սրտեր"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"Սրտիկներով ձևավորում"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"Շեղանկյուն` կետիկով"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"Էլեկտրական լամպ"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"Ջղայնության նշան"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"Ռումբ"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"Քնի նշան"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"Բախման նշան"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"Հոսող քրտինքի նշան"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"Կաթիլ"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"Գծիկի նշան"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"Կեղտի կույտ"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"Լարված երկգլուխ մկան"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"Գլխապտույտի նշան"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"Խոսքի փուչիկ"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"Մտքի փուչիկ"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"Սպիտակ ծաղիկ"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"Հարյուր միավորի նշան"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"Փողի քսակ"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"Արտարժույթի փոխանակում"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"Խոշոր դոլարի նշան"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"Վարկային քարտ"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"Իենի նշանով թղթադրամ"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"Դոլարի նշանով թղթադրամ"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"Եվրոյի նշանով թղթադրամ"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"Ֆունտի նշանով թղթադրամ"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"Թևավոր թղթադրամ"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"Աճման միտումով և իենի նշանով գրաֆիկ"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"Նստատեղ"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"Անհատական համակարգիչ"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"Թղթապանակ"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"Փոքր սկավառակ"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"Ճկուն սկավառակ"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"Օպտիկական սկավառակ"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"DVD"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"Ֆայլերի պանակ"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"Ֆայլերի բաց պանակ"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"Ոլորված ծայրով էջ"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"Թեքված էջ"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"Օրացույց"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"Պոկվող էջերով օրացույց"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"Քարտային դասիչ"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"Աճման միտումով գրաֆիկ"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"Նվազման միտումով գրաֆիկ"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"Ձողային գրաֆիկ"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"Սեղմատախտակ"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"Սևեռակ"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"Կլոր սևեռակ"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"Ամրակ"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"Ուղիղ քանոն"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"Եռանկյուն քանոն"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"Էջանիշ"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"Մատյան"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"Նոթատետր"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"Ձևավոր կազմով նոթատետր"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"Փակ գիրք"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"Բաց գիրք"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"Կանաչ գիրք"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"Կապույտ գիրք"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"Նարնջագույն գիրք"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"Գրքեր"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"Անվանաքարտ"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"Գալար"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"Հիշեցում"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"Լսափող"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"Փեյջեր"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"Հեռապատճենի սարք"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"Արբանյակային ալեհավաք"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"Հրապարակային բարձրախոս"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"Ուրախ բարձրախոս"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Ելքային արկղ"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"Մուտքային արկղ"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"Փաթեթ"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"Էլփոստի նշան"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"Մուտքային ծրար"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"Վերևից դեպի վար սլաքով ծրար"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"Իջեցված դրոշով փակ փոստարկղ"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"Բարձրացված դրոշով փակ փոստարկղ"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"Բարձրացված դրոշով փակ փոստարկղ"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"Իջեցված դրոշով բաց փոստարկղ"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"Փոստարկղ"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"Փոստային եղջյուր"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"Թերթ"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"Բջջային հեռախոս"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"Բջջային հեռախոս՝ ձախ կողմում դեպի վեր սլաքով"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"Թրթռոցի ռեժիմ"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"Բջջային հեռախոսը` անջատած"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"Բջջային հեռախոսներ չկան"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"Ձողերով ալեհավաք"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"Ֆոտոխցիկ"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"Տեսախցիկ"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"Հեռուստատեսություն"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"Ռադիո"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"Տեսաժապավեն"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"Պտտված դեպի աջ սլաքներ"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"Ժամացույցի սլաքի ուղղությամբ դեպի աջ և ձախ բաց շրջանաձև սլաքներ"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"Ժամացույցի սլաքի ուղղությամբ դեպի աջ և ձախ բաց շրջանաձև սլաքներ՝ շրջանաձև մեկ վերադրումով"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"Ժամացույցի սլաքի ուղղությամբ դեպի վար և վեր բաց շրջանաձև սլաքներ"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"Ժամացույցի սլաքի հակառակ ուղղությամբ դեպի վար և վեր բաց շրջանաձև սլաքներ"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"Ցածր պայծառության նշան"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"Բարձր պայծառության նշան"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"Չեղարկման գծով բարձրախոս"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"Բարձրախոս"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"Մեկ ձայնային ալիքով բարձրախոս"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"Երեք ձայնային ալիքով բարձրախոս"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"Մարտկոց"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"Էլեկտրական խրոցակ"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"Ձախ թեքված խոշորացույց"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"Աջ թեքված խոշորացույց"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"Կողպեք և թանաքի գրիչ"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"Փակված կողպեք՝ բանալիով"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"Բանալի"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"Կողպեք"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"Բաց կողպեք"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"Զանգ"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"Չեղարկման գծով զանգ"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"Էջանիշ"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"Հղման նշան"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"Կետակոճակ"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"Հետ՝ վերևում դեպի ձախ սլաքով"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"Վերջ՝ վերևում դեպի ձախ սլաքով"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"Միացված է՝ բացականչական նշանով և վերևում դեպի աջ ու ձախ սլաքով"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Շուտով՝ վերևում դեպի աջ սլաքով"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Վերև՝ վերևում դեպի վեր սլաքով"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"Տասնութից ցածրի արգելման նշան"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"Ստեղնատասնյակ"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"Լատիներեն մեծատառերով մուտքագրման նշան"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"Լատիներեն փոքրատառերով մուտքագրման նշան"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"Թվային մուտքագրման նշան"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"Նշանների ներածման նշան"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"Լատինատառ մուտքագրման նշան"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"Կրակ"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"Էլեկտրական լապտեր"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"Ոլորակ"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"Մուրճ"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"Մանեկ ու պտուտակ"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"Ճապոնական դանակ"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"Ատրճանակ"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"Մանրադիտակ"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"Հեռադիտակ"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"Ապակե գնդակ"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"Միջակետով վեցանկյուն աստղ"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"Ճապոնական սկսնակի նշան"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"Եռաժանու նշան"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"Սև քառակուսի կոճակ"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"Սպիտակ քառակուսի կոճակ"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"Մեծ կարմիր շրջան"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"Մեծ կապույտ շրջան"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"Մեծ նարնջագույն շեղանկյուն"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"Մեծ կապույտ շեղանկյուն"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"Փոքր նարնջագույն շեղանկյուն"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"Փոքր կապույտ շեղանկյուն"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"Վեր ուղղված կարմիր եռանկյուն"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"Վար ուղղված կարմիր եռանկյուն"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"Վեր ուղղված փոքր կարմիր եռանկյուն"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"Վար ուղղված փոքր կարմիր եռանկյուն"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"Թվատախտակ՝ ժամը մեկով"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"Թվատախտակ՝ ժամը երկուսով"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"Թվատախտակ՝ ժամը երեքով"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"Թվատախտակ՝ ժամը չորսով"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"Թվատախտակ՝ ժամը հինգով"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"Թվատախտակ՝ ժամը վեցով"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"Թվատախտակ՝ ժամը յոթով"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"Թվատախտակ՝ ժամը ութով"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"Թվատախտակ՝ ժամը ինով"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"Թվատախտակ՝ ժամը տասով"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"Թվատախտակ՝ ժամը տասնմեկով"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"Թվատախտակ՝ ժամը տասներկուսով"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"Թվատախտակ՝ ժամը մեկն անց երեսուն"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"Թվատախտակ՝ ժամը երկուսն անց երեսուն"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"Թվատախտակ՝ ժամը երեքն անց երեսուն"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"Թվատախտակ՝ ժամը չորսն անց երեսուն"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"Թվատախտակ՝ ժամը հինգն անց երեսուն"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"Թվատախտակ՝ ժամը վեցն անց երեսուն"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"Թվատախտակ՝ ժամը յոթն անց երեսուն"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"Թվատախտակ՝ ժամը ութն անց երեսուն"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"Թվատախտակ՝ ժամը ինն անց երեսուն"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"Թվատախտակ՝ ժամը տասն անց երեսուն"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"Թվատախտակ՝ ժամը տասնմեկն անց երեսուն"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"Թվատախտակ՝ ժամը տասներկուսն անց երեսուն"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"Ֆուձի լեռ"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"Տոկիոյի աշտարակ"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"Ազատության արձան"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"Ճապոնիայի ուրվագիծ"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"Մայաների քարե արձան"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"Քմծիծաղով դեմք"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"Քմծիծաղով դեմք՝ ժպտացող աչքերով"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"Ուրախության արցունքներով դեմք"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"Ժպտացող դեմք՝ բաց բերանով"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"Ժպտացող դեմք՝ բաց բերանով և ժպտացող աչքերով"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"Ժպտացող դեմք՝ բաց բերանով և սառը քրտինքով"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"Ժպտացող դեմք՝ բաց բերանով և պինդ փակված աչքերով"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"Ժպտացող դեմք` լուսապսակով"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"Ժպյտացող դեմք` պոզերով"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"Աչքով անող դեմք"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"Ժպտացող դեմք` ժպտացող աչքերով"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"Համեղ ուտեստներ վայելող դեմք"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"Հանգստացած դեմք"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"Ժպտացող դեմք` սրտաձև աչքերով"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"Ժպտացող դեմք` արևային ակնոցով"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"Հեգնական ժպիտով դեմք"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"Չեզոք դեմք"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"Արտահայտությունից զուրկ դեմք"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"Չհետաքրքրված դեմք"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"Սառը քրտինքով դեմք"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"Մտախոհ դեմք"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"Շփոթված դեմք"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"Մոլորված դեմք"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"Համբուրող դեմք"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"Օդային համբույր ուղարկող դեմք"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"Համբուրող դեմք` ժպտացող աչքերով"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"Համբուրող դեմք` փակ աչքերով"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"Լեզուն հանած դեմք"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"Լեզուն հանած և աչքով անող դեմք"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"Լեզուն հանած և աչքերը փակած դեմք"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"Հիասթափված դեմք"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"Մտահոգ դեմք"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"Ջղային դեմք"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"Շրթունքներն ուռած դեմք"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"Լացող դեմք"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"Կամակոր դեմք"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"Հաղթական արտահայտությամբ դեմք"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"Հիասթափված, բայց հանգստացած դեմք"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"Բաց բերանով խոժոռ դեմք"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"Տանջված դեմք"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"Վախեցած դեմք"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"Հոգնած դեմք"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"Քնաթաթախ դեմք"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"Հոգնած դեմք"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"Ծամածռված դեմք"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"Բարձրաձայն լացող դեմք"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"Բաց բերանով դեմք"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"Լռող դեմք"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"Բաց բերանով և սառը քրտինքով դեմք"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"Վախից ճչացող դեմք"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"Ապշած դեմք"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"Շիկնած դեմք"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"Քնած դեմք"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"Գլխապտույտով դեմք"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"Առանց բերանի դեմք"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"Բժշկական դիմակով դեմք"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"Քմծիծաղող կատվի դեմք՝ ժպտացող աչքերով"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"Կատվի դեմք՝ երջանկության արցունքներով"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"Ժպտացող կատվի դեմք՝ բաց բերանով"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"Ժպտացող կատվի դեմք՝ սրտաձև աչքերով"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"Կատվի դեմք՝ ծուռ ժպիտով"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"Համբուրող կատվի դեմք՝ փակ աչքերով"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"Շրթունքներն ուռած կատվի դեմք"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"Լացող կատվի դեմք"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"Հոգնած կատվի դեմք"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"«Ոչ լավ» արտահայտությամբ դեմք"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"«Լավ» արտահայտությամբ դեմք"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"Կռացած դեմք"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"Աչքերը ձեռքերով փակած կապիկ"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"Ականջները ձեռքերով փակած կապիկ"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"Բերանը ձեռքերով փակած կապիկ"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"Երջանիկ մարդ` բարձրացրած ձեռքով"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"Երկու ձեռքը ողջույնի համար բարձրացրած մարդ"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"Դժգոհ մարդ"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"Շրթունքներն ուռեցրած դեմքով մարդ"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"Ծալված ձեռքերով մարդ"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"Հրթիռ"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"Ուղղաթիռ"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"Շոգեքարշ"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"Վագոն"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"Ճեպընթաց գնացք"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"Ճեպընթաց գնացք` փամփուշտաձև քթով"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"Գնացք"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"Մետրո"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"Մոնոռելս"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"Կայան"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"Տրամվայ"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"Տրամվայ"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"Ավտոբուս"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"Հանդիպակաց ավտոբուս"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"Տրոլեյբուս"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"Ավտոբուսի կանգառ"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"Միկրոավտոբուս"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"Շտապ օգնություն"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"Հրշեջ մեքենա"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"Ոստիկանական մեքենա"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"Հանդիպակաց եկող ոստիկանական մեքենա"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"Տաքսի"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"Հանդիպակաց եկող տաքսի"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"Ավտոմեքենա"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"Հանդիպակաց եկող ավտոմեքենա"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"Ավտոտնակ"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"Առաքման մեքենա"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"Ինքնագնաց"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"Տրակտոր"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"Մոնոռելս"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"Լեռնային երկաթուղի"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"Երկաթուղային կախոց"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"Լեռնային ճոպանուղի"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"Ճոպանուղի"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"Նավ"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"Լաստանավ"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"Մոտորանավ"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"Հորիզոնական լուսացույց"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"Ուղղահայաց լուսացույց"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"Շինարարության նշան"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"Ոստիկականան մեքենայի ազդանշանային լույսեր"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"Եռանկյուն դրոշ"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"Դուռ"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"Չմտնելու նշան"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"Ծխելու նշան"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"Չծխելու նշան"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"Աղբը իր տեղում թափելու նշան"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"Աղբ չթափելու նշան"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"Խմելու ջրի նշան"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"Ոչ խմելու ջրի նշան"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"Հեծանիվ"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"Հեծանիվների արգելք"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"Հեծանվորդ"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"Լեռնային հեծանվորդ"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"Հետիոտն"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"Հետիոտների արգելք"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"Հատող երեխաներ"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"Տղամարդկանց նշան"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"Կանանց նշան"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"Զուգարան"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"Մանուկի նշան"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"Զուգարան"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"Արտաքնոց"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"Ցնցուղ"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"Բաղնիք"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"Լոգարան"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"Անձնագրերի ստուգում"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"Մաքսատուն"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"Ուղեբեռի ստացում"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"Ձախ ուղեբեռ"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"Կրկնակի բացականչական նշան"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"Բացականչական հարցական նշան"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"Ապրանքանշանի նշան"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"Տեղեկատվական աղբյուր"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"Ձախ-աջ սլաք"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"Վեր-վար սլաք"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"Սլաք դեպի հյուսիս-արևմուտք"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"Սլաք դեպի հյուսիս-արևելք"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"Սլաք դեպի հարավ-արևելք"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"Սլաք դեպի հարավ-արևմուտք"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"Կեռ ձախ սլաք"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"Կեռ աջ սլաք"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"Ժամացույց"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"Ավազի ժամացույց"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"Դեպի աջ ուղղված սև կրկնակի եռանկյուն"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"Դեպի ձախ ուղղված սև կրկնակի եռանկյուն"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"Դեպի վեր ուղղված սև կրկնակի եռանկյուն"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"Դեպի վար ուղղված սև կրկնակի եռանկյուն"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"Զարթուցիչ"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"Հոսող ավազով ժամացույց"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"Շրջանաձև լատիներեն մեծատառ m"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"Փոքր սև քառակուսի"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"Փոքր սպիտակ քառակուսի"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"Դեպի աջ ուղղված սև եռանկյուն"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"Դեպի ձախ ուղղված սև եռանկյուն"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"Միջին սպիտակ քառակուսի"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"Միջին սև քառակուսի"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"Միջին փոքր սպիտակ քառակուսի"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"Միջին փոքր սև քառակուսի"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"Սև արև` ճառագայթներով"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"Ամպ"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"Սև հեռախոս"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"Քվեատուփ` նշանով"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"Անձրևանոց` անձրևի կաթիլներով"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"Տաք ըմպելիք"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"Սպիտակ դեպի վեր ուղղված դասիչ"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"Սպիտակ ժպտացող դեմք"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"Խոյ"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"Ցուլ"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"Երկվորյակ"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"Խեցգետին"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"Առյուծ"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"Կույս"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"Կշեռք"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"Կարիճ"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"Աղեղնավոր"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"Այծեղջյուր"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Ջրհոս"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"Ձկներ"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"Սև ագռավ"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"Սև խաչ"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"Սև սիրտ"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"Սև աղյուս"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Տաք աղբյուրներ"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"Սև վերամշակման նշան"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"Սայլակի նշան"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"Խարիսխ"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"Զգուշացման նշան"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"Բարձր լարման նշան"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"Միջին սպիտակ շրջան"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"Միջին սև շրջան"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"Ֆուտբոլի գնդակ"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"Բեյսբոլ"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"Առանց ձյան ձնեմարդ"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"Արևն ամպի ետևում"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"Օձակալ"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"Մուտք չկա"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"Եկեղեցի"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"Շատրվան"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"Դրոշը փոսում"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"Առագաստանավ"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"Վրան"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"Վառելիքի պոմպ"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"Սև մկրատ"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"Սպիտակ խոշոր ստուգանիշ"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"Ինքնաթիռ"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"Ծրար"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"Բարձրացրած բռունցք"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"Բարձրացրած ձեռք"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"Հաղթանշան"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"Մատիտ"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"Սև գրչածայր"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"Խոշոր ստուգանիշ"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"Խոշոր բազմապատկում x"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"Կայծեր"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"Ութանկյուն աստղանիշ"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"Ութ կետով սև աստղ"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"Ձյան փաթիլ"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"Կայծ"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"Խաչանշան"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"Բացասական քառակուսի խաչանշան"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"Սև հարցական նշաններով նախշազարդ"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"Սպիտակ հարցական նշաններով նախշազարդ"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"Սպիտակ բացականչական նշաններով նախշազարդ"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"Խոշոր բացականչական նշան"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"Սև սիրտ"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"Խոշոր գումարման նշան"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"Խոշոր հանման նշան"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"Խոշոր բաժանման նշան"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"Սև դեպի աջ սլաք"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"Խուճուճ հանգույց"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"Կրկնակի խուճուճ հանգույց"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"Դեպի աջ ուղղված, ապա դեպի վեր ծռված սլաք"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"Դեպի աջ ուղղված, ապա դեպի վար ծռված սլաք"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"Դեպի ձախ սև սլաք"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"Դեպի վեր սև սլաք"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"Դեպի վար սև սլաք"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"Մեծ սև քառակուսի"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"Մեծ սպիտակ քառակուսի"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"Միջին սպիտակ քառակուսի"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"Խոշոր շրջան"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"Ալիքաձև գծիկ"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"Երաժշտական փոփոխականի նշան"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"Շնորհավորանքի շրջանաձև խորհրդանշան"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"Գաղտնիքի շրջանաձև խորհրդանշան"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"Անհայտ զմայլիկ"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"Ձանձրացող դեմք"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"Շփոթված դեմք"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"Համբուրող դեմք"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"Խոժոռված դեմք"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"Զարմացած դեմք"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"Արևային ակնոցներով դեմք"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"Առաջարկներ չկան"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"Մեծատառ I"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"Մեծատառ I, վերևում կետիկ"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"Տեքստ չի մուտքագրվել"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"Լրացուցիչ տառանշաններով ստեղնաշարը հասանելի է"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"Լրացուցիչ առաջարկներով վահանակը հասանելի է"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"Շրջած բացականչական նշան"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"Բացող հայկական չակերտ"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"Մեջտեղի կետիկ"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Վերգիր մեկ"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"Փակող հայկական չակերտ"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"Շրջած հարցական նշան"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"Ձախ վերին չակերտ"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"Աջ վերին չակերտ"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Ստորին չակերտ"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"Ձախ վերին կրկնակի չակերտ"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"Աջ վերին կրկնակի չակերտ"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Խաչ"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Կրկնակի խաչ"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Պրոմիլի նշան"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Շտրիխ"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Կրկնակի շտրիխ"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"Ձախ անկյունային փակագիծ"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"Աջ անկյունային փակագիծ"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Վերգիր չորս"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Վերգիր լատիներեն փոքրատառ n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Պեսոյի նշան"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"Միջոցով"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"Աջ սլաք"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Ներքև սլաք"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"Դատարկ բազմություն"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Ավելացում"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"Փոքր կամ հավասար է"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"Մեծ կամ հավասար է"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"Սև աստղ"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"Անհայտ նշան"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"Միացրեք ականջակալը՝ բարձրաձայն արտասանվող գաղտնաբառը լսելու համար:"</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Զմայլիկներ"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"Անգլերեն (ՄԹ)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"Անգլերեն (ԱՄՆ)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"Իսպաներեն (ԱՄՆ)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (սեղմ)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (ավանդական)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"Հինգլիշ"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"Lեզու"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"Ոչ մի լեզվով (Այբուբեն)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"Այբուբեն (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"Այբուբեն (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"Այբուբեն (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"Այբուբեն (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"Այբուբեն (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"Այբուբեն (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"Սերբերեն (Լատինական)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"Անգլերեն (ՄԹ) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"Անգլերեն (ԱՄՆ) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"Իսպաներեն (ԱՄՆ) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"Հինգլիշ (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"Սերբերեն (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"Փոխարկել հաշիվները"</string>
+    <string name="symbols_followed_by_space">.,;:!?)]}&amp;։՝</string>
+    <string name="symbols_word_separators">"	 
+ "()[]{}*&amp;&lt;>+=|.,;:!?/_\"։՝</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"Համաժամացնել հիմա"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"Ներբեռնում. <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> լեզվի համար առաջարկները պատրաստ կլինեն շուտով:"</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"Առաջարկել կոնտակտների անունները"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"Օգտագործել կոնտակտների անունները՝ առաջարկների և ուղղումների համար"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"Տառասխալների ուղղիչն օգտագործում է ձեր կոնտակտների ցանկի տվյալները"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"Փնտրել կոնտակտային անուններ"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"Կրկնաբացակի վերջակետ"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"Բացակի ստեղնի կրկնակի հպումը բացակից հետո վերջակետ է դնում"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"Անհատականացված առաջարկներ"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"Բարելավեք առաջարկները` ձեր նամակագրությունից և մուտքագրած տվյալներից"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ԱԲԳԴԵԶԷԸԹԺԻԼԽԾԿՀՁՂՃՄՅՆՇՈՉՊՋՌՍՎՏՐՑՈՒՓՔԵւՕՖ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"Լավ"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"Սակավ ընտրանքներ"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"Այլ ընտրանքներ"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"Ավելացնել բառարանում"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"Lեզուն՝"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"Ավելացնել"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"Արտահայտություն"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"Ընտրովի դյուրանցում"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"Դյուրանցումը՝"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"Մուտքագրեք բառը"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"Բառը՝"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"Բոլոր լեզուներով"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"Ջնջել"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"Խմբագրել"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"Ջնջել"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"Խմբագրել բառը"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"Դուք չունեք ոչ մի բառ օգտվողի բառարանում: Ավելացնել բառեր՝ հպելով Ավելացնել (+) կոճակը:"</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"Ավելի շատ լեզուներով..."</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"Օգտվողի բառարաններ"</string>
+    <string msgid="2715354215568469385" name="version_text">"Տարբերակ <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Թրթռալ սեղմման ժամանակ"</string>
+    <string msgid="3583258583521397548" name="voice_input">"Ձայնային մուտքագրման ստեղն"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"Ձայնային ներածման որևէ եղանակ միացված չէ։ Ստուգեք Լեզվի և ներածման կարգավորումները։"</string>
+</resources>

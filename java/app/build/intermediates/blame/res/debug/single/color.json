@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/color/setup_step_action_background.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/color/setup_step_action_background.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/color/setup_step_action_color.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/color/setup_step_action_color.xml"
+    }
+]

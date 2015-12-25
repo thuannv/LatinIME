@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/values-fa-sw600dp-v13/values-fa-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 80,
+                    "endOffset": 131
+                },
+                "from": {
+                    "file": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/values-fa-sw600dp/donottranslate-config-spacing-and-punctuations.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1001,
+                        "endColumn": 94,
+                        "endOffset": 1091
+                    }
+                }
+            }
+        ]
+    }
+]

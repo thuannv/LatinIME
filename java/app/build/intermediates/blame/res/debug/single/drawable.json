@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_functional_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_functional_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_emoticons_holo_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_emoticons_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_spacebar_klp.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_spacebar_klp.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_people_holo_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_people_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_emoticons_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_emoticons_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_suggestion_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_suggestion_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_nature_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_nature_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_symbols_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_symbols_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_setup_step1.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_setup_step1.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_spacebar_ics.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_spacebar_ics.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_popup_action_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_popup_action_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/setup_step_action_background.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/setup_step_action_background.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_suggestion_ics.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_suggestion_ics.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_popup_klp.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_popup_klp.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_places_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_places_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_klp.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_klp.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/keyboard_key_feedback_klp.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/keyboard_key_feedback_klp.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_functional_ics.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_functional_ics.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_people_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_people_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_suggestion_klp.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_suggestion_klp.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_nature_holo_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_nature_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_setup_finish.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_setup_finish.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_functional_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_functional_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_nature_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_nature_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_objects_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_objects_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_places_holo_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_places_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_objects_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_objects_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_suggestion_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_suggestion_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_popup_action_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_popup_action_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_popup_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_popup_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_emoticons_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_emoticons_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_ics.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_ics.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_symbols_holo_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_symbols_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_recents_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_recents_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_setup_step3.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_setup_step3.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_recents_holo_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_recents_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_popup_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_popup_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_functional_klp.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_functional_klp.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_places_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_places_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_spacebar_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_spacebar_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_key_popup_ics.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_key_popup_ics.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/keyboard_key_feedback_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/keyboard_key_feedback_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_objects_holo_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_objects_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/keyboard_key_feedback_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/keyboard_key_feedback_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_setup_step2.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_setup_step2.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_people_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_people_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_symbols_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_symbols_lxx_light.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/btn_keyboard_spacebar_lxx_dark.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/btn_keyboard_spacebar_lxx_dark.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/keyboard_key_feedback_ics.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/keyboard_key_feedback_ics.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable/ic_emoji_recents_lxx_light.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable/ic_emoji_recents_lxx_light.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/kbd_number.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp-land/kbd_number.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/kbd_phone.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp-land/kbd_phone.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/kbd_phone_symbols.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp-land/kbd_phone_symbols.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/row_qwerty4.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp-land/row_qwerty4.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/rows_qwerty.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp-land/rows_qwerty.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/kbd_more_keys_keyboard_template.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp-land/kbd_more_keys_keyboard_template.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-sw600dp-land-v13/key_space_3kw.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-sw600dp-land/key_space_3kw.xml"
+    }
+]

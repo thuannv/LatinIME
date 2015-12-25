@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g> 毫秒"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"取消"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"確定"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"登出"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"選取要使用的帳戶"</string>
+    <string msgid="2846876462199625974" name="account_selected">"目前使用的是 <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"新增"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"請在這部裝置加入 Google 帳戶，以加入此功能。"</string>
+    <string msgid="6163126614514489951" name="add_style">"新增樣式"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Android 拼字檢查工具設定 (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"鍵盤已隱藏"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"目前顯示的是<ns1:g id="KEYBOARD_MODE">%s</ns1:g>鍵盤"</string>
+    <string msgid="6320102637491234792" name="app_name">"字典供應商"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"自動大寫"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"每句首個字詞大寫"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"自動更正"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"自動插入空白鍵和標點符號鍵盤，以修正拼字錯誤"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"加強模式"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"普通模式"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"關閉"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"極度加強模式"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"建議下一個字詞"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"根據前一個字詞提出建議"</string>
+    <string msgid="3988017840431881491" name="button_default">"預設"</string>
+    <string msgid="6830980399865683324" name="cancel">"取消"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"取消"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"連線至字典服務時發生問題"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"重新整理"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"您的同步處理資料將從雲端刪除，要確定嗎？"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"刪除"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"刪除您來自 Google 的同步處理資料"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"刪除雲端資料"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"取消"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"您的個人字典將同步處理並備份至 Google 伺服器。系統可能會收集字詞頻率的統計資料，以協助改善產品。所有資訊的收集和使用均遵循《"<a href="https://www.google.com/policies/privacy">"Google 私隱權政策"</a>"》。"</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"同步功能已啟用"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"同步處理各裝置之間的個人字典"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"擁有 Google Apps for Business 帳戶的裝置無法使用同步功能"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google 鍵盤同步"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"附加字典"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"設定輸入法"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"已存在相同的輸入樣式：<ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"您必須先啟用自訂輸入樣式，才能開始使用。您要立即啟用嗎？"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"自訂輸入樣式"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"使用者字典"</string>
+    <string msgid="756853268088330054" name="delete_dict">"刪除"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"按下即可查看並下載"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"可使用<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>字典"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"可使用字典"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"已安裝，但已停用"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"目前下載中"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"可使用字典"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"已安裝"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"字典供應商"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"字典服務"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"字典設定"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"附加字典"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"經由 Wi-Fi 下載"</string>
+    <string msgid="6014835283119198591" name="download_description">"字典更新資訊"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"立即下載 (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g> MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"個人字典"</string>
+    <string msgid="5031294444630523247" name="enable">"啟用"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"強化 <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"啟用分離式鍵盤"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"輸入選項"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android 鍵盤 (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Android 鍵盤設定 (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"動態浮動預覽"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"在啟用手勢輸入時顯示建議的字詞"</string>
+    <string msgid="826951152254563827" name="gesture_input">"啟用手勢輸入"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"透過滑動手指寫出字母來輸入字詞"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"顯示手勢軌跡"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"詞組手勢"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"在手勢輸入過程中，滑過空白鍵即可輸入空格"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"設定"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"可使用字典"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"說明和意見反映"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"再次輕觸即可儲存"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"輕觸即可儲存"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"切換至其他輸入法"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"語言切換鍵包括其他輸入法"</string>
+    <string msgid="180852772562189365" name="install_dict">"安裝"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"預設"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"關閉彈出式鍵盤的延遲時間"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"不延遲"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"鍵盤主題"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"配置"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"日期"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"日期和時間"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"電郵"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"短訊"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"數字"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"電話"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"文字"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"時間"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"網址"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"鍵盤主題"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"完成"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"前往"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"下一步"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"暫停"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"上一步"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"搜尋"</string>
+    <string msgid="482252074224462163" name="label_send_key">"傳送"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"等候"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"語言"</string>
+    <string msgid="730467549913588780" name="last_update">"上次更新日期"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"主要字典"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"主要字典"</string>
+    <string msgid="5638680861387748936" name="message_loading">"正在載入…"</string>
+    <string msgid="4457761393932375219" name="message_updating">"正在查看更新"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"未選取任何帳戶"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"沒有可用的字典"</string>
+    <string msgid="6172462888202790482" name="not_now">"暫時不要"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"按鍵時顯示彈出式視窗"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"不建議使用可能令人反感的字詞"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"封鎖令人反感的字詞"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"實體鍵盤表情圖案"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"以實體 Alt 鍵顯示表情圖案選項"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"長按鍵延遲"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"按鍵音量"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"按鍵震動時間"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"顯示更正建議"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"輸入時顯示建議字詞"</string>
+    <string msgid="4486081658752944606" name="remove">"移除"</string>
+    <string msgid="7646738597196767214" name="save">"儲存"</string>
+    <string msgid="5709487854987078367" name="select_language">"語言"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"帳戶與私隱權"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"進階"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"外觀和版面配置"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"文字更正"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"手勢輸入"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"偏好設定"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"主題背景"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"系統預設"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"完成"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"下一步"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"開始"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"在設定中啟用"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"您已在 [語言與輸入設定] 中啟用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」。這個步驟已完成，可繼續下一個步驟了！"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"請在語言與輸入設定中勾選「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」，授權這個應用程式在您的裝置上執行。"</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"啟用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"切換輸入方法"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"接著，請選取「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」作為目前使用的文字輸入方法。"</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"切換至「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"設定其他語言"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"現在，您可以在所有最愛的應用程式中使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」輸入文字。"</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"恭喜，一切就緒！"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"設定「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"配備觸控輸入功能"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"歡迎使用「<ns1:g id="APPLICATION_NAME">%s</ns1:g>」"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"您的流動裝置所選取的語言現有字典可供使用。&lt;br/>我們建議您&lt;b>下載&lt;/b><ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>字典，讓您輸入時更方便。&lt;br/>&lt;br/>經由 3G 網絡下載需時一、兩分鐘。如果您未使用&lt;b>無限上網計劃&lt;/b>，可能須另外付費。&lt;br/>如果您不確定自己使用哪種上網計劃，我們建議您在連接 Wi-Fi 網絡後才開始自動下載。&lt;br/>&lt;br/>提示：您可以前往流動裝置的 [設定] &lt;b>&lt;/b>選單，透過其中的 [語言和輸入] &lt;b>&lt;/b>下載和移除字典。"</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"語言切換鍵"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"在啟用多種輸入語言時顯示"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"顯示應用程式圖示"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"在啟動器中顯示應用程式圖示"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"按鍵時播放音效"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Android 拼字檢查工具 (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"雌性符號"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"Micro 符號"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"雄性符號"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"清音 S"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"抑音符 A"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"銳音符 A"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"抑揚符 A"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"波浪號 A"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"分音符 A"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"帶上圓圈的 A"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"連字 AE"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"下尾符 C"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"抑音符 E"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"銳音符 E"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"抑揚符 E"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"分音符 E"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"抑音符 I"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"銳音符 I"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"抑揚符 I"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"分音符 I"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Eth 符號"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"波浪號 N"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"抑音符 O"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"銳音符 O"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"抑揚符 O"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"波浪號 O"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"分音符 O"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"帶斜線的 O"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"抑音符 U"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"銳音符 U"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"抑揚符 U"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"分音符 U"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"銳音符 Y"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Thorn 符號"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"分音符 Y"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"長音符 A"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"短音符 A"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"反下尾符 A"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"銳音符 C"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"抑揚符 C"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"上點 C"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"上勾符 C"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"上勾符 D"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"帶斜線的 D"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"長音符 E"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"短音符 E"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"上點 E"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"反下尾符 E"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"上勾符 E"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"抑揚符 G"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"短音符 G"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"上點 G"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"下尾符 G"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"抑揚符 H"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"帶斜線的 H"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"波浪號 I"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"長音符 I"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"短音符 I"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"反下尾符 I"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"無點 I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"連字 IJ"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"抑揚符 J"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"下尾符 K"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Kra 符號"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"銳音符 L"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"下尾符 L"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"上勾符 L"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"中點 L"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"帶斜線的 L"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"銳音符 N"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"下尾符 N"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"上勾符 N"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"前接縮寫符號的 N"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Eng 符號"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"長音符 O"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"短音符 O"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"雙銳音符 O"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"連字 OE"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"銳音符 R"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"下尾符 R"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"上勾符 R"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"銳音符 S"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"抑揚符 S"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"下尾符 S"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"上勾符 S"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"下尾符 T"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"上勾符 T"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"帶斜線的 T"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"波浪號 U"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"長音符 U"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"短音符 U"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"帶上圓圈的 U"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"雙銳音符 U"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"反下尾符 U"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"抑揚符 W"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"抑揚符 Y"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"銳音符 Z"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"上點 Z"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"上勾符 Z"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"長 S"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"帶尖角的 O"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"帶尖角的 U"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"下加逗號的 S"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"下加逗號的 T"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"中性母音符號"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"下點 A"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"上方加勾的 A"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"帶抑揚符和銳音符的 A"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"帶抑揚符和抑音符的 A"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"帶抑揚符和上方加勾的 A"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"帶抑揚符和波浪號的 A"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"帶抑揚符和下點的 A"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"帶短音符和銳音符的 A"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"帶短音符和抑音符的 A"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"帶短音符和上方加勾的 A"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"帶短音符和波浪號的 A"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"帶短音符和下點的 A"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"下點 E"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"上方加勾的 E"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"波浪號 E"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"帶抑揚符和銳音符的 E"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"帶抑揚符和抑音符的 E"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"帶抑揚符和上方加勾的 E"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"帶抑揚符和波浪號的 E"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"帶抑揚符和下點的 E"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"上方加勾的 I"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"下點 I"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"下點 O"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"上方加勾的 O"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"帶抑揚符和銳音符的 O"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"帶抑揚符和抑音符的 O"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"帶抑揚符和上方加勾的 O"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"帶抑揚符和波浪號的 O"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"帶抑揚符和下點的 O"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"帶尖角和銳音符的 O"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"帶尖角和抑音符的 O"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"帶尖角和上方加勾的 O"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"帶尖角和波浪號的 O"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"帶尖角和下點的 O"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"下點 U"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"上方加勾的 U"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"帶尖角和銳音符的 U"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"帶尖角和抑音符的 U"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"帶尖角和上方加勾的 U"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"帶尖角和波浪號的 U"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"帶尖角和下點的 U"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"抑音符 Y"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"下點 Y"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"上方加勾的 Y"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"波浪號 Y"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"按「<ns1:g id="KEY_NAME">%1$s</ns1:g>」可將「<ns1:g id="ORIGINAL_WORD">%2$s</ns1:g>」修正為「<ns1:g id="CORRECTED_WORD">%3$s</ns1:g>」"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"按「<ns1:g id="KEY_NAME">%1$s</ns1:g>」可自動修正"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"已關閉替代字元"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"已關閉其他建議字詞"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"目前文字為 %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"下一個"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"上一個"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift 鍵"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"刪除"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"分點符號"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"表情圖案"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"切換語言"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"語音輸入"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"字母模式"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"撥號模式"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"符號撥號模式"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"符號模式"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"更多符號模式"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Return 鍵"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"搜尋"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"設定"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift 鍵"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift 鍵"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"大寫鎖定已啟用"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Shift 鍵已啟用"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"空白鍵"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"更多符號"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"符號"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Tab 鍵"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"字母"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"數字"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"符號"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"未知的字元"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"大寫 <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"表情符號"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"大自然"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"物件"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"人物"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"地點"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"最近使用過"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"符號"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"版權符號"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"註冊符號"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"麻雀牌紅中"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"黑色鬼牌"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"A 型血"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"B 型血"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"O 型血"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"停車場"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"AB 型血"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"方框 CL"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"方框 COOL"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"方框 FREE"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"方框 ID"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"方框 NEW"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"方框 NG"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"方框 OK"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"方框 SOS"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"方框 UP 與感嘆號"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"方框 VS"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"方框片假名「這裡」"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"方框片假名「服務」"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"方框表意文字「免費」"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"方框表意文字「預留座位」"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"方框表意文字「禁止」"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"方框表意文字「空位」"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"方框表意文字「同意」"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"方框表意文字「已滿」"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"方框表意文字「收費」"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"方框表意文字「每月」"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"方框表意文字「申請」"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"方框表意文字「折扣」"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"方框表意文字「營業中」"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"圓圈表意文字「特惠」"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"圓圈表意文字「接受」"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"氣旋"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"有霧"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"未打開的雨傘"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"有星空的夜晚"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"山頂日出"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"日出"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"暮光傾城"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"夕陽下的城市森林"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"彩虹"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"橋下夜色"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"水波"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"火山"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"銀河"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"地球 (歐洲到非洲)"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"地球 (美洲)"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"地球 (亞洲到澳洲)"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"有經線的地球"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"新月符號"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"眉月符號"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"上弦月符號"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"盈凸月符號"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"滿月符號"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"虧凸月符號"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"下弦月符號"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"殘月符號"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"新月"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"有臉孔的新月"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"有臉孔的上弦月"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"有臉孔的下弦月"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"有臉孔的滿月"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"有臉孔的太陽"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"閃耀的星星"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"流星"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"栗子"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"幼苗"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"長青樹"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"落葉樹"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"棕櫚樹"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"仙人掌"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"鬱金香"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"櫻花"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"玫瑰"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"大紅花"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"向日葵"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"花朵"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"玉米穗"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"稻穗"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"香草"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"四葉草"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"楓葉"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"落葉"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"隨風飛舞的葉子"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"蘑菇"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"番茄"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"茄子"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"葡萄"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"蜜瓜"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"西瓜"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"橘子"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"檸檬"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"香蕉"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"菠蘿"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"紅蘋果"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"青蘋果"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"梨"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"桃"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"車厘子"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"士多啤梨"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"漢堡包"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"一片薄餅"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"連骨的肉"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"家禽腿肉"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"米餅"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"飯糰"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"煮熟的飯"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"咖哩飯"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"冒著熱氣的碗"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"意粉"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"麵包"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"薯條"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"烤蕃薯"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"糯米丸子"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"關東煮"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"壽司"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"炸蝦"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"魚餅"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"軟雪糕"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"刨冰"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"雪糕"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"冬甩"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"曲奇"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"朱古力條"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"糖果"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"波板糖"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"奶黄/吉士"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"蜜糖罐"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"酥餅"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"便當"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"鍋物"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"烹飪"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"刀叉"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"無柄茶杯"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"清酒瓶與杯"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"酒杯"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"雞尾酒杯"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"熱帶飲料"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"啤酒杯"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"乾杯"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"奶瓶"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"絲帶"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"包裝好的禮物"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"生日蛋糕"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"南瓜燈"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"聖誕樹"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"聖誕老人"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"煙花"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"仙女棒"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"汽球"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"單線拉炮"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"五彩碎紙球"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"七夕許願樹"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"交叉的旗子"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"松果裝飾品"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"日本娃娃"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"鯉魚旗"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"風鈴"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"賞月"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"書包"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"學士帽"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"旋轉木馬"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"摩天輪"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"過山車"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"釣竿與魚"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"咪高峰"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"電影攝影機"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"戲院"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"耳機"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"調色盤"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"大禮帽"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"馬戲團帳篷"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"門票"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"場記牌"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"表演藝術"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"電子遊戲"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"正中紅心"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"老虎機"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"桌球"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"遊戲骰子"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"保齡球"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"花牌"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"音符"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"許多音符"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"色士風"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"結他"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"鍵盤琴"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"小號"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"小提琴"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"樂譜"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"有飾帶的運動衣"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"網球拍與球"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"滑雪與滑雪靴"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"籃球與球框"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"賽車方格旗"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"滑雪的人"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"跑步者"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"衝浪者"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"獎盃"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"賽馬"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"美式足球"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"橄欖球"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"游泳者"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"住宅建築"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"有庭院的房子"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"辦公大樓"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"日本郵局"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"歐洲郵局"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"醫院"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"銀行"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"自動提款機"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"酒店"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"汽車旅館"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"便利店"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"學校"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"百貨公司"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"工廠"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"居酒屋燈籠"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"日本城堡"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"歐式城堡"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"大型家鼠"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"老鼠"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"牛"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"水牛"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"母牛"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"豹"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"兔子"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"貓"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"龍"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"鱷魚"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"鯨魚"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"蝸牛"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"蛇"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"馬"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"公羊"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"山羊"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"綿羊"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"猴子"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"公雞"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"雞"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"狗"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"豬"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"野豬"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"大象"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"章魚"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"貝殼"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"蟲子"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"螞蟻"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"蜜蜂"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"甲蟲"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"魚"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"熱帶魚"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"河豚"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"烏龜"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"剛孵化的小雞"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"小雞"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"正面的小雞"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"鳥"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"企鵝"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"無尾熊"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"捲毛狗"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"單峰駱駝"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"雙峰駱駝"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"海豚"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"老鼠臉"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"牛臉"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"老虎臉"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"兔子臉"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"貓臉"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"龍臉"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"噴水鯨魚"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"馬臉"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"猴子臉"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"狗臉"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"豬臉"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"青蛙臉"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"倉鼠臉"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"狼臉"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"熊臉"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"熊貓臉"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"豬鼻"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"動物足印"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"眼睛"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"耳朵"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"鼻子"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"嘴巴"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"舌頭"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"白色食指向上反手"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"白色食指向下反手"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"白色食指向左反手"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"白色食指向右反手"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"握拳符號"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"揮手符號"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"OK 手勢符號"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"豎起拇指符號"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"拇指朝下符號"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"鼓掌符號"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"張開雙手符號"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"皇冠"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"女裝帽"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"眼鏡"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"領帶"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"T 恤"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"牛仔褲"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"連身裙"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"和服"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"比基尼"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"女裝"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"皮包"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"手提包"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"小袋子"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"男裝鞋"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"運動鞋"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"高跟鞋"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"女裝涼鞋"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"女裝長靴"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"腳印"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"半身剪影"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"多個半身剪影"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"男孩"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"女孩"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"男人"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"女人"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"家庭"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"手牽手的男女"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"手牽手的男人"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"手牽手的女人"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"警察"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"兔女郎"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"戴著面紗的新娘"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"金髮的人"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"戴瓜皮帽的男人"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"戴著頭巾的男性"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"男性長者"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"女性長者"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"嬰兒"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"建築工人"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"公主"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"日本魔鬼"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"日本天狗"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"鬼魂"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"嬰兒天使"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"外星人"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"外星怪獸"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"小惡魔"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"骷髏頭"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"服務台人員"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"衛兵"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"舞者"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"唇膏"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"指甲油"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"臉部按摩"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"理髮"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"理髮店招牌"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"注射器"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"藥丸"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"唇印"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"情書"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"戒指"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"寶石"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"親吻"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"花束"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"情侶加上愛心"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"婚禮"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"跳動的心"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"破碎的心"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"兩顆心"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"閃耀的心"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"日益增大的心"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"一箭穿心"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"藍色的心"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"綠色的心"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"黃色的心"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"紫色的心"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"有彩帶的心"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"旋轉的心"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"心形裝飾品"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"中間有一點的鑽石圖案"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"電燈泡"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"生氣符號"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"炸彈"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"睡覺中符號"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"衝突符號"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"噴汗符號"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"小水滴"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"衝刺符號"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"一坨便便"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"展示二頭肌"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"暈眩符號"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"對話框"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"思考框"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"白色的花"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"一百分符號"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"錢包"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"貨幣換算"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"粗黑貨幣符號"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"信用卡"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"有日圓記號的鈔票"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"有美元記號的鈔票"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"有歐元記號的鈔票"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"有英鎊記號的鈔票"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"有翅膀的貨幣"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"有日圓記號且走勢向上的圖表"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"座位"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"個人電腦"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"公事包"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"迷你光碟"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"磁碟"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"光碟"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"DVD"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"檔案資料夾"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"開啟文件夾"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"捲曲的頁面"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"頁面朝上"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"日曆"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"撕頁式日曆"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"卡片索引"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"走勢向上的圖表"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"走勢向下的圖表"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"棒型圖"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"剪貼簿"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"圖釘"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"圓頂圖釘"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"萬字夾"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"直尺"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"三角尺"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"便利貼書籤"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"總帳"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"筆記本"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"有裝飾封面的筆記本"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"合起來的書"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"打開的書"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"綠色的書"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"藍色的書"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"橙色的書"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"圖書"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"名牌"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"捲軸"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"備忘標籤"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"電話聽筒"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"傳呼機"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"傳真機"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"衛星天線"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"大型擴音器"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"傳聲筒加油棒"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"送件匣"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"收件匣"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"包裹"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"電郵符號"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"寄來的信封"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"上方有向下箭嘴的信封"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"關閉而旗幟倒下的信箱"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"關閉而旗幟拉起的信箱"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"開啟而旗幟拉起的信箱"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"開啟而旗幟倒下的信箱"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"郵筒"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"急件喇叭"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"報紙"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"手機"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"左方有向右箭嘴的手機"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"振動模式"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"手機關機"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"禁止使用手機"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"含訊號格的天線"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"相機"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"攝影機"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"電視"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"無線電"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"錄影帶"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"扭轉向右的兩個箭嘴"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"順時針向右和向左繞成開放式圓圈的箭嘴"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"順時針向右和向左繞成開放式圓圈的箭嘴，上面有在圓圈內的 1 字"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"順時針向下和向上繞成開放式圓圈的箭嘴"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"逆時針向下和向上繞成開放式圓圈的箭嘴"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"低亮度符號"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"高亮度符號"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"加上刪除斜線的揚聲器"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"揚聲器"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"有一個聲波符號的揚聲器"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"有三個聲波符號的揚聲器"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"電池"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"電源插頭"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"向左的放大鏡"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"向右的放大鏡"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"墨水筆和鎖"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"鎖與鑰匙"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"鑰匙"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"鎖"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"打開了的鎖"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"鈴噹"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"加上刪除斜線的鈴鐺"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"書籤"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"連結符號"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"圓形按鈕"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"上方有向左箭嘴的「BACK」"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"上方有向左箭嘴的「END」"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"上方有向左、向右箭嘴的「ON」和感嘆號"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"上方有向右箭嘴的「SOON」"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"上方有向上箭嘴的「TOP」"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"18 禁符號"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"鍵帽 10"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"大寫拉丁字母輸入符號"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"小寫拉丁字母輸入符號"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"數字輸入符號"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"符號輸入符號"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"拉丁字母輸入符號"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"火"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"電筒"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"士巴拿"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"鐵鎚"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"螺帽與螺栓"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"日式廚刀"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"手槍"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"顯微鏡"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"望遠鏡"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"水晶球"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"中間有一點的六星形"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"日本的新手符號"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"三叉戟圖騰"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"黑色方形按鈕"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"白色方形按鈕"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"大型紅色圓圈"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"大型藍色圓圈"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"大型橙色菱形"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"大型藍色菱形"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"小型橙色菱形"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"小型藍色菱形"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"往上的紅色三角形"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"往下的紅色三角形"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"往上的小型紅色三角形"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"往下的小型紅色三角形"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"顯示為一點的時鐘鐘面"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"顯示為兩點的時鐘鐘面"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"顯示為三點的時鐘鐘面"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"顯示為四點的時鐘鐘面"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"顯示為五點的時鐘鐘面"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"顯示為六點的時鐘鐘面"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"顯示為七點的時鐘鐘面"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"顯示為八點的時鐘鐘面"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"顯示為九點的時鐘鐘面"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"顯示為十點的時鐘鐘面"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"顯示為十一點的時鐘鐘面"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"顯示為十二點的時鐘鐘面"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"顯示為一點辦的時鐘鐘面"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"顯示為兩點半的時鐘鐘面"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"顯示為三點半的時鐘鐘面"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"顯示為四點半的時鐘鐘面"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"顯示為五點半的時鐘鐘面"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"顯示為六點半的時鐘鐘面"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"顯示為七點半的時鐘鐘面"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"顯示為八點半的時鐘鐘面"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"顯示為九點半的時鐘鐘面"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"顯示為十點半的時鐘鐘面"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"顯示為十一點半的時鐘鐘面"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"顯示為十二點半的時鐘鐘面"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"富士山"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"東京鐵塔"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"自由女神像"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"日本的剪影"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"澀谷仿摩艾石像"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"露齒而笑的笑臉"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"帶著微笑眼睛且露齒而笑的笑臉"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"流下開心淚水的笑臉"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"張嘴的笑臉"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"張嘴且帶著笑意的笑臉"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"張嘴且冒著冷汗的笑臉"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"張嘴閉眼的笑臉"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"頭頂光環的笑臉"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"頭上長角的笑臉"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"眨眼睛的表情"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"眼帶笑意的笑臉"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"嚐到美食的表情"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"安心的表情"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"眼睛呈現心形的笑臉"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"戴著太陽眼鏡的笑臉"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"嘻笑的臉"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"無表情"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"面無表情的臉"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"不帶一絲愉悅的表情"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"冒冷汗的表情"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"沈思的表情"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"困惑的表情"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"狼狽的表情"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"親吻的表情"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"送出飛吻的表情"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"笑咪咪親吻的表情"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"閉眼親吻的表情"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"伸舌的表情"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"伸舌眨眼的表情"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"伸舌閉眼的表情"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"失望的表情"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"擔心的表情"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"生氣的表情"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"面露不悅的表情"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"嚎啕大哭"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"固執己見的表情"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"洋洋得意的表情"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"失望卻又安心的表情"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"皺眉張嘴的表情"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"苦惱的表情"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"害怕的表情"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"精疲力竭的表情"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"想睡的表情"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"疲倦的表情"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"做鬼臉"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"大聲哭泣的表情"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"張嘴的表情"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"噤聲的表情"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"張嘴且冒著冷汗的表情"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"因害怕而尖叫的表情"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"驚訝的表情"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"興奮的表情"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"熟睡的表情"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"頭暈目眩的表情"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"沒有嘴巴的臉"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"帶著口罩的臉"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"眼睛微笑且露齒而笑的貓臉"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"喜極而泣的貓臉"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"露齒而笑的貓臉"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"微笑時眼睛呈心形的貓臉"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"帶著諷刺微笑的貓臉"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"閉著眼睛親吻的貓臉"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"生氣的貓臉"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"正在哭泣的貓臉"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"精疲力竭的貓臉"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"帶有「不好」手勢的臉"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"帶有 OK 手勢的臉"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"深深鞠躬的人"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"非禮勿視的猴子"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"非禮勿聽的猴子"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"非禮勿言的猴子"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"快樂且高舉單手的人"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"高舉雙手慶祝的人"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"皺眉的人"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"面露不悅的人"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"雙手交叉的人"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"火箭"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"直升機"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"蒸汽火車頭"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"火車車廂"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"高鐵列車"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"子彈火車"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"火車"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"地鐵"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"輕鐵"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"車站"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"電車"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"電車車廂"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"巴士"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"迎面駛來的巴士"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"無軌電車"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"巴士站"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"小巴"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"救護車"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"消防車"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"警車"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"迎面駛來的警車"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"的士"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"迎面駛來的的士"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"汽車"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"迎面駛來的汽車"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"露營車"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"運輸貨車"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"拖斗貨車"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"拖拉機"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"單軌鐵路"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"山區火車"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"懸掛式鐵路"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"山區纜車"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"架空纜車"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"船隻"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"划艇"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"快艇"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"橫向紅綠燈"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"垂直式紅綠燈"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"施工標誌"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"旋轉的警車警示燈"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"郵筒上的三角旗"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"門"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"禁止進入標誌"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"吸煙區符號"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"禁煙符號"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"正確丟棄垃圾標誌"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"請勿亂丟垃圾標誌"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"飲用水標誌"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"非飲用水標誌"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"單車"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"禁止單車"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"單車騎士"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"越野單車騎士"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"行人"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"禁止行人通過"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"注意兒童穿越馬路"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"男性符號"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"女性符號"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"廁所"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"嬰兒符號"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"廁所"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"盥洗室"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"淋浴間"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"浸浴"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"浴缸"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"護照檢查處"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"海關"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"行李領取處"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"行李寄存處"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"雙感嘆號"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"感嘆和問號"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"商標符號"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"資料來源"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"向左向右箭嘴"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"向上向下箭嘴"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"西北方箭嘴"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"東北方箭嘴"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"東南方箭嘴"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"西南方箭嘴"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"有鉤向左箭嘴"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"有鉤向右箭嘴"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"手錶"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"沙漏"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"黑色向右雙重三角形"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"黑色向左雙重三角形"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"黑色向上雙重三角形"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"黑色向下雙重三角形"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"鬧鐘"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"流動的沙漏"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"圓圈中的大寫字母 M"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"小型黑色正方形"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"小型白色正方形"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"黑色向右三角形"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"黑色向左三角形"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"中型白色正方形"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"中型黑色正方形"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"中小型白色正方形"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"中小型黑色正方形"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"有光芒的太陽"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"雲朵"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"黑色電話"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"有勾選記號的投票箱"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"有雨滴的傘"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"熱飲"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"指向上的白色食指"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"白色笑臉"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"白羊座"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"金牛座"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"雙子座"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"巨蟹座"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"獅子座"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"處女座"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"天秤座"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"天蠍座"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"射手座"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"摩羯座"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"水瓶座"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"雙魚座"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"黑色葵扇紙牌"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"黑色梅花紙牌"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"黑色紅心紙牌"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"黑色階磚紙牌"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"溫泉"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"黑色的國際通用資源回收符號"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"輪椅符號"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"錨"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"警告標誌"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"高電壓標誌"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"中型白圓點"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"中型黑圓點"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"足球"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"棒球"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"四周沒有下雪的雪人"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"雲遮日"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"蛇夫座"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"禁止進入"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"教堂"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"噴泉"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"插在洞中的旗子"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"帆船"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"帳篷"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"燃料泵"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"黑剪刀"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"白色加粗的剔號"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"飛機"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"信封"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"高舉拳頭"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"舉起的手"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"勝利手勢"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"鉛筆"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"黑色筆尖"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"加粗的剔號"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"加粗的乘法符號"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"三個火花"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"八角星號"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"黑色八角星形"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"雪花"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"火花"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"打叉符號"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"反白方框交叉符號"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"黑色問號裝飾"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"白色問號裝飾"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"白色感嘆號裝飾"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"加粗的感嘆號符號"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"粗黑的愛心"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"加粗的加號"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"加粗的減號"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"加粗的除號"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"黑色向右箭嘴"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"捲曲循環線"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"雙捲曲循環線"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"先向右再往上彎曲的箭嘴"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"先向右再往下彎曲的箭嘴"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"黑色向左箭嘴"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"黑色向上箭嘴"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"黑色向下箭嘴"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"大型黑色正方形"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"大型白色正方形"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"中型白色星星"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"加粗的大圓形"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"波折線"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"專輯交替標記"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"圓形的表意文字「祝賀」"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"圓形的表意文字「秘密」"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"未知的表情符號"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"無聊"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"尷尬"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"親吻"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"皺眉"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"驚訝"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"戴著墨鏡"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"沒有建議"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"大寫 I"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"上方加點的大寫 I"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"未輸入文字"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"有可用的替代字元"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"有可用的建議字詞"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"倒置的驚嘆號"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"左雙角括號"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"中間點"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"上標字 1"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"右雙角括號"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"倒問號"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"左單引號"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"右單引號"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Low-9 單引號"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"左雙引號"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"右雙引號"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"單劍註釋符號"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"雙劍註釋符號"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"千分比符號"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"單撇"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"雙撇"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"左單角括號"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"右單角括號"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"上標 4"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"上標拉丁小寫字母 n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"比索符號"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"百分比"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"向右箭頭"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"向下箭頭"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"空集合"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"增量"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"小於或等於"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"大於或等於"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"黑星"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"未知的符號"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"插上耳機即可聽到系統朗讀密碼鍵。"</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Emoji"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"英文 (英國)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"英文 (美國)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"西班牙文 (美國)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (精簡版)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (傳統)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"印度英文"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"語言"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"無語言 (字母)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"字母 (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"字母 (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"字母 (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"字母 (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"字母 (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"字母 (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"塞爾維亞文 (拉丁文)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"英文 (英國) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"英文 (美國) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"西班牙文 (美國) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"印度英文 (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"塞爾維亞文 (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"切換帳戶"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"立即同步"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"下載中：<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>字詞建議服務即將啟用。"</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"建議聯絡人名稱"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"使用「聯絡人」的名稱提供建議與修正"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"拼字檢查程式使用您的聯絡人名單中的各項記錄"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"查找聯絡人姓名"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"按兩下空格鍵插入句號"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"只要輕按兩下空格鍵，即可插入句號並在後面加上一個空格"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"個人化建議"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"根據您的通訊記錄和已輸入的資料改善建議"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"確定"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"較少選項"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"更多選項"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"加入字典"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"語言："</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"新增"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"詞組"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"自選快速鍵"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"快速鍵："</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"輸入字詞"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"字詞："</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"所有語言"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"刪除"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"編輯"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"刪除"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"編輯字詞"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"您的使用者字典中沒有任何字詞。輕觸 [新增] (+) 按鈕即可新增字詞。"</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"更多語言..."</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"使用者字典"</string>
+    <string msgid="2715354215568469385" name="version_text">"版本 <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"按鍵時震動"</string>
+    <string msgid="3583258583521397548" name="voice_input">"語音輸入鍵"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"尚未啟用語音輸入法，請檢查語言和輸入設定。"</string>
+</resources>

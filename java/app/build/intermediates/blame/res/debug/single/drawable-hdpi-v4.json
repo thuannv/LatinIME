@@ -1,0 +1,718 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_background_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_background_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_tab_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_tab_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_return_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_return_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_spacebar_pressed_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_spacebar_pressed_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_nature_normal_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_nature_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_people_normal_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_people_normal_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_space_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_space_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_background_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_background_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_recents_activated_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_recents_activated_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_on_klp_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_on_klp_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_popup_panel_background_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_popup_panel_background_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_active_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_active_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_emoticons_normal_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_emoticons_normal_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_right_more_background_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_right_more_background_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_next_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_next_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_people_activated_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_people_activated_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unbundled_check_02.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/unbundled_check_02.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_active_pressed_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_active_pressed_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_space_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_space_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_objects_activated_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_objects_activated_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_popup_selected_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_popup_selected_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_tab_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_tab_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher_keyboard.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_launcher_keyboard.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_emoticons_activated_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_emoticons_activated_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_off_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_off_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_zwnj_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_zwnj_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_shift_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_objects_activated_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_objects_activated_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_zwj_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_zwj_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_voice_off_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_voice_off_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_add_circle_white_24dp.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_add_circle_white_24dp.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_klp_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_klp_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_menu_add.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_menu_add.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift_locked_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_shift_locked_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift_locked_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_shift_locked_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_recents_normal_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_recents_normal_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_more_background_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_more_background_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_symbols_normal_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_symbols_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_search_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_search_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_places_normal_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_places_normal_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/suggestions_strip_divider_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/suggestions_strip_divider_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_send_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_send_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_active_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_active_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_background_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_background_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_done_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_done_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_klp_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_klp_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_people_normal_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_people_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_on_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_on_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift_locked_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_shift_locked_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_spacebar_normal_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_spacebar_normal_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unbundled_key_01.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/unbundled_key_01.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_spacebar_normal_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_spacebar_normal_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_tab_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_tab_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_objects_activated_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_objects_activated_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_zwj_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_zwj_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_people_activated_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_people_activated_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_places_normal_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_places_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_zwnj_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_zwnj_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_nature_normal_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_nature_normal_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_settings_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_settings_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_emoticons_normal_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_emoticons_normal_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/suggestions_strip_divider_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/suggestions_strip_divider_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_right_background_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_right_background_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_objects_normal_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_objects_normal_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_background.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_background.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_left_more_background_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_left_more_background_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/emoji_category_tab_unselected_holo_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/emoji_category_tab_unselected_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_popup_selected_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_popup_selected_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_holo_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_shift_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_popup_selected_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_popup_selected_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_previous_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_previous_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_popup_panel_background_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_popup_panel_background_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_more_background_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_more_background_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_places_activated_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_places_activated_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_recents_normal_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_recents_normal_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_objects_normal_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_objects_normal_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_zwj_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_zwj_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_previous_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_previous_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_places_activated_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_places_activated_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_send_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_send_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_places_normal_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_places_normal_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_off_klp_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_off_klp_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_off_ics_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_off_ics_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_popup_selected_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_popup_selected_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unbundled_earth_02.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/unbundled_earth_02.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_emoticons_normal_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_emoticons_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_off_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_off_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_voice_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_voice_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unbundled_select_02.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/unbundled_select_02.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_delete_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_delete_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_on_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_on_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_holo_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_language_switch_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_language_switch_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_voice_off_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_voice_off_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_nature_activated_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_nature_activated_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_smiley_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_smiley_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_smiley_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_smiley_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/emoji_category_tab_selected_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/emoji_category_tab_selected_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_background_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_background_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unbundled_check_01.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/unbundled_check_01.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_ics_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_ics_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_off_holo_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_off_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_settings_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_settings_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/suggestions_strip_divider_holo.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/suggestions_strip_divider_holo.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_popup_panel_background_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_popup_panel_background_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_right_more_background_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_right_more_background_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_symbols_activated_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_symbols_activated_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_symbols_activated_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_symbols_activated_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_on_ics_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_on_ics_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_emoticons_activated_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_emoticons_activated_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_active_klp_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_active_klp_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_search_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_search_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_voice_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_voice_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unbundled_key_02.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/unbundled_key_02.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_nature_activated_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_nature_activated_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_recents_activated_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_recents_activated_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_return_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_return_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_voice_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_voice_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_spacebar_pressed_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_spacebar_pressed_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_emoticons_activated_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_emoticons_activated_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/emoji_category_tab_selected_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/emoji_category_tab_selected_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_go_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_go_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_zwnj_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_zwnj_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_on_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_on_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_left_more_background_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_left_more_background_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_popup_panel_background_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_popup_panel_background_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_more_background_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_more_background_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_background_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_background_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_off_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_off_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_background_holo.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_background_holo.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_next_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_next_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_suggest_strip_holo.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_suggest_strip_holo.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_off_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_off_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_on_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_on_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_ime_switcher_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_ime_switcher_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_voice_off_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_voice_off_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_left_background_ics.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_left_background_ics.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_suggest_strip_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_suggest_strip_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_shift_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_shift_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_symbols_normal_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_symbols_normal_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/more_suggestions_divider.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/more_suggestions_divider.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_symbols_normal_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_symbols_normal_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_active_pressed_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_active_pressed_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_active_ics_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_active_ics_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_people_activated_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_people_activated_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_language_switch_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_language_switch_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_language_switch_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_language_switch_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_recents_normal_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_recents_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_on_klp_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_on_klp_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_delete_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_delete_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_objects_normal_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_objects_normal_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_background_lxx_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_background_lxx_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_go_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_go_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_delete_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_delete_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unbundled_earth_01.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/unbundled_earth_01.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_space_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_space_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/more_keys_divider.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/more_keys_divider.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_left_background_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_left_background_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_search_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_search_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_normal_on_ics_dark.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_on_ics_dark.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_keyboard_key_pressed_ics_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_ics_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_more_background.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_more_background.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_space.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_nature_normal_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_nature_normal_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_suggest_strip_lxx_light.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_suggest_strip_lxx_light.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_places_activated_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_places_activated_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_return_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_return_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_done_lxx_light.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_done_lxx_light.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_people_normal_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_people_normal_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_notify_dictionary.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_notify_dictionary.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_right_background_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_right_background_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/keyboard_key_feedback_more_background_klp.9.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/keyboard_key_feedback_more_background_klp.9.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_recents_activated_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_recents_activated_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/unbundled_select_01.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/unbundled_select_01.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_nature_activated_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_nature_activated_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_emoji_symbols_activated_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/ic_emoji_symbols_activated_holo_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_settings_lxx_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_settings_lxx_dark.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/sym_keyboard_smiley_holo_dark.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/drawable-hdpi/sym_keyboard_smiley_holo_dark.png"
+    }
+]

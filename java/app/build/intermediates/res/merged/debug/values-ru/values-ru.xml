@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g> мс"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"Отмена"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"ОК"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"Выйти"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"Выберите аккаунт"</string>
+    <string msgid="2846876462199625974" name="account_selected">"Используется аккаунт <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"Добавить"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"Чтобы включить функцию, добавьте аккаунт Google на устройство"</string>
+    <string msgid="6163126614514489951" name="add_style">"Добавить стиль"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Настройки проверки правописания Android (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"Клавиатура скрыта."</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"Включен режим <ns1:g id="KEYBOARD_MODE">%s</ns1:g>."</string>
+    <string msgid="6320102637491234792" name="app_name">"Поставщик словарей"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Заглавные автоматически"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"Писать первое слово предложения с прописной буквы"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"Автоисправление"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"Автоматическое исправление опечаток при вводе знака препинания или пробела"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"Активно"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"Умеренное"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"Откл."</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"Очень активно"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"Подсказывать слова"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"Предлагать подсказки на основе предыдущего слова"</string>
+    <string msgid="3988017840431881491" name="button_default">"По умолчанию"</string>
+    <string msgid="6830980399865683324" name="cancel">"Отмена"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"Отмена"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"Сбой подключения"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"Обновить"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"Синхронизированные данные будут удалены из облака. Продолжить?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"Удалить"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Удаление синхронизированных данных из Google"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"Удалить данные с серверов Google"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"Отменить"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"Словарь будет сохраняться на серверах Google и синхронизироваться. Чтобы повысить качество наших сервисов, мы можем отслеживать статистику использования тех или иных слов. Вся информация обрабатывается в соответствии с "<a href="https://www.google.com/policies/privacy">"Политикой конфиденциальности"</a>"."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"Синхронизация включена"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"Синхронизировать пользовательский словарь со всеми устройствами"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"Синхронизация на устройствах с аккаунтом Google Apps for Business запрещена"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Синхронизировать Клавиатуру"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"Дополнительные словари"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"Настройка способов ввода"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"Такой стиль ввода уже существует: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"Необходимо включить персонализированный стиль ввода."</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"Персонализированные стили"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"Пользовательский словарь"</string>
+    <string msgid="756853268088330054" name="delete_dict">"Удалить"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"Нажмите, чтобы просмотреть и загрузить"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"Доступен словарь: <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"Доступен словарь"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"Установлен, отключен"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"Загрузка…"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"Словарь доступен"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"Установлен"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"Поставщик словарей"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"Служба словарей"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"Настройки словарей"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"Дополнительные словари"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Загрузить через Wi-Fi"</string>
+    <string msgid="6014835283119198591" name="download_description">"Обновления словаря"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"Загрузить (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g> МБ)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"Пользовательский словарь"</string>
+    <string msgid="5031294444630523247" name="enable">"Включить"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"Помочь улучшить <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"Включить разделенную клавиатуру"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Настройки"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Клавиатура Android (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Настройки клавиатуры Android (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"Показывать подсказки"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"Показывать подсказки при вводе текста"</string>
+    <string msgid="826951152254563827" name="gesture_input">"Включить функцию"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"Вводите слова, не отрывая пальца от клавиатуры"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"Рисовать линию"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"Непрерывный ввод фраз"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"Проводите по клавише пробела после каждого слова"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"Настройки"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Доступен словарь"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"Справка/отзыв"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"Нажмите, чтобы сохранить"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"Нажмите, чтобы сохранить"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"Смена способов ввода"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"Клавиша переключения языков также служит для смены способа ввода"</string>
+    <string msgid="180852772562189365" name="install_dict">"Установить"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"По умолчанию"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"Задержка закрытия"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"Без задержки"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"Тема клавиатуры"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"Раскладка"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"ввода даты"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"ввода даты и времени"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"ввода адреса электронной почты"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"ввода сообщения"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"ввода цифр"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"набора номера"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"ввода текста"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"ввода времени"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"ввода URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"Тема клавиатуры"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"Готово"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"ОК"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"Далее"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"Пауза"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"Назад"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"Поиск"</string>
+    <string msgid="482252074224462163" name="label_send_key">"Отправить"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"Пауза"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"Выберите язык"</string>
+    <string msgid="730467549913588780" name="last_update">"Последнее обновление"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"Основной словарь"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"Основной словарь"</string>
+    <string msgid="5638680861387748936" name="message_loading">"Загрузка…"</string>
+    <string msgid="4457761393932375219" name="message_updating">"Проверка обновлений…"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"Аккаунт не выбран"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"Словарей нет"</string>
+    <string msgid="6172462888202790482" name="not_now">"Не сейчас"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Увеличение нажатых"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"Не предлагать слова, которые могут быть сочтены оскорбительными"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"Блокировка нецензурных слов"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"Смайлики с внешней клавиатуры"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"Открывать список смайликов нажатием клавиши ALT"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"Долгое нажатие"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"Звук при нажатии клавиш"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"Вибросигнал при нажатии клавиш"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"Варианты исправлений"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"Предлагать варианты слов во время ввода"</string>
+    <string msgid="4486081658752944606" name="remove">"Удалить"</string>
+    <string msgid="7646738597196767214" name="save">"Сохранить"</string>
+    <string msgid="5709487854987078367" name="select_language">"Язык"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"Аккаунты"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"Дополнительные настройки"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"Вид и раскладки"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"Исправление текста"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"Непрерывный ввод"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"Настройки"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"Тема"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"По умолчанию"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"Готово"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"Далее"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"Начать работу"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"Включить в настройках"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"Приложение <ns1:g id="APPLICATION_NAME">%s</ns1:g> уже включено в настройках языка и ввода, поэтому можно перейти к следующему шагу."</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"Установите флажок <ns1:g id="APPLICATION_NAME">%s</ns1:g> в меню \"Язык и ввод\", чтобы использовать этот способ ввода на устройстве."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>: включение"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"Другой способ ввода"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"Выберите приложение \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" как текущий способ ввода."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>: активация"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"Настроить дополнительные языки"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"Теперь вы можете использовать приложение \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" для набора текста."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"Настройте дополнительные языки."</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>: настройка"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"с непрерывным вводом"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"Представляем приложение \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\""</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"Доступен словарь для проверки правописания (<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>).&lt;br/>Рекомендуем &lt;b>установить&lt;/b> его, чтобы быстрее вводить текст.&lt;br/>&lt;br/>Если вашим тарифом предусмотрена &lt;b>безлимитная передача данных&lt;/b>, словарь можно загрузить через сеть 3G (это займет всего пару минут).&lt;br/>Если вы не помните подробностей своего тарифного плана, лучше подключитесь к сети Wi-Fi (загрузка начнется автоматически).&lt;br/>&lt;br/>Совет. Чтобы добавлять, удалять и настраивать словари, откройте раздел &lt;b>Язык и ввод&lt;/b> в настройках устройства."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"Клавиша смены языка"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"Показывать, когда включено несколько раскладок"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"Показывать значок приложения"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"Отображать значок приложения на панели запуска"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Звук клавиш"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Проверка правописания Android (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"Женский порядковый индикатор."</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"Знак микро."</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"Мужской порядковый индикатор."</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"Эсцет."</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"Латинская A с грависом."</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"Латинская A с акутом."</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"Латинская A с циркумфлексом."</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"Латинская A с тильдой."</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"Латинская A с умляутом."</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"Латинская A с кружком сверху."</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"Лигатура из латинских A и E."</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"Латинская C с седилью."</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"Латинская E с грависом."</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"Латинская E с акутом."</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"Латинская E с циркумфлексом."</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"Латинская E с умляутом."</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"Латинская I с грависом."</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"Латинская I с акутом."</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"Латинская I с циркумфлексом."</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"Латинская I с умляутом."</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Eth."</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"Латинская N с тильдой."</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"Латинская O с грависом."</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"Латинская O с акутом."</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"Латинская O с циркумфлексом."</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"Латинская O с тильдой."</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"Латинская O с умляутом."</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"Латинская O, диагонально перечеркнутая."</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"Латинская U с грависом."</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"Латинская U с акутом."</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"Латинская U с циркумфлексом."</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"Латинская U с умляутом."</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Латинская Y с акутом."</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Торн."</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Латинская Y с умляутом."</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"Латинская A с макроном."</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"Латинская A с бревисом."</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"Латинская A с огонэком."</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"Латинская C с акутом."</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"Латинская C с циркумфлексом."</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"Латинская C с точкой сверху."</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"Латинская C с гачеком."</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"Латинская D с гачеком."</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"Латинская D с чертой."</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"Латинская E с макроном."</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"Латинская E с бревисом."</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"Латинская E с точкой сверху."</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"Латинская E с огонэком."</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"Латинская E с гачеком."</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"Латинская G с циркумфлексом."</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"Латинская G с бревисом."</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"Латинская G с точкой сверху."</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"Латинская G с седилью."</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"Латинская H с циркумфлексом."</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"Латинская H с чертой."</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"Латинская I с тильдой."</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"Латинская I с макроном."</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"Латинская I с бревисом."</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"Латинская I с огонэком."</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"Латинская I без точки."</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"Лигатура из латинских I и J."</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"Латинская J с циркумфлексом."</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"Латинская K с седилью."</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Кра"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"Латинская L с акутом."</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"Латинская L с седилью."</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"Латинская L с гачеком."</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"Латинская L с точкой сбоку."</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"Латинская L с чертой."</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"Латинская N с акутом."</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"Латинская N с седилью."</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"Латинская N с гачеком."</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"Латинская N с апострофом слева."</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Энг"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"Латинская O с макроном."</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"Латинская O с бревисом."</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"Латинская O с двойным акутом."</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"Лигатура из латинских O и E"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"Латинская R с акутом"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"Латинская R с седилью."</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"Латинская R с гачеком."</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"Латинская S с акутом."</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"Латинская S с циркумфлексом."</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"Латинская S с седилью."</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"Латинская S с гачеком."</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"Латинская T с седилью."</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"Латинская T с гачеком."</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"Латинская T с чертой."</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"Латинская U с тильдой."</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"Латинская U с макроном."</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"Латинская U с бревисом."</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"Латинская U с кружком сверху."</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"Латинская U с двойным акутом."</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"Латинская U с огонэком."</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"Латинская W с циркумфлексом."</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Латинская Y с циркумфлексом."</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Латинская Z с акутом."</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Латинская Z с точкой сверху."</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Латинская Z с гачеком."</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"Латинская S длинная."</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"Латинская O с крючком."</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"Латинская U с крючком."</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"Латинская S с запятой снизу."</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"Латинская T с запятой снизу."</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Шва."</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"Латинская A с точкой снизу."</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"Латинская A с крючком сверху."</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"Латинская A с циркумфлексом и акутом."</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"Латинская A с циркумфлексом и грависом."</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"Латинская A с крючком сверху и циркумфлексом."</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"Латинская A с циркумфлексом и тильдой."</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"Латинская A с точкой снизу и циркумфлексом."</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"Латинская A с бревисом и акутом."</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"Латинская A с бревисом и грависом."</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"Латинская A с крючком сверху и бревисом."</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"Латинская A с бревисом и тильдой."</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"Латинская A с точкой снизу и бревисом."</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"Латинская E с точкой снизу."</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"Латинская E с крючком сверху."</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"Латинская E с тильдой."</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"Латинская E с циркумфлексом и акутом."</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"Латинская E с циркумфлексом и грависом."</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"Латинская E с крючком сверху и циркумфлексом."</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"Латинская E с циркумфлексом и тильдой."</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"Латинская E с точкой снизу и циркумфлексом."</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"Латинская I с крючком сверху."</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"Латинская I с точкой снизу."</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"Латинская O с точкой снизу."</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"Латинская O с крючком сверху."</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"Латинская O с циркумфлексом и акутом."</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"Латинская O с циркумфлексом и грависом."</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"Латинская O с крючком сверху и циркумфлексом."</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"Латинская O с циркумфлексом и тильдой."</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"Латинская O с точкой снизу и циркумфлексом."</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"Латинская O с рожком и акутом."</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"Латинская O с рожком и грависом."</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"Латинская O с крючком сверху и рожком."</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"Латинская O с крючком и тильдой."</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"Латинская O с точкой снизу и крючком."</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"Латинская U с точкой снизу."</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"Латинская U с крючком сверху."</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"Латинская U с крючком и акутом."</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"Латинская U с крючком и грависом."</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"Латинская U с крючком и крючком сверху."</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"Латинская U с крючком и тильдой."</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"Латинская U с точкой снизу и крючком."</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Латинская Y с грависом."</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Латинская Y с точкой снизу."</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Латинская Y с крючком сверху."</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Латинская Y с тильдой."</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"При нажатии клавиши <ns1:g id="KEY_NAME">%1$s</ns1:g> слово <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> будет исправлено на <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>."</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"Клавиша <ns1:g id="KEY_NAME">%1$s</ns1:g> выполняет автоисправление."</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"Дополнительные символы скрыты."</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"Дополнительные подсказки скрыты."</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"Введенный текст: %s."</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"Далее."</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"Назад."</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Клавиша верхнего регистра."</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"Удалить."</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"Маркер списка."</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"Смайлики."</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"Сменить язык."</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"Голосовой ввод."</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"Режим ввода текста."</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"Режим набора номера."</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"Режим телефонных символов."</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"Режим добавления символов."</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"Режим дополнительных символов."</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Ввод."</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"Поиск."</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"Настройки."</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Клавиша верхнего регистра."</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Клавиша верхнего регистра."</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Caps Lock включен."</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Верхний регистр включен."</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"Пробел."</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"Дополнительные символы."</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"Символы."</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Клавиша Tab."</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"Буквы."</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"Цифры."</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"Символы."</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"Неизвестный символ."</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"Заглавная <ns1:g id="LOWER_LETTER">%s</ns1:g>."</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"Смайлики."</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"Природа."</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"Объекты."</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"Люди."</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"Места."</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"Недавно использованные."</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"Символы."</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"Знак охраны авторского права."</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"Символ охраны товарного знака."</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"Кость для маджонга Красный дракон."</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"Игральная карта Черный джокер."</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"Вторая группа крови."</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"Третья группа крови."</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"Первая группа крови."</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"Автомобильная стоянка."</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"Четвертая группа крови."</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"Квадратный значок очистки."</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"Квадратный значок Классно."</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"Квадратный значок Бесплатно."</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"Квадратный значок идентификатора."</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"Квадратный значок Новый."</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"Квадратный значок Нехорошо."</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"Квадратный значок О\'кей."</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"Квадратный значок СОС."</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"Квадратный значок обновления с восклицательным знаком."</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"Квадратный значок Против."</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"Квадратный значок Здесь, катакана."</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"Квадратный значок сервиса, катакана."</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"Иероглиф отсутствия."</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"Иероглиф забронированного места."</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"Иероглиф Запрещено."</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"Иероглиф Свободно."</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"Иероглиф Принято."</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"Иероглиф Заполнено."</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Иероглиф обладания."</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"Иероглиф Ежемесячно."</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"Иероглиф заявления."</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"Иероглиф скидки."</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"Иероглиф Открыто."</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"Иероглиф выгодного предложения."</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"Иероглиф Принять."</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"Ураган."</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"Туман."</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"Сложенный зонт."</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"Звездная ночь."</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"Восход солнца над горами."</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"Восход."</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"Городской пейзаж на закате."</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"Закат над зданиями."</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"Радуга."</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"Ночной пейзаж с мостом."</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"Волна."</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"Вулкан."</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"Млечный путь."</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"Европа и Африка на глобусе."</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"Америка на глобусе."</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"Азия и Австралия на глобусе."</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"Глобус с меридианами."</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"Новолуние."</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"Растущий полумесяц."</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"Луна в первой четверти."</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"Растущая луна."</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"Полнолуние."</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"Убывающая Луна."</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"Луна в последней четверти."</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"Убывающий полумесяц."</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"Месяц."</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"Новолуние с лицом."</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"Луна в первой четверти с лицом."</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"Луна в последней четверти с лицом."</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"Полная луна с лицом."</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"Солнце с лицом."</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"Светящаяся звезда."</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"Падающая звезда."</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"Каштан."</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"Росток."</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"Хвойное дерево."</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"Лиственное дерево."</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"Пальма."</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"Кактус."</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"Тюльпан."</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"Цветок вишни."</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"Роза."</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"Гибискус."</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"Подсолнечник."</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"Цветок."</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"Кукурузный початок."</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"Колосья риса."</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"Растение."</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"Четырехлистный клевер."</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"Кленовый лист."</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"Опавший лист."</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"Лист, кружащийся на ветру."</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"Гриб."</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"Помидор."</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"Баклажан."</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"Виноград."</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"Дыня."</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"Арбуз."</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"Мандарин."</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"Лимон."</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"Банан."</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"Ананас."</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"Красное яблоко."</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"Зеленое яблоко."</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"Груша."</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"Персик."</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"Вишни."</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"Клубника."</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"Гамбургер."</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"Кусок пиццы."</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"Мясо на кости."</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"Куриная ножка."</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"Рисовое печенье."</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"Рисовый шарик."</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"Миска с рисом."</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"Карри с рисом."</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"Миска с лапшой."</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"Спагетти."</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"Хлеб."</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"Картофель фри."</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"Печеный батат."</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"Данго."</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"Одэн."</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"Суши."</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"Жареная креветка."</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"Рыбная котлета со спиральным рисунком."</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"Мягкое мороженое."</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"Ледяная стружка."</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"Мороженое."</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"Пончик."</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"Печенье."</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"Шоколадная плитка."</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"Конфета."</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Леденец."</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"Заварной крем."</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"Горшок с медом."</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"Кусок торта."</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"Упаковка бэнто."</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"Еда в миске."</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"Приготовление пищи."</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"Вилка и нож."</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"Чайная чашка без ручки."</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"Бутылка саке и чашка."</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"Бокал вина."</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"Коктейль в бокале."</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"Тропический коктейль."</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"Пивная кружка."</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"Чокающиеся пивные кружки."</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"Детская бутылочка."</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"Лента."</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"Завернутый подарок."</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Торт на день рождения."</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"Светильник-тыква."</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"Наряженная елка."</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"Санта-Клаус."</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"Фейерверк."</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"Бенгальский огонь."</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"Воздушный шар."</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"Хлопушка."</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"Шар с конфетти."</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"Танабата, ветка с тандзаку."</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"Скрещенные флаги."</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"Японское новогоднее украшение."</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"Японские куклы."</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"Вымпелы в виде карпов."</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"Японский колокольчик фурин."</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"Церемония созерцания луны."</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"Школьный ранец."</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"Шапочка выпускника."</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"Карусель с лошадьми."</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"Колесо обозрения."</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"Американские горки."</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"Удочка с пойманной рыбой."</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"Микрофон."</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"Кинокамера."</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"Кино."</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"Наушники."</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"Палитра."</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"Цилиндр."</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"Цирковой шатер."</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"Билет."</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"Нумератор с хлопушкой."</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"Театральные маски."</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"Видеоигра."</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"Прямое попадание."</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"Игровой автомат."</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"Бильярд."</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"Игровые кости."</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"Боулинг."</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"Ханафуда."</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"Музыкальная нота."</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"Несколько музыкальных нот."</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"Саксофон."</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"Гитара."</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"Клавишный инструмент."</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"Труба."</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"Скрипка."</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"Скрипичный ключ на нотном стане."</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"Майка бегуна."</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"Теннисная ракетка и мяч."</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"Лыжа с ботинком."</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"Баскетбольный мяч и кольцо."</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"Клетчатый флаг."</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"Сноубордист."</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"Бегун."</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"Серфер."</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"Кубок."</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"Конный спорт."</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"Американский футбол."</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"Регби."</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"Пловец."</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"Дом."</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"Дом с садом."</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"Офисное здание."</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"Японский почтамт."</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"Европейский почтамт."</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"Больница."</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"Банк."</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"Банкомат."</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"Отель."</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"Отель для встреч."</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"Круглосуточный магазин."</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"Школа."</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"Супермаркет."</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"Фабрика."</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"Японский фонарь."</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"Японский замок."</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"Европейский замок."</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"Крыса."</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"Мышь."</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"Бык."</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"Буйвол."</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"Корова."</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"Леопард."</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"Кролик."</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"Кошка."</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"Дракон."</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"Крокодил."</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"Кит."</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"Улитка."</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"Змея."</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"Лошадь."</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"Баран."</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"Коза."</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"Овца."</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"Обезьяна."</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"Петух."</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"Курица."</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"Собака."</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"Свинья."</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"Кабан."</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"Слон."</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"Осьминог."</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"Ракушка."</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"Сороконожка."</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"Муравей."</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"Пчела."</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"Божья коровка."</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"Рыба."</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"Тропическая рыбка."</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"Иглобрюх."</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"Черепаха."</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"Вылупившийся цыпленок."</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"Цыпленок."</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"Цыпленок анфас."</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"Птица."</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"Пингвин."</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"Коала."</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"Пудель."</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"Одногорбый верблюд."</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"Двугорбый верблюд."</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"Дельфин."</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"Голова мыши."</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"Голова коровы."</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"Голова тигра."</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"Голова кролика."</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"Голова кошки."</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"Голова дракона."</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"Кит, пускающий фонтан."</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"Голова лошади."</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"Голова обезьяны."</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"Голова собаки."</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"Голова свиньи."</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"Голова лягушки."</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"Голова хомяка."</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"Голова волка."</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"Голова медведя."</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"Голова панды."</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"Свиной пятачок."</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"Отпечатки лап."</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"Глаза."</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"Ухо."</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"Нос."</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"Рот."</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"Язык."</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"Белая рука с указательным пальцем вверх с тыльной стороны."</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"Белая рука с указательным пальцем вниз с тыльной стороны."</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"Белая рука с указательным пальцем влево с тыльной стороны."</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"Белая рука с указательным пальцем вправо с тыльной стороны."</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"Кулак."</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"Машущая раскрытая ладонь."</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"Пальцы, сложенные знаком О\'кей."</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"Большой палец вверх."</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"Большой палец вниз."</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"Аплодисменты."</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"Раскрытые ладони."</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"Корона."</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"Женская шляпа."</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"Очки."</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"Галстук."</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"Футболка."</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"Джинсы."</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"Платье."</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"Кимоно."</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"Бикини."</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"Блузка."</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"Кошелек."</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"Женская сумка."</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"Чехол."</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"Мужская туфля."</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"Кроссовка."</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"Туфля на каблуке."</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"Женская сандалия."</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"Женские сапоги."</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"Отпечатки босых ног."</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"Силуэт головы и плеч."</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"Силуэты голов и плеч."</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"Мальчик."</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"Девочка."</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"Мужчина."</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"Женщина."</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"Семья."</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"Мужчина и женщина, держащиеся за руки."</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"Двое мужчин, держащихся за руки."</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"Две женщины, держащиеся за руки."</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"Полицейский."</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"Женщина с кроличьими ушами."</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"Невеста с фатой."</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"Человек со светлыми волосами."</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"Мужчина в традиционной китайской шапочке."</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"Мужчина в тюрбане."</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"Пожилой мужчина."</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"Пожилая женщина."</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"Младенец."</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"Строитель."</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"Принцесса."</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"Японский демон они."</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Японский демон тэнгу."</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"Привидение."</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"Младенец ангел."</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"Гуманоид."</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"Инопланетный монстр."</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Имп."</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"Череп."</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"Сотрудник бюро информации."</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"Часовой."</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"Танцор."</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"Помада."</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"Лак для ногтей."</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"Массаж лица."</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"Стрижка."</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"Указатель парикмахерской."</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"Шприц."</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"Таблетка."</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"Отпечаток губ."</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"Любовное письмо."</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"Кольцо."</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"Драгоценный камень."</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"Поцелуй."</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"Букет."</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"Влюбленная пара."</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"Свадьба."</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"Бьющееся сердце."</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"Разбитое сердце."</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"Два сердца."</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"Мерцающее сердце."</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"Трепещущее сердце."</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"Сердце, пронзенное стрелой."</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"Голубое сердце."</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"Зеленое сердце."</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"Желтое сердце."</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"Фиолетовое сердце."</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"Сердце с лентой."</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"Вращающиеся сердца."</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"Украшение в виде сердца."</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"Ромб с точкой в центре."</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"Горящая лампочка."</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"Сердится."</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"Бомба."</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"Сонный."</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"Столкновение."</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"Капли пота."</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"Капля."</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"Стремительное движение."</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"Кучка экскрементов."</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"Бицепс."</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"Головокружение."</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"Облачко реплики."</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"Облачко мыслей."</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"Белый цветок."</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"Сто баллов."</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"Мешок с деньгами."</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"Обмен валюты."</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"Широкий знак доллара."</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"Кредитная карта."</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"Банкнота со знаком иены."</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"Купюра со знаком доллара."</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"Банкнота со знаком евро."</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"Банкнота со знаком фунта стерлингов."</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"Пачка банкнот с крыльями."</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"График, идущий вверх, и знак иены."</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"Кресло."</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"Компьютер."</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"Портфель."</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"Мини-диск."</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"Дискета."</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"Оптический диск."</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"DVD."</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"Папка."</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"Открытая папка."</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"Страница, скрученная снизу."</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"Страница с загнутым углом."</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"Календарь."</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"Отрывной календарь."</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"Картотека."</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"График, идущий вверх."</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"График, идущий вниз."</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"Столбчатая диаграмма."</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"Папка-планшет."</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"Канцелярская кнопка."</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"Канцелярская кнопка с круглой головкой."</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"Скрепка."</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"Линейка."</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"Линейка треугольник."</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"Закладки на страницах."</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"Бухгалтерская книга."</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"Блокнот."</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"Блокнот с декоративной обложкой."</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"Закрытая книга."</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"Открытая книга."</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"Зеленая книга."</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"Синяя книга."</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"Оранжевая книга."</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"Книги."</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"Нагрудная визитка."</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"Свиток."</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"Заметка."</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"Телефонная трубка."</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"Пейджер."</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"Факсимильный аппарат."</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"Спутниковая антенна."</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"Громкоговоритель."</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"Ручной мегафон."</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Лоток для исходящей почты."</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"Лоток для входящей почты."</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"Посылка."</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"Значок электронной почты."</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"Входящее письмо."</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"Конверт со стрелкой вниз над ним."</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"Закрытый почтовый ящик с опущенным флажком."</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"Закрытый почтовый ящик с поднятым флажком."</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"Открытый почтовый ящик с поднятым флажком."</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"Открытый почтовый ящик с опущенным флажком."</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"Почтовый ящик."</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"Рожок, значок почтовой службы."</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"Газета."</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"Мобильный телефон."</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"Мобильный телефон со стрелкой, указывающей на него."</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"Режим вибрации."</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"Отключенный мобильный телефон."</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"Запрет на использование мобильного телефона."</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"Значок антенны с индикатором уровня сигнала."</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"Фотоаппарат."</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"Видеокамера."</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"Телевизор."</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"Радио."</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"Видеокассета."</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"Перекрещенные стрелки вправо."</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"Круговые стрелки, указывающие по часовой."</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"Круговые стрелки, указывающие по часовой, и цифра один поверх них."</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"Круговые стрелки, указывающие вверх и вниз по часовой."</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"Круговые стрелки, указывающие вверх и вниз против часовой."</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"Значок уменьшения яркости."</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"Значок увеличения яркости."</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"Перечеркнутый динамик."</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"Динамик."</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"Динамик с одной линией звука."</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"Динамик с тремя линиями звука."</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"Батарея."</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"Штепсельная вилка."</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"Увеличительное стекло, направленное влево."</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"Увеличительное стекло, направленное вправо."</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"Замок и перьевая ручка."</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"Закрытый замок с ключом."</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"Ключ."</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"Замок."</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"Открытый замок."</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"Колокольчик."</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"Перечеркнутый колокольчик."</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"Закладка."</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"Значок ссылки."</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"Переключатель."</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"Надпись Назад и стрелка влево над ней."</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"Надпись Конец и стрелка влево над ней."</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"Надпись Включено с восклицательным знаком и стрелки, указывающие вправо и влево, над ней."</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Надпись Скоро и стрелка вправо над ней."</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Надпись Вверх и стрелка вверх над ней."</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"Значок Только после восемнадцати лет."</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"Клавиша десять."</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"Значок ввода латинских заглавных букв."</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"Значок ввода латинских строчных букв."</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"Значок ввода цифр."</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"Знак ввода символов."</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"Значок ввода латинских букв."</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"Огонь."</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"Электрический фонарь."</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"Гаечный ключ."</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"Молоток."</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"Гайка и болт."</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"Нож."</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"Пистолет."</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"Микроскоп."</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"Телескоп."</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"Магический шар."</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"Шестиконечная звезда с точкой в центре."</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"Японский символ новичка."</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"Трезубец."</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"Черная квадратная кнопка."</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"Белая квадратная кнопка."</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"Большой красный круг."</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"Большой синий круг."</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"Большой оранжевый ромб."</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"Большой синий ромб."</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"Маленький оранжевый ромб."</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"Маленький синий ромб."</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"Красный треугольник вершиной вверх."</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"Красный треугольник вершиной вниз."</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"Маленький красный треугольник вершиной вверх."</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"Маленький красный треугольник вершиной вниз."</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"Один час на циферблате."</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"Два часа на циферблате."</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"Три часа на циферблате."</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"Четыре часа на циферблате."</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"Пять часов на циферблате."</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"Шесть часов на циферблате."</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"Семь часов на циферблате."</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"Восемь часов на циферблате."</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"Девять часов на циферблате."</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"Десять часов на циферблате."</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"Одиннадцать часов на циферблате."</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"Двенадцать часов на циферблате."</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"Полвторого на циферблате."</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"Полтретьего на циферблате."</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"Полчетвертого на циферблате."</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"Полпятого на циферблате."</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"Полшестого на циферблате."</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"Полседьмого на циферблате."</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"Полвосьмого на циферблате."</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"Полдевятого на циферблате."</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"Полдесятого на циферблате."</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"Пол-одиннадцатого на циферблате."</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"Полдвенадцатого на циферблате."</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"Полпервого на циферблате."</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"Гора Фудзи."</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"Токийская телебашня."</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"Статуя Свободы."</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"Очертания Японии."</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"Моаи."</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"Широкая улыбка."</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"Широкая улыбка, глаза прищурены."</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"Слезы радости."</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"Улыбка, рот открыт."</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"Улыбка, рот открыт, глаза прищурены."</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"Открытая улыбка и испарина."</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"Открытая улыбка, зажмуренные глаза."</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"Улыбка, нимб над головой."</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"Улыбающееся лицо, рога на голове."</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"Подмигивание."</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"Улыбка, глаза прищурены."</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"Высунутый язык, один глаз прищурен."</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"Облегчение."</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"Улыбка, глаза в форме сердец."</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"Улыбка, солнцезащитные очки."</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"Самодовольная усмешка."</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"Без эмоций."</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"Лицо без выражения."</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"Не впечатлен."</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"Испарина."</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"Глубокая печаль."</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"Смущение."</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"Готов расплакаться."</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"Поцелуй."</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"Воздушный поцелуй."</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"Поцелуй, глаза прищурены."</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"Поцелуй, глаза закрыты."</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"Высунутый язык."</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"Высунутый язык, подмигивание."</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"Высунутый язык, зажмуренные глаза."</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"Разочарование."</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"Беспокойство."</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"Сердитое лицо."</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"Сердитое лицо с надутыми щеками."</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"Плач."</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"Упорство."</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"Ликование."</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"Разочарование, смешанное с чувством облегчения."</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"Нахмуренное лицо, рот открыт."</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"Страдающее лицо."</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"Страх."</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"Усталость."</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"Сонное лицо."</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"Утомление."</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"Гримаса."</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"Громкий плач."</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"Открытый рот."</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"Молчание."</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"Открытый рот, испарина."</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"Крик ужаса."</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"Изумление."</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"Смущение, красные щеки."</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"Спящее лицо."</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"Головокружение."</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"Лицо безо рта."</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"Лицо в медицинской маске."</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"Улыбающийся кот с прищуренными глазами."</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"Кот со слезами радости."</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"Улыбающийся кот, рот открыт."</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"Улыбающийся кот, глаза в форме сердец."</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"Кот с кривой ухмылкой."</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"Целующий кот, глаза закрыты."</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"Сердитый кот с надутыми щеками."</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"Плачущий кот."</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"Усталый кот."</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"Запрет."</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"Разрешение."</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"Низкий поклон."</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"Обезьяна с закрытыми глазами."</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"Обезьяна с закрытыми ушами."</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"Обезьяна с закрытым ртом."</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"Радость, одна рука поднята."</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"Торжествующий человек с поднятыми руками."</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"Огорчение."</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"Сердитый человек."</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"Сложенные руки."</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"Ракета."</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"Вертолет."</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"Паровоз."</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"Вагон."</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"Скоростной поезд."</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"Скоростной поезд-пуля."</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"Поезд."</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"Метро."</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"Электричка."</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"Станция."</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"Трамвай."</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"Вагон трамвая."</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"Автобус."</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"Приближающийся автобус."</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"Троллейбус."</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"Автобусная остановка."</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"Микроавтобус."</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"Скорая помощь."</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"Пожарная машина."</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"Полицейская машина."</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"Приближающаяся полицейская машина."</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"Такси."</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"Приближающееся такси."</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"Автомобиль."</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"Приближающийся автомобиль."</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"Жилой автофургон."</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"Малотоннажный грузовик."</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"Грузовик с прицепом."</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"Трактор."</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"Монорельс."</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"Горная железная дорога."</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"Подвесная железная дорога."</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"Горная канатная дорога."</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"Фуникулер."</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"Корабль."</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"Лодка с веслами."</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"Быстроходный катер."</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"Горизонтальный светофор."</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"Вертикальный светофор."</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"Ограждение дорожных работ."</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"Маячок полицейской машины."</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"Треугольный флаг на шесте."</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"Дверь."</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"Знак Входа нет."</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"Знак Курение разрешено."</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"Знак Не курить."</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"Знак мусорной корзины."</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"Знак Не сорить."</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"Знак Питьевая вода."</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"Знак Непитьевая вода."</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"Велосипед."</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"Велосипедам проезд запрещен."</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"Велосипедист."</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"Горный велосипед."</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"Пешеход."</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"Знак Проход воспрещен."</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"Дети, переходящие дорогу."</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"Мужской туалет."</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"Женский туалет."</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"Туалет."</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"Младенец."</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"Туалет."</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"Туалет."</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"Душ."</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"Ванная."</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"Ванна."</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"Паспортный контроль."</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"Таможня."</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"Выдача багажа."</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"Камера хранения."</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"Два восклицательных знака."</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"Восклицательный и вопросительный знаки."</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"Символ торгового знака."</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"Информация."</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"Стрелка влево и вправо."</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"Стрелка вверх и вниз."</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"Стрелка северо-запад."</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"Стрелка северо-восток."</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"Стрелка юго-восток."</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"Стрелка юго-запад."</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"Стрелка влево с закруглением."</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"Стрелка вправо с закруглением."</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"Часы."</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"Песочные часы."</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"Два черных треугольника, указывающие вправо."</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"Два черных треугольника, указывающие влево."</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"Два черных треугольника, указывающие вверх."</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"Два черных треугольника, указывающие вниз."</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"Будильник."</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"Песочные часы с сыплющимся песком."</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"Заглавная буква М в круге."</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"Маленький черный квадрат."</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"Маленький белый квадрат."</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"Черный треугольник, указывающий вправо."</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"Черный треугольник, указывающий влево."</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"Белый квадрат средних размеров."</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"Черный квадрат средних размеров."</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"Небольшой белый квадрат."</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"Небольшой черный квадрат."</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"Черное солнце с лучами."</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"Облако."</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"Черный телефон."</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"Галочка в квадрате."</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"Зонт и капли дождя."</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"Горячий напиток."</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"Белая рука с указательным пальцем вверх."</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"Белый смайлик."</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"Овен."</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"Телец."</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"Близнецы."</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"Рак."</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"Лев."</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"Дева."</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"Весы."</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"Скорпион."</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"Стрелец."</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"Козерог."</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Водолей."</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"Рыбы."</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"Черные пики."</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"Черные трефы."</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"Черные червы."</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"Черные бубны."</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Термальные источники."</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"Черный универсальный знак повторной переработки."</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"Инвалидная коляска."</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"Якорь."</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"Знак предупреждения."</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"Знак высокого напряжения."</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"Белый круг средних размеров."</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"Черный круг средних размеров."</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"Футбольный мяч."</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"Бейсбольный мяч."</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"Снеговик."</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"Солнце за облаком."</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"Змееносец."</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"Входа нет."</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"Церковь."</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"Фонтан."</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"Флаг в лунке."</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"Парусник."</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"Палатка."</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"Бензоколонка."</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"Черные ножницы."</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"Жирная белая галочка."</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"Самолет."</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"Конверт."</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"Поднятый кулак."</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"Поднятая ладонь."</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"Знак победы."</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"Карандаш."</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"Черное перо."</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"Жирная галочка."</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"Жирный знак умножения."</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"Мерцание."</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"Звездочка с восемью лучами."</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"Черная звездочка с восемью лучами."</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"Снежинка."</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"Искра."</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"Крест."</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"Белый крест на черном фоне."</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"Фигурный черный вопросительный знак."</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"Фигурный белый вопросительный знак."</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"Фигурный белый восклицательный знак."</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"Жирный восклицательный знак."</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"Черное сердце."</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"Жирный знак плюса."</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"Жирный знак минуса."</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"Жирный знак деления."</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"Черная стрелка вправо."</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"Петля."</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"Двойная петля."</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"Стрелка, указывающая вправо, затем вверх."</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"Стрелка, указывающая вправо, затем вниз."</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"Черная стрелка влево."</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"Черная стрелка вверх."</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"Черная стрелка вниз."</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"Большой черный квадрат."</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"Большой белый квадрат."</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"Белая звезда средних размеров."</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"Большой жирный круг."</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"Волнистое тире."</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"Начало вокальной партии."</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"Иероглиф поздравления, обведенный кругом."</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"Иероглиф Секрет, обведенный кругом."</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"Неизвестный смайлик."</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"Скука."</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"Смущение."</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"Поцелуй."</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"Хмурый взгляд."</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"Удивление."</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"Солнцезащитные очки."</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"Подсказки не найдены"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"Заглавная латинская I."</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"Заглавная латинская I с точкой сверху."</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"Текст не введен."</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"Доступны дополнительные символы."</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"Доступны дополнительные подсказки."</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"Перевернутый восклицательный знак."</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"Открывающая двойная французская кавычка."</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"Интерпункт."</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Единица в надстрочном начертании."</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"Закрывающая двойная французская кавычка."</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"Перевернутый вопросительный знак."</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"Открывающая одиночная английская кавычка."</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"Закрывающая одиночная английская кавычка."</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Одиночная нижняя кавычка."</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"Открывающая двойная английская кавычка."</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"Закрывающая двойная английская кавычка."</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Типографский крестик."</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Двойной крестик."</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Знак промилле."</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Штрих."</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Двойной штрих."</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"Открывающая одиночная угловая кавычка."</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"Закрывающая одиночная угловая кавычка."</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Четверка в надстрочном начертании."</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Строчная латинская n в надстрочном начертании."</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Знак песо."</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"Знак Care of."</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"Стрелка вправо."</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Стрелка вниз."</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"Знак пустого множества."</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Дельта."</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"Меньше или равно."</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"Больше или равно."</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"Черная звезда."</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"Неизвестный символ."</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"Подключите гарнитуру, чтобы услышать пароль."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Эмодзи"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"английский (Великобритания)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"английский (США)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"Испанский (США)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (компактная раскладка)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (классическая)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"Хинглиш"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"Язык"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"Язык не определен (латиница)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"Латиница (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"Латиница (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"Латиница (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"Латиница (ПК)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"Латиница (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"Латиница (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"Сербский (латиница)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"Английский (Великобритания, <ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"Английский (США, <ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"Испанский (США, <ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"Хинглиш (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"Сербский (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"Сменить аккаунт"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"Синхронизировать"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"Загрузка словаря (<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>)…"</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"Подсказывать имена"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"Подсказывать исправления на основе имен из списка контактов"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"Использовать имена контактов при проверке правописания"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"Поиск в контактах"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"Точки автоматически"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"Вводить точку с пробелом двойным нажатием пробела."</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"Пользовательские словари"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"Устройство будет запоминать то, что вы вводите чаще всего"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"ОК"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"Меньше настроек"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"Больше настроек"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"Добавление в словарь"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"Язык:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"Добавить"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"Фраза"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"Ярлык для фразы (необязательно)"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"Быстрые клавиши:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"Введите слово"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"Слово:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"Для всех языков"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"Удалить"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"Изменить"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"Удалить"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"Изменение слова"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"В словаре пользователя пока ничего нет. Добавлять слова можно с помощью кнопки \"Добавить ( + )\"."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"Другой язык"</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"Пользовательские словари"</string>
+    <string msgid="2715354215568469385" name="version_text">"Версия <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Виброотклик клавиш"</string>
+    <string msgid="3583258583521397548" name="voice_input">"Кнопка голосового ввода"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"Голосовой способ ввода не включен. Проверьте раздел настроек \"Язык и ввод\"."</string>
+</resources>

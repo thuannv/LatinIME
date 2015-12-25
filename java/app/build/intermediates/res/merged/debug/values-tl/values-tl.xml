@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g>ms"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"Kanselahin"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"OK"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"Mag-sign out"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"Pumili ng account na gagamitin"</string>
+    <string msgid="2846876462199625974" name="account_selected">"Kasalukuyang ginagamit ang <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"Idagdag"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"Mangyaring magdagdag ng Google account sa device na ito upang i-enable ang feature na ito"</string>
+    <string msgid="6163126614514489951" name="add_style">"Mag-add ng style"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Mga Setting ng Spell Checker ng Android (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"Nakatago ang keyboard"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"Ipinapakita ang keyboard na <ns1:g id="KEYBOARD_MODE">%s</ns1:g>"</string>
+    <string msgid="6320102637491234792" name="app_name">"Provider ng Diksyunaryo"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Auto-capitalization"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"I-capitalize ang unang salita ng bawat pangungusap"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"Auto na pagwawasto"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"Awtomatikong tinatama ng spacebar at bantas ang maling na-type"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"Agresibo"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"Modest"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"Naka-off"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"Napaka-agresibo"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"Mga suhestiyon sa susunod na salita"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"Gamitin ang naunang salita sa paggawa ng mga suhestyon"</string>
+    <string msgid="3988017840431881491" name="button_default">"Default"</string>
+    <string msgid="6830980399865683324" name="cancel">"Kanselahin"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"Kanselahin"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"Di makakonekta sa serbisyong diksyunaryo"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"I-refresh"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"Idi-delete sa cloud ang iyong na-sync na data. Sigurado ka ba?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"I-delete"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Dine-delete ang iyong naka-sync na data sa Google"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"I-delete ang cloud data"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"Kanselahin"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"Masi-sync at maba-back up ang iyong personal na dictionary sa mga server ng Google. Maaaring kolektahin ang istatistikal na impormasyon ng dalas ng salita upang makatulong na pahusayin ang aming mga produkto. Susunod ang pagkolekta at paggamit ng lahat ng impormasyon sa "<a href="https://www.google.com/policies/privacy">"Patakaran sa Privacy ng Google"</a>"."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"Naka-on ang pag-sync"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"I-sync ang iyong personal na diksyunaryo sa mga device"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"Pag-sync, hindi available sa device na may Google Apps for Business account"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Pag-sync ng Google Keyboard"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"Mga add-on na diksyunaryo"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"I-configure ang mga pamamaraan ng pag-input"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"Umiiral na ang parehong estilo ng input: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"Kailangan pinagana ang custom na istilo ng input bago simulang gamitin. Nais itong paganahin?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"Custom style ng input"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"Diksyunaryo ng user"</string>
+    <string msgid="756853268088330054" name="delete_dict">"Tanggalin"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"Pindutin upang suriin at i-download"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"May available na diksyunaryo para sa <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"Available ang diksyunaryo"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"Naka-install, hindi pinagana"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"Kasalukuyang dina-download"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"Available ang diksyunaryo"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"Na-install na"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"Provider ng Diksyunaryo"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"Serbisyo ng Diksyunaryo"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"Mga setting para sa mga diksyunaryo"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"Mga add-on na diksyunaryo"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"I-download gamit ang Wi-Fi"</string>
+    <string msgid="6014835283119198591" name="download_description">"Impormasyon ng update sa diksyunaryo"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"I-download ngayon (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g>MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"Personal na diksyunaryo"</string>
+    <string msgid="5031294444630523247" name="enable">"Paganahin"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"Pahusayin ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"I-enable ang split keyboard"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Mga pagpipilian sa input"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android Keyboard (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Mga Setting ng Android Keyboard (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"Dynamic na floating preview"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"Tingnan ang iminungkahing salita habang gumagalaw"</string>
+    <string msgid="826951152254563827" name="gesture_input">"I-enable ang gesture typing"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"Mag-input ng salita sa pamamagitan ng pag-slide sa mga titik"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"Ipakita ang trail ng gesture"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"Phrase gesture"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"Maglagay ng espasyo sa pamamagitan ng pag-glide sa space key"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"Mga Setting"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Available ang diksyunaryo"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"Tulong at feedback"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"Pinduting muli upang i-save"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"Pumindot dito upang mag-save"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"Lipat iba paraan ng input"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"Saklaw din ng key ng pagpalit ng wika ang ibang paraan ng input"</string>
+    <string msgid="180852772562189365" name="install_dict">"I-install"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"Default"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"I-dismiss ang delay ng key popup"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"Walang delay"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"Tema ng keyboard"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"Layout"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"petsa"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"petsa at oras"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"email"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"pagmemensahe"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"numero"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"telepono"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"teksto"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"oras"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"Tema ng keyboard"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"Tapos"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"Go"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"Sunod"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"Pause"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"Nauna"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"Maghanap"</string>
+    <string msgid="482252074224462163" name="label_send_key">"Send"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"Intay"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"Mga Wika"</string>
+    <string msgid="730467549913588780" name="last_update">"Huling na-update"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"Pangunahing diksyunaryo"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"Pangunahing diksyunaryo"</string>
+    <string msgid="5638680861387748936" name="message_loading">"Naglo-load…"</string>
+    <string msgid="4457761393932375219" name="message_updating">"Tumitingin ng mga update"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"Walang mga account na pinili"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"Walang mga diksyunaryo"</string>
+    <string msgid="6172462888202790482" name="not_now">"Hindi ngayon"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Mag-popup sa keypress"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"Huwag magmungkahi ng mga maaaring nakakapanakit na salita"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"I-block ang nakakapanakit na salita"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"Emoji para sa pisikal na keyboard"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"Ipinapakita ng pisikal na Alt key ang emoji palette"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"Delay sa long press ng key"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"Volume ng tunog ng keypress"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"Tagal ng vibration ng keypress"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"Ipakita ang mga suhestiyon sa pagwawasto"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"Ipakita ang mga iminumungkahing salita habang nagta-type"</string>
+    <string msgid="4486081658752944606" name="remove">"Alisin"</string>
+    <string msgid="7646738597196767214" name="save">"I-save"</string>
+    <string msgid="5709487854987078367" name="select_language">"Mga Wika"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"Mga Account at Privacy"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"Advanced"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"Hitsura at Mga Layout"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"Pagwawasto ng text"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"Gesture na Pagta-type"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"Mga Kagustuhan"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"Tema"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"Default ng system"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"Tapos na"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"Susunod na hakbang"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"Magsimula"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"I-enable sa Mga Setting"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"Naka-enable na ang <ns1:g id="APPLICATION_NAME">%s</ns1:g> sa iyong Wika at mga setting ng pag-input, kaya tapos na ang hakbang na ito. Magpatuloy sa susunod!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"Paki-check ang \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" sa mga setting mo ng Wika at input. Mapapahintulutan itong tumakbo sa device mo."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"Paganahin ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"Magpalit ng pamamaraan ng pag-input"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"Susunod, piliin ang \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" bilang iyong aktibong pamamaraan ng pag-input ng teksto."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"Lumipat sa <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"Mag-configure ng mga karagdagang wika"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"Ngayon, mata-type mo na ang lahat ng paborito mong apps gamit ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"Binabati kita, handa ka na!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"Sine-set up ang <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"gamit ang Gesture na Pagta-type"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"Maligayang pagdating sa <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"May available na diksyunaryo ang napiling wika sa iyong mobile device.&lt;br/> Inirerekomenda naming &lt;b>i-download&lt;/b> ang diksyunaryo ng <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> upang pagbutihin ang iyong karanasan sa pagta-type.&lt;br/> &lt;br/> Maaaring magtagal nang ilang minuto ang pag-download sa 3G. Maaaring magkaroon ng mga pagsingil kung wala kang &lt;b>unlimited data plan&lt;/b>.&lt;br/> Kung hindi ka sigurado kung anong data plan ang mayroon ka, inirerekomenda naming maghanap ng koneksyon sa Wi-Fi upang awtomatikong masimulan ang pag-download.&lt;br/> &lt;br/> Tip: Maaari kang mag-download at mag-alis ng mga diksyunaryo sa pamamagitan ng pagpunta sa &lt;b>Wika &amp; input&lt;/b> sa menu ng &lt;b>Mga Setting&lt;/b> ng iyong mobile device."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"Key ng panlipat ng wika"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"Ipakita kapag maraming wika ng input na pinagana"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"Ipakita ang icon ng app"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"Ipakita ang icon ng application sa launcher"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Tumunog sa keypress"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Spell Checker ng Android (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"Feminine ordinal indicator"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"Simbolo ng micro"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"Masculine ordinal indicator"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"Sharp S"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A, grave"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A, acute"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A, circumflex"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A, tilde"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A, diaeresis"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A, ring sa itaas"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"A, E, ligature"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C, cedilla"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E, grave"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E, acute"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E, circumflex"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E, diaeresis"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I, grave"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I, acute"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I, circumflex"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I, diaeresis"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Eth"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N, tilde"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O, grave"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O, acute"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O, circumflex"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O, tilde"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O, diaeresis"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O, stroke"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U, grave"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U, acute"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U, circumflex"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U, diaeresis"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y, acute"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Thorn"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y, diaeresis"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A, macron"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A, breve"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A, ogonek"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C, acute"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C, circumflex"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C, tuldok sa itaas"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C, caron"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D, caron"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D, stroke"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E, macron"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E, breve"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E, tuldok sa itaas"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E, ogonek"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E, caron"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G, circumflex"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G, breve"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G, tuldok sa itaas"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G, cedilla"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H, circumflex"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H, stroke"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I, tilde"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I, macron"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I, breve"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I, ogonek"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"Walang tuldok na I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"I, J, ligature"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J, circumflex"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K, cedilla"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Kra"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L, acute"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L, cedilla"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L, caron"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L, gitnang tuldok"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L, stroke"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N, acute"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N, cedilla"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N, caron"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N, may kudlit sa unahan"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Eng"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O, macron"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O, breve"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O, double acute"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"O, E, ligature"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R, acute"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R, cedilla"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R, caron"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S, acute"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S, circumflex"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S, cedilla"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S, caron"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T, cedilla"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T, caron"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T, stroke"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U, tilde"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U, macron"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U, breve"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U, ring sa itaas"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U, double acute"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U, ogonek"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W, circumflex"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y, circumflex"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z, acute"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z, tuldok sa itaas"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z, caron"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"Long S"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O, horn"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U, horn"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S, kuwit sa ibaba"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T, kuwit sa ibaba"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Schwa"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A, tuldok sa ibaba"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A, hook sa itaas"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A, circumflex at acute"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A, circumflex at grave"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A, circumflex at hook sa itaas"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A, circumflex at tilde"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A, circumflex at tuldok sa ibaba"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A, breve at acute"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A, breve at grave"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A, breve at hook sa itaas"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A, breve at tilde"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A, breve at tuldok sa ibaba"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E, tuldok sa ibaba"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E, hook sa itaas"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E, tilde"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E, circumflex at acute"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E, circumflex at grave"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E, circumflex at hook sa itaas"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E, circumflex at tilde"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E, circumflex at tuldok sa ibaba"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I, hook sa itaas"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I, tuldok sa ibaba"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O, tuldok sa ibaba"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O, hook sa itaas"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O, circumflex at acute"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O, circumflex at grave"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O, circumflex at hook sa itaas"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O, circumflex at tilde"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O, circumflex at tuldok sa ibaba"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O, horn at acute"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O, horn at grave"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O, horn at hook sa itaas"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O, horn at tilde"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O, horn at tuldok sa ibaba"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U, tuldok sa ibaba"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U, hook sa itaas"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U, horn at acute"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U, horn at grave"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U, horn at hook sa itaas"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U, horn at tilde"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U, horn at tuldok sa ibaba"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y, grave"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y, tuldok sa ibaba"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y, hook sa itaas"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y, tilde"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"Itinatama ng <ns1:g id="KEY_NAME">%1$s</ns1:g> ang <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> sa <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"Nagsasagawa ang <ns1:g id="KEY_NAME">%1$s</ns1:g> ng auto-correction"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"Dini-dismiss ang mga alternatibong character"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"Dini-dismiss ang mga alternatibong suhestyon"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"Ang kasalukuyang teksto ay %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"Sunod"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"Nauna"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"Tanggalin"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"Tuldok"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"Emoji"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"Magpalit ng wika"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"Input ng boses"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"Letters mode"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"Phone mode"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"Phone symbols mode"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"Symbols mode"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"Mode na marami pang simbolo"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Bumalik"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"Maghanap"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"Mga Setting"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Naka-enable ang caps lock"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Naka-enable ang shift"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"Space"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"Marami pang simbolo"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"Mga Simbolo"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Tab"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"Mga Titik"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"Mga Numero"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"Mga Simbolo"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"Hindi alam na character"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"Capital <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"Mga Emoticon"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"Kalikasan"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"Mga Bagay"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"Mga Tao"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"Mga Lugar"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"Mga Kamakailang Ginamit"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"Mga Simbolo"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"Simbolo ng copyright"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"Nakarehistrong simbolo"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"Pulang dragon sa tile ng mahjong"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"Itim na joker sa baraha"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"Blood type A"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"Blood type B"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"Blood type O"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"Paradahan"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"Blood type AB"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"CL na nasa parisukat"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"Cool na nasa parisukat"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"Free na nasa parisukat"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"ID na nasa parisukat"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"New na nasa parisukat"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"N G na nasa parisukat"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"OK na nasa parisukat"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"SOS na nasa parisukat"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"Up na may tandang padamdam na nasa parisukat"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"vs na nasa parisukat"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"Katakana ng dito na nasa parisukat"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"Katakana ng serbisyo na nasa parisukat"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"Ideograph ng walang singil na nasa parisukat"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"Ideograph ng nakareserbang upuan na nasa parisukat"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"Ideograph ng pagbabawal na nasa parisukat"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"Ideograph ng bakante na nasa parisukat"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"Ideograph ng pagtanggap na nasa parisukat"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"Nasa parisukat na ideograph ng puno na"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Nasa parisukat na ideograph ng bayad na"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"Ideograph ng buwan-buwan na nasa parisukat"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"Ideograph ng application na nasa parisukat"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"Ideograph ng diskwento na nasa parisukat"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"Ideograph ng bukas ang negosyo na nasa parisukat"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"Ideograph ng bentahe na nasa bilog"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"Ideograph ng tanggapin na nasa bilog"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"Bagyo"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"Mahamog"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"Nakasarang payong"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"Gabi na may mga bituin"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"Pagsikat ng araw sa mga bundok"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"Pagsikat ng araw"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"Lungsod sa dapit-hapon"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"Paglubog ng araw sa mga gusali"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"Bahaghari"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"Tulay sa gabi"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"Alon ng tubig"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"Bulkan"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"Milky way"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"Europe-africa sa globo ng mundo"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"Americas sa globo ng mundo"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"Asia-australia sa globo ng mundo"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"Globo na may mga meridian"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"Simbolo ng new moon"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"Simbolo ng waxing crescent moon"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"Simbolo ng first quarter moon"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"Simbolo ng waxing gibbous moon"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"Simbolo ng full moon"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"Simbolo ng waning gibbous moon"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"Simbolo ng last quarter moon"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"Simbolo ng waning crescent moon"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"Crescent moon"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"New moon na may mukha"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"First quarter moon na may mukha"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"Last quarter moon na may mukha"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"Full moon na may mukha"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"Araw na may mukha"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"Nagniningning na bituin"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"Bulalakaw"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"Kastanyas"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"Punla"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"Evergreen tree"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"Deciduous tree"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"Palm tree"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"Cactus"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"Tulip"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"Cherry blossom"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"Rosas"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"Gumamela"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"Sunflower"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"Blossom"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"Mais"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"Bigas"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"Herb"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"Four leaf clover"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"Dahon ng maple"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"Nalaglag na dahon"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"Dahong tinatangay ng hangin"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"Kabute"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"Kamatis"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"Aubergine"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"Ubas"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"Melon"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"Pakwan"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"Tangerine"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"Lemon"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"Saging"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"Pinya"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"Pulang mansanas"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"Berdeng mansanas"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"Peras"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"Peach"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"Mga Cherry"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"Strawberry"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"Hamburger"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"Slice ng pizza"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"Laman sa buto"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"Paa ng manok"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"Rice cracker"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"Rice ball"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"Kanin"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"Curry at kanin"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"Umuusok na mangkok"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"Spaghetti"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"Tinapay"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"French fries"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"Inihaw na kamote"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"Dango"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"Oden"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"Sushi"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"Pritong hipon"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"Fish cake na may swirl na disenyo"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"Soft ice cream"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"Kinaskas na yelo"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"Ice cream"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"Doughnut"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"Cookie"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"Chocolate bar"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"Candy"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Lollipop"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"Custard"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"Honey pot"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"Shortcake"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"Bento box"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"Kaldero ng pagkain"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"Pagluluto"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"Tinidor at kutsilyo"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"Tasa na walang hawakan"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"Bote at tasa ng sake"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"Wine glass"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"Cocktail glass"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"Tropical drink"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"Beer mug"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"Pinagtunggang beer mug"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"Baby bottle"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"Ribbon"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"Nakabalot ng regalo"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Birthday cake"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"Jack-o-lantern"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"Christmas tree"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"Father christmas"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"Mga Paputok"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"Lusis"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"Lobo"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"Party popper"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"Confetti ball"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"Tanabata tree"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"Magkakrus na bandila"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"Dekorasyong pine"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"Mga Japanese doll"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"Carp streamer"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"Wind chime"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"Seremonya ng pagtingin sa buwan"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"School satchel"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"Graduation cap"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"Carousel horse"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"Ferris wheel"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"Roller coaster"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"Bingwit at isda"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"Mikropono"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"Movie camera"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"Cinema"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"Headphone"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"Artist palette"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"Top hat"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"Circus tent"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"Ticket"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"Clapper board"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"Performing arts"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"Video game"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"Asintadong tira"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"Slot machine"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"Bilyar"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"Game die"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"Bowling"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"Mga barahang may bulaklak"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"Nota ng musika"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"Maraming nota ng musika"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"Saxophone"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"Gitara"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"Musical keyboard"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"Trumpeta"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"Violin"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"Musical score"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"Running shirt na may sash"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"Raketa at bola ng tennis"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"Ski at ski boot"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"Basketball at hoop"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"Chequered na bandila"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"Snowboarder"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"Runner"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"Surfer"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"Trophy"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"Karera ng kabayo"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"American football"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"Rugby football"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"Swimmer"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"Pagtatayo ng bahay"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"Bahay na may hardin"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"Gusali ng opisina"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"Post office sa Japan"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"Post office sa Europe"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"Ospital"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"Bangko"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"Automated teller machine"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"Hotel"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"Love hotel"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"Convenience store"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"Paaralan"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"Department store"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"Pabrika"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"Izakaya lantern"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"Japanese castle"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"European castle"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"Daga"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"Daga"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"Ox"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"Kalabaw"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"Baka"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"Leopard"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"Kuneho"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"Pusa"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"Dragon"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"Buwaya"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"Balyena"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"Kuhol"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"Ahas"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"Kabayo"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"Ram"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"Kambing"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"Tupa"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"Unggoy"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"Tandang"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"Manok"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"Aso"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"Baboy"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"Baboy-ramo"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"Elepante"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"Pugita"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"Spiral shell"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"Salaginto"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"Langgam"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"Bubuyog"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"Salagubang"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"Isda"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"Tropical na isda"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"Blowfish"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"Pagong"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"Napisang sisiw"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"Maliit na sisiw"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"Maliit na sisiw na nakaharap"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"Ibon"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"Penguin"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"Koala"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"Poodle"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"Dromedary camel"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"Bactrian camel"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"Dolphin"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"Mukha ng daga"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"Mukha ng baka"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"Mukha ng tigre"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"Mukha ng kuneho"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"Mukha ng pusa"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"Mukha ng dragon"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"Bumubugang balyena"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"Mukha ng kabayo"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"Mukha ng unggoy"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"Mukha ng aso"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"Mukha ng baboy"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"Mukha ng palaka"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"Mukha ng hamster"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"Mukha ng lobo"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"Mukha ng oso"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"Mukha ng panda"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"Ilong ng baboy"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"Mga bakas ng paa ng hayop"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"Mga Mata"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"Tainga"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"Ilong"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"Bibig"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"Dila"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"Puting hintuturo na nakaturo pataas"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"Puting hintuturo na nakaturo pababa"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"Puting hintuturo na nakaturo pakaliwa"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"Puting hintuturo na nakaturo pakanan"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"Simbolo ng kamao"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"Simbolo ng kumakaway na kamay"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"Simbolo ng kamay na Ok"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"Simbolo ng thumbs up"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"Simbolo ng thumbs down"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"Simbolo ng pumapalakpak na kamay"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"Simbolo ng bukas na kamay"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"Korona"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"Sumbrero ng babae"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"Salamin sa mata"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"Kurbata"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"T-shirt"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"Jeans"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"Bestida"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"Kimono"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"Bikini"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"Damit na pambabae"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"Purse"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"Handbag"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"Pouch"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"Sapatos na panlalaki"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"Sapatos na pang-atleta"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"Sapatos na mataas ang takong"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"Sandal na pambabae"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"Boots na pambabae"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"Bakas ng paa"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"Anino ng tao"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"Mga anino ng tao"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"Batang Lalaki"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"Batang Babae"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"Lalaki"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"Babae"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"Pamilya"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"Lalaki at babae na magkahawak ang kamay"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"Dalawang lalaki na magkahawak ang kamay"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"Dalawang babae na magkahawak ang kamay"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"Pulis"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"Babaeng may bunny ears"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"Ikakasal na babaeng may belo"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"Taong may blond na buhok"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"Lalaking may gua pi mao"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"Lalaking may turban"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"Matandang lalaki"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"Matandang babae"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"Sanggol"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"Construction worker"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"Prinsesa"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"Japanese ogre"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Japanese goblin"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"Multo"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"Anghel na sanggol"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"Extraterrestrial alien"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"Alien na halimaw"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Imp"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"Bungo"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"Tauhan sa information desk"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"Guwardiya"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"Mananayaw"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"Lipstick"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"Nail polish"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"Face massage"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"Gupit"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"Barber pole"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"Iniksyon"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"Pill"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"Kiss mark"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"Love letter"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"Sing-sing"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"Hiyas"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"Halik"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"Bouquet"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"Magkasintahang may puso"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"Kasal"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"Tumitibok na puso"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"Biyak na puso"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"Dalawang puso"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"Nagniningning na puso"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"Lumalaking puso"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"Puso na may palaso"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"Asul na puso"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"Berdeng puso"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"Dilaw na puso"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"Purple na puso"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"Pusong may ribbon"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"Mga umiikot na puso"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"Dekorasyong puso"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"Hugis diamante na may tuldok sa loob"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"Electric light bulb"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"Simbolo ng galit"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"Bomba"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"Simbolo ng pagtulog"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"Simbolo ng banggaan"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"Simbolo ng tumataksik na pawis"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"Patak"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"Simbolong gitling"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"Dumi"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"Naka-flex na braso"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"Simbolo ng nahihilo"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"Speech balloon"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"Balloon ng iniisip"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"Puting bulaklak"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"Simbolo ng isandaang puntos"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"Money bag"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"Palitan ng currency"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"Makapal na simbolo ng dolyar"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"Credit card"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"Pera na may simbolo ng yen"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"Pera na may simbolo ng dolyar"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"Pera na may simbolo ng euro"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"Pera na may simbolo ng pound"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"Pera na may mga pakpak"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"Chart na may pataas na trend at simbolo ng yen"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"Upuan"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"Personal computer"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"Briefcase"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"Minidisc"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"Floppy disk"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"Optical disc"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"Dvd"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"Folder ng file"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"Nakabukas na folder ng file"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"Page na may curl"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"Page na nakaharap"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"Kalendaryo"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"Tear-off na kalendaryo"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"Index ng card"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"Chart na may pataas na trend"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"Chart na may pababang trend"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"Bar chart"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"Clipboard"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"Pushpin"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"Round pushpin"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"Paperclip"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"Straight ruler"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"Triangular ruler"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"Mga tab ng bookmark"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"Ledger"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"Kwaderno"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"Kwadernong may dekorasyon ang pabalat"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"Nakasarang aklat"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"Nakabukas na aklat"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"Berdeng aklat"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"Asul na aklat"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"Orange na aklat"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"Mga Aklat"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"Badge ng pangalan"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"Scroll"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"Memo"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"Receiver ng telepono"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"Pager"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"Fax machine"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"Satellite antenna"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"Public address loudspeaker"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"Cheering megaphone"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Outbox tray"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"Inbox tray"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"Package"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"Simbolo ng e-mail"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"Papasok na sobre"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"Sobre na may pababang arrow sa itaas"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"Nakasarang mailbox na may nakaababang flag"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"Nakasarang mailbox na may nakataas na flag"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"Nakabukas na mailbox na may nakataas na flag"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"Nakabukas na mailbox na may nakababang flag"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"Postbox"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"Postal horn"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"Pahayagan"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"Mobile phone"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"Mobile phone na may pakanang arrow sa kaliwa"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"Vibration mode"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"I-off ang mobile phone"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"Walang mga mobile phone"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"Antenna na may mga bar"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"Camera"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"Video camera"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"Telebisyon"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"Radyo"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"Videocassette"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"Mga naka-twist na pakanang arrow"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"Mga pakanan at pakaliwang arrow sa pakanang oryentasyon na bumubuo ng bilog"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"Mga pakanan at pakaliwang arrow sa pakanang oryentasyon na bumubuo ng bilog na may overlay na numerong isa na nasa bilog"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"Mga pababa at pataas na arrow sa pakanang oryentasyon na bumubuo ng bilog"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"Mga pababa at pataas na arrow sa pakaliwang oryentasyon na bumubuo ng bilog"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"Simbolo ng mababang brightness"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"Simbolo ng mataas na brightness"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"Speaker na may stroke ng pagkansela"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"Speaker"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"Speaker na may isang sound wave"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"Speaker na may tatlong sound wave"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"Baterya"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"Electric plug"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"Magnifying glass na nakaturo pakaliwa"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"Magnifying glass na nakaturo pakanan"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"Lock na may ink pen"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"Nakasarang lock na may susi"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"Susi"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"Lock"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"Nakabukas na lock"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"Bell"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"Bell na may stroke ng pagkansela"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"Bookmark"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"Simbolo ng link"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"Radio button"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"Back na may pakaliwang arrow sa itaas"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"End na may pakaliwang arrow sa itaas"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"On na may tandang padamdam na may pakaliwa at pakanang arrow sa itaas"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Soon na may pakanang arrow sa itaas"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Top na may pataas na arrow sa itaas"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"Simbolo ng walang mas bata sa labinwalong taong gulang"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"Keycap ten"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"Simbolo ng pag-input para sa malalaking latin na titik"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"Simbolo ng pag-input para sa maliliit na latin na titik"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"Simbolo ng pag-input para sa mga numero"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"Simbolo ng pag-input para sa mga simbolo"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"Simbolo ng pag-input para sa mga latin na titik"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"Apoy"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"Electric torch"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"Wrench"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"Martilyo"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"Nut at bolt"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"Hocho"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"Baril"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"Microscope"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"Telescope"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"Crystal ball"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"Bituing may anim na punto na may tuldok sa gitna"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"Japanese na simbolo para sa baguhan"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"Emblem ng trident"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"Button na itim na parisukat"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"Button na puting parisukat"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"Malaking pulang bilog"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"Malaking asul na bilog"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"Malaking orange na diamante"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"Malaking asul na diamante"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"Maliit na orange na diamante"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"Maliit na asul na diamante"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"Pulang tatsulok na nakaturo pataas"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"Pulang tatsulok na nakaturo pababa"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"Maliit na pulang tatsulok na nakaturo pataas"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"Maliit na pulang tatsulok na nakaturo pababa"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"Ala una sa orasan"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"Alas dos sa orasan"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"Alas tres sa orasan"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"Alas kuwatro sa orasan"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"Alas singko sa orasan"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"Alas sais sa orasan"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"Alas kuwatro sa orasan"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"Alas otso sa orasan"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"Alas nuwebe sa orasan"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"Alas diyes sa orasan"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"Alas onse sa orasan"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"Alas dose sa orasan"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"Ala una y medya sa orasan"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"Alas dos y medya sa orasan"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"Alas tres y medya sa orasan"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"Alas kuwatro y medya sa orasan"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"Alas singko y medya sa orasan"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"Alas sais y medya sa orasan"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"Alas siyete y medya sa orasan"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"Alas otso y medya sa orasan"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"Alas nuwebe y medya sa orasan"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"Alas diyes y medya sa orasan"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"Alas onse y medya sa orasan"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"Alas dose y medya sa orasan"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"Mount fuji"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"Tokyo tower"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"Statue of liberty"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"Anino ng japan"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"Moyai"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"Nakangising mukha"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"Nakangising mukha na may masasayang mata"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"Mukha na may mga luha ng kasiyahan"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"Nakangiting mukha na may nakabukas na bibig"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"Nakangiting mukha na may nakabukas na bibig at masasayang mata"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"Nakangiting mukha na may nakabukas na bibig at malamig na pawis"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"Nakangiting mukha na may nakabukas na bibig at mga nakapikit na mata"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"Nakangiting mukha na may halo"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"Nakangiting mukha na may mga sungay"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"Kumikindat na mukha"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"Nakangiting mukha na may masasayang mata"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"Mukha na numanamnam ng masarap na pagkain"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"Guminhawang mukha"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"Nakangiting mukha na may mga matang hugis-puso"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"Nakangiting mukha na may salamin"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"Nakangising mukha"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"Mukha na walang emosyon"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"Mukha na walang emosyon"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"Mukha na hindi natutuwa"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"Mukha na may malamig na pawis"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"Nag-iisip na mukha"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"Nalilitong mukha"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"Naguguluhang mukha"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"Humahalik na mukha"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"Mukha na humahalik"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"Humahalik na mukha na may masasayang mata"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"Humahalik na mukha na may mga nakapikit na mata"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"Mukha na nakadila"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"Mukha na nakadila at kumikindat"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"Mukha na nakadila at nakapikit ang mga mata"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"Nabigong mukha"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"Nag-aalalang mukha"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"Nagagalit na mukha"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"Naghihimutok na mukha"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"Umiiyak na mukha"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"Nagsisikap na mukha"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"Mukha ng nagtagumpay"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"Nabigo ngunit guminhawang mukha"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"Nakasimangot na mukha na may nakabukas na bibig"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"Nasasaktang mukha"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"Natatakot na mukha"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"Pagod na mukha"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"Inaantok na mukha"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"Pagod na mukha"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"Nakangiwing mukha"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"Mukha na umiiyak nang todo"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"Mukha na may nakabukas na bibig"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"Naghihintay na mukha"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"Mukha na may nakabukas na bibig at malamig na pawis"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"Mukha na sumisigaw sa takot"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"Nagulat na mukha"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"Nahihiyang mukha"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"Natutulog na mukha"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"Nahihilong mukha"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"Mukha na walang bibig"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"Mukha na may medical mask"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"Nakangising mukha ng pusa na may masasayang mata"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"Mukha ng pusa na may mga luha ng kasiyahan"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"Nakangiting mukha ng pusa na may nakabukas na bibig"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"Nakangiting mukha ng pusa na may mga mata na hugis-puso"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"Mukha ng pusa na nakangiti"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"Humahalik na mukha ng pusa na may mga nakapikit na mata"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"Naghihimutok na mukha ng pusa"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"Umiiyak na mukha ng pusa"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"Pagod na mukha ng pusa"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"Mukha na sumesenyas na hindi pwede"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"Mukha na sumesenyas na ok"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"Taong yumuyuko nang todo"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"Unggoy na ayaw makakita ng masamang bagay"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"Unggoy na ayaw makarinig ng masamang bagay"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"Unggoy na ayaw magsabi ng masamang bagay"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"Masayang tao na nagtataas ng isang kamay"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"Taong nagtataas ng dalawang kamay bilang selebrasyon"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"Nakasimangot na tao"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"Naghihimutok na tao"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"Tao na nakatiklop ang mga kamay"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"Rocket"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"Helicopter"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"Steam locomotive"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"Railway car"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"High-speed na tren"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"High-speed na tren na may bullet nose"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"Tren"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"Metro"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"Light rail"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"Istasyon"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"Tram"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"Tram car"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"Bus"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"Paparating na bus"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"Trolleybus"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"Sakayan ng bus"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"Minibus"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"Ambulansya"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"Fire engine"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"Sasakyan ng pulis"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"Paparating na sasakyan ng pulis"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"Taxi"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"Paparating na taxi"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"Sasakyan"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"Paparating na sasakyan"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"Recreational vehicle"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"Delivery truck"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"Articulated lorry"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"Traktora"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"Monorail"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"Mountain railway"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"Suspension railway"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"Mountain cableway"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"Aerial tramway"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"Barko"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"Bangka"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"Speedboat"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"Pahalang na ilaw-trapiko"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"Patayong ilaw-trapiko"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"Simbolo ng konstruksyon"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"Umiikot na ilaw ng mga sasakyan ng pulis"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"Tatsulok na bandila sa poste"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"Pinto"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"Simbolong bawal pumasok"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"Simbolo ng pwedeng manigarilyo"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"Simbolo ng bawal manigarilyo"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"Simbolo ng itapon ang basura sa tamang lugar"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"Simbolo ng huwag magkalat"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"Simbolo ng naiinom na tubig"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"Simbolo ng hindi naiinom na tubig"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"Bisikleta"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"Bawal ang mga bisikleta"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"Nagbibisikleta"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"Mountain bicyclist"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"Tumatawid"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"Bawal tumawid"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"Tawiran ng mga bata"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"Simbolo ng mga lalaki"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"Simbolo ng mga babae"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"Restroom"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"Simbolo ng sanggol"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"Palikuran"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"Inodoro"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"Shower"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"Paliguan"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"Bathtub"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"Kailangan ng pasaporte"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"Customs"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"Kuhaan ng bagahe"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"Naiwang bagahe"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"Dobleng tandang padamdam"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"Tandang padamdam at tandang pananong"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"Simbolo ng trade mark"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"Mapagkukunan ng impormasyon"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"Arrow na pakaliwa at pakanan"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"Arrow na pataas at pababa"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"Arrow na nakaturo sa hilagang-kanluran"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"Arrow na nakaturo sa hilagang-silangan"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"Arrow na nakaturo sa timog-silangan"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"Arrow na nakaturo sa timog-kanluran"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"Pakaliwang arrow na may hook"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"Pakanang arrow na may hook"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"Relo"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"Hourglass"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"Itim na dobleng tatsulok na nakaturo pakanan"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"Itim na dobleng tatsulok na nakaturo pakaliwa"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"Itim na dobleng tatsulok na nakaturo pataas"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"Itim na dobleng tatsulok na nakaturo pababa"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"Alarm clock"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"Hourglass na may dumadaloy na buhangin"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"Malaking latin na titik m na nasa bilog"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"Itim at maliit na parisukat"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"Puti at maliit na parisukat"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"Itim na tatsulok na nakaturo pakanan"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"Itim na tatsulok na nakaturo pakaliwa"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"Puti at katamtamang parisukat"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"Itim at katamtamang parisukat"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"Puting parisukat na may maliit na parisukat sa loob"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"Itim na parisukat na may maliit na parisukat sa loob"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"Itim na araw na may mga sinag"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"Ulap"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"Itim na telepono"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"Ballot box na may check"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"Payong na may mga patak ng ulan"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"Mainit na inumin"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"Puting hintuturo na nakaturo pataas"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"Puti at nakangiting mukha"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"Aries"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"Taurus"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"Gemini"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"Cancer"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"Leo"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"Virgo"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"Libra"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"Scorpius"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"Sagittarius"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"Capricorn"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Aquarius"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"Pisces"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"Itim na spade suit"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"Itim na club suit"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"Itim na heart suit"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"Itim na diamond suit"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Mga hot spring"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"Itim na simbolo ng universal recycling"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"Simbolo ng wheelchair"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"Angkla"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"Simbolo ng babala"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"Simbolo ng mataas na boltahe"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"Katamtaman at puting bilog"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"Katamtaman at itim na bilog"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"Soccer ball"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"Baseball"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"Snowman na walang snow"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"Araw sa likod ng ulap"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"Ophiuchus"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"Bawal pumasok"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"Simbahan"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"Fountain"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"Bandila sa butas"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"Sailboat"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"Tent"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"Fuel pump"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"Itim na gunting"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"Puti at makapal na check mark"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"Eroplano"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"Sobre"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"Nakataas na kamao"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"Nakataas na kamay"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"Kamay na sumisimbolo ng panalo"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"Lapis"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"Itim na nib"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"Makapal na check mark"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"Makapal na multiplication x"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"Mga Sparkle"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"Asterisk na may walong spoke"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"Itim na bituin na may walong punto"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"Snowflake"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"Sparkle"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"Markang krus"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"Negatibong marka ng krus na nasa parisukat"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"Ornament na itim na tandang pananong"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"Ornament na puting tandang pananong"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"Ornament na puting tandang padamdam"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"Makapal na simbolo ng tandang padamdam"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"Makapal at itim na puso"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"Makapal na simbolo ng plus"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"Makapal na simbolo ng minus"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"Makapal na simbolo ng division"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"Itim at pakanang arrow"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"Curly loop"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"Dobleng curly loop"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"Arrow na tumuturo pakanan pagkatapos ay kumukurba pataaas"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"Arrow na tumuturo pakanan pagkatapos ay kumukurba pababa"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"Pakaliwa at itim na arrow"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"Pataas at itim na arrow"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"Pababa at itim na arrow"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"Itim at malaking parisukat"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"Puti at malaking parisukat"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"Puti at katamtamang bituin"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"Makapal at malaking bilog"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"Wavy dash"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"Part alternation mark"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"Ideograph ng pagbati na nasa bilog"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"Ideograph ng lihim na nasa bilog"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"Hindi alam na emoji"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"Tinatamad na mukha"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"Nahihiya na mukha"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"Humahalik na mukha"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"Nakasimangot na mukha"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"Nagulat na mukha"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"Mukha na nakasuot ng salamin"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"Walang suhestyon"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"Capital I"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"Capital I, tuldok sa itaas"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"Walang tekstong inilagay"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"Available ang mga alternatibong character"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"Available ang mga alternatibong suhestyon"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"Nakabaligtad na exclamation mark"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"Paniping nakaturo sa kaliwa at may double angle"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"Gitnang tuldok"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Superscript one"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"Paniping nakaturo sa kanan at may double angle"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"Nakabaligtad na question mark"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"Isang kaliwang panipi"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"Isang kanang panipi"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Isang low-9 na panipi"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"Dobleng kaliwang panipi"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"Dobleng kanang panipi"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Dagger"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Double dagger"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Simbolong per mille"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Prime"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Double prime"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"Isang angle na paniping nakaturo sa kaliwa"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"Isang angle na paniping nakaturo sa kanan"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Superscript four"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Superscript latin maliit na titik n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Simbolo ng peso"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"Care of"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"Pakanang arrow"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Pababang arrow"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"Empty set"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Increment"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"Less-than or equal to"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"Greater-than or equal to"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"Black star"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"Hindi alam na simbolo"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"Mag-plug in ng headset upang marinig ang mga password key na binabanggit nang malakas."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Emoji"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"Ingles (UK)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"Ingles (Estados Unidos)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"Spanish (US)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (Compact)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (Traditional)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"Hinglish"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"Wika"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"Walang wika (Alpabeto)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"Alpabeto (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"Alpabeto (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"Alpabeto (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"Alpabeto (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"Alpabeto (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"Alpabeto (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"Serbian (Latin)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"Ingles (UK) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"Ingles (US) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"Spanish (US) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"Hinglish (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"Serbian (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"Lumipat ng account"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"I-sync ngayon"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"Nagda-download: magkakaron ng mga suhestiyon para sa <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> sa lalong madaling panahon."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"Magmungkahi ng Contact"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"Gamitin ang pangalan mula sa Contact para sa mungkahi/pagtatama."</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"Gumagamit ang Spell Checker ng entries mula sa iyong contact list."</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"Maghanap sa mga contact"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"Double-space period"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"Naglalagay ng tuldok na may puwang ang pag-double tap sa spacebar"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"Personalized na mungkahi"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"Pahusayin ang suhestiyon batay sa iyong pag-uusap at na-type na data"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"OK"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"Mas kaunti"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"Higit pa"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"Idagdag sa diksyunaryo"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"Wika:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"Idagdag"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"Parirala"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"Opsyonal na shortcut"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"Shortcut:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"Mag-type ng salita"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"Salita:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"Para sa lahat ng wika"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"Tanggalin"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"I-edit"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"Tanggalin"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"I-edit ang salita"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"Wala kang anumang mga salita sa diksyunaryo ng user. Magdagdag ng salita sa pamamagitan ng pagpindot sa button na Magdagdag (+)."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"Higit pang mga wika..."</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"Mga diksyunaryo ng user"</string>
+    <string msgid="2715354215568469385" name="version_text">"Bersyon <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Mag-vibrate sa keypress"</string>
+    <string msgid="3583258583521397548" name="voice_input">"Voice input key"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"Walang naka-enable na pamamaraan ng pag-input ng boses. Suriin ang mga setting ng Pag-input ng wika."</string>
+</resources>

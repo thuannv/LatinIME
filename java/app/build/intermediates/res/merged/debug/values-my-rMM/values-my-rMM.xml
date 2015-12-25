@@ -1,0 +1,1274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g>ms"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"ထားတော့"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"အိုကေ"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"ထွက်ရန်"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"သုံးမည့်အကောင့်ကို ရွေးရန်"</string>
+    <string msgid="2846876462199625974" name="account_selected">"<ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>အား လတ်တလော သုံးန​ေ၏"</string>
+    <string msgid="8299699805688017798" name="add">"ထည့်ရန်"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"ဒီအင်္ဂါရပ်တွေကို ရဖို့ဒီစက်မှာ Google account တစ်ခုကို ဖွင့်ပါ"</string>
+    <string msgid="6163126614514489951" name="add_style">"စတိုင်လ်ထည့်ရန်"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Android စာလုံးပေါင်း စစ်သည့် ဆက်တင်များ (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"ဝှက်ထားသည့် ကီးဘုတ်"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"ဖော်ထားသည့် <ns1:g id="KEYBOARD_MODE">%s</ns1:g> ကီးဘုတ်"</string>
+    <string msgid="6320102637491234792" name="app_name">"အဘိဓါန် ထောက်ပံ့သူ"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"အော်တိုစာလုံးကြီးပြောင်း"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"စာကြောင်းတိုင်း ပထမစာလုံးကို အကြီးလုပ်ရန်"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"အလိုလျောက် အမှားပြင်ခြင်း"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"မှားယွင်းစွာ ရိုက်ခဲ့သည့် စာလုံးများကို နေရာခြားခလုတ်နှင့် သတ်ပုံမှန်ကန်ခြင်းသည် အလိုအလျောက် ပြုပြင်ပေးသည်"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"ထိထိရောက်ရောက်"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"သာမှန်"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"မရှိ"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"အလွန်ထိရောက်"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"နောက်စကားလုံး အကြံပြုချက်များ"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"အကြံပြုချက်များပြုလုပ်ရာ၌ ပြီးခဲ့သည့် စကားလုံးကို အသုံးပြုရန်"</string>
+    <string msgid="3988017840431881491" name="button_default">"ပုံသေ"</string>
+    <string msgid="6830980399865683324" name="cancel">"ထားတော့"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"ထားတော့"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"အဘိဓါန်ဝန်ဆောင်မှုသို့ ချိတ်ဆက်ရန် ပြဿနာရှိနေသည်"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"ပြန်လည်ဆန်းသစ်ရန်"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"သင့် စင့်လုပ်ထားသော ဒေတာများအား cloud မှ ဖျက်လိမ့်မည်။ သေချာသလား?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"ဖျက်ရန်"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"သင်၏ စင့်က် လုပ်ပြီးသား ဒေတာ Google ထဲမှ ဖျက်ခံရမည်။"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"Cloud ဒေတာ ဖျက်ရန်"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"ဖျက်သိမ်းရန်"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"သင့်ရဲ့ကိုယ်ပိုင်အဘိဓါန်ကို Google server များမှာ ထပ်တူညီအောင်လုပ် ပြီး မူလပုံစံ ပြန်သွားမည်။ အိုင်တီထုတ်ကုန်များ တိုးတက်မှုရှိအောင် စာလုံးရေ ကောက်ယူမှု အချက်အလက်ကို စုစည်းပါသည်။ အဆိုပါအချက်အလက်စုယူ သုံးစွဲမှုကို "<a href="https://www.google.com/policies/privacy">" Google၏မိမိအတွင်းရေးသီးသန့် မူဝါဒ "</a>" ဖြင့် စောဒကတက် နိုင်သည်။"</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"စင့် ဖွင့်ထားသည်"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"သင့် ကိုယ်ပိုင်သုံး အဘိဓာန်အား စက်များအားလုံးတွင် စင့်လုပ်ရန်"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"စီးပွားရေးအကောင့်များအတွက် Google အပ်ဖ်များဖြင့် စက်ပစ္စည်းများတွင် ထပ်တူပြုခြင်း မရနိုင်ပါ"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google Keyboard စင့်လုပ်ရန်"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"ပေါင်းထည့်ထားသည့် အဘိဓါန်များ"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"ထည့်သွင်းရန် နည်းလမ်းကို ပြုပြင်မည်"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"တူညီသည့် ထည့်သွင်းရန် စတိုင်လ် ရှိပြီးဖြစ်: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"သင့်စိတ်ကြိုက် ထည့်သွင်းမှုစတိုင်လ်အား စတင် အသုံးမပြုမှီ ဖွင့်ရပါမည်။ ၎င်းအားယခု ဖွင့်လိုပါသလား?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"စိတ်ကြိုက် ထည့်သွင်းမှုစတိုင်လ်"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"သုံးစွဲသူ၏ အဘိဓာန်"</string>
+    <string msgid="756853268088330054" name="delete_dict">"ဖျက်ရန်"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"ပြန်လည်ဆန်းစစ်ကာ ဒေါင်းလုပ်လုပ်ရန် နှိပ်ပါ"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> အတွက် အဘိဓါန် ရနိုင်ပါသည်"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"အဘိဓါန်ရရှိနိုင်"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"ထည့်သွင်းထားပြီး၊ ပိတ်ထားသည်"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"လက်ရှိ ဒေါင်းလုပ်လုပ်နေသည်"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"အဘိဓါန်ရနိုင်"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"ထည့်သွင်းပြီး"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"အဘိဓါန် ထောက်ပံ့သူ"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"အဘိဓါန် ဝန်ဆောင်မှု"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"အဘိဓါန်များအတွက် ဆက်တင်များ"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"ပေါင်းထည့်ထားသည့် အဘိဓါန်များ"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Wi-Fi အသုံးပြု၍ ဒေါင်းလုပ်လုပ်ရန်"</string>
+    <string msgid="6014835283119198591" name="download_description">"အဘိဓါန် အသစ်မွမ်းမံရန် အချက်လက်"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"ယခုဒေါင်းလုပ်လုပ်မည် (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g>MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"ကိုယ်ပိုင် အဘိဓာန်"</string>
+    <string msgid="5031294444630523247" name="enable">"ဖွင့်ရန်"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"မြှင့်တင်ပါ <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"ကီးဘုတ် ခွဲခြမ်းမှု ဖွင့်ထားရန်"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"ထည့်သွင်းရန် နည်းလမ်းများ"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android ကီးဘုတ် (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Android ကီးဘုတ်ဆက်တင်များ (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"ဝဲပျံနေသည့် အစမ်းကြည့်အကွက်"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"အမူယာပြုလုပ်နေစဉ် အကြံပြုထားသည့် စကားလုံးကို ကြည့်ရန်"</string>
+    <string msgid="826951152254563827" name="gesture_input">"အမူယာစာရိုက်ခြင်း ဖွင့်ရန်"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"စာလုံးအား ဆွဲရွှေ့ကာ စာလုံးတစ်လုံး ရိုက်ထည့်ပါ"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"အမူအယာ အမြီးတန်းပြရန်"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"စကားစု အမူယာ"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"နေရာခြားသည့်ကီးကိုနှိပ်ခြင်းဖြင့် အမူအယာပြုလုပ်စဉ်တွင် နေရာခြား ထည့်သွင်းရန်"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"ဆက်တင်များ"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"အဘိဓါန်ရနိုင်"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"အကူအညီ &amp; တုံ့ပြန်ချက်"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"သိမ်းရန် နောက်တစ်ကြိမ်နှိပ်ပါ"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"သိမ်းရန် ဤနေရာကို ထိပါ"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"အခြားထည့်သွင်းမည့် နည်းလမ်းများသို့ ပြောင်းရန်"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"ဘာသာပြောင်းသည့် ကီးသည် အခြားထည့်သွင်းရန် နည်းလမ်းများလည်း ပါဝင်သည်"</string>
+    <string msgid="180852772562189365" name="install_dict">"တပ်ဆင်ပါ"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"မူရင်းအတိုင်း"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"ကီးပေါ်လာ၍ ဖျောက်ရန်နှုန်း"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"နောက်မကျ"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"ကီးဘုတ်အရောင်"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"အဆင်အပြင်"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"ရက်စွဲ"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"ရက်စွဲနှင့် အချိန်"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"အီးမေးလ်"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"စာပို့ခြင်း"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"နံပါတ်"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"ဖုန်း"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"စာတို"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"အချိန်"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"ကီးဘုတ်အဆင်အပြင်"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"လုပ်ပြီး"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"သွားပါ"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"ရှေ့ဆက်ရန်"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"ဆိုင်းငံ့ရန်"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"ယခင်က"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"ရှာဖွေရန်"</string>
+    <string msgid="482252074224462163" name="label_send_key">"ပို့ရန်"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"စောင့်ဆိုင်းရန်"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"ဘာသာစကားများ"</string>
+    <string msgid="730467549913588780" name="last_update">"နောက်ဆုံး အသစ်မွမ်းမံမှု"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"အဓိက အဘိဓါန်"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"အဓိကအဘိဓါန်"</string>
+    <string msgid="5638680861387748936" name="message_loading">"တင်နေ…"</string>
+    <string msgid="4457761393932375219" name="message_updating">"အသစ်မွမ်းမံမှုကို ရှာဖွေနေ"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"အကောင့်များ မရွေးရသေးပါ"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"အဘိဓါန်မရှိ"</string>
+    <string msgid="6172462888202790482" name="not_now">"ယခု မဟုတ်"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"ကီးနှိပ်လိုက်သည်နှင့် ပေါ်လာရန်"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"ရိုင်းစိုင်းသည့် စကားလုံးများအား အကြံမပြုပါနှင့်"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"ရိုင်းစိုင်းစကားများပိတ်"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"ခလုတ်ရှိ ကီးဘုတ်အတွက် အီမိုဂျိ"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"အီမိုဂျီ ဘုတ်ပြားပြသော Alt ခလုတ်"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"ကီးကြာမြင့်စွာ ဖိနှိပ်မှုနှုန်း"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"ခလုတ်နှိပ်သည့် အသံအတိုးကျယ်"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"ခလုတ်နှိပ်တုန်ခါမှု ကြာမြင့်ချိန်"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"အမှားပြင်ခြင်း အကြံပေးချက်များပြရန်"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"ရိုက်နေစဉ် အကြံပြုထားသည့် စကားလုံးများ ပြပါ"</string>
+    <string msgid="4486081658752944606" name="remove">"ဖယ်ရှားပါ"</string>
+    <string msgid="7646738597196767214" name="save">"သိမ်းပါ"</string>
+    <string msgid="5709487854987078367" name="select_language">"ဘာသာစကားများ"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"အကောင့်များ &amp; ကိုယ်ပိုင်ကိစ္စ"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"အဆင့်မြင့်"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"ပုံပန်းသွင်ပြင် &amp; အပြင်အဆင်များ"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"စာအမှားပြပြင်ခြင်း"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"လှုပ်ရှားမှုဖြင့်စာရိုက်ခြင်း"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"ရွေးချယ်စရာများ"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"အပြင်အဆင်"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"စနစ်ပုံသေ"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"ပြီးဆုံးသွားပြီ"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"နောက်တစ်ဆင့်"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"စတင်ပါတော့"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"ဆက်တင်များတွင် ဖွင့်ရန်"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> သည် သင့်ဘာသာစကား &amp; စာရိုက်ထည့်မှု ဆက်တင်များတွင် ဖွင့်ပြီးသောကြောင့်၊ ဤအဆင့်ပြီးပါပြီ။ နောက်တစ်ခုသို့!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"သင့်ဘာသာစကား&amp; စာရိုက်ထည့်မှု ဆက်တင်များတွင် \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" အားစစ်ဆေးပါ။ ဤသည်မှာ သင့်ကိရိယာတွင် ဖွင့်ရန် အခွင့်ပေးပါမည်။"</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ဖွင့်ရန်"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"စာရိုက်သွင်းမှုနည်းလမ်း ပြောင်းရန်"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"ရှေ့၊ \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" အားသင်၏ ပွင့်နေသည့်ထည့်သွင်းမှု နည်းလမ်းအဖြစ်ရွေးပါ။"</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> သို့ပြောင်းမည်"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"ထပ်ပေါင်းဘာသာစကားများ ပြုပြင်မည်"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ဖြင့်သင့် ကြိုက်နှစ်သက်ရာ အပလီကေးရှင်းများအားလုံးအား ရိုက်ထည့်နိုင်ပါပြီ။"</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"ဝမ်းသာပါသည်၊ သင်အားလုံးသတ်မှတ်ပြီးပါပြီ!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> တပ်ဆင်ရန်"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"အမူယာ ရိုက်ခြင်းဖြင့်"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> မှကြိုဆိုပါသည်"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"သင့်ဖုန်းရှိ ရွေးချယ်ထားသည့် ဘာသာအတွက် အဘိဓါန်ရှိပါသည်။ &lt;br/> အဘိဓါန်အား &lt;b>ဒေါင်းလုပ်လုပ်ကာ&lt;/b> the <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>  သင့်စာရိုက် အတွေ့အကြုံတိုးတက်စေရန် ကျွန်ုပ်တို့အကြံပြုပါသည်။ &lt;br/> &lt;br/> ဒေါင်းလုပ်လုပ်ရန် 3G ပေါ်တွင် ၁ မှ ၂ မိနစ်ခန့်ကြာနိုင်သည်။ သင့်တွင် &lt;b>အကန့်သတ်မှရိ အချက်လက် သုံးစွဲမှု&lt;/b>မရှိလျှင် ငွေကျသင့်နိုင်ပါသည်။ &lt;br/> သင့်တွင် မည်သည့်အချက်လက်သုံးစွဲမှု ရှိနေသည်ကိုမသိလျှင်၊ အလိုအလျောက် ဒေါင်းလုပ်လုပ်ရန် Wi-Fi ကွန်ရက်တစ်ခု ရှာဖွေရန် တိုက်တွန်းပါသည်။ &lt;br/> &lt;br/> နည်းလမ်း: သင့်ဖုန်းကိရိယာရှိ &lt;b>ဆက်တင်ထဲတွင်&lt;/b> &lt;b>ဘာသာ &amp; စာရိုက်ထည့်မှု&lt;/b> သို့သွားကာ အဘိဓါန်များကို ဒေါင်းလုပ်လုပ်နိုင် ဖယ်ရှားနိုင်ပါသည်။"</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"ဘာသာစကား ပြောင်းခလုတ်"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"များပြားသည့် ထည့်သွင်းရန်နည်းလမ်းများဖွင့်ထားလျှင် ပြပါ"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"အပလီကေးရှင်းအိုင်ကွန် ပြပါ"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"launcher တွင်နေ့စဉ် အပလီကေးရှင်းအိုင်ကွန် ပြရန်"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"ခလုတ်နှိပ်လျှင် အသံမြည်"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Android စာလုံးပေါင်း စစ် (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"ဣထိလိင် အစဉ်ပြ အညွှန်း"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"မိုက်ခရို သင်္ကေတ"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"ပုလိင် အစဉ်ပြ အညွှန်း"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"ပြတ်သားသည့် S"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A၊ တည်ငြိမ်သော"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A၊ စူးရှသော"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A၊ သရသံသင်္ကေတ"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A, tilde"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A၊ diaeresis"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A၊ အပေါ်မှာ ကွင်း"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"A၊ E၊ ligature"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C၊ cedilla"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E၊ တည်ငြိမ်သော"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E၊ စူးရှသော"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E၊ သရသံသင်္ကေတ"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E၊ diaeresis"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I၊ တည်ငြိမ်သော"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I၊ စူးရှသော"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I၊ သရသံသင်္ကေတ"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I၊ diaeresis"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Eth"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N၊ tilde"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O၊ တည်ငြိမ်သော"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O၊ စူးရှသော"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O၊ သရသံသင်္ကေတ"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O၊ tilde"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O၊ diaeresis"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O၊ stroke"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U၊ တည်ငြိမ်သော"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U၊ စူးရှသော"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U၊ သရသံသင်္ကေတ"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U၊ diaeresis"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y။ စူးရှသော"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Thorn"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y၊ diaeresis"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A၊ macron"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A၊ breve"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A၊ ogonek"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C၊ စူးရှသော"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C၊ သရသံသင်္ကေတ"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C၊ အပေါ်မှာ အစက်"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C၊ caron"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D၊ caron"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D၊ stroke"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E၊ macron"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E၊ breve"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E၊ အပေါ်မှာ အစက်"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E၊ ogonek"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E၊ caron"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G၊ သရသံသင်္ကေတ"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G၊ breve"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G၊ အပေါ်မှာ အစက်"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G၊ cedilla"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H၊ သရသံသင်္ကေတ"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H၊ stroke"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I၊ tilde"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I၊ macron"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I၊ breve"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I၊ ogonek"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"အစက်မပါ I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"I၊ J၊ ligature"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J၊ သရသံသင်္ကေတ"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K၊ cedilla"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Kra"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L၊ စူးရှသော"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L၊ cedilla"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L၊ caron"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L၊ အလယ် အစက်"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L၊ stroke"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N၊ စူးရှသော"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N၊ cedilla"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N၊ caron"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N၊ ရှေ့မှာ apostrophe ပါ"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Eng"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O၊ macron"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O၊ breve"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O၊ နှစ်ဆ စူးရှသော"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"O၊ E၊ ligature"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R၊ စူးရှသော"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R၊ cedilla"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R၊ caron"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S၊ စူးရှသော"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S၊ သရသံသင်္ကေတ"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S၊ cedilla"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S၊ caron"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T၊ cedilla"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T၊ caron"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T၊ stroke"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U၊ tilde"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U၊ macron"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U၊ breve"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U၊ အပေါ်မှာ ကွင်း"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U၊ နှစ်ဆ စူးရှသော"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U၊ ogonek"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W၊ သရသံသင်္ကေတ"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y၊ သရသံသင်္ကေတ"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z၊ စူးရှသော"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z အစက် အပေါ်မှာ"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z၊ caron"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"S အရှည်"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O၊ horn"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U၊ horn"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S၊ အောက်မှာ ကော်မာ"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T၊ အောက်မှာ ကော်မာ"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Schwa"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A၊ အောက်မှာ အစက်"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A အပေါ်မှာ ချိတ်"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A၊ သရသံသင်္ကေတ နှင့် စူးရှသော"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A၊ သရသံသင်္ကေတ နှင့် တည်ငြိမ်သော"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A၊ သရသံသင်္ကေတ နှင့် အပေါ်မှာ ချိတ်"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A၊ သရသံသင်္ကေတ နှင့် tilde"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A,၊ သရသံသင်္ကေတ နှင့် အောက်မှာ အစက်"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A၊ တည်ငြိမ်သော နှင့် စူးရှသော"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A၊ breve နှင့် တည်ငြိမ်သော"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A၊ breve နှင့် အပေါ်မှာ ချိတ်"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A၊ breve နှင့် tilde"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A၊ breve နှင့် အောက်မှာ အစက်"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E၊ အောက်မှာ အစက်"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E၊ အပေါ်မှာ ချိတ်"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E၊ tilde"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E၊ သရသံသင်္ကေတ နှင့် စူးရှသော"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E၊ သရသံသင်္ကေတ နှင့် တည်ငြိမ်သော"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E၊ သရသံသင်္ကေတ နှင့် ချိတ် အပေါ်မှာ"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E၊ သရသံသင်္ကေတ နှင့် tilde"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E၊ သရသံသင်္ကေတ နှင့် အောက်မှာ အစက်"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I၊ အပေါ်မှာ ချိတ်"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I၊ အောက်မှာ အစက်"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O၊ အောက်မှာ အစက်"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O၊ အပေါ်မှာ ချိတ်"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O၊ သရသံသင်္ကေတ နှင့် စူးရှသော"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O၊ သရသံသင်္ကေတ နှင့် တည်ငြိမ်သော"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O၊ သရသံသင်္ကေတ နှင့် အပေါ်မှာ ချိတ်"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O၊ သရသံသင်္ကေတ နှင့် tilde"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O၊ သရသံသင်္ကေတ နှင့် အောက်မှာ အစက်"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O၊ horn နှင့် စူးရှသော"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O၊ horn နှင့် တည်ငြိမ်သော"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O၊ horn နှင့် အပေါ်မှာ ချိတ်"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O၊ horn နှင့် tilde"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O၊ horn နှင့် အောက်မှာ အစက်"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U၊ အောက်မှာ အစက်"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U၊ အပေါ်မှာ ချိတ်"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U၊ horn နှင့် စူးရှသော"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U၊ horn နှင့် တည်ငြိမ်သော"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U၊  horn နှင့် အပေါ်မှာ ချိတ်"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U၊ horn နှင့် tilde"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U၊ horn နှင့် အောက်မှာ အစက်"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y၊ တည်ငြိမ်သော"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y၊ အောက်မှာ အစက်"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y၊ အပေါ်မှာ ချိတ်"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y၊ tilde"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g> မှ <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> သို့ <ns1:g id="CORRECTED_WORD">%3$s</ns1:g> မှန်ကန်စေသည်"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> အလိုအလျောက် မှန်ကန်ခြင်း လုပ်ဆောင်သည်"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"အစားထိုးစရာ စာလုံးများကို ပယ်ထား"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"အစားထိုးစရာ အကြံပေးချက်များကို ပယ်ထား"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"လက်ရှိစာသည် %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"ရှေ့သို့"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"အနောက်သို့"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shiftခလုတ်"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"ဖျက်ရန်"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"အစက်"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"ရုပ်ပုံသင်္ကေတ"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"ဘာသာစကား ပြောင်းလဲရန်"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"အသံထည့်သွင်းမှု"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"စာသားမုဒ်"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"ဖုန်းမုဒ်"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"ဖုန်းသင်္ကေတမုဒ်"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"သင်္ကေတမုဒ်"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"နောက်ထပ်သင်္ကေတမုဒ်"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"နောက်ပြန်သွားရန်"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"ရှာဖွေရန်"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"ဆက်တင်များ"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shiftခလုတ်"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shiftခလုတ်"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"စာလုံးကြီးရိုက်ရန် ဖွင့်ထားသည်"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Shift ဖွင့်ထားသည်"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"space"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"နောက်ထပ် သင်္ကေတများ"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"သင်္ကေတများ"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"တဲဘ်"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"စာများ"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"နံပါတ်များ"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"သင်္ကေတများ"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"မသိရ စာလုံး"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"စာလုံးကြီး <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"ခံစားချက်ရုပ်ပုံများ"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"သဘာဝ"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"အရာဝတ္ထုများ"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"လူ"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"နေရာများ"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"မကြာသေးခင်က"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"သင်္ကေတများ"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"မူပိုင်ခွင့်အမှတ်"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"မှတ်ပုံတင်သင်္ကေတ"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"မာကျောင်တုံး နဂါးနီ"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"အမဲရောင်ဂျိုကာ ဖဲကစား"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"သွေးအမျိုးအစား A"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"သွေးအမျိုးအစား B"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"သွေးအမျိုးအစား O"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"ကားရပ်ရန်နေရာ"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"သွေးအမျိုးအစား AB"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"လေးထောင့်ကွက် CL"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"Squared အေး"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"လေးထောင့်ကွက် အခမဲ့"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"Squared အိုင်ဒီ"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"လေးထောင့်ကွက်အသစ်"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"Squared N G"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"အိုကေ လေးထောင့်ကွက်"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"Squared SOS"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"လေးထောင့်ကွက် အာမေဍိတ် သင်္ကေတ"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"လေးထောင့်ကွက် vs"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"ဤနေရာတွင် ကသကန လေးထောင့်ကွက်"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"ကသကန လေးထောင့်ကွက် ဝန်ဆောင်မှု"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"အခမဲ့ အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"ကြိုတင်မှာယူထားသည့် ထိုင်ခုံနေရာ အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"တားမြစ်ခြင်း အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"လစ်လပ်နေရာ အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"လက်ခံခြင်း အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"အပြည့်အဝလုပ်ဆောင်ခြင်း အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Squared သင်္ကေတပေးချေပြီး"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"လစဉ် အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"အပလီကေးရှင်း အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"လျှော့ဈေး အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"စီးပွားရေးတွင် အရုပ်စာ လေးထောင့်ကွက်"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"စက်ဝိုင်းအရုပ်စာ အားသာမှု"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"စက်ဝိုင်းအရုပ်စာ လက်ခံ"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"ဆိုင်ကလုန်း"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"မြူဆိုင်း"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"ထီးပိတ်"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"ကြယ်များနှင့်ည"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"တောင်များကြား နေထွက်"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"နေထွက်"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"မှောင်ရီစချိန် မြို့တော်"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"အဆောက်အဦများကြား နေဝင်"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"သက်သန့်"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"ညတံတား"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"ရေလှိုင်း"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"မီးတောင်"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"နဂါးငွေ့တန်း"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"ကမ္ဘာ့စက်ဝန်း ဉရောပ−အာဖရိက"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"အမေရိကန် ကမ္ဘာလုံး"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"ကမ္ဘာ့စက်ဝန်း အာရှ−ဩစတြေးလျား"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"လောင်တီတွတ် လိုင်းများနှင့် ကမ္ဘာလုံး"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"လအသစ် သင်္ကေတ"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"လဆန်းသင်္ကေတ"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"ပထမ လေးခြမ်းလသင်္ကေတ"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"လဆန်း လဝန်းသင်္ကေတ"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"လပြည့် သင်္ကေတ"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"လဆုတ် လဝန်းသင်္ကေတ"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"နောက်ဆုံးအခြမ်း လသင်္ကေတ"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"လဆုတ် လခြမ်းသင်္ကေတ"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"လခြမ်း"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"လအသစ်မျက်နှာ"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"ပထမအခြမ်း လမျက်နှာ"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"နောက်ဆုံးအခြမ်း လမျက်နှာ"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"လပြည့် လမျက်နှာ"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"နေမျက်နှာ"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"စိတ်ဝင်စားဖွယ် ကြယ်"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"ကြယ်ကြွေ"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"သစ်အယ်သီး"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"ကြီးထွားလာသော အပင်ငယ်"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"အမြဲစိမ်းသစ်ပင်"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"ရွက်ပြက်သစ်ပင်"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"အုန်းပင်"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"ရှားစောင်းပင်"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"ခတ္တာ"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"ချယ်ရီပွင့်"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"နှင်းဆီ"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"ခေါင်ရမ်းပန်း"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"နေကြာပန်း"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"ပွင့်လန်း"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"ပြောင်းဖူးစေ့"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"ဆန်ဆေ့"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"ဆေးဘက်ဝင်အပင်"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"လေးပွင့်ဆိုင်အရွက်"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"မေပယ်ရွက်"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"ရွက်ကြွေ"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"လေထဲဝဲနေသည့် အရွက်"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"မှို"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"ခရမ်းချဉ်သီး"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"ခရမ်းသီး"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"စပျစ်သီး"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"ဖရဲသီး"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"ဖရဲသီး"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"ပြားလိမ္မော်"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"သံပုရာ"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"ငှက်ပျောသီး"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"နာနက်"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"အနီရောင် ပန်းသီး"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"အစိမ်းရောင် ပန်းသီး"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"သစ်သော်သီး"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"မက်မွန်"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"ချယ်ရီ"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"စတော်ဘယ်ရီ"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"ဟမ်ဘာဂါ"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"ပီဇာအစိတ်"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"အရိုးများနှင့်အသား"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"ကြက်ခြေထောက်"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"ဆန်လုံးစိကျော်"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"ထမင်းလုံး"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"ချက်ထားသည့်ထမင်း"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"ဟင်းနှင့်ထမင်း"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"ပြုတ်သည့်အိုး"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"အီတာလျံခေါက်ဆွဲ"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"ပေါင်မုန့်"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"အာလူးချောင်းကျော်"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"အာလူးအချိုကင်"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"သာဂူလုံး"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"ဂျပန်ဆောင်းရာသီ အစားစာ"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"ဆူရှီ"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"ပုဇွန်ထုပ်ကျော်"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"ပန်းဒီဇိုင်းနှင့် ငါးကိတ်"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"ရေခဲမုန့်ပျော့"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"ရေခဲခြစ်"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"အိုက်စ်ကရင်မ်"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"ဒိုးနတ်"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"ကွတ်ကီ"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"ချောကလတ်ချောင်း"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"ချိုချဉ်"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"လော်လီပေါ့"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"ကြက်ဉနို့ပေါင်း"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"ပြားရည်အိုး"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"ကိတ်သေး"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"ထမင်းဘူး"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"ဟင်းအိုး"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"ချက်ပြုတ်ခြင်း"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"ခက်ရင်းနှင့်ဓါး"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"လက်ကိုင်မပါသော လဖ္ဘက်ရည်ခွက်"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"အရက်ပုလင်းနှင့် ခွက်"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"ဝိုင်ပုလင်း"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"အရက်ချိုခွက်"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"အရက်ချို"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"ဘီယာခွက်"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"ဘီယာခွက်များတိုက်ခြင်း"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"ကလေးပုလင်း"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"ဖဲကြိုး"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"ထုပ်ပိုးထားသည့် လက်ဆောင်"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Birthday cake"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"ဖယုံသီးအားထွင်းထားသည့် မီးအိမ်"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"ခရစ္စမတ် သစ်ပင်"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"အဖေခရစ္စမတ်"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"မီးရှူးမီးဆိုင်း"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"မီးရှူးမီးဆိုင်းဖောက်တံ"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"မိုးပျံပူဖောင်း"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"ပါတီ ဖောက်တံ"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"ရောင်စုံစက္ကူဘောလုံး"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"သနဘာသပင်"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"ကြက်ခြေခက် အလံများ"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"သစ်တော အလှဆင်ခြင်း"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"ဂျပန်အရုပ်များ"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"ငါးသဏ္ဍာန်လေလွင့် ခြေအိပ်"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"လေတူရိယာ"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"လကြည့်ပွဲ"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"ကျောင်း သားရေလွယ်အိတ်"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"ဘွဲ့ဦးထုပ်"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"မြင်းချားရဟတ်"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"ချားရဟတ်"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"ရိုလာကိုစတာ"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"ငါးမြားတံနှင့် ငါး"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"မိုက်ခရိုဖုန်း"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"ရုပ်ရှင်ကင်မရာ"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"ရုပ်ရှင်"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"နားကြပ်"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"အနုပညာရှင် ဆေးချယ်ဘမ်း"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"ထိပ်ဆုံးဦးထုပ်"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"ဆပ်ကပ်တဲ"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"လက်မှတ်"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"ရုပ်ရှင်ကလက်"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"တင်ဆက်ခြင်း အနုပညာ"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"ဗီဒီယိုဂိမ်း"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"တိုက်ရိုက်ထိချက်"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"အကြွေစေ့ထည့်စက်"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"ဘီလိယပ်"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"ဂိမ်းအံစာတုံး"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"ဘိုးလင်းပစ်ကစားခြင်း"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"ပန်းပွင့်ဖဲချပ်များ"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"တေးဂီတ သင်္ကေတ"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"များပြားသည့် တေးဂီတ သင်္ကေတ"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"ဆက်ဆိုဖုန်း"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"ဂီတာ"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"ဂီတကီးဘုတ်"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"လေမုတ်ခရာ"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"သယော"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"ဂီတနုတ်"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"အပြေးအင်္ကျီနှင့် စလွယ်"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"တင်းနစ် ရက်ကက်နှင့် ဘောလုံး"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"နှင်းလျှောစီးခြင်းနှင့် နှင်းလျှောစီးဘုတ်"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"ဘတ်စကတ်ဘောနှင့် သံပတ်ပြား"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"အကွက်ဆင်အလံ"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"ရေခဲပြင်လျှောစီး"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"အပြေးသမား"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"ရေလှိုင်းစီးသူ"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"ဒိုင်းဆု"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"မြင်းအပြေးပြိုင်"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"အမေရိကန် ဘောလုံး"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"ရက်ဘီဘောလုံး"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"ရေကူးသမား"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"အိမ်အဆောက်အဦး"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"အိမ်နှင့် ပန်းခြံ"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"ရုံးအဆောက်အဦး"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"ဂျပန်စာတိုက်ရုံး"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"ဉရောပစာတိုက်ရုံး"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"ဆေးရုံ"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"ဘဏ်"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"အလိုလျောက်ပြောသည့်စက်"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"ဟော်တယ်"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"အချစ်ဟော်တယ်"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"ကုန်စုံဆိုင်"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"ကျောင်း"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"ကုန်စုံဆိုင်ကြီး"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"စက်ရုံ"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"စက္ကူမီးအိမ်"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"ဂျပန်ရဲတိုက်"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"ဥရောပရဲတိုက်"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"ကြွက်"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"ကြွက်"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"နွားထီး"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"ရေကျွဲ"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"နွား"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"ကျားသစ်"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"ယုံ"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"ကြောင်"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"နဂါး"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"မိကျောင်း"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"ဝေလှငါး"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"ခရု"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"မြွေ"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"မြင်း"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"သိုးထီး"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"ဆိတ်"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"သိုး"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"မျောက်"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"ကြက်ဖ"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"ကြက်မ"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"ခွေး"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"ဝက်"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"ဝက်သိုး"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"ဆင်"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"ရေဘဝဲ"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"ခရုခွံ"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"ကြမ်းပိုး"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"ပုရွက်ဆိပ်"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"ပြား"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"နွားချေးပိုး"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"ငါး"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"အပူပိုင်းဒေသငါး"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"အဆူးငါး"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"လိပ်"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"ကြက်ပေါက်"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"ကြက်ကလေး"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"အရှေ့ဘက်မျက်နှာမူနေသည့် ကြက်ကလေး"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"ငှက်"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"ပင်ဂွင်း"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"ကိုလာဝက်ဝံ"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"အမွေးဆုတ်ဖွားခွေး"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"သစ်ကုလားအုပ်"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"ဘို့နှစ်လုံးရှိသော ကုလားအုတ်"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"ဖျံ"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"ကြွက်မျက်နှာ"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"နွားမျက်နှာ"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"ကျားမျက်နှာ"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"ယုံမျက်နှာ"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"ကြောင်မျက်နှာ"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"နဂါးမျက်နှာ"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"ရေစုတ်ထုတ်နေသည့် ဝေလှငါး"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"မြင်းမျက်နှာ"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"မျောက်မျက်နှာ"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"ခွေးမျက်နှာ"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"ဝက်မျက်နှာ"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"ဖားမျက်နှာ"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"မြီးတိုပါးတွဲကြွက် မျက်နှာ"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"မြေခွေးမျက်နှာ"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"ဝက်ဝံမျက်နှာ"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"ပန်ဒါဝက်ဝံ မျက်နှာ"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"ဝက်နှာခေါင်း"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"ခြေရာများ"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"မျက်လုံးများ"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"နားရွက်"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"နှာခေါင်း"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"ပါးစပ်"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"လျှာ"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"လက်ညိုးအပေါ်သို့ထိုး"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"လက်ညိုးအောက်သို့ထိုး"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"လက်ညိုးဘယ်သို့ထိုး"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"လက်ညိုးညာသို့ထိုး"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"လက်သီးဆုပ်သည့် သင်္ကေတ"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"လက်ဝှေ့ယမ်းသည့် သင်္ကေတ"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"အိုကေလက် သင်္ကေတ"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"လက်မထောင် သင်္ကေတ"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"လက်မ အောက်စိုက် သင်္ကေတ"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"လက်ခုပ်တီးနေသည့်သင်္ကေတ"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"လက်ဖြန့်သည့် သင်္ကေတ"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"သရဖူ"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"အမျိုးသမီးဦးထုပ်"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"မျက်မှန်"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"နက်တိုင်"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"တီရှပ်"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"ဂျင်း"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"ဝတ်ရုံ"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"ကီမိုနို"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"ရေကူးဝတ်စုံ"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"အမျိုးသမီးအဝတ်အထည်များ"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"ပိုက်ဆံအိပ်"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"လက်ကိုင်အိပ်"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"အိတ်သေး"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"အမျိုးသားရှူးဖိနပ်"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"အားကစားရှုးဖိနပ်"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"ဒေါက်မြင့်ဖိနပ်"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"အမျိုးသမီး ညှပ်ဖိနပ်"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"အမျိုးသမီးဘွတ်ဖိနပ်"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"ခြေရာများ"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"တစ်ရောင်တည်း လူကိုယ်တစ်ပိုင်း ရုပ်ပုံ"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"အဖြူမဲ ကိုယ်တစ်ပိုင်းပုံ"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"ယောက်ျားလေး"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"မိန်းကလေး"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"ယောက်ျား"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"မိန်းမ"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"မိသားစု"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"ယောက်ျားနှင့် မိန်းမလက်တွဲထား"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"ယောက်ျားနှစ်ယောက် လက်တွဲထား"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"မိန်းမနှစ်ယောက် လက်တွဲထား"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"ရဲအရာရှိ"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"ယုံနားရွက်နှင့် မိန်းမ"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"ခေါင်းဆောင်းပုဝါနှင့် သတို့သမီး"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"ရွှေရောင်ဆံပင်နှင့် လူ"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"တရုတ်ခေါင်းဆောင်းနှင့် ယောက်ျား"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"ပန်ချာပီခေါင်းဆောင်းနှင့် ယောက်ျား"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"အသက်ကြီးယောက်ျား"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"အသက်ကြီးမိန်းမ"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"ကလေး"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"ဆောက်လုပ်ရေး အလုပ်သမား"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"မင်းသမီး"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"ဂျပန်ဘီလူး"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"ဂျပန်မှင်စာ"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"သရဲ"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"ကလေးနတ်သမီး"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"အခြားဂြိုလ်သား"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"ဂြိုလ်သားဘီလူး"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"မှင်စာ"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"ဦးခေါင်းခွန်"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"အချက်လက်ကောင်တာ လူ"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"အစောင့်"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"အကသမား"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"နှုတ်ခမ်းနီ"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"လက်သည်းဆိုးဆေး"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"မျက်နှာ နှိပ်နယ်ခြင်း"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"ဆံပင်ညှပ်"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"ဆံပင်ညှပ်ဆိုင် အလိပ်တိုင်"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"ဆေးထိုးအပ်"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"ဆေးလုံး"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"အနမ်းသင်္ကေတ"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"အချစ်စာ"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"အသံမြည်ပေးရန်"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"ကျောက်မျက်ရတနာ"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"အနမ်း"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"ပန်းစည်း"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"အသဲနှလုံးနှင့် အတွဲ"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"မင်္ဂလာဆောင်ခြင်း"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"ခုန်နေသော နှလုံး"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"အသဲကွဲ"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"အသဲနှလုံး နှစ်ခု"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"တောက်ပနေသော နှလုံး"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"ကြီးထွားနေသည့် နှလုံး"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"မြှားနှင့် အသဲနှလုံး"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"အပြာရောင် နှလုံးသား"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"အစိမ်းရောင် နှလုံးသား"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"အဝါရောင် အသဲနှလုံး"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"ခရမ်းရောင် အသဲနှလုံး"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"ဖဲပြားနှင့် အသဲနှလုံး"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"လည်နေသည့် နှလုံးသားများ"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"အသဲနှလုံး အလှဆင်ခြင်း"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"အတွင်းတွင် အစက်တစ်စက်နှင့် စိန်ပုံ"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"လျှပ်စစ်မီးလုံး"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"ဒေါသသင်္ကေတ"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"ဗုံး"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"အိပ်စက်နေသည့် သင်္ကေတ"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"ပေါက်ကွဲသင်္ကေတ"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"ချွေးထွက်နေသည့် သင်္ကေတ"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"ရေစက်"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"အနုတ်သင်္ကေတ"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"မစင်ပုံ"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"လက်မောင်းသား"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"မှူးဝေသည့် သင်္ကေတ"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"စကားပြော ပူပေါင်းကွက်"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"အတွေး ပူပေါင်းကွက်"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"အဖြူရောင်ပန်း"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"အမှတ်တစ်ရာ သင်္ကေတ"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"ပိုက်ဆံအိတ်"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"ငွေကြေး လဲလှယ်ခြင်း"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"လေးလံသည့် ဒေါ်လာသင်္ကေတ"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"အကြွေးဝယ်ကဒ်"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"ယန်းသင်္ကေတဖြင့် ဘဏ်မှတ်ချက်"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"ဒေါ်လာသင်္ကေတနှင့် ဘဏ်မှတ်ချက်"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"ယူရိုသင်္ကေတဖြင့် ဘဏ်မှတ်ချက်"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"ပေါင်သင်္ကေတနှင့် ဘဏ်မှတ်ချက်"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"အတောင်ပံများနှင့် ပိုက်ဆံ"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"ယန်းသင်္ကေတနှင့် အပေါ်တက်နေသည့် ဇယားကွက်"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"ထိုင်ခုံ"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"ကုဂ္ဂိုလ်ရေးကွန်ပျူတာ"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"သားရေအိပ်ပြား"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"ဒစ်အသေး"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"ဖလော့ပီဒစ်"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"ဒစ်ခွေ"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"ဒီဗီဒီ"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"ဖိုင်တွဲ"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"ဖိုင်တွဲဖွင့်"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"စာရွက်ကော့်ဖြင့် စာမျက်နှာ"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"အပေါ်ထောင်နေသည့် စာမျက်နှာ"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"ပြက္ခဒိန်"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"ရွက်ဆုတ် ပြက္ခဒိန်"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"ကဒ်အညွှန်း"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"အပေါ်တက်နေသည့် ဇယား"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"လူကြိုက်များသည့် ဒေါင်းလုပ်များနှင့် ဇယား"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"ဘားတန်းဇယား"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"ကလစ်ဘုတ်"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"ပင်"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"ပင်အဝိုင်း"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"စာရွက်ညှပ်"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"ပေတံဖြောင့်"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"သုံးထောင့်ပေတံ"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"ဘွတ်မှတ်တပ်များ"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"လယ်ဂျာ"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"မှတ်စုစာအုပ်"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"အလှဆင်ထားသည့် အခွံနှင့် မှတ်စုစာအုပ်"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"ပိတ်ထားသည့်စာအုပ်"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"စာအုပ်အပွင့်"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"အစိမ်းရောင်စာအုပ်"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"အပြာရောင်စာအုပ်"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"လိမ္မော်ရောင်စာအုပ်"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"စာအုပ်များ"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"နာမည်တံဆိပ်"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"လိမ့်ချ"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"မီမို"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"တယ်လီဖုန်း လက်ခံစက်"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"ပေဂျာ"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"ဖက်စ်စက်"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"ဂြိုလ်တုအင်တင်နာ"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"ပြည်သူသုံး အသံချဲ့စက်"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"ဩဘာပေးသည့် အသံချဲ့စက်"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"အထွက်စာဘန်း"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"အဝင်စာဘန်း"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"အထုပ်"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"အီးမေးလ်သင်္ကေတ"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"စာအိတ်အဝင်"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"အပေါ်တွင် ဒေါင်းလုပ်မြှားပါသည့် စာအိတ်"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"အောက်ခြေအလံပါသည့် စာပုံးအပိတ်"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"အလံပြထားသည့် ပိတ်ထားသော စာပုံး"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"အထက်တွင်အလံပါသည့် စာပုံးအဖွင့်"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"အောက်ခြေတွင်အလံပါသည့် စာပုံးအပွင့်"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"စာတိုက်ပုံး"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"ခရာ"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"သတင်းစာ"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"မိုဘိုင်းဖုန်း"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"ဘယ်ဖက်ရှိ ညာဖက်ဦးတည်သည့်မြှားနှင့် မိုဘိုင်းဖုန်း"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"တှုန်ခါမုဒ်"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"မိုဘိုင်းဖုန်း ပိတ်"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"မိုဘိုင်းဖုန်းများမရှိပါ"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"ဘားတန်းများနှင့် အင်တင်နာ"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"ကင်မရာ"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"ဗီဒီယိုကင်မရာ"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"ရုပ်သံ"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"ရေဒီယို"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"ဗီဒီယိုကက်ဆက်"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"ညာဖက်ညွှန်းနေသေည လှည့်ထားသည့်မြှားများ"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"ညာဖက်နှင့် ဘယ်ဖက်သို့ဦးတည်သည့် နာရီလက်တံအတိုင်းလှည့်သော စက်ဝိုင်းပွင့်မြှားများ"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"နာရီလက်တံအတိုင်း ဘယ်ဖက်နှင့် ညာဖက်သို့ညွှန်းသည့် စက်ဝိုင်းထပ်ထားသော စက်ဝိုင်းအပွင့်မြှား"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"အောက်ဖက်နှင့် အပေါ်ဖက်သို့ဦးတည်သည့် နာရီလက်တံအတိုင်းလှည့်သော စက်ဝိုင်းပွင့်မြှားများ"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"နာရီလက်တံအတိုင်း အောက်ဖက်နှင့် အပေါ်ဖက်သို့ဦးတည်သည့် နာရီလက်တံအတိုင်းလှည့်သော စက်ဝိုင်းပွင့်မြှားများ"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"တောက်ပမှုနည်းသည့် သင်္ကေတ"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"တောက်ပမှုမြင့် သင်္ကေတ"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"ပယ်ဖျက်သည့် ဘေးတိုက်မျဉ်းနှင့် စပီကာ"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"စပီကာ"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"အသံလှိုင်းတစ်ခုနှင့် စပီကာ"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"အသံလှိုင်းသုံးခုနှင့် စပီကာ"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"ဘတ်ထရီ"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"လျှစ်စစ် ပလပ်"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"ဘယ်ဘက်သို့ညွှန်နေသည့် မှန်ဘီလူး"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"ညာဘက်သို့ညွှန်နေသည့် မှန်ဘီလူး"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"မှင်ဘောပင်ဖြင့် သော့ခတ်"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"ကီးဖြင့်သော့ပိတ်"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"သော့"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"သော့ပိတ်ရန်"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"သော့ပွင့်"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"ခေါင်းလောင်း"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"ပယ်ဖျက်သည့် ဘေးတိုက်မျဉ်းနှင့် ခေါင်းလောင်း"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"စာညုပ်"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"လင့်ခ်သင်္ကေတ"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"ရေဒီယို ခလုတ်"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"အပေါ်တွင် ဘယ်ဘက်ပြမြှားနှင့် အနောက်"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"အပေါ်တွင် ဘယ်ဘက်ပြမြှားနှင့် အဆုံး"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"အပေါ်တွင် ဘယ်ညာမြှားနှင့် ဖွင့်ရန် နှင့်အာမေဍိတ် သင်္ကေတ"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"ညာဘက်ပြမြှားနှင့် မကြာမှီ"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"အပေါ်ပြမြှားနှင့် အပေါ်"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"ဆယ့်ရှစ်နှစ်အောက် မဝင်ရသင်္ကေတ"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"တစ်ဆယ်ခလုတ်"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"လက်တင်စာလုံးကြီးအတွက် ထည့်သွင်းရန် သင်္ကေတ"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"လက်တင်စာလုံးသေးများအတွက် ထည့်သွင်းရန် သင်္ကေတ"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"ဂဏန်းများအတွက် ထည့်သွင်းရန် သင်္ကေတ"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"သင်္ကေတများအတွက် ထည့်သွင်းရန် သင်္ကေတ"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"လက်တင်စာလုံးများအတွက် ထည့်သွင်းရန် သင်္ကေတ"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"မီး"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"လျှပ်စစ်တို့ထိမှု"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"မူလီလှည့်"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"တူ"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"မူလီနှင့် ဝါရှာ"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"ဓါးသေး"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"ပစ်စတို"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"မိုက်ခရိုစကုပ်"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"တယ်လီစကုပ်"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"အရည်ကြည် ဘောလုံး"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"ခြောက်ထောင့်ရှိ၍ အလယ်မှတ်ပါသော ကြယ်"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"အစပြုသူအတွက် ဂျပန်သင်္ကေတ"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"နေနတ်သင်္ကေတ အမှတ်အသား"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"အမဲရောင် စတုရန်း ခလုတ်"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"အဖြူရောင် လေးထောင့်ခလုတ်"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"အနီရောင် စက်ဝိုင်းကြီး"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"အပြာရောင်စက်ဝိုင်းကြီး"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"လိမ္မော်ရောင် စိန်ကြီး"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"အပြာရောင် စိန်ကြီး"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"လိမ္မော်ရောင် စိန်သေး"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"အပြာရောင် စိန်သေး"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"ပေါ်သို့ညွှန်နေသည့် တြိဂံ"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"အောက်စိုက် အနီရောင်တြိဂံ"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"အပေါ်ထောင်သည့် အနီရောင်တြိဂံ"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"အောက်စိုက် အနီရောင်တြိဂံအသေး"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"နာရီမျက်နှာပြင် တစ်နာရီ"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"နာရီမျက်နှာပြင် နှစ်နာရီ"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"နာရီမျက်နှာပြင် သုံးနာရီ"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"နာရီမျက်နှာပြင် လေးနာရီ"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"နာရီမျက်နှာပြင် ငါးနာရီ"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"နာရီမျက်နှာပြင် ခြောက်နာရီ"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"နာရီမျက်နှာပြင် ခုနှစ်နာရီ"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"နာရီမျက်နှာပြင် ရှစ်နာရီ"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"နာရီမျက်နှာပြင် ကိုးနာရီ"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"နာရီမျက်နှာပြင် ဆယ်နာရီ"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"နာရီမျက်နှာပြင် ဆယ့်တစ်နာရီ"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"နာရီမျက်နှာပြင် ဆယ့်နှစ်နာရီ"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"နာရီမျက်နှာပြင် တစ်နာရီခွဲ"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"နာရီမျက်နှာပြင် နှစ်နာရီခွဲ"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"နာရီမျက်နှာပြင် သုံးနာရီခွဲ"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"နာရီမျက်နှာပြင် လေးနာရီခွဲ"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"နာရီမျက်နှာပြင် ငါးနာရီခွဲ"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"နာရီမျက်နှာပြင် ခြောက်နာရီခွဲ"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"နာရီမျက်နှာပြင် ခုနှစ်နာရီခွဲ"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"နာရီမျက်နှာပြင် ရှစ်နာရီခွဲ"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"နာရီမျက်နှာပြင် ကိုးနာရီခွဲ"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"နာရီမျက်နှာပြင် ဆယ်နာရီခွဲ"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"နာရီမျက်နှာပြင် ဆယ့်တစ်နာရီခွဲ"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"နာရီမျက်နှာပြင် ဆယ့်နာနာရီခွဲ"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"ဖူဂျီတောင်"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"တိုကျိုတာဝါ"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"လေဘာတီရုပ်တု"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"ဂျ"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"မိုရိုက်းရုပ်တု"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"သွားကြိတ်နေသည့် မျက်နှာ"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"ပြုံးနေသည့်မျက်လုံးများဖြင့် ကြိတ်သည့်မျက်နှာ"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"အငိုမျက်လုံး အပြုံးမျက်နှာ"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"ပါးပစ်ပွင့်လျက်သားနှင့် ရီနေသည့်မျက်နှာ"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"အပြုံးမျက်လုံးများဖြင့် ပါးစပ်ဖွင့်ကာ ရီမောခြင်း"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"ပါးစပ်ဖွင့် ပြုးနေလျက် ချွေးစေးထွက်သည့် မျက်နှာ"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"တင်းကြပ်စွာပိတ်ထားသည့် မျက်လုံးများဖြင့် ပါးစပ်ဖွင့်ကာ ရီမောခြင်း"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"ရောင်ခြည်တော်စက်ဝန်းနှင့် အပြုံးမျက်နှာ"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"ဦးချိုနှင့် အပြုံးမျက်နှာ"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"မျက်လုံးမိတ်ပြသည့် မျက်နှာ"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"အပြုံးမျက်လုံးဖြင့် အပြုံးမျက်နှာ"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"အရသာရှိသည့်အစားစာကို သွားရည်ကျသည့်မျက်နှာ"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"စိတ်သက်သာရာရသည့် မျက်နှာ"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"နှလုံးသားပုံ မျက်လုံးများဖြင့် ရီနေသည့်မျက်နှာ"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"နေကာမျက်မှန်နှင့် အပြုံးမျက်နှာ"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"ရွဲ့သည့် မျက်နှာ"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"ဓါတ်ပျယ်မျက်နှာ"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"ခံစားချက်မဲ့သည့် မျက်နှာ"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"မပျော်ရွှင်သည့် မျက်နှာ"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"ချွေးအေးများနှင့် မျက်နှာ"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"စိုးရိမ်သည့် မျက်နှာ"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"ဇဝေဇဝါ မျက်နှာ"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"ချွေးပြန်နေသည့် မျက်နှာ"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"နမ်းနေသည့် မျက်နှာ"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"အနမ်းပေးသည့် မျက်နှာ"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"ပြုံးနေသည့်မျက်လုံးများဖြင့် နမ်းနေသည့်မျက်နှာ"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"မျက်လုံးပိတ်များဖြင့် နမ်းနေသည့်မျက်နှာ"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"လျှာထုပ်ထားသည့် မျက်နှာ"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"လျှာထုတ်ပြ၍ မျက်လုံး မှိတ်ပြသည့် မျက်နှာ"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"လျှာထုတ်ပြ၍ မျက်လုံး တင်းကြပ်စွာမှိတ်ပြသည့် မျက်နှာ"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"စိတ်ပျက်သည့် မျက်နှာ"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"စိုးရိမ်နေသည့် မျက်နှာ"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"စိတ်တိုသည့် မျက်နှာ"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"နှုတ်ခမ်းစူသည့် မျက်နှာ"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"ငိုနေသည့် မျက်နှာ"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"ဇွဲသန်သည့် မျက်နှာ"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"အောင်ပွဲခံသည့် မျက်နှာ"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"စိတ်ပျက်သော်လည်း စိတ်သက်သာရာရသည့် မျက်နှာ"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"ပါးစပ်ဖွင့်လျက် မျက်မှောင်ကြုပ်သည့် မျက်နှာ"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"မချိတင်ကဲမျက်နှာ"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"ကြောက်လန့်သည့် မျက်နှာ"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"ငြီးငွေ့သည့် မျက်နှာ"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"အိပ်ငိုက်သည့် မျက်နှာ"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"မောပန်းသည့် မျက်နှာ"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"မဲ့ရွဲ့သည့် မျက်နှာ"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"ကျယ်လောင်စွာအော်ငိုသည့် မျက်နှာ"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"ပါးစပ်ဟောင်းနေတဲ့ မျက်နှာ"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"တိတ်ဆိတ်သည့် မျက်နှာ"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"ပါးစပ်ဖွင့်လျက် ချွေးစေးထွက်သည့် မျက်နှာ"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"ကြောက်ရွံ့၍အော်သော မျက်နှာ"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"အံ့အားသင့်သည့် မျက်နှာ"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"ရှက်သည့် မျက်နှာ"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"အိပ်နေသည့် မျက်နှာ"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"ခေါင်းမူးသည့် မျက်နှာ"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"ပါးစပ်မပါသည့် မျက်နှာ"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"ဆေးမျက်နှာဖုံးနှင့် မျက်နှာ"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"ပြုံးနေသည့်မျက်လုံးများဖြင့် ကြိတ်ကိုက်နေသည့် ကြောင်မျက်နှာ"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"အငိုမျက်လုံး အပြုံးနှင့် ကြောင်မျက်နှာ"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"ပါးပစ်ပွင့်လျက်သားနှင့် ရီနေသည့်ကြောင်"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"အသဲပုံမျက်နှာများဖြင့် ပြုံးနေသည့် ကြောင်မျက်နှာ"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"မချဉ်ပြုံးပြုံးနေသော ကြောင်မျက်နှာ"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"မျက်လုံးပိတ်များဖြင့် နမ်းနေသည့် ကြောင်မျက်နှာ"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"နှုတ်ခမ်းစူနေသည့် ကြောင်မျက်နှာ"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"ငိုနေသည့် ကြောင်မျက်နှာ"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"ငြီးငွေ့စရာ ကြောင်မျက်နှာ"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"အမူအယာ မကောင်းသည့် မျက်နှာ"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"အမူအယာအိုကေသည့် မျက်နှာ"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"ဦးညွှတ်နေသည့် လူ"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"မကောင်းတာမကြည့်သည့် မျောက်"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"မကောင်းတာမနားထောင်သည့် မျောက်"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"မကောင်းတာမပြောသည့် မျောက်"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"လက်တစ်ဖက်ကို ပျော်ရွှင်စွာမြောက်သည်လူ"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"လက်နှစ်ဖက်မြောက်ကာ ပွဲတည်နေသည့်လူ"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"ရှုံမဲ့နေသည့် လူ"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"နှုတ်ခမ်းစူနေသည့် မျက်နှာနှင့်လူ"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"လက်အုပ်ချီထားသည့် လက်နှင့်လူ"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"ဒုံးပျံ"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"ဟယ်လီကော်ပတာ"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"ရေနွေးငွေ့ရထား"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"သံလမ်းကား"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"မြန်နှုန်းမြင့် ရထား"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"ကျည်ဆံနှာခေါင်းနှင့် မြန်နှုန်းမြင့် ရထား"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"ရထား"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"မြေအောက်ရထား"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"ပေါ့ပါးသည့် ရထား"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"ဘူတာ"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"ဓါတ်ကြိုး"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"ဓါတ်ကြိုးကား"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"ဘက်စ်"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"လာနေသည့်ဘတ်စ်ကား"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"ထရော်လီဘတ်စ်"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"ဘက်စ်ကားဂိတ်"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"ဘက်စ်အသေး"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"လူနာတင်ယာဉ်"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"မီးအင်ဂျင်"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"ရဲကား"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"လာနေသည့် ရဲကား"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"တက္ကစီ"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"လာနေသည့် တက္ကစီ"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"လေးအီးယာဉ်"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"လာနေသည့် ယာဉ်"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"ဖျော်ဖြေရေးယာဉ်"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"ကုန်တင်ယာဉ်"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"နောက်ဆက်တွဲ လော်ရီ"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"ထွန်စက်"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"တစ်လိုင်းပြေးရထားလမ်း"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"တောင်တက်ရထားလမ်း"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"အောက်လှိုင်းရထား"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"တောင်တက်ဓါတ်ကြိုးလိုင်း"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"ကောင်းကင်ကြိုးရထားလမ်း"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"သင်္ဘော"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"လှော်သည့်လှေ"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"အမြန်သင်္ဘော"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"ရေပြင်ညီယာဉ်အသွားအလာမီး"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"ဒေါင်လိုက် မီးပွိုင့်"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"ဆောက်လုပ်ရေး သင်္ကေတ"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"မီးလှည့်နေသောရဲကား"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"စာတိုက်ပေါ်ရှိ သုံးထောင့်အလံ"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"တံခါး"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"ဝင်ပေါက်သင်္ကေတမရှိ"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"ဆေးလိပ်သောခြင်း သင်္ကေတ"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"ဆေးလိပ်မသောက်ရ သင်္ကေတ"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"သူ့နေရာနှင့်သူ အမှိုက်ပစ်ပါ သင်္ကေတ"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"အမှိုက်မပစ်ရ သင်္ကေတ"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"သောက်၍ရသော ရေသင်္ကေတ"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"သောက်၍မရသော ရေ သင်္ကေတ"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"စက်ဘီး"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"စက်ဘီးမစီးရ"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"စက်ဘီးစီးသူ"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"တောင်တက်စက်ဘီးစီးသူ"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"လမ်းဖြတ်ကူးခြင်း"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"လမ်းဖြတ်မကူးရ"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"ကလေးများ လမ်းဖြတ်ကူးခြင်း"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"ယောက်ျား သင်္ကေတ"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"အမျိုးသမီး သင်္ကေတ"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"နားနေခန်း"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"ကလေး သင်္ကေတ"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"အိမ်သာ"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"ရေအိမ်"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"ရေချိုး"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"ရေချိုးခန်း"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"ရေချိုးကန်"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"ပတ်စပို့ထိန်းချုပ်"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"အကောက်ခွန်"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"ခရီးဆောင်အိတ် ထုတ်ယူရန်"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"ဘယ်ဖက်အိတ်"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"နှစ်ထပ် အာမေဍိတ် အမှတ်"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"အာမေဍိတ် မေးခွန်းအမှတ်အသား"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"ကုန်သွယ်မှု အမှတ်အသား"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"သတင်းဌာန"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"ဘယ်ညာမြှား"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"အပေါ်အောက် မြှား"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"အနောက်မြောက်မြှား"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"အရှေ့မြောက်မြှား"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"အရှေ့တောင်မြှား"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"အနောက်တောင် မြှား"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"ဘယ်ဖက်ညွှန်နေသည့် ချိတ်နှင့်မြှား"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"ညာဖက်ညွှန်နေသည့် ချိတ်နှင့်မြှား"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"လက်ပတ်နာရီ"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"သဲနာရီ"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"အမဲရောင် ညာဘက်ညွှန်ပြသော တြိဂံနှစ်ခု"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"အမဲရောင် ဘယ်ဘက်ညွှန်ပြသော တြိဂံနှစ်ခု"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"အမဲရောင် အပေါ်ဘက်ညွှန်ပြသော တြိဂံနှစ်ခု"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"အမဲရောင် အောက်ဘက်ညွှန်ပြသော တြိဂံနှစ်ခု"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"နာရီနှိုးစက်"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"သဲမှုန်များစီးနေသည့် သဲနာရီ"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"စက်ဝိုင်းဝိုင်းထားသည့် လက်တင် m စာလုံးကြီး"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"အမဲရောင် သေးငယ်သည့် စတုရန်း"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"အဖြူရောင်လေးထောင့်ငယ်"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"အမဲရောင် ညာဘက်ညွှန်ပြသော တြိဂံ"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"အမဲရောင် ဘယ်ဘက်သို့ညွှန်ပြသော တြိဂံ"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"အဖြူရောင်လေးထောင့်လတ်"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"အမဲရောင်လေးထောင့်လတ်"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"အဖြူရောင်လေးထောင့်အလတ်ငယ်"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"အမဲရောင် အလယ်လတ်သေးငယ်သည့် လေးထောင့်"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"အလင်းတန်းများနှင့် အမဲရောင်နေ"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"မိုးတိမ်"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"အမဲရောင် တယ်လီဖုန်း"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"အမှန်ခြစ်ပါသည့် လေးထောင့်ကွက်"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"ထီးနှင့် မိုးရေစက်များ"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"အပူ သောက်စရာ"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"အပေါ်ညွှန်ပြသည့် လက်ညိုး"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"အဖြူရောင် ပြုံးနေသည့် မျက်နှာ"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"မိဿ"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"ပြိဿ"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"မေထုန်"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"ကရကဋ်"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"သိဟ်"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"ကန်"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"တူ"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"ဗြိစ္ဆာ"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"ဓနု"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"မကာရ"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"ကုံ"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"မိန်"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"အမဲရောင် စပိတ်ဖဲ"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"အမဲရောင် ကလပ်ဖဲ"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"အမဲရောင် အသဲနှလုံးဖဲ"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"အမဲရောင် စိန်ပွင့်ဖဲ"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"ပူသည့် နွေရာသီ"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"အမဲရောင် ကမ္ဘာလုံးဆိုင်ရာ ပြန်လည်သုံးစွဲရန် သင်္ကေတ"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"ဘီးတက်ကုလားထိုင် သင်္ကေတ"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"ကျောက်ဆူး"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"သတိပေး သင်္ကေတ"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"ဗို့အားမြင့် သင်္ကေတ"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"အလယ်လတ် အဖြူရောင်စက်ဝိုင်း"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"အမဲရောင် အလယ်လတ် စက်ဝိုင်း"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"ဘောလုံးကန်သည့် ဘောလုံး"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"ဘေ့စ်ဘော"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"နှင်းမရှိသည့် နှင်းလူသား"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"တိမ်နောက်ကွယ်က နေ"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"အိုဖီယူချက်စ်"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"မဝင်ရ"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"ခရစ်ယာန် ဘုရားကျောင်း"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"ဖောင်တိန်"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"အပေါက်ထဲရှိ အလံ"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"ရွက်လှေ"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"တဲ"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"လောင်စာဆီပိုက်"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"အမဲရောင်ကပ်ကြေး"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"ထူထဲသည့် အဖြူရောင် အမှန်ခြစ် အမှတ်အသား"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"လေယာဉ်ပျံ"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"စာအိတ်"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"လက်သီးထောင်"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"လက်မြောက်"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"အောင်မြင်သည့်လက်"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"ခဲတံ"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"အမဲရောင်ထိပ်"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"ထူထဲသည့် အမှန်ခြစ် အမှတ်အသား"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"ထူထဲသည့် အမြောက် အမှတ်အသား"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"မီးပန်း"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"ရှစ်ချောင်းပါ ကြယ်ပွင့်"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"ရှစ်မှတ်ပါသော အမဲရောင်ကြယ်"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"နှင်းပွင့်"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"မီးပန်း"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"ကြက်ခြေခက်အမှတ်အသား"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"ကြက်ခြေခက် စတုရန်းကွက်အား ရွှေ့ရန်"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"အမဲရောင် မေးခွတ်းအမှတ်သား အဆင်တန်ဆာ"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"အဖြူရောင် မေးခွန်းအမှတ်သား အဆင်တန်ဆာ"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"အဖြူရောင် အာမေဍိတ်အမှတ်သား အဆင်တန်ဆာ"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"ထူထဲသည့် အာမေဍိတ်အမှတ်သား သင်္ကေတ"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"လေးလံသည့် အမဲရောင် အသဲနှလုံး"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"ထူထဲသည့် အပေါင်းလက္ခဏာ"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"ထူထဲသည့် အနုတ်လက္ခဏာ"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"ထူထဲသည့် အစားလက္ခဏာ"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"အမဲရောင် ညာဘက်ပြသည့် မြှား"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"မြင်းကွေးအကွင်း"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"မျဉ်းကွေးနှစ်ထပ်"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"ညာဘက်ပြ၍ အပေါ်သို့ကွေးတက်သွားသည့် မြှား"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"ညာဘက်ပြ၍ အောက်သို့ကွေးဆင်းသွားသည့် မြှား"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"ဘယ်ဖက်သို့ညွှန်ပြသော အမဲရောင်မြှား"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"အပေါ်ထောင် အမဲရောင်မြှား"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"အောက်စိုက် အမဲရောင်မြှား"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"အမဲရောင် အတုရန် အကြီး"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"အဖြူရောင် စတုရန်း အကြီး"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"အဖြူရောင် အလယ်လတ်ကြယ်"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"ထူထဲသည့် စက်ဝိုင်းကြီး"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"ကွေးကောက်သည့်"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"အစိတ်ပိုင်း ပြောင်းလဲခြင်း အမှတ်"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"ဝိုင်ထားသည့် စာသင်္ကေတ ဝမ်းသာပါသည်"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"စက်ဝိုင်းဝိုင်းထားသည့် အရုပ်စာ လျှို့ဝှက်ချက်"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"မသိရ အီမိုဂျီ"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"စိတ်ကုန်နေသော မျက်နှာ"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"ကသိကအောက် မျက်နှာ"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"နမ်းနေသော မျက်နှာ"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"မှုန်ကုပ်ကုပ် မျက်နှာ"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"အံ့အားသင့်နေသော မျက်နှာ"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"နေကာမျက်မှန်တပ် မျက်နှာ"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"အကြံပြုချက် မရှိပါ"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"I အကြီး"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"I အကြီး၊ အပေါ်မှာ အစက်"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"စာမရိုက်ထည့်ထားပါ"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"အစားထိုးစရာ စာလုံးများ ရှိနိုင်"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"အစားထိုးစရာ အကြံပေးချက်များ ရှိနိုင်"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"အာမေဍိတ်သံ ပြောင်းပြန်"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"ဘယ်ညွှန်း double angle quotation သင်္ကေတ"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"အလယ် အစက်"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Superscript တစ်"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"ညာညွှန်း double angle quotation သင်္ကေတ"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"မေးခွန်း သင်္ကေတ ပြောင်းပြန်"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"ဘယ် single quotation သင်္ကေတ"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"ညာ single quotation သင်္ကေတ"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Single low-9 quotation သင်္ကေတ"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"ဘယ် double quotation သင်္ကေတ"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"ညာ double quotation သင်္ကေတ"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Dagger"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Double dagger"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Per mille သင်္ကေတ"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Prime"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Double prime"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"ဘယ်ညွှန်း angle quotation သင်္ကေတ တစ်ခု"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"ညာညွှန်း angle quotation သင်္ကေတ တစ်ခု"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Superscript လေး"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Superscript latin စာလုံးသေး n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Peso သင်္ကေတ"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"Care of"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"ညာညွှန်း မြား"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"အောက်ညွှန်း မြား"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"နေရာလွတ်"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Increment"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"ထက်နည်း သို့မဟုတ် တူညီ"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"ထက်ကြီး သို့မဟုတ် တူညီ"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"အနက်ရောင် ကြယ်"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"မသိရ သင်္ကေတ"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"စကားဝှက်ပြောဆိုမှုကို ကျယ်လောင်စွာ ကြားနိုင်ရန် မိုက်ခွက်ပါနားကြပ် တပ်ပြီး နားထောင်ပါ"</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"အီမိုဂျီ"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"အင်္ဂလိပ်(ယူကေ)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"အင်္ဂလိပ် (ယူအက်စ်)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"စပိန် (ယူအက်စ်)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (ကျစ်လစ်သော)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (ရိုးရာ)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"ဟင်ဂလိပ်"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"ဘာသာစကား"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"ဘာသာစကားမရှိ (ဗျည်းအက္ခရာ)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"ဗျည်း (အဇာတည်)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"ဗျည်းအက္ခရာ (ကိုလ်မာ့ခ်)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"ဗျည်းအက္ခရာ (ဒီဘိုရခ်)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"ဗျည်း (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"ဗျည်းအက္ခရာ (ကွာတီ)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"ဗျည်းအက္ခရာ (ကွာတီ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"ဆားဘီယား (လက်တင်)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"အင်္ဂလိပ် (ယူကေ) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"အင်္ဂလိပ် (ယူအက်စ်) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"စပိန် (ယူအက်စ်) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"ဟင်ဂလိပ် (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"ဆားဘီယား (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"အကောင့်များကို ပြောင်းရန်"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"ထပ်တူညီအောင် ယခုပြုလုပ်နေပါပြီ…"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"ဒေါင်းလုပ်လုပ်နေသည်: <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> အတွက်အကြံပြုချက် မကြာမှီတွင် အဆင်သင့်ဖြစ်ပါမည်။"</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"အဆယ်ကသွယ်အမည်များ အကြံပြုမည်"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"အကြံပြုချက်များနှင့် အမှားပြင်ခြင်းများအတွက် အဆက်သွယ်မှ အမည်များ အသုံးပြုမည်"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"သင့်အဆက်အသွယ်စာရင်း မှအကြောင်းအရာများကို စာလုံးပေါင်းစစ်ကိရိယာမှ ယူသုံးသည်"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"အဆက်အသွယ်အမည်များကို ရှာ"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"နှစ်နေရာခြား အဆုံးသတ်"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"အချိန်ကာလ"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"ကိုယ်ရေးကိုယ်တာ အကြံပြုချက်များ"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"အကြံပေးမှုတိုးတက်စေရန် သင့်လူမှုအဖွဲ့စည်းမှ သင်ယူကာ အချက်လက်ကို ရိုက်ပါ"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"အိုကေ"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"ရွေးစရာလျှော့ရန်"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"နောက်ထပ် ရွေးစရာ"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"အဘိဓာန်ထဲ ထည့်ပါ"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"ဘာသာစကား:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"ထည့်ရန်"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"စကားစု"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"စိတ်ကြိုက်ရွေးစရာအတိုကောက်"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"အတိုကောက်:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"စာတလုံးရိုက်ပါ"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"စာလုံး:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"ဘာသာစကားအားလုံးအတွက်"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"ဖျက်ရန်"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"တည်းဖြတ်ရန်"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"ဖျက်သိမ်းရန်"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"စာလုံးကို ပြင်ဆင်မည်"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"သင့်အဘိဓာန်ထဲတွင် မည်သည့်စာလုံးမှမရှိပါ။ ထပ်ထည့်ခြင်း(+)ခလုတ်ကို ထိ၍ စာလုံးထည့်ပါ။"</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"ဘာသာစကားပိုများများ…"</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"အသုံးပြုသူ အဘိဓါန်များ"</string>
+    <string msgid="2715354215568469385" name="version_text">"ဗားရှင်း <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"ခလုတ်နှိပ်သည်နှင့် တုံခါစေပါ"</string>
+    <string msgid="3583258583521397548" name="voice_input">"အသံထည့်သွင်းရန် ခလုတ်"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"မည်သည့် Check Language &amp; input settings."</string>
+</resources>

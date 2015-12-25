@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/main_en.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/main_en.dict"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/main_ru.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/main_ru.dict"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/setup_welcome_video.mp4",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/setup_welcome_video.mp4"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/main_fr.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/main_fr.dict"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/empty.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/empty.dict"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/main_pt_br.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/main_pt_br.dict"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/main_it.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/main_it.dict"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/setup_welcome_image.png",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/setup_welcome_image.png"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/main.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/main.dict"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/main_de.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/main_de.dict"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/raw/main_es.dict",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/raw/main_es.dict"
+    }
+]

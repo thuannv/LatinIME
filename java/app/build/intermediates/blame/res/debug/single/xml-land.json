@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-land/kbd_phone.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-land/kbd_phone.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-land/kbd_phone_symbols.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-land/kbd_phone_symbols.xml"
+    },
+    {
+        "merged": "/Users/thuannv/projects/aosp/LatinIME/java/app/build/intermediates/res/merged/debug/xml-land/kbd_number.xml",
+        "source": "/Users/thuannv/projects/aosp/LatinIME/java/app/src/main/res/xml-land/kbd_number.xml"
+    }
+]

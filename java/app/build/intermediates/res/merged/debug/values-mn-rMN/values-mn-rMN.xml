@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g>мс"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"Цуцлах"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"ТИЙМ"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"Гарах"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"Ашиглах акаунтаа сонгоно уу"</string>
+    <string msgid="2846876462199625974" name="account_selected">"Одоо <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>-г ашиглаж байна"</string>
+    <string msgid="8299699805688017798" name="add">"Нэмэх"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"Энэ горимыг идэвхжүүлэхийн тулд энэ төхөөрөмж рүү Google акаунт нэмж оруулна уу"</string>
+    <string msgid="6163126614514489951" name="add_style">"Загвар нэмэх"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Андройд Алдаа Шалгагчийн Тохиргоо (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"Гарыг нуусан"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"<ns1:g id="KEYBOARD_MODE">%s</ns1:g> гар харуулж байна"</string>
+    <string msgid="6320102637491234792" name="app_name">"Толь бичгээр хангагч"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Автоматаар томруулах"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"Өгүүлбэр бүрийн эхний үгийн эхний үсгийг томруулах"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"Авто-залруулга"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"Хоосон зай болон цэг таслал нь буруу бичсэн үгсийг автоматаар залруулна"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"Хүчтэй"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"Хүлээцтэй"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"Идэвхгүй"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"Маш хүчтэй"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"Дараагийн-үг санал болгох"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"Өмнөх үгийг үг санал болгоход ашиглах"</string>
+    <string msgid="3988017840431881491" name="button_default">"Үндсэн"</string>
+    <string msgid="6830980399865683324" name="cancel">"Цуцлах"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"Цуцлах"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"Толь бичгийн үйлчилгээнд холбогдоход алдаа гарлаа"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"Дахин шинэчлэх"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"Таны мэдээллийг cloud-с устгах болно. Та итгэлтэй байна уу?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"Устгах"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Таны синк хийсэн мэдээллийг Google-ээс устгана."</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"Cloud-ын мэдээллийг устгах"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"Цуцлах"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"Таны хувийн толь бичгийг синк хийж, Google-ийн серверүүд дээр хадгалж авч үлдэнэ. Манай бүтээгдэхүүнүүдийг сайжруулахад туслах зорилгоор үгийн давтамжийн статистик мэдээллийг цуглуулж болно. Бүх мэдээллийг "<a href="https://www.google.com/policies/privacy">"Google-ийн Нууцлалын бодлогын дагуу"</a>" цуглуулж, ашиглана."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"Тохиргоо хийгдэх үйлдлийг идэвхжүүлсэн байна"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"Төхөөрөмжинд өөрийн хувийн толь бичгийг тохируулах"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"Бизнес акаунтуудын Google Апп бүхий төхөөрөмжүүдэд синк хийх боломжгүй"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google-н гарны тохиргоо"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"Нэмэлт толь бичгүүд"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"Оруулах аргуудын тохиргоо"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"Ижилхэн оруулах загвар байна: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"Та өөрийн оруулах загварыг ашиглахаас өмнө идэвхжүүлэх шаардлагатай. Одоо идэвхжүүлэх үү?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"Өөрийн оруулах загвар"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"Хэрэглэгчийн толь"</string>
+    <string msgid="756853268088330054" name="delete_dict">"Устгах"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"Шалгах болон татаж авахын тулд дарна уу"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> хэлний толь ашиглах боломжтой"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"Толь бичиг байна"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"Суулгасан, идэвхгүйжүүлсэн"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"Одоо татаж байна"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"Толь бичиг байна"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"Суулгасан"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"Толь бичгээг хангагч"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"Толь бичгийн үйлчилгээ"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"Толь бичгийн тохиргоо"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"Нэмэлт толь бичгүүд"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Wi-Fi-р татаж авах"</string>
+    <string msgid="6014835283119198591" name="download_description">"Толь бичгийн шинэчлэлтийн мэдээлэл"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"Одоо татах (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g>MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"Хувийн толь бичиг"</string>
+    <string msgid="5031294444630523247" name="enable">"Идэвхжүүлэх"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> сайжруулах"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"Хуваагдмал гарыг идэвхжүүлэх"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Оруулах сонголтууд"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Андройд Гар (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Андройд Гарын Тохиргоо (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"Динамик хөвөгчөөр урьдчилан харах"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"Зангах явцад санал болгож буй үгийг харах"</string>
+    <string msgid="826951152254563827" name="gesture_input">"Зангаагаар бичихийг идэвхжүүлэх"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"Үсгүүд дээр гулсуулах замаар үг оруулах"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"Зангасан мөрийг харуулах"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"Хэллэгийн зангалт"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"Зангалтын явцад зай авах товчин дээр гулсуулах замаар зай оруулах"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"Тохиргоо"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Толь бичиг байна"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"Тусламж &amp; санал хүсэлт"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"Хадгалахын тулд дахин хүрнэ үү"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"Хадгалахын тулд хүрнэ үү"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"Оруулах өөр арга руу шилжүүлэх"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"Хэл солих түлхүүрт өөр оруулах аргууд мөн багтсан байгаа"</string>
+    <string msgid="180852772562189365" name="install_dict">"Суулгах"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"Үндсэн"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"Товчны попап арилах хугацаа"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"Хүлээхгүй"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"Гарын загвар"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"Байршил"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"огноо"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"огноо болон цаг"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"имэйл"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"зурвас"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"тоо"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"утас"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"зурвас"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"цаг"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"Гарын загвар"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"Дууссан"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"Очих"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"Дараах"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"Түр зогсоох"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"Өмнөх"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"Хайлт"</string>
+    <string msgid="482252074224462163" name="label_send_key">"Илгээх"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"Хүлээх"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"Хэл"</string>
+    <string msgid="730467549913588780" name="last_update">"Сүүлд шинэчлэгдсэн"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"Үндсэн толь бичиг"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"Үндсэн толь бичиг"</string>
+    <string msgid="5638680861387748936" name="message_loading">"Ачаалж байна..."</string>
+    <string msgid="4457761393932375219" name="message_updating">"Шинэчлэлтийг шалгаж байна"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"Акаунт сонгогдоогүй"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"Толь бичиг байхгүй"</string>
+    <string msgid="6172462888202790482" name="not_now">"Одоо биш"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Товч дарахад попап гарна"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"Доромжилсон үгсийг санал болгохгүй байх"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"Доромжилсон үгсийг хаах"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"Бодит гарт зориулсан эможи"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"Бодит Alt товчлуур нь эможи палитрыг харуулдаг"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"Товч удаан дарах хугацааны тохиргоо"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"Товчны дууны хэмжээ"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"Товч дарах чичиргээний хугацаа"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"Залруулах санал болголтуудыг харуулах"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"Бичих явцад санал болгосон үгсийг харуулах"</string>
+    <string msgid="4486081658752944606" name="remove">"Устгах"</string>
+    <string msgid="7646738597196767214" name="save">"Хадгалах"</string>
+    <string msgid="5709487854987078367" name="select_language">"Хэл"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"Хаяг &amp; Нууцлал"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"Дэлгэрэнгүй"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"Харагдах байдал &amp; Зураглал"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"Текст залруулалт"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"Зангаагаар бичих"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"Тохируулга"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"Загвар"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"Системийн үндсэн утга"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"Дууссан"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"Дараагийн алхам"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"Эхлэх"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"Тохиргоо дотроос идэвхжүүлэх"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> таны Хэл &amp;amp оруулах тохиргоонд аль хэдийн идэвхжүүлсэн байгаа учир энэ алхам хийгдсэн. Дараагийн алхам руу!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"Өөрийн Хэл &amp; оруулах тохиргоон дотроос \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\"-г сонгоно уу. Ингэснээр таны төхөөрөмж дээр ажиллах зөвшөөрлийг өгөх болно."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-г идэвхжүүлэх"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"Оруулах аргыг солих"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"Дараа нь \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\"-г өөрийн идэвхтэй текст-оруулах аргаар сонгоно уу."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> рүү шилжих"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"Нэмэлт хэлнүүдийг тохируулах"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"Та одоо өөрийн дуртай апп-ууд дотроо <ns1:g id="APPLICATION_NAME">%s</ns1:g> ашиглан бичих болохоор боллоо."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"Баяр хүргэе, та бүгдийг нь тохируулчихлаа!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>-г тохируулж байна"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"Зангаагаар бичихээр"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"Та <ns1:g id="APPLICATION_NAME">%s</ns1:g>-д тавтай морилно уу"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"Таны мобайл төхөөрөмж дээр сонгосон хэлний толь бичиг байна. &lt;br/> Бид танд <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> хэлний толь бичиг &lt;b> татаж аван &lt;/ б> бичихэд хялбар болгохыг зөвлөж байна. &lt;br/> &lt;br/> Татаж авахад 3G дээр нэг, хоёр минут болж магадгүй. Хэрэв та  &lt;b> хязгааргүй дата ашиглах эрхтэй &lt;/ б> биш бол нэмэлт төлбөр гарч болно. Хэрэв та өөрийн дата ашиглалтын эрхийг сайн мэдэхгүй байгаа бол Wi-Fi холболт ашиглан автоматаар татан авахыг эхлүүлэхийг зөвлөж байна.&lt;br/> &lt;br/> &lt;br/> Зөвлөмж: Та өөрийн мобайл төхөөрөмжийн &lt;b> тохиргоо &lt;/ б> цэсэнд &lt;/ б> Хэл &amp; оролт &lt;b> руу очиж толь бичиг татаж авах, устгах боломжтой."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"Хэл солих товч"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"Оруулах хэл олныг идэвхжүүлсэн үед харуулах"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"Апп дүрсийг харуулах"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"Эхлүүлэгч дээр аппликешний дүрсийг харуулах"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Товч дарахад дуу гаргах"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Андройд Алдаа Шалгагч (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"Эм хүйсийн дугаар заагч"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"Микро тэмдэг"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"Эр хүйсийн дугаар заагч"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"Хурц S"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"А, зүүн малгайтай"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"А, баруун малгайтай"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"А, дээвэр малгайтай"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"А, долгионтой"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"А, хоёр цэгтэй"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A, дээрээ цагирагтай"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"A, E, залгагдсан"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C, дэвсгэртэй"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E, зүүн малгайтай"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E, баруун малгайтай"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E, дээвэр малгайтай"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E, хоёр цэгтэй"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I, зүүн малгайтай"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I, баруун малгайтай"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I, дээвэр малгайтай"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I, хоёр цэгтэй"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Зураастай ди"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N, долгионтой"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O, зүүн малгайтай"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O, баруун малгайтай"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O, дээвэр малгайтай"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O, долгионтой"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O, хоёр цэгтэй"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O, хөндлөн зураастай"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U, зүүн малгайтай"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U, баруун малгайтай"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U, дээвэр малгайтай"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U, хоёр цэгтэй"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y, баруун малгайтай"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Гэдэстэй багана"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y, хоёр цэгтэй"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A, хөндлөн малгайтай"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"А, тавган малгайтай"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"А, сүүлтэй"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C, баруун малгайтай"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C, дээвэр малгайтай"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"С, дээрээ цэгтэй"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C, аяган малгайтай"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D, аяган малгайтай"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D, хөндлөн зураастай"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E, хөндлөн малгайтай"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E, тавган малгайтай"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E, дээрээ цэгтэй"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E, сүүлтэй"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E, аяган малгайтай"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G, дээвэр малгайтай"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G, тавган малгайтай"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G, дээрээ цэгтэй"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G, дэвсгэртэй"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H, дээвэр малгайтай"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H, хөндлөн зураастай"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I, долгионтой"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I, хөндлөн малгайтай"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I, тавган малгайтай"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I, сүүлтэй"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"Цэггүй I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"I, J, залгагдсан"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J, дээвэр малгайтай"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K, дэвсгэртэй"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Кра"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L, баруун малгайтай"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L, дэвсгэртэй"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L, аяган малгайтай"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L, дунд цэгтэй"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L, хөндлөн зураастай"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N, баруун малгайтай"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N, дэвсгэртэй"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N, аяган малгайтай"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N,"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Инг"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O, хөндлөн малгайтай"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O, тавган малгайтай"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O, давхар баруун малгайтай"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"O, E, залгагдсан"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R, баруун малгайтай"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R, дэвсгэртэй"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R, аяган малгайтай"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S, баруун малгайтай"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S, дээвэр малгайтай"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S, дэвсгэртэй"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S, аяган малгайтай"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T, дэвсгэртэй"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T, аяган малгайтай"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T, хөндлөн зураастай"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U, долгионтой"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U, хөндлөн малгайтай"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U, тавган малгайтай"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U, дээрээ цагирагтай"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U, давхар баруун малгайтай"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U, сүүлтэй"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W, дээвэр малгайтай"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y, дээвэр малгайтай"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z, баруун малгайтай"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z, дээрээ цэгтэй"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z, аяган малгайтай"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"Урт S"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O, эвэртэй"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U, эвэртэй"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S, доор таслалтай"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T, доор таслалтай"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Шва"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"А, доор цэгтэй"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"А, дээр дэгээтэй"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A, дээвэр болон баруун малгайтай"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"А, дээвэр болон зүүн малгайтай"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"А, дээвэр болон дээр дэгээтэй"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"А, дээвэр болон долгионтой"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"А, дээвэр болон доор цэгтэй"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"А, тавган болон баруун малгайтай"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"А, тавган болон зүүн малгайтай"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"А, тавган болон дээр дэгээтэй"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"А, тавган болон долгионтой"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"А, тавган болон доор цэгтэй"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E, доор цэгтэй"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E, дээр дэгээтэй"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E, долгионтой"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E, дээвэр болон баруун малгайтай"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E, дээвэр болон зүүн малгайтай"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E, дээвэр болон дээр дэгээтэй"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E, дээвэр болон долгионтой"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E, дээвэр болон доор цэгтэй"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I, дээр дэгээтэй"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I, доор цэгтэй"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O, доор цэгтэй"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O, дээр дэгээтэй"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O, дээвэр болон баруун малгайтай"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O, дээвэр болон зүүн малгайтай"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O, дээвэр болон дээр дэгээтэй"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O, дээвэр болон долгионтой"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O, дээвэр болон доор цэгтэй"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O, эвэр болон баруун малгайтай"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O, эвэр болон зүүн малгайтай"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O, эвэр болон дээр дэгээтэй"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O, эвэр болон долгионтой"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O, эвэр болон доор цэгтэй"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U, доор цэгтэй"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U, дээр дэгээтэй"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U, эвэр болон баруун малгайтай"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U, эвэр болон зүүн малгайтай"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U, эвэр болон дээр дэгээтэй"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U, эвэр болон долгионтой"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U, эвэр болон доор цэгтэй"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y, зүүн малгайтай"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y, доор цэгтэй"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y, дээр дэгээтэй"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y, долгионтой"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g> нь <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g>-г <ns1:g id="CORRECTED_WORD">%3$s</ns1:g> руу залруулна"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> авто-залруулалт хийдэг"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"Бусад тэмдэгтүүдийг хаагдсан"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"Бусад санал болголтууд хаагдсан"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"Одоогийн текст %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"Дараах"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"Өмнөх"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Шифт"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"Устгах"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"Цэг"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"Эможи"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"Хэл солих"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"Дуугаар оруулах"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"Үсэгнүүд төлөв"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"Утасны төлөв"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"Утасны символ төлөв"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"Симбол төлөв"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"Өөр тэмдэгтийн горим"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Оруулах"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"Хайх"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"Тохиргоо"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Шифт"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Шифт"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Томоор бичихийг идэвхжүүлсэн"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Сэлгэхийг идэвхжүүлсэн"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"Хоосон зай"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"Өөр тэмдэгтүүд"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"Симбол"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Таб"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"Үсэгнүүд"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"Тоонууд"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"Симбол"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"Үл мэдэгдэх тэмдэгт"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"Том <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"Эмотикон"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"Байгалийн"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"Объект"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"Хүмүүс"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"Газар"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"Саяхны"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"Симбол"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"Зохиогчийн эрхийн тэмдэг"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"Бүртгэгдсэн тэмдэг"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"Mahjong -н улаан луу"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"Хөзөрийн хар хүн"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"Цусны А бүлэг"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"Цусны В бүлэг"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"Цусны O бүлэг"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"Машины зогсоол"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"Цусны AB бүлэг"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"Дөрвөлжин CL"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"Дөрвөлжин гоё"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"Дөрвөлжин чөлөөтэй"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"Дөрвөлжин ID"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"Дөрвөлжин шинэ"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"Дөрвөлжин N G"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"Дөрвөлжин OK"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"Дөрвөлжин SOS"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"Анхаарлын тэмдэгтэй дөрвөлжин"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"Дөрвөлжин vs"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"Энд дөрвөлжин катакана"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"Дөрвөлжин катакана үйлчилгээ"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"Дөрвөлжин идеограф төлбөргүй"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"Дөрвөлжин идеограф захиалсан суудал"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"Дөрвөлжин идеограф хориг"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"Дөрвөлжин идеограф орон тоо"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"Дөрвөлжин идеограф зөвшөөрөл"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"Дөрвөлжин идеограф бүрэн эзэлсэн"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Дөрвөлжин идеограф төлсөн"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"Дөрвөлжин идеограф сараар"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"Дөрвөлжин идеограф аппликешн"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"Дөрвөлжин идеограф хөнгөлөлт"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"Дөрвөлжин идеограф бизнесийн"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"Дугуй идеограф давуу тал"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"Дугуй идеограф зөвшөөрөх"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"Циклон"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"Будантай"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"Хаасан шүхэр"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"Одтой шөнө"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"Уулын дээр нар мандах"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"Нар мандах"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"Үдшийн хот"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"Барилга дээр нар жаргах"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"Солонго"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"Шөнийн гүүр"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"Усны давалгаа"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"Галт уул"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"Сүүн зам"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"Дэлхий бөмбөрцөг Европ Африк"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"Дэлхий бөмбөрцөг Америк"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"Дэлхий бөмбөрцөг Ази-Австрали"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"Меридантай бөмбөрцөг"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"Шинэ сарны симбол"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"Мандах хавирган сарны тэмдэг"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"Эхний улирлын сарны тэмдэг"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"Мандах бөгтөр сарны тэмдэг"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"Бүтэн сарны тэмдэг"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"Жаргах бөгтөр сарны тэмдэг"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"Сүүлийн улирлын сарны тэмдэг"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"Жаргах хавирган сарны тэмдэг"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"Хавирган сар"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"Нүүртэй шинэ сар"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"Нүүртэй эхний улирлын сар"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"Нүүртэй сүүлийн улирлын сар"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"Нүүртэй бүтэн сар"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"Нүүртэй нар"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"Гялалзах од"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"Сүүлт од"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"Туулайн бөөр"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"Суулгац"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"Мөнх ногоон мод"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"Навчит мод"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"Далдуу мод"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"Кактус"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"Алтанзул"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"Интоорын дэлбээ"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"Сарнай"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"Хибискус"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"Наранцэцэг"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"Дэлбээ"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"Эрдэнэ шишийн түрүү"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"Цагаан будааны түрүү"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"Ургамал"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"Дөрвөн навчит хошоонгор"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"Агч модны навч"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"Унасан навч"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"Сэрчигнэх навч"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"Мөөг"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"Улаан лооль"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"Чэс"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"Усан үзэм"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"Амтат гуа"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"Тарвас"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"Мандарин"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"Лемон"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"Банана"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"Хан боргоцой"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"Улаан алим"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"Ногоон алим"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"Лийр"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"Тоор"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"Интоор"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"Гүзээлзгэнэ"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"Гамбургер"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"Пиццаны зүсэм"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"Ястай мах"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"Тахианы хөл"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"Будааны жигнэмэг"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"Будааны бөмбөлөг"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"Болгосон будаа"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"Кари болон будаа"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"Ууран аяга"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"Шпагетти"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"Талх"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"Шарсан төмс"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"Шарсан чихэрлэг төмс"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"Данго"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"Oден"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"Суши"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"Шарсан сам хорхой"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"Мушгай загасан бялуу"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"Зөөлөн зайрмаг"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"Хуссан мөс"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"Зайрмаг"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"Донат"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"Печень"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"Шоколад"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"Чихэр"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Lollipop"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"Шар тос"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"Зөгийн бал"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"Үелсэн бялуу"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"Хоолны сав"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"Хоолны тогоо"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"Хоол хийх"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"Хутга сэрээ"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"Бариулгүй цайны аяг"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"Сакены лонх болон хундага"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"Виноны хундага"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"Коктэйлийн хундага"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"Халуун орны ундаа"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"Пивоны аяга"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"Жингэнэсэн пивоны аяга"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"Хүүхдийн лонх"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"Тууз"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"Боодолтой бэлэг"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Төрсөн өдрийн бялуу"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"Жак-O-дэнлүү"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"Зул сарын гацуур"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"Эцэг Христийн баяр"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"Галын наадам"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"Бенгалийн гал"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"Шаар"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"Үдэшлэгийн салют"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"Чихрэн бөмбөлөг"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"Taнабата мод"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"Солисон тугнууд"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"Нарс модон чимэглэл"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"Япон хүүхэлдэй"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"Мөрөг загас стример"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"Салхины ая"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"Сар харах ёслол"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"Сургуулийн үүргэвч"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"Төгсөгчийн малгай"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"Тойруулгын модон морь"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"Чөтгөрийн дугуй"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"Галзуу хулгана"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"Загасны уураг болон загас"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"Микрофон"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"Кино зургийн аппарат"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"Кино"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"Чихэвч"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"Зураачийн палет"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"Бортого малгай"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"Циркийн майхан"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"Тасалбар"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"Кадрын самбар"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"Урлагийн тоглолт"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"Видео тоглоом"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"Шууд хит"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"Слот машин"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"Билльярд"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"Тоглоомын үхэл"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"Боулинг"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"Хөзрийн цэцэг"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"Хөгжмийн нот"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"Олон хөгжмийн нот"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"Саксофон"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"Гитар"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"Хөгжмийн даруул"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"Бүрээ"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"Хийл"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"Хөгжмийн оноо"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"Гүйдэг цамц, хүрээ"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"Теннисны ракет болон бөмбөг"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"Цана болон цанын гутал"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"Сагсан бөмбөг болон цагираг"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"Шоотой туг"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"Сноубордчин"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"Гүйгч"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"Сөрфер"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"Цом"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"Морин уралдаан"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"Америк хөл бөмбөг"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"Регби хөл бөмбөг"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"Сэлэгч"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"Байшин"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"Цэцэрлэгтэй байшин"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"Оффисын барилга"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"Японы шуудан"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"Европын шуудан"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"Эмнэлэг"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"Банк"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"Автомат теллер машин"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"Зочид буудал"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"Секс буудал"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"Ая тухтай дэлгүүр"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"Сургууль"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"Их дэлгүүр"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"Үйлдвэр"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"Izakaya дэнлүү"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"Японы цайз"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"Европын цайз"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"Харх"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"Хулгана"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"Шар"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"Усны одос"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"Үнээ"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"Ирвэс"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"Молтогчин"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"Муур"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"Луу"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"Матар"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"Халим"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"Эмгэн хумс"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"Могой"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"Морь"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"Хуц"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"Ямаа"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"Хонь"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"Сармагчин"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"Азарган тахиа"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"Тахиа"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"Нохой"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"Гахай"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"Зэрлэг гахай"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"Заан"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"Наймаалж"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"Мушгиа дун"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"Цох"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"Шоргоолж"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"Зөгий"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"Алтан тэмээ"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"Загас"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"Халуун орны загас"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"Нохой загас"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"Яст мэлхий"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"Ангаахай"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"Дэгдээхий"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"Урдаас харсан дэгдээхэй"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"Шувуу"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"Пенгвин"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"Коала"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"Пүүдл"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"Нэг бөхт тэмээ"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"Хоёр бөхт тэмээ"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"Делфин"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"Хулганы нүүр"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"Үнээний нүүр"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"Барын нүүр"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"Молтогчны нүүр"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"Муурны нүүр"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"Лууны нүүр"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"Ус оргилуулах халим"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"Морины нүүр"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"Сармагчны нүүр"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"Нохойны нүүр"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"Гахайн нүүр"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"Мэлхийн нүүр"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"Хамстерийн нүүр"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"Чонын нүүр"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"Баавгайн нүүр"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"Пандагийн нүүр"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"Гахайн хамар"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"Саврын мөр"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"Нүд"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"Чих"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"Хамар"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"Ам"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"Хэл"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"Цагаан дээр дээш заасан долоовор"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"Цагаан дээр доош заасан долоовор"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"Цагаан дээр зүүн заасан долоовор"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"Цагаан дээр баруун заасан долоовор"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"Зангидсан гарын тэмдэг"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"Даллах гарын тэмдэг"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"Ok гарын тэмдэг"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"Эрхий дээш тэмдэг"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"Эрхий доош тэмдэг"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"Алга ташсан тэмдэг"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"Нээлттэй гарын тэмдэг"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"Титэм"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"Эмэгтэй малгай"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"Нүдний шил"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"Зангиа"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"Футболк"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"Жинс"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"Даашинз"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"Кимоно"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"Бикини"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"Эмэгтэй хувцас"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"Цүнх"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"Гар цүнх"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"Даалин"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"Эрэгтэй гутал"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"Биеийн тамирын гутал"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"Өндөр өсгийт"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"Эмэгтэй сандаал"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"Эмэгтэй түрийтэй гутал"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"Хөлийн мөр"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"Сүүдрэн хүн"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"Сүүдрэн хүмүүс"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"Хөвгүүн"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"Охин"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"Эр хүн"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"Эм хүн"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"Гэр бүл"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"Гар хөтлөлцсөн эр, эм"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"Гар хөтлөлцсөн хоёр эр"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"Гар хөтлөлцсөн хоёр эм"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"Цагдаа"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"Бөжин ээмэгтэй эмэгтэй"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"Хуримын нөмрөгтэй бүсгүй"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"Шаргал үст"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"Тоорцогтой эр"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"Турбантай эр"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"Настай эр"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"Настай эм"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"Хүүхэд"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"Барилгын ажилчин"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"Гүнж"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"Японы мангас"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Японы чөтгөр"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"Сүнс"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"Хүүхдийн элч тэнгэр"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"Харь гаригийн хүн"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"Харь гаригийн мангас"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Бяцхан чөтгөр"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"Гавал"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"Мэдээллийн ажилтан"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"Харуул"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"Бүжигчин"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"Уруулын будаг"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"Хумсны будаг"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"Нүүрний массаж"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"Үс засалт"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"Үсчний реклам"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"Тариур"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"Эм"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"Үнсэлтийн мөр"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"Хайрын захиа"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"Бөгж"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"Эрдэнийн чулуу"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"Үнсэлт"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"Цэцгийн баглаа"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"Зүрхтэй хосууд"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"Хурим"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"Цохилох зүрх"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"Урагдсан зүрх"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"Хоёр зүрх"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"Оргилуун зүрх"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"Томрох зүрх"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"Сумтай зүрх"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"Цэнхэр зүрх"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"Ногоон зүрх"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"Шар зүрх"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"Нил ягаан өнгийн зүрх"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"Туузтай зүрх"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"Эргэлдэх зүрх"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"Зүрхний чимэглэл"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"Цэгтэй даймонд"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"Цахилгаан чийдэнгийн шил"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"Уурлах тэмдэг"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"Бөмбөг"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"Унтах тэмдэг"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"Мөргөлдөх тэмдэг"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"Цацрах хөлсний тэмдэг"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"Дусал"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"Налуу тэмдэг"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"Овоолсон баас"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"Булчинтай гар"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"Нойрмог тэмдэг"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"Үг хэлэх бөмбөлөг"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"Бодлын бөмбөг"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"Цагаан цэцэг"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"Зуун оноо тэмдэг"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"Мөнгөний уут"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"Валютын арилжаа"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"Хүнд долларын тэмдэг"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"Кредит карт"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"Иен тэмдэгтэй дэвсгэрт"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"Долларын тэмдэгт"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"Евро тэмдэгтэй дэвсгэрт"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"Фунт тэмдэгтэй дэвсгэрт"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"Далавчтай мөнгө"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"Иен тэмдэгтэй дээш чиглэсэн граф"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"Суудал"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"Хувийн компьютер"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"Чемодан"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"Минидиск"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"Уян диск"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"Оптик диск"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"Dvd"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"Файлын хавтас"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"Нээлттэй файлын хавтас"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"Хуйларсан хуудас"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"Дээшээ харсан хуудас"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"Календарь"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"Урагдсан календарь"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"Картын индекс"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"Дээш чиглэсэн граф"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"Доош чиглэсэн граф"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"Хөндөл граф"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"Түр санах ой"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"Цаас хатгагч"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"Цаас хатгагч"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"Цаасны клип"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"Шулуун шугам"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"Гурвалжин шугам"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"Хавчуургын таб"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"Булшны чулуу"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"Тэмдэглэлийн дэвтэр"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"Гоёлтой тэмдэглэлийн дэвтэр"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"Хаалттай ном"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"Нээлттэй ном"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"Ногоон ном"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"Цэнхэр ном"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"Улбар шар өнгийн хавтастай ном"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"Ном"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"Нэрний тэмдэг"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"Гүйлгэх"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"Мемо"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"Утас хүлээн авагч"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"Пэйжер"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"Факс машин"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"Хиймэл дагуулын антенн"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"Нийтэд зарлах чанга яригч"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"Хөгжөөн дэмжлэгийн мегафон"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Явсан бичгийн тавиур"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"Ирсэн бичгийн тавиур"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"Багц"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"И-мэйл тэмдэг"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"Ирж буй дугтуй"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"Доош сумтай дугтуй"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"Доошлуулсан тугтай шуудангийн хайрцаг"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"Босгосон тугтай хаагдсан шуудангийн хайрцаг"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"Босгосон тугтай нээлттэй шуудангийн хайрцаг"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"Доошлуулсан тугтай нээлттэй шуудангийн хайрцаг"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"Шуудангийн хайрцаг"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"Шуудангийн бүрээ"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"Сонин"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"Гар утас"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"Зүүн талдаа баруун заасан сумтай гар утас"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"Чичирхийллийн горим"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"Гар утас унтраах"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"Гар утас болохгүй"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"Хөндөлтэй антенн"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"Камер"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"Видео камер"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"Телевиз"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"Радио"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"Видео кассет"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"Мушгирсан баруун сум"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"Зөв баруун, зүүн эргэсэн дугуй сум"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"зөв баруун, зүүн эргэсэн дугуй сум"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"Зөв доош, дээш эргэсэн дугуй сум"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"Буруу доош, дээш эргэсэн дугуй сум"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"Бага гэрэлтүүлэгтэй тэмдэг"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"Их гэрэлтүүлэгтэй тэмдэг"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"Дарсан зураастай чанга яригч"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"Чанга яригч"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"Нэг дууны долгиотой чанга яригч"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"Гурван дууны долгиотой чанга яригч"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"Батерей"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"Цахилгаан залгуур"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"Зүүн-заасан томруулагч шил"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"Баруун-заасан томруулагч шил"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"Бэхэн үзэгтэй түгжээ"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"Түлхүүртэй цоожлогдсон цоож"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"Түлхүүр"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"Түгжих"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"Нээлттэй цоож"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"Хонх"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"Дарсан зураастай хонх"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"Хавчуурга"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"Холбоосын тэмдэг"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"Радио товч"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"Дээрээ сумтай буцах тэмдэг"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"Дээрээ сумтай төгсгөл"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"Дээрээ зүүн сумтай анхаарлын тэмдэг"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Дээрээ баруун сумтай удахгүй"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Дээрээ дээш сумтай дээр"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"Арван наймаас бага хүн байхгүй тэмдэг"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"Аравтын товчлуур"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"Латин том үсэгтэй оруулах симбол"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"Латин жижиг үсэгтэй оруулах симбол"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"Тоо оруулах тэмдэг"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"Символ оруулах тэмдэг"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"Латин үсэгтэй оруулах тэмдэг"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"Гал"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"Цахилгаан бамбар"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"Түлхүүр"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"Алх"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"Эрэг, боолт"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"Хутга"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"Гар буу"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"Микроскоф"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"Телескоф"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"Кристал бөмбөг"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"Цэгтэй зургаан хошуут"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"Эхлэн сурагчийн Япон тэмдэг"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"Сэрээний эмблем"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"Хар дөрвөлжин товч"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"Цагаан дөрвөлжин товч"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"Том улаан дугуй"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"Том цэнхэр тойрог"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"Том улбар шар даймонд"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"Том цэнхэр даймонд"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"Жижиг улбар шар даймонд"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"Жижиг цэнхэр даймонд"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"Дээш заасан улаан гурвалжин"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"Доош заасан улаан гурвалжин"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"Дээш заасан жижиг улаан гурвалжин"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"Доош заасан жижиг улаан гурвалжин"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"Цаг нэг цагийг заасан"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"Цаг хоёр цагийг заасан"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"Цаг гурван цагийг заасан"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"Цаг дөрвөн цагийг заасан"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"Цаг таван цагийг заасан"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"Цаг зургаан цагийг заасан"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"Цаг долоон цагийг заасан"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"Цаг найман цагийг заасан"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"Цаг есөн цагийг заасан"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"Цаг арван цагийг заасан"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"Цаг арван нэгийг заасан"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"Цаг арван хоёрыг заасан"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"Цаг нэг гучийг заасан"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"Цаг хоёр гучийг заасан"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"Цаг гурав гучийг заасан"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"Цаг дөрөв гучийг заасан"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"Цаг тав гучийг заасан"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"Цаг зургаа гучийг заасан"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"Цаг долоо гучийг заасан"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"Цаг найм гучийг заасан"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"Цаг ес гучийг заасан"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"Цаг арав гучийг заасан"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"Цаг арван нэг гучийг заасан"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"Цаг арван хоёр гучийг заасан"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"Фүжи уул"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"Токио цамхаг"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"Эрх чөлөөний хөшөө"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"Японы сүүдэр"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"Мояай"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"Жуумалзсан царай"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"Инээсэн нүдтэй жуумалзсан царай"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"Баярын нулимстай царай"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"Амаа ангайж инээмсэглэсэн царай"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"Амаа ангайж инээсэн нүдтэй царай"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"Амаа ангайж хүйтэн хөлстэй инээсэн царай"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"Амаа ангайж онийсон нүдтэй инээсэн царай"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"Хүрээтэй инээсэн царай"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"Эвэртэй инээсэн царай"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"Ирмэсэн царай"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"Инээсэн нүдтэй инээсэн царай"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"Амттай хоол тамшаалсан царай"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"Тайвширсан царай"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"Зүрхэн нүдтэй инээсэн царай"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"Нарны шилтэй инээсэн царай"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"Мишээсэн царай"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"Төв царай"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"Хувиралгүй царай"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"Гайхашраагүй царай"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"Хүйтэн хөлстэй царай"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"Бодлогоширсон царай"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"Гайхсан царай"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"Сандарсан царай"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"Үнсэлттэй царай"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"Үнсэлт илгээх царай"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"Инээсэн нүдтэй үнсэлт илгээх царай"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"Аньсан нүдтэй үнсэлт илгээх царай"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"Хэлээ цухуйлгасан царай"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"Нүдээ ирмэж хэлээ цухуйлгасан царай"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"Онийсон нүдтэй хэлээ цухуйлгасан царай"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"Сэтгэл дундуур царай"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"Санаа нь зовсон царай"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"Ууртай царай"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"Дорвогор царай"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"Уйлсан царай"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"Тэвчсэн царай"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"Ялгуусан царай"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"Сэтгэл дундуур ч тайван царай"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"Амаа ангайж барайсан царай"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"Шаналсан царай"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"Айсан царай"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"Ядарсан царай"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"Нойрмог царай"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"Ядарсан царай"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"Ярвайсан царай"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"Чанга уйлсан царай"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"Амаа ангайсан царай"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"Чимээгүй гэсэн царай"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"Амаа ангайсан хүйтэн хөлстэй царай"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"Айж хашгирсан царай"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"Гайхширсан царай"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"Уурссан царай"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"Унтсан царай"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"Дуниартсан царай"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"Амгүй царай"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"Эмнэлгийн масктай царай"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"Инээсэн нүдтэй жуумалзсан муурын царай"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"Баярын нулимстай муурын царай"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"Амаа ангайж инээмсэглэсэн муурын царай"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"Зүрхэн нүдтэй инээсэн муурын царай"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"Муруй инээсэн муурын царай"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"Аньсан нүдтэй үнсэлт илгээх муурын царай"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"Дорвогор муурын царай"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"Уйлсан муурын царай"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"Ядарсан муурын царай"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"Муу гэсэн зангаатай царай"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"Сайн гэсэн зангаатай царай"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"Мэхийн ёсолсон хүн"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"Мууг харахгүй сармагчин"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"Мууг сонсохгүй сармагчин"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"Мууг ярихгүй сармагчин"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"Нэг гараа өргөсөн жаргалтай хүн"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"Баярлаж гараа өргөсөн хүн"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"Барайсан хүн"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"Дорвогор царайтай хүн"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"Цээжээ тэвэрсэн хүн"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"Пуужин"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"Нисдэг тэрэг"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"Уур зүтгүүр"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"Төмөр замын вагон"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"Хурдан галт тэрэг"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"Суман хурдан галт тэрэг"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"Галт тэрэг"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"Метро"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"Хөнгөн төмөр зам"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"Буудал"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"Трамвай"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"Трамвай вагон"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"Автобус"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"Ирж буй автобус"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"Тролейбус"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"Автобусны зогсоол"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"Минибус"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"Түргэн тусламж"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"Галын машин"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"Цагдаагийн машин"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"Ирж буй цагдаагийн машин"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"Такси"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"Ирж буй такси"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"Автомашин"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"Ирж автомашин"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"Амралтын машин"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"Хүргэлтийн ачааны машин"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"Цуваа тэргэнцэр"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"Трактор"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"Moнорейл"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"Уулын төмөр зам"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"Дүүжин төмөр зам"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"Уулын кабль зам"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"Агаарын трамвай"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"Усан онгоц"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"Роу завь"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"Хурдны завь"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"Хэвтээ замын дохио"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"Босоо замын дохио"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"Барилгын тэмдэг"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"Цагдаагийн машины эргэлдэх дохио"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"Шуудан гурвалжин туг"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"Хаалга"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"Орохыг хориглосон тэмдэг"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"Тамхи татах тэмдэг"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"Тамхи хориглосон тэмдэг"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"Хогийг саванд нь хаях тэмдэг"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"Хог хаяхгүй тэмдэг"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"Ундны усны тэмдэг"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"Ундны бус усны тэмдэг"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"Дугуй"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"Унадаг дугуй болохгүй"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"Унадаг дугуйч"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"Уулын унадаг дугуйч"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"Явган зорчигч"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"Явган зорчигч болохгүй"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"Хүүхдийн гарц"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"Эрэгтэйчүүдийн тэмдэг"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"Эмэгтэйчүүдийн тэмдэг"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"Ариун цэврийн өрөө"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"Хүүхдийн тэмдэг"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"Бие засах газар"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"Усны сав"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"Шүршүүр"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"Ванн"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"Ванн"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"Паспорт хяналт"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"Гааль"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"Ачаа авах"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"Орхисон ачаа"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"Давхар анхаарлын тэмдэг"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"Анхаарал, асуултын тэмдэг"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"Худалдааны тэмдэг"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"Мэдээллийн эх сурвалж"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"Зүүн баруун сум"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"Дээш доош сум"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"Баруун хойд сум"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"Зүүн хойд сум"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"Зүүн өмнөд сум"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"Баруун өмнөд сум"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"Зүүн дэгээтэй сум"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"Баруун дэгээтэй сум"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"Үзэх"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"Элсэн цаг"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"Баруун заасан хар давхар гурвалжин"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"Зүүн заасан хар давхар гурвалжин"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"Дээш заасан хар давхар гурвалжин"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"Доош заасан хар давхар гурвалжин"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"Сэрүүлэгтэй цаг"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"Урссан элсэн цаг"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"Дугуйлсан латин том m үсэг"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"Хар жижиг дөрвөлжин"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"Цагаан жижиг дөрвөлжин"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"Баруун заасан хар гурвалжин"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"Зүүн заасан хар гурвалжин"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"Цагаан дунд дөрвөлжин"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"Хар дунд дөрвөлжин"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"Цагаан дунд жижиг дөрвөлжин"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"Хар дунд жижиг дөрвөлжин"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"Цацрагтай хар нар"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"Үүл"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"Хар утас"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"Чектэй саналын хайрцаг"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"Борооны дусалтай шүхэр"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"Халуун ундаа"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"Цагаан дээш заасан долоовор"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"Цагаан инээмсэглэсэн царай"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"Хонины орд"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"Үхрийн орд"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"Ихрийн орд"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"Хавчийн орд"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"Арслангийн орд"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"Охины орд"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"Жинлүүрийн орд"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"Хилэнцийн орд"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"Нумын орд"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"Матрын орд"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Бумбын орд"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"Загасны орд"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"Хар гил хөзөр"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"Хар цэцэг хөзөр"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"Хар бундан хөзөр"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"Хар дөрвөлжин хөзөр"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Халуун рашаан"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"Хар дахин боловсруулах тэмдэг"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"Тэргэнцэрийн тэмдэг"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"Зангуу"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"Сануулга тэмдэг"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"Өндөр хүчдэлийн тэмдэг"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"Дунд зэргийн цагаан тойрог"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"Дунд зэргийн хар тойрог"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"Хөлбөмбөгийн бөмбөг"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"Бейсбол"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"Цасгүй цасан хүн"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"Үүлний цаадах нар"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"Тэнгэрийн мөрөн орд"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"Орохыг хориглоно"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"Сүм"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"Усан оргилуур"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"Нүхэндэх туг"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"Далбаат завь"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"Майхан"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"Түлшний насос"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"Хар хайч"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"Цагаан хүнд чек тэмдэг"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"Онгоц"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"Дугтуй"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"Өргөсөн нударга"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"Өргөсөн гар"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"Ялалтын гар"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"Харандаа"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"Хар хошуу"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"Хүнд чек тэмдэг"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"Хүнд үржүүлэх х"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"Цацраг"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"Найман үзүүрт од"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"Найман үзүүртэй хар од"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"Цасан ширхэг"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"Цацраг"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"Загалмайн тэмдэг"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"Сөрөг квадрат дарах тэмдэг"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"Хар асуултын тэмдэгэн чимэглэл"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"Цагаан асуултын тэмдэгэн чимэглэл"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"Цагаан анхаарлын тэмдэгэн чимэглэл"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"Хүнд анхаарлын тэмдэгэн симбол"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"Хүнд хар зүрх"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"Хүнд нэмэх тэмдэг"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"Хүнд хасах тэмдэг"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"Хүнд хуваах тэмдэг"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"Хар баруун сум"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"Нуман гогцоо"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"Давхар нуман гогцоо"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"Баруун зааж дээш эргэсэн сум"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"Баруун зааж доош эргэсэн сум"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"Зүүн заасан хар сум"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"Дээш заасан хар сум"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"Доош заасан хар сум"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"Хар том дөрвөлжин"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"Цагаан том дөрвөлжин"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"Цагаан дунд од"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"Хүнд том тойрог"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"Долгионт зураас"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"Хэсэг шилжих тэмдэг"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"Дугуй идеограф баяр хүргэлт"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"Дугуй идеограф нууц"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"Үл мэдэгдэх эможи"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"Уйтгартай царай"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"Ичсэн царай"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"Үнсэж буй царай"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"Хөмсөг зангидсан царай"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"Гайхсан царай"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"Нарны шил зүүсэн царай"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"Зөвлөмж байхгүй"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"Том I"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"Том I, дээрээ цэгтэй"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"Текст оруулаагүй"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"Бусад тэмдэгтүүд ашиглах боломжтой"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"Бусад санал болголтууд ашиглах боломжтой"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"Урвуу анхаарлын тэмдэг"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"Зүүн заасан давхар хашилт"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"Дунд цэг"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Мөрний дээрх нэг"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"Баруун заасан давхар хашилт"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"Урвуу асуултын тэмдэг"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"Зүүн дан хашилт"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"Баруун дан хашилт"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Дан доогуур-9 хашилт"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"Зүүн давхар хашилт"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"Баруун давхар хашилт"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Чинжаал"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Давхар чинжаал"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Нэг мильд тэмдэг"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Штрих"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Давхар штрих"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"Зүүн заасан дан хашилт"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"Баруун заасан дан хашилт"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Мөрний дээрх дөрөв"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Мөрний дээрх жижиг латин n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Песо тэмдэг"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"Анхааралд"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"Баруун сум"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Доош сум"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"Хоосон олонлог"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Өсөлт"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"Бага буюу тэнцүү"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"Их буюу тэнцүү"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"Хар од"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"Үл мэдэгдэх симбол"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"Нууц үгний дуудлагыг сонсох бол чихэвчийг залгана уу."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Инээмсэглэл"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"Англи (ИБ)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"Англи (АНУ)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"Испани (АНУ)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (Компакт)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (уламжлалт)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"Хинглиш"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"Хэл"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"Хэл байхгүй (Цагаан толгой)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"Цагаан толгой (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"Цагаан толгой (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"Цагаан толгой (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"Цагаан толгой (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"Цагаан толгой (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"Цагаан толгой (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"Серьби хэл (латин)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"Англи (ИБ) ( <ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g> )"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"Англи (АНУ) ( <ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g> )"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"Испани (АНУ-ын) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"Хинглиш (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"Серьби хэл (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"Акаунт сэлгэх"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"Одоо синк хийх"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"<ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>-д зориулсан татан авалтын санал болголтууд удахгүй бэлэн болно."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"Харилцагчдын нэрс санал болгох"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"Санал болгох, залруулахда Харилцагчдын нэрсээс ашиглах"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"Алдаа шалгагч нь таны харилцагчдын жагсаалтаас ашиглана"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"Харилцагчийн нэр хайх"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"Давхар зайтай цэг"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"Ардаа зайтай цэг оруулахын тулд Зай авах дээр давхар товшино уу"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"Хувийн тохиргоотой зөвлөмжүүд"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"Зөвлөмжүүдийг сайжруулахын тулд таны харилцсан, бичсэн зүйлсээс суралцана"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"Тийм"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"Цөөн сонголт"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"Нэмэлт сонголтууд"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"Толь бичигт нэмэх"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"Хэл:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"Нэмэх"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"Хэллэг"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"Зайлшгүй биш товчилбор"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"Товчилбор:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"Үг оруулна уу"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"Үг:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"Бүх хэлэнд"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"Устгах"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"Засах"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"Устгах"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"Үг засах"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"Таны хэрэглэгчийн толинд ямар ч үг алга байна. Нэмэх (+) товчинд хүрэн үг нэмнэ үү."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"Өөр хэлүүд…"</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"Хэрэглэгчийн толь бичиг"</string>
+    <string msgid="2715354215568469385" name="version_text">"Хувилбар <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Товч дарахад чичрэх"</string>
+    <string msgid="3583258583521397548" name="voice_input">"Дуун оруулгын товч"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"Ямар ч дуу оруулах хэрэглүүр идэвхжээгүй байна. Хэл болон оруулалтын тохиргоог шалгана уу."</string>
+</resources>

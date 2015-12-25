@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="InputView.LXX" parent="InputView">
+        <item name="android:elevation">8dp</item>
+    </style>
+    <style name="platformActivityTheme" parent="@android:style/Theme.DeviceDefault.Light"/>
+    <style name="platformDialogTheme" parent="@android:style/Theme.DeviceDefault.Light.Dialog"/>
+    <style name="platformSettingsTheme" parent="@android:style/Theme.DeviceDefault.Settings"/>
+</resources>

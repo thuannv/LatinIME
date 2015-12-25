@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g>ms"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"Batal"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"OK"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"Log keluar"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"Pilih akaun untuk digunakan"</string>
+    <string msgid="2846876462199625974" name="account_selected">"Pada masa ini menggunakan <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"Tambah"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"Sila tambahkan akaun Google pada peranti ini untuk mendayakan ciri ini"</string>
+    <string msgid="6163126614514489951" name="add_style">"Tambah gaya"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Tetapan Penyemak Ejaan Android (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"Papan kekunci tersembunyi"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"Menunjukkan papan kekunci <ns1:g id="KEYBOARD_MODE">%s</ns1:g>"</string>
+    <string msgid="6320102637491234792" name="app_name">"Pembekal Kamus"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Autopenghurufbesaran"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"Besarkan perkataan pertama setiap ayat"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"Auto pembetulan"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"Bar ruang dan tanda baca secara automatik membetulkan perkataan yang ditaip salah"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"Agresif"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"Sederhana"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"Dimati"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"Sangat agresif"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"Cadangan perkataan seterusnya"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"Gunakan perkataan sebelumnya dalam membuat cadangan"</string>
+    <string msgid="3988017840431881491" name="button_default">"Lalai"</string>
+    <string msgid="6830980399865683324" name="cancel">"Batal"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"Batal"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"Masalah menyambung kepada perkhidmatan kamus"</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"Muatkan semula"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"Data yang disegerakkan akan dipadamkan daripada awan. Anda pasti?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"Padam"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Memadam data disegerak anda dari Google"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"Padamkan data awan"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"Batal"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"Kamus peribadi anda akan disegerakkan dan disandarkan ke pelayan Google. Maklumat statistik kekerapan perkataan mungkin dikumpulkan untuk membantu mempertingkatkan produk kami. Pengumpulan dan penggunaan semua maklumat adalah selaras dengan "<a href="https://www.google.com/policies/privacy">"Dasar Privasi Google"</a>"."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"Penyegerakan dihidupkan"</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"Segerakkan kamus peribadi anda merentas peranti"</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"Segerak tidak tersedia untuk peranti dengan akaun Google Apps untuk Perniagaan"</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Penyegerakan Papan Kekunci Google"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"Kamus tambahan"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"Konfigurasikan kaedah input"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"The same input style already exists: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"Gaya input tersuai anda perlu didayakan sebelum anda mula menggunakannya. Adakah anda ingin mendayakannya sekarang?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"Gaya input peribadi"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"Kamus pengguna"</string>
+    <string msgid="756853268088330054" name="delete_dict">"Padam"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"Tekan untuk mengulas dan memuat turun"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"Kamus tersedia untuk <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"Kamus tersedia"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"Dipasang, dilumpuhkan"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"Sedang memuat turun"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"Kamus tersedia"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"Dipasang"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"Pembekal Kamus"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"Perkhidmatan Kamus"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"Tetapan untuk kamus"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"Kamus tambahan"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Muat turun melalui Wi-Fi"</string>
+    <string msgid="6014835283119198591" name="download_description">"Maklumat kemas kini kamus"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"Muat turun sekarang (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g>MB)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"Kamus peribadi"</string>
+    <string msgid="5031294444630523247" name="enable">"Dayakan"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"Perbaik <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"Dayakan papan kekunci terpisah"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Pilihan input"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Papan Kekunci Android (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Tetapan Papan Kekunci Android (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"Pratonton terapung dinamik"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"Lihat perkataan yang dicadangkan semasa membuat gerak isyarat"</string>
+    <string msgid="826951152254563827" name="gesture_input">"Dayakan taipan gerak isyarat"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"Input perkataan dengan meluncur melalui huruf"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"Tunjukkan jejak gerak isyarat"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"Gerak isyarat frasa"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"Luncur ke kekunci ruang untuk masukkan ruang semasa gerak isyarat"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"Tetapan"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Kamus tersedia"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"Bantuan &amp; m/balas"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"Sentuh lagi untuk menyimpan"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"Sentuh di sini untuk menyimpan"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"Tukar ke kaedah input lain"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"Kunci pertukaran bahasa meliputi kaedah masukan lain juga"</string>
+    <string msgid="180852772562189365" name="install_dict">"Pasang"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"Lalai"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"Pop tmbl knci ketpkn lengah"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"Tiada kelewatan"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"Tema papan kekunci"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"Reka letak"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"tarikh"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"tarikh dan masa"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"e-mel"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"pemesejan"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"nombor"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"telefon"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"teks"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"masa"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"Tema papan kekunci"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"Siap"</string>
+    <string msgid="4033615332628671065" name="label_go_key">"Pergi"</string>
+    <string msgid="5586407279258592635" name="label_next_key">"Slps"</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"Jeda"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"Sblm"</string>
+    <string msgid="7965186050435796642" name="label_search_key">"Carian"</string>
+    <string msgid="482252074224462163" name="label_send_key">"Hntr"</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"Tggu"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"Bahasa"</string>
+    <string msgid="730467549913588780" name="last_update">"Kali terakhir dikemas kini"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"Kamus utama"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"Kamus utama"</string>
+    <string msgid="5638680861387748936" name="message_loading">"Memuatkan…"</string>
+    <string msgid="4457761393932375219" name="message_updating">"Menyemak kemas kini"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"Tiada akaun dipilih"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"Tiada kamus tersedia"</string>
+    <string msgid="6172462888202790482" name="not_now">"Bukan sekarang"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Pop timbul pada tekanan kunci"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"Jangan cadangkan perkataan yang boleh menyinggung"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"Sekat perkataan yg menyinggung"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"Emoji untuk papan kekunci fizikal"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"Kekunci Alt fizikal menunjukkan palet emoji"</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"Lengah tekan lama kekunci"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"Kelantangan bunyi tekan kekunci"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"Tempoh getaran tekan kekunci"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"Tunjukkan cadangan pembetulan"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"Paparkan cadangan perkataan semasa menaip"</string>
+    <string msgid="4486081658752944606" name="remove">"Alih Keluar"</string>
+    <string msgid="7646738597196767214" name="save">"Simpan"</string>
+    <string msgid="5709487854987078367" name="select_language">"Bahasa"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"Akaun &amp; Privasi"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"Lanjutan"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"Penampilan &amp; Bentangan"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"Pembetulan teks"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"Taipan Gerak Isyarat"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"Pilihan"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"Tema"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"Tetapan asal sistem"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"Selesai"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"Langkah seterusnya"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"Bermula"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"Dayakan dalam Tetapan"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> sudah didayakan dalam tetapan Bahasa &amp; input anda, jadi langkah ini telah selesai. Beralih ke langkah seterusnya!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"Sila semak \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" dlm ttpn Bhs &amp; input. Ini mbnarkn apl djlnkn pd pranti anda."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"Dayakan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"Tukar kaedah input"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"Seterusnya, pilih \"<ns1:g id="APPLICATION_NAME">%s</ns1:g>\" sebagai kaedah input teks aktif anda."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"Beralih ke <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"Konfigurasikan bahasa tambahan"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"Kini anda boleh menaip dalam semua apl kegemaran anda dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"Tahniah, anda sudah sedia!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"Menyediakan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"dengan Taipan Gerak Isyarat"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"Selamat datang ke <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"Bahasa pilihan pada peranti mudah alih anda sudah mempunyai kamus yang tersedia.&lt;br/> Kami mengesyorkan &lt;b>memuat turun&lt;/b> kamus <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> untuk memperbaik pengalaman menaip anda.&lt;br/> &lt;br/> Muat turun boleh mengambil masa satu atau dua minit melalui 3G. Caj mungkin dikenakan jika anda tidak mempunyai &lt;b>pelan data tanpa had&lt;/b>.&lt;br/> Jika anda tidak pasti jenis pelan data yang anda gunakan, kami mengesyorkan agar anda mencari sambungan Wi-Fi untuk mula memuat turun secara automatik.&lt;br/> &lt;br/> Petua: Anda boleh memuat turun dan mengalih keluar kamus dengan pergi ke menu &lt;b>Bahasa&amp; input&lt;/b> dalam &lt;b>Tetapan&lt;/b> peranti mudah alih anda."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"Kekunci tukar bahasa"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"Tunjukkan apabila berbilang bahasa input didayakan"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"Tunjukkan ikon apl"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"Paparkan ikon apl dalam pelancar"</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Bunyi pada tekanan kekunci"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Penyemak Ejaan Android (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"Penunjuk ordinal feminin"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"Tanda mikro"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"Penunjuk ordinal maskulin"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"S tajam"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A, grava"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A, akut"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A, sirkumfleks"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A, tilde"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A, diaresis"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A, gelung di atas"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"A, E, huruf kembar"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C, sedila"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E, grava"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E, akut"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E, sirkumfleks"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E, diaresis"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I, grava"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I, akut"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I, sirkumfleks"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I, diaresis"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Eth"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N, tilde"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O, grava"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O, akut"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O, sirkumfleks"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O, tilde"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O, diaresis"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O, strok"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U, grava"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U, akut"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U, sirkumfleks"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U, diaresis"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y, akut"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Thorn"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y, diaresis"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A, makron"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A, brif"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A, ogonek"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C, akut"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C, sirkumfleks"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C, titik di atas"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C, caron"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D, caron"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D, strok"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E, makron"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E, brif"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E, titik di atas"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E, ogonek"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E, caron"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G, sirkumfleks"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G, brif"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G, titik di atas"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G, sedila"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H, sirkumfleks"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H, strok"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I, tilde"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I, makron"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I, brif"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I, ogonek"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"I tanpa titik"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"I, J, huruf kembar"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J, sirkumfleks"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K, sedila"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Kra"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L, akut"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L, sedila"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L, caron"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L, titik tengah"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L, strok"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N, akut"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N, sedila"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N, caron"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N, didahului oleh koma terbalik"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Eng"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O, makron"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O, brif"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O, akut berganda"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"O, E, huruf kembar"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R, akut"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R, sedila"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R, caron"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S, akut"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S, sirkumfleks"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S, sedila"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S, caron"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T, sedila"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T, caron"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T, strok"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U, tilde"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U, makron"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U, brif"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U, gelung di atas"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U, akut berkembar"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U, ogonek"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W, sirkumfleks"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y, sirkumfleks"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z, akut"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z, titik di atas"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z, caron"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"S Panjang"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O, tanduk"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U, tanduk"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S, koma di bawah"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T, koma di bawah"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Schwa"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A, titik di bawah"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A, cangkuk di atas"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A, sirkumfleks dan akut"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A, sirkumfleks dan grava"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A, sirkumfleks dan cangkuk di atas"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A, sirkumfleks dan tilde"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A, sirkumfleks dan titik di bawah"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A, brif dan akut"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A, brif dan grava"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A, brif dan cangkuk di atas"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A, brif dan tilde"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A, brif dan titik di bawah"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E, titik di bawah"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E, cangkuk di atas"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E, tilde"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E, sirkumfleks dan akut"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E, sirkumfleks dan grava"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E, sirkumfleks dan cangkuk di atas"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E, sirkumfleks dan tilde"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E, sirkumfleks dan titik di bawah"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I, cangkuk di atas"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I, titik di bawah"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O, titik di bawah"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O, cangkuk di atas"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O, sirkumfleks dan akut"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O, sirkumfleks dan grava"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O, sirkumfleks dan cangkuk di atas"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O, sirkumfleks dan tilde"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O, sirkumfleks dan titik di bawah"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O, tanduk dan akut"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O, tanduk dan grava"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O, tanduk dan cangkuk di atas"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O, tanduk dan tilde"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O, tanduk dan titik di bawah"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U, titik di bawah"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U, cangkuk di atas"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U, cangkuk dan akut"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U, tanduk dan grafa"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U, tanduk dan cangkuk di atas"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U, tanduk dan tilde"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U, tanduk dan titik di bawah"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y, grave"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y, titik di bawah"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y, titik di atas"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y, tilde"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g> membetulkan <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> menjadi <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> melakukan auto pembetulan"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"Aksara alternatif diketepikan"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"Cadangan alternatif diketepikan"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"Teks semasa adalah %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"Slps"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"Sebelumnya"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Shift"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"Padam"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"Titik"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"Emoji"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"Tukar bahasa"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"Input suara"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"Mod huruf"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"Mod telefon"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"Mod simbol telefon"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"Mod simbol"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"Lagi mod simbol"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Kembali"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"Carian"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"Tetapan"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Shift"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Shift"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Kunci huruf besar didayakan"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Kunci anjak didayakan"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"{0}&lt;td class=\"shortcuts\">{/0} Space"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"Lagi simbol"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"Simbol"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Tab"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"Huruf"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"Nombor"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"Simbol"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"Aksara yang tidak diketahui"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"Huruf besar <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"Emotikon"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"Alam Semula Jadi"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"Objek"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"Orang"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"Tempat"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"Terkini"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"Simbol"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"Tanda hak cipta"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"Tanda berdaftar"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"Naga merah jubin mahjong"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"Joker hitam daun terup"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"Jenis darah A"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"Jenis darah B"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"Jenis darah O"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"Tempat letak kereta"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"Jenis darah AB"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"CL empat segi"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"Tenang empat segi"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"Percuma empat segi"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"ID empat segi"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"Baharu empat segi"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"NG empat segi"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"OK empat segi"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"SOS empat segi"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"Naik dengan tanda seruan empat segi"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"Lawan empat segi"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"Katakana di sini empat segi"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"Perkhidmatan katakana empat segi"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"Ideograf percuma empat segi"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"Ideograf tempat duduk yang ditempah empat segi"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"Ideograf larangan empat segi"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"Ideograf jawatan kosong empat segi"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"Ideograf penerimaan empat segi"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"Ideograf penuh empat segi"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Ideograf dibayar empat segi"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"Ideograf bulanan empat segi"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"Ideograf permohonan empat segi"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"Ideograf diskaun empat segi"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"Ideograf perniagaan dibuka empat segi"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"Ideograf kelebihan bulat"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"Ideograf terima bulat"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"Puting beliung"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"Berkabut"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"Payung tertutup"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"Malam dengan bintang"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"Matahari terbit di atas gunung"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"Sunrise"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"Skap bandar raya waktu senja"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"Matahari terbenam di atas bangunan"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"Pelangi"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"Jambatan pada waktu malam"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"Gelombang air"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"Gunung Berapi"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"Bima sakti"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"Glob bumi eropah-afrika"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"Glob bumi amerika"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"Glob bumi asia-australia"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"Glob dengan meridian"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"Simbol bulan baharu"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"Simbol bulan sabit mengambang"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"Simbol bulan suku pertama"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"Simbol bulan hampir purnama mengambang"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"Simbol bulan purnama"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"Simbol bulan hampir purnama surut"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"Simbol bulan suku akhir"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"Simbol bulan sabit surut"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"Bulan sabit"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"Bulan baharu dengan muka"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"Bulan suku pertama dengan muka"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"Bulan suku akhir dengan muka"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"Bulan purnama dengan muka"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"Matahari dengan muka"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"Bintang bersinar"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"Tahi bintang"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"Buah berangan"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"Anak benih"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"Pokok malar hijau"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"Pokok daun luruh"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"Pokok palma"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"Kaktus"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"Tulip"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"Bunga sakura"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"Ros"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"Bunga raya"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"Bunga matahari"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"Bunga"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"Tongkol jagung"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"Pokok padi"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"Herba"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"Empat daun semanggi"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"Daun mapel"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"Daun gugur"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"Daun ditiup angin"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"Cendawan"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"Tomato"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"Terung"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"Anggur"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"Tembikai"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"Tembikai"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"Oren Tangerin"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"Lemon"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"Kuning Pisang"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"Nanas"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"Epal merah"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"Epal hijau"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"Pear"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"Pic"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"Ceri"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"Strawberi"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"Hamburger"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"Sepotong piza"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"Daging pada tulang"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"Kaki ayam"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"Keropok beras"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"Bebola beras"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"Nasi"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"Kari dan nasi"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"Mangkuk mengukus"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"Spageti"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"Roti"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"Kentang goreng"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"Ubi keledek panggang"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"Dango"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"Oden"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"Sushi"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"Udang goreng"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"Kek ikan dengan corak pusaran"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"Aiskrim lembut"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"Ais kisar"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"Aiskrim"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"Donat"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"Biskut"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"Bar coklat"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"Kandi"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Lolipop"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"Kastad"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"Bekas madu"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"Kek rapuh"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"Kotak Bento"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"Seperiuk makanan"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"Masakan"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"Garpu dan pisau"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"Cawan tanpa pemegang"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"Botol Sake dan cawan"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"Gelas wain"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"Gelas koktel"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"Minuman tropika"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"Kole bir"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"Kole bir dihantukkan"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"Botol bayi"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"Reben"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"Hadiah berbalut"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Kek hari lahir"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"Jack-o-lantern"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"Pokok Krismas"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"Santa Klaus"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"Bunga api"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"Bunga api berlian"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"Belon"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"Peletus konfeti"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"Bola Konfeti"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"Pokok Tanabata"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"Bendera berpalang"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"Hiasan pain"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"Anak patung Jepun"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"Ular-ular kap"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"Loceng angin"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"Majlis melihat bulan"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"Beg galas sekolah"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"Topi graduasi"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"Kuda karusel"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"Roda Ferris"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"Roller-coaster"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"Joran dan ikan"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"Mikrofon"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"Kamera filem"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"Pawagam"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"Fon kepala"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"Palet Artis"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"Topi"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"Khemas sarkas"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"Tiket"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"Papan ketap"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"Seni persembahan"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"Permainan video"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"Tepat pada sasaran"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"Mesin slot"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"Biliard"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"Dadu"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"Boling"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"Daun terup bunga"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"Nota muzik"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"Pelbagai nota muzik"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"Saksofon"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"Gitar"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"Papan nada muzik"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"Trompet"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"Biola"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"Skor muzik"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"Baju berlari dengan selempang"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"Raket dan bola tenis"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"Ski dan but ski"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"Bola keranjang dan gelung"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"Bendera kotak-kotak"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"Peluncur salji"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"Pelari"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"Peluncur"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"Trofi"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"Lumba kuda"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"Bola sepak Amerika"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"Bola sepak ragbi"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"Perenang"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"Bangunan rumah"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"Rumah dengan taman"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"Bangunan pejabat"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"Pejabat pos Jepun"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"Pejabat pos Eropah"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"Hospital"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"Bank"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"Mesin teler automatik"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"Hotel"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"Hotel cinta"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"Kedai serbaneka"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"Sekolah"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"Gedung beli-belah"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"Kilang"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"Tanglung izakaya"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"Istana Jepun"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"Istana Eropah"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"Tikus"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"Tikus"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"Lembu jantan"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"Kerbau"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"Lembu"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"Harimau Bintang"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"Arnab"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"Kucing"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"Naga"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"Buaya"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"Ikan paus"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"Siput"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"Ular"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"Kuda"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"Biri-biri jantan"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"Kambing"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"Biri-biri"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"Monyet"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"Ayam jantan"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"Ayam"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"Anjing"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"Babi"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"Babi hutan"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"Gajah"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"Kurita"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"Cengkerang berpusar"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"Pepijat"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"Semut"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"Lebah madu"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"Kumbang kura-kura"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"Ikan"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"Ikan tropika"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"Ikan buntal"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"Penyu"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"Anak ayam menetas"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"Anak ayam"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"Anak ayam menghadap depan"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"Burung"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"Penguin"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"Koala"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"Poodle"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"Unta dromedaris"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"Unta Bactrian"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"Dolfin"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"Muka tikus"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"Muka lembu"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"Muka harimau"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"Muka arnab"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"Muka kucing"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"Muka naga"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"Ikan paut memancutkan air"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"Muka kuda"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"Muka monyet"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"Muka anjing"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"Muka babi"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"Muka katak"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"Muka hamster"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"Muka serigala"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"Muka beruang"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"Muka panda"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"Hidung babi"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"Kesan tapak"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"Mata"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"Telinga"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"Hidung"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"Mulut"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"Lidah"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"Tangan putih menunjuk ke atas"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"Tangan putih menunjuk ke bawah"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"Tangan putih menunjuk ke kiri"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"Tangan putih menunjuk ke kanan"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"Isyarat enumbuk"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"Isyarat tangan melambai"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"Isyarat ok"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"Isyarat bagus"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"Isyarat tidak bagus"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"Isyarat bertepuk tangan"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"Isyarat tangan terbuka"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"Mahkota"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"Topi wanita"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"Cermin mata"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"Tali leher"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"Kemeja T"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"Jean"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"Gaun"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"Kimono"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"Bikini"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"Pakaian wanita"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"Beg duit"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"Beg tangan"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"Dompet"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"Kasut lelaki"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"Kasut sukan"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"Kasut tumit tinggi"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"Sandal wanita"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"But wanita"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"Tapak kaki"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"Bayang patung"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"Bayang patung"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"Budak lelaki"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"Budak perempuan"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"Lelaki"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"Wanita"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"Keluarga"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"Lelaki dan wanita berpegangan tangan"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"Dua lelaki berpegangan tangan"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"Dua wanita berpegangan tangan"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"Pegawai polis"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"Wanita dengan telinga arnab"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"Pengantin dengan vel"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"Orang berambut perang"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"Lelaki dengan gua pi mao"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"Lelaki berserban"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"Lelaki lebih tua"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"Wanita lebih tua"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"Bayi"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"Buruh binaan"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"Puteri"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"Gergasi Jepun"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Jembalang Jepun"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"Bebayang"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"Malaikat kecil"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"Makhluk asing"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"Raksasa asing"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Imp"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"Tengkorak"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"Orang meja maklumat"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"Pengawal"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"Penari"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"Gincu"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"Pengilat kuku"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"Urutan muka"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"Gunting rambut"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"Jalur Tukang Gunting Rambut"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"Picagari"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"Pil"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"Tanda ciuman"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"Surat cinta"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"Cincin"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"Batu permata"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"Ciuman"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"Jambak bunga"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"Pasangan dengan hati"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"Perkahwinan"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"Jantung berdegup"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"Patah hati"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"Dua hati"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"Hati berkilauan"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"Hati berkembang"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"Hati dengan anak panah"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"Hati biru"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"Hati hijau"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"Hati kuning"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"Hati ungu"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"Hati dengan riben"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"Hati berputar"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"Hiasan hati"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"Bentuk berlian dengan titik di dalam"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"Mentol elektrik"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"Simbol kemarahan"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"Bom"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"Simbol tidur"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"Simbol pelanggaran"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"Simbol peluh memercik"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"Titik kecil"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"Simbol sengkang"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"Timbunan najis"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"Biseps dilenturtegang"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"Simbol pening"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"Belon pertuturan"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"Belon pemikiran"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"Bunga putih"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"Simbol seratus mata"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"Beg wang"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"Pertukaran mata wang"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"Isyarat dolar tebal"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"Kad kredit"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"Wang kertas dengan tanda yen"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"Wang kertas dengan tanda dolar"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"Wang kertas dengan tanda euro"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"Wang kertas dengan tanda pound"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"Wang dengan sayap"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"Carta dengan aliran ke atas dan tanda yen"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"Tempat duduk"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"Komputer peribadi"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"Beg bimbit"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"Minicakera"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"Cakera liut"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"Cakera optik"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"Dvd"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"Folder fail"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"Buka folder fail"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"Halaman bergulung"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"Halaman menghadap ke atas"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"Kalendar"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"Kalendar koyak"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"Kad indeks"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"Carta dengan aliran ke atas"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"Carta dengan aliran ke bawah"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"Carta bar"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"Papan Keratan"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"Pin tekan"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"Pin tekan bulat"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"Klip kertas"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"Pembaris lurus"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"Pembaris segi tiga"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"Tab penanda halaman"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"Lejar"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"Buku Nota"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"Buku nota dengan kulit bercorak"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"Buku tertutup"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"Buku terbuka"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"Buku hijau"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"Buku biru"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"Buku jingga"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"Buku"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"Lencana nama"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"Skrol"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"Memo"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"Gagang telefon"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"Alat kelui"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"Mesin faks"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"Antena satelit"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"Pembesar suara pengumuman awam"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"Megafon sorakan"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Dulang peti keluar"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"Dulang peti masuk"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"Pakej"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"Simbol e-mel"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"Sampul surat masuk"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"Sampul surat dengan anak panah ke bawah di atas"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"Peti mel tertutup dengan bendera diturunkan"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"Peti mel tertutup dengan bendera dinaikkan"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"Peti mel terbuka dengan bendera dinaikkan"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"Peti mel terbuka dengan bendera diturunkan"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"Peti surat"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"Hon pos"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"Surat khabar"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"Telefon mudah alih"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"Telefon mudah alih dengan anak panah hala kanan di sebelah kiri"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"Mod getaran"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"Telefon mudah alih dimatikan"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"Tiada telefon mudah alih"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"Antena dengan bar"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"Kamera"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"Kamera video"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"Televisyen"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"Radio"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"Kaset Video"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"Anak panah hala kanan berpintal"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"Anak panah bulatan terbuka hala kanan dan hala kiri mengikut arah jam"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"Anak panah bulatan terbuka hala kanan dan hala kiri mengikut arah jam dengan tindihan satu dalam bulatan"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"Anak panah bulatan terbuka menurun dan menaik mengikut arah jam"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"Anak panah bulatan terbuka menurun dan menaik lawan arah jam"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"Simbol cahaya rendah"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"Simbol cahaya tinggi"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"Pembesar suara dengan garisan pembatalan"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"Pembesar suara"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"Pembesar suara dengan satu gelombang bunyi"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"Pembesar suara dengan tiga gelombang bunyi"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"Bateri"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"Palam elektrik"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"Kanta pembesar menunjuk ke kiri"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"Kata pembesar menunjuk ke kanan"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"Mangga dengan pen dakwat"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"Mangga tertutup dengan kunci"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"Anak kunci"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"Mangga"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"Mangga terbuka"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"Loceng"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"Loceng dengan garisan pembatalan"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"Penanda halaman"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"Simbol pautan"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"Butang radio"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"Kembali dengan anak panah hala kiri di atas"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"Akhir dengan anak panah hala kiri di atas"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"Hidup dengan tanda seruan dengan anak panah kiri kanan di atas"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Tidak lama lagi dengan anak panah hala kiri di atas"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Atas dengan anak panah hala atas di atas"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"Simbol tiada sesiapa di bawah umur 18 tahun"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"Butang kekunci sepuluh"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"Simbol input huruf besar latin"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"Simbol input huruf kecil latin"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"Simbol input nombor"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"Simbol input untuk simbol"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"Simbol input huruf latin"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"Api"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"Lampu suluh"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"Sepana"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"Tukul"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"Nat dan bolt"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"Hocho"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"Pistol"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"Mikroskop"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"Teleskop"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"Bola kristal"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"Bintang berbucu enam dengan titik tengah"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"Simbol Jepun untuk perantis"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"Lambang trisula"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"Butang empat segi hitam"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"Butang empat segi putih"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"Bulatan merah besar"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"Bulatan biru besar"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"Berlian oren besar"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"Berlian biru besar"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"Berlian oren kecil"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"Berlian biru kecil"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"Segi tiga merah menunjuk ke atas"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"Segi tiga merah menunjuk ke bawah"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"Segi tiga merah kecil menunjuk ke atas"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"Segi tiga merah kecil menunjuk ke bawah"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"Muka jam pukul satu"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"Muka jam pukul dua"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"Muka jam pukul tiga"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"Muka jam pukul empat"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"Muka jam pukul lima"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"Muka jam pukul enam"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"Muka jam pukul tujuh"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"Muka jam pukul lapan"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"Muka jam pukul sembilan"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"Muka jam pukul sepuluh"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"Muka jam pukul sebelas"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"Muka jam pukul dua belas"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"Muka jam pukul satu setengah"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"Muka jam pukul dua setengah"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"Muka jam pukul tiga setengah"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"Muka jam pukul empat setengah"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"Muka jam pukul lima setengah"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"Muka jam pukul enam setengah"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"Muka jam pukul tujuh setengah"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"Muka jam pukul lapan setengah"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"Muka jam pukul sembilan setengah"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"Muka jam pukul sepuluh setengah"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"Muka jam pukul sebelas setengah"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"Muka jam pukul dua belas setengah"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"Gunung fuji"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"Menara Tokyo"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"Patung Liberty"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"Bebayang jepun"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"Moyai"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"Muka tersengih"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"Muka tersengih dengan mata tersenyum"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"Muka dengan air mata kegembiraan"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"Muka tersenyum dengan mulut terbuka"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"Muka tersenyum dengan mulut terbuka dan mata tersenyum"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"Muka tersenyum dengan mulut terbuka dan peluh dingin"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"Muka tersenyum dengan mulut terbuka dan mata terpejam rapat"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"Muka tersenyum dengan halo"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"Muka tersenyum dengan tanduk"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"Muka mengenyit mata"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"Muka tersenyum dengan mata tersenyum"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"Muka menikmati makanan lazat"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"Muka lega"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"Muka tersenyum dengan mata berbentuk hati"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"Muka tersenyum dengan cermin mata hitam"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"Muka mencebik"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"Muka neutral"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"Muka tanpa perasaan"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"Muka tidak hairan"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"Muka dengan peluh dingin"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"Muka termenung"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"Muka keliru"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"Muka bingung"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"Muka bercium"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"Muka melayangkan ciuman"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"Muka bercium dengan mata tersenyum"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"Muka bercium dengan mata tertutup"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"Muka dengan lidah terjelir"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"Muka dengan lidah terjelir dan mengenyitkan mata"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"Muka dengan lidah terjelir dan mata tertutup rapat"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"Muka kecewa"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"Muka bimbang"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"Muka marah"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"Muka muncung"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"Muka menangis"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"Muka bersungguh-sungguh"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"Muka dengan rupa kemenangan"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"Muka kecewa tetapi lega"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"Muka muram dengan mulut terbuka"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"Muka sedih"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"Muka takut"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"Muka letih"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"Muka mengantuk"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"Muka penat"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"Muka berkerut"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"Muka menangis kuat"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"Muka dengan mulut terbuka"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"Muka diam"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"Muka dengan mulut terbuka dan peluh dingin"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"Muka menjerit ketakutan"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"Muka terperanjat"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"Muka merah"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"Muka tidur"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"Muka pening"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"Muka tanpa mulut"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"Muka dengan topeng perubatan"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"Muka kucing tersengih dengan mata tersenyum"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"Muka kucing dengan air mata kegembiraan"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"Muka kucing tersenyum dengan mulut terbuka"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"Muka kucing tersenyum dengan mata berbentuk hati"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"Muka kucing dengan senyuman sinis"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"Muka kucing bercium dengan mata tertutup"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"Muka kucing muncung"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"Muka kucing menangis"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"Muka kucing letih"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"Muka tanpa gerak isyarat baik"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"Muka dengan gerak isyarat ok"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"Orang menunduk lama"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"Monyet menutup mata"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"Monyet menutup telinga"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"Monyet menutup mulut"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"Orang gembira mengangkat satu tangan"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"Orang mengangkat kedua-dua tangan untuk meraikan"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"Orang muram"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"Orang dengan muka muncung"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"Orang dengan tangan bersilang"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"Roket"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"Helikopter"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"Kepala kereta api wap"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"Kereta api"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"Kereta api kelajuan tinggi"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"Kereta api kelajuan tinggi dengan muncung peluru"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"Kereta api"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"Metro"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"Aliran ringan"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"Stesen"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"Trem"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"Kereta trem"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"Bas"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"Bas dari arah depan"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"Bas elektrik"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"Perhentian bas"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"Bas mini"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"Ambulans"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"Kereta bomba"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"Kereta polis"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"Kereta polis dari arah depan"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"Teksi"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"Teksi dari arah depan"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"Kereta"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"Kereta dari arah depan"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"Kenderaan rekreasi"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"Trak penghantaran"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"Lori sambung sendi"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"Traktor"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"Monorel"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"Kereta api gunung"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"Kereta api tergantung"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"Kereta kabel gunung"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"Trem udara"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"Kapal"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"Perahu dayung"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"Bot laju"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"Lampu isyarat mendatar"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"Lampu isyarat menegak"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"Tanda pembinaan"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"Lampu berputar kereta polis"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"Bendera segi tiga pada tiang"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"Pintu"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"Isyarat dilarang masuk"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"Simbol merokok"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"Simbol dilarang merokok"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"Simbol buang sampah di tempatnya"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"Simbol jangan buang sampah"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"Simbol air boleh diminum"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"Simbol air tidak boleh diminum"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"Basikal"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"Tiada basikal"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"Penunggang basikal"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"Penunggang basikal gunung"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"Pejalan kaki"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"Tiada pejalan kaki"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"Kanak-kanak melintas"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"Simbol lelaki"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"Simbol wanita"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"Tandas"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"Simbol bayi"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"Tandas"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"Tandas"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"Pancuran"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"Bilik mandi"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"Tab mandi"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"Kawalan pasport"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"Kastam"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"Tuntutan bagasi"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"Bagasi kiri"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"Tanda seruan berkembar"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"Tanda tanya seruan"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"Tanda cap dagangan"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"Sumber maklumat"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"Anak panah kiri kanan"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"Anak panah atas bawah"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"Anak panah barat laut"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"Anak panah timur laut"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"Anak panah tenggara"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"Anak panah barat daya"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"Anak panah hala kiri dengan cangkuk"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"Anak panah hala kanan dengan cangkuk"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"Jam"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"Jam pasir"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"Segi tiga kembar arah kanan hitam"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"Segi tiga kembar arah kiri hitam"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"Segi tiga kembar arah atas hitam"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"Segi tiga kembar arah bawah hitam"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"Jam penggera"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"Jam pasir dengan pasir mengalir"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"Huruf m besar latin dalam bulatan"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"Empat segi kecil hitam"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"Empat segi kecil putih"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"Segi tiga arah kanan hitam"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"Segi tiga arah kiri hitam"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"Empat segi sederhana putih"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"Empat segi sederhana hitam"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"Empat segi sederhana kecil putih"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"Empat segi sederhana kecil hitam"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"Matahari dengan sinar hitam"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"Awan"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"Telefon hitam"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"Peti undi dengan tanda semak"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"Payung dengan titisan hujan"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"Minuman panas"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"Indeks putih menunjuk ke atas"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"Muka tersenyum putih"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"Aries"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"Taurus"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"Gemini"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"Cancer"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"Leo"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"Virgo"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"Libra"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"Scorpius"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"Sagittarius"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"Capricorn"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Aquarius"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"Pisces"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"Daun sped hitam"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"Daun kelawar hitam"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"Daun hati hitam"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"Daun berlian hitam"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Air panas"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"Simbol kitar semula universal hitam"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"Simbol kerusi roda"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"Sauh"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"Tanda amaran"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"Tanda voltan tinggi"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"Bulatan putih sederhana"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"Bulatan hitam sederhana"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"Bola sepak"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"Besbol"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"Orang salji tanpa salji"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"Matahari di sebalik awan"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"Ophiuchus"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"Dilarang masuk"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"Gereja"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"Air pancut"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"Bendera dalam lubang"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"Kapal layar"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"Khemah"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"Pam minyak"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"Gunting hitam"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"Tanda semak tebal putih"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"Kapal terbang"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"Sampul surat"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"Penumbuk"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"Tangan diangkat"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"Tanda menang"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"Pensel"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"Mata pen hitam"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"Tanda semak tebal"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"X darab tebal"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"Kilauan"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"Asterisk berbucu lapan"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"Bintang hitam berbucu lapan"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"Emping salji"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"Kilauan"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"Tanda silang"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"Tanda silang empat segi negatif"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"Perhiasan tanda tanya hitam"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"Perhiasan tanda tanya putih"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"Perhiasan tanda seruan putih"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"Simbol tanda seruan tebal"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"Hati hitam tebal"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"Tanda tambah tebal"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"Tanda tolak tebal"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"Tanda bahagi tebal"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"Anak panah hala kanan hitam"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"Gelung bergulung"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"Gelung bergulung kembar"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"Anak panah menghala ke kanan kemudian melengkung ke atas"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"Anak panah menghala ke kanan kemudian melengkung ke bawah"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"Anak panah hitam hala kiri"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"Anak panah hitam hala atas"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"Anak panah hitam hala bawah"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"Empat segi besar hitam"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"Empat segi besar putih"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"Bintang sederhana putih"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"Bulatan besar tebal"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"Sengkang beralun"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"Tanda perselangan silih"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"Ideograf tahniah bulat"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"Ideograf rahsia bulat"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"Emoji yang tidak dikethui"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"Muka bosan"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"Muka malu"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"Muka bercium"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"Muka masam"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"Muka terkejut"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"Muka memakai cermin mata hitam"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"Tiada cadangan"</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"I huruf besar"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"I huruf besar, titik di atas"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"Tiada teks dimasukkan"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"Aksara alternatif adalah tersedia"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"Cadangan alternatif tersedia"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"Tanda seru terbalik"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"Tanda petikan sudut berkembar menunjuk ke kiri"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"Titik tengah"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Superskrip satu"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"Tanda petikan sudut berkembar menunjuk ke kanan"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"Tanda soal terbalik"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"Tanda petikan tunggal kiri"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"Tanda petikan tunggal kanan"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Tanda petikan 9 rendah tunggal"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"Tanda petikan berkembar kiri"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"Tanda petikan berkembar kanan"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Badik"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Badik berkembar"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Tanda per mille"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Prima"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Prima berkembar"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"Tanda petikan sudut menunjuk ke kiri tunggal"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"Tanda petikan sudut menunjuk ke kanan tunggal"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Superskrip empat"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Huruf kecil n superskrip latin"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Tanda Peso"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"Dengan alamat"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"Anak panah hala kanan"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Anak panah hala bawah"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"Set kosong"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Kenaikan"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"Kurang daripada atau sama dengan"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"Lebih besar daripada atau sama dengan"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"Bintang hitam"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"Simbol yang tidak diketahui"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"Pasangkan set kepala untuk mendengar kekunci kata laluan disebut dengan kuat."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Emoji"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"Bahasa Inggeris (UK)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"Bahasa Inggeris (Australia)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"Bahasa Sepanyol (AS)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (Sarat)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (Tradisional)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"Hinglish"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"Bahasa"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"Tiada bahasa (Abjad)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"Abjad (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"Abjad (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"Abjad (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"Abjad (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"Abjad (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"Abjad (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"Bahasa Serbia (Latin)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"Bahasa Inggeris (UK) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"Bahasa Inggeris (AS) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"Bahasa Sepanyol (AS) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"Hinglish (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"Bahasa Serbia (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"Beralih akaun"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"Segerakkan sekarang"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"Memuat turun: cadangan untuk <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> akan sedia tidak lama lagi."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"Cadangkan nama Kenalan"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"Menggunakan nama daripada Kenalan untuk cadangan dan pembetulan"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"Penyemak ejaan menggunakan entri daripada senarai kenalan anda"</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"Cari nama kenalan"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"Titik ruang berganda"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"Mengetik 2X pada bar ruang memasukkan titik diikuti dengan ruang"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"Cadangan diperibadikan"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"Perbaik cadangan berdasarkan komunikasi anda dan data yang ditaip"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"OK"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"Kurang pilihan"</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"Lagi pilihan"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"Tambah ke kamus"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"Bahasa:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"tambah"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"Frasa"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"Pintasan pilihan"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"Pintasan:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"Taip perkataan"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"Perkataan:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"Untuk semua bahasa"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"Padam"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"Edit"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"Padam"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"Edit perkataan"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"Anda tidak mempunyai sebarang perkataan dalam kamus pengguna. Tambahkan perkataan dengan menyentuh butang Tambah (+)."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"Lebih banyak bahasa..."</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"Kamus pengguna"</string>
+    <string msgid="2715354215568469385" name="version_text">"Versi <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Getar pada tekanan kekunci"</string>
+    <string msgid="3583258583521397548" name="voice_input">"Kunci input suara"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"Tiada kaedah input suara didayakan. Semak Bahasa &amp; tetapan input."</string>
+</resources>

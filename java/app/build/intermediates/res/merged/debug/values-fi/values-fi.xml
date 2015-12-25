@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <bool name="im_is_default">true</bool>
+    <string msgid="8700286094028323363" name="abbreviation_unit_milliseconds">"<ns1:g id="MILLISECONDS">%s</ns1:g> ms"</string>
+    <string msgid="5181012062618504340" name="account_select_cancel">"Peruuta"</string>
+    <string msgid="9141195141763227797" name="account_select_ok">"OK"</string>
+    <string msgid="3299651159390187933" name="account_select_sign_out">"Kirjaudu ulos"</string>
+    <string msgid="6279711684772922649" name="account_select_title">"Valitse käytettävä tili"</string>
+    <string msgid="2846876462199625974" name="account_selected">"Tällä hetkellä käytetään tiliä <ns1:g id="EMAIL_ADDRESS">%1$s</ns1:g>"</string>
+    <string msgid="8299699805688017798" name="add">"Lisää"</string>
+    <string msgid="7836932571852055265" name="add_account_to_enable_sync">"Ota tämä ominaisuus käyttöön lisäämällä Google-tili laitteeseen."</string>
+    <string msgid="6163126614514489951" name="add_style">"Lisää tyyli"</string>
+    <string msgid="6123949487832861885" name="android_spell_checker_settings">"Android-oikoluvun asetukset (AOSP)"</string>
+    <string msgid="2313574218950517779" name="announce_keyboard_hidden">"Näppäimistö on piilotettu"</string>
+    <string msgid="6698257917367823205" name="announce_keyboard_mode">"Näytetään näppäimistö <ns1:g id="KEYBOARD_MODE">%s</ns1:g>"</string>
+    <string msgid="6320102637491234792" name="app_name">"Sanakirjan tarjoaja"</string>
+    <string msgid="1719746674854628252" name="auto_cap">"Automaattiset isot kirjaimet"</string>
+    <string msgid="7934452761022946874" name="auto_cap_summary">"Kirjoita jokaisen lauseen ensimmäinen sana isolla alkukirjaimella"</string>
+    <string msgid="7630720885194996950" name="auto_correction">"Autom. korjaus"</string>
+    <string msgid="5625751551134658006" name="auto_correction_summary">"Välilyönti ja -merkit korjaavat väärinkirjoitetut sanat"</string>
+    <string msgid="7319007299148899623" name="auto_correction_threshold_mode_aggressive">"Aggressiivinen"</string>
+    <string msgid="8788366690620799097" name="auto_correction_threshold_mode_modest">"Osittainen"</string>
+    <string msgid="8470882665417944026" name="auto_correction_threshold_mode_off">"Ei käytössä"</string>
+    <string msgid="1853309024129480416" name="auto_correction_threshold_mode_very_aggressive">"Hyvin aggressiivinen"</string>
+    <string msgid="1084449187723948550" name="bigram_prediction">"Seuraavan sanan ehdotukset"</string>
+    <string msgid="3896362682751109677" name="bigram_prediction_summary">"Käytä edellistä sanaa ehdotuksien perusteena"</string>
+    <string msgid="3988017840431881491" name="button_default">"Oletusarvot"</string>
+    <string msgid="6830980399865683324" name="cancel">"Peruuta"</string>
+    <string msgid="7843340278507019303" name="cancel_download_dict">"Peruuta"</string>
+    <string msgid="9216933695765732398" name="cannot_connect_to_dict_service">"Ei yhteyttä sanak."</string>
+    <string msgid="8087688440916388581" name="check_for_updates_now">"Päivitä"</string>
+    <string msgid="2811931135574727678" name="clear_sync_data_confirmation">"Synkronoidut tiedot poistetaan pilvestä. Oletko varma?"</string>
+    <string msgid="613104067705915132" name="clear_sync_data_ok">"Poista"</string>
+    <string msgid="993477139012576584" name="clear_sync_data_summary">"Poistaa synkronoidut tietosi Googlen palveluista"</string>
+    <string msgid="8582001557037069154" name="clear_sync_data_title">"Poista tiedot pilvestä"</string>
+    <string msgid="5877481252150919037" name="cloud_sync_cancel">"Peruuta"</string>
+    <string msgid="9176039655776298248" name="cloud_sync_opt_in_text">"Oma sanakirjasi synkronoidaan ja varmuuskopiodaan Googlen palvelimille. Sanojen yleisyyttä koskevia tilastotietoja voidaan kerätä tuotteidemme parantamiseksi. Tietojen keräämisessä ja käytössä noudatetaan "<a href="https://www.google.com/policies/privacy">"Googlen tietosuojakäytäntöä"</a>"."</string>
+    <string msgid="7684887161145650857" name="cloud_sync_summary">"Synkronointi on käytössä."</string>
+    <string msgid="4553338970382825796" name="cloud_sync_summary_disabled">"Synkronoi oma sanakirjasi eri laitteiden välillä."</string>
+    <string msgid="1381770407303129164" name="cloud_sync_summary_disabled_work_profile">"Synkronointi ei ole käytettävissä Google Apps for Business -tilejä sisältäville laitteille."</string>
+    <string msgid="8579271074443847055" name="cloud_sync_title">"Google-näppäimistön synkronointi"</string>
+    <string msgid="4238652338556902049" name="configure_dictionaries_title">"Sanakirjalisäosat"</string>
+    <string msgid="373356270290742459" name="configure_input_method">"Määritä syöttötavat"</string>
+    <string msgid="8008728952215449707" name="custom_input_style_already_exists">"Syöttötyyli on jo olemassa: <ns1:g id="INPUT_STYLE_NAME">%s</ns1:g>"</string>
+    <string msgid="8826731320846363423" name="custom_input_style_note_message">"Muokattua syöttötyyliä ei ole otettu käyttöön. Haluatko ottaa sen käyttöön nyt?"</string>
+    <string msgid="8429952441821251512" name="custom_input_styles_title">"Muokatut syöttötyylit"</string>
+    <string msgid="1625055720489280530" name="default_user_dict_pref_name">"Käyttäjän sanakirja"</string>
+    <string msgid="756853268088330054" name="delete_dict">"Poista"</string>
+    <string msgid="1075194169443163487" name="dict_available_notification_description">"Paina tätä, jos haluat tarkastella kohdetta ja ladata sen"</string>
+    <string msgid="4583842811218581658" name="dict_available_notification_title">"Sanakirja on saatavilla kielelle <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>"</string>
+    <string msgid="4728975345815214218" name="dictionary_available">"Sanakirja saatavilla"</string>
+    <string msgid="8950383219564621762" name="dictionary_disabled">"Asennettu, poistettu käytöstä"</string>
+    <string msgid="2982650524622620983" name="dictionary_downloading">"Ladataan"</string>
+    <string msgid="3587517870006332980" name="dictionary_install_over_metered_network_prompt">"Sanakirja saatavilla"</string>
+    <string msgid="8081558343559342962" name="dictionary_installed">"Asennettu"</string>
+    <string msgid="3027315045397363079" name="dictionary_provider_name">"Sanakirjan tarjoaja"</string>
+    <string msgid="6237472350693511448" name="dictionary_service_name">"Sanakirjapalvelu"</string>
+    <string msgid="5305694987799824349" name="dictionary_settings_summary">"Sanakirjojen asetukset"</string>
+    <string msgid="8091417676045693313" name="dictionary_settings_title">"Sanakirjalisäosat"</string>
+    <string msgid="2176209579313941583" name="do_not_download_over_metered">"Lataa Wi-Fi-yhteydellä"</string>
+    <string msgid="6014835283119198591" name="download_description">"Sanakirjan päivitystiedot"</string>
+    <string msgid="1643065851159409546" name="download_over_metered">"Lataa nyt (<ns1:g id="SIZE_IN_MEGABYTES">%1$.1f</ns1:g> Mt)"</string>
+    <string msgid="3996910038952940420" name="edit_personal_dictionary">"Oma sanakirja"</string>
+    <string msgid="5031294444630523247" name="enable">"Ota käyttöön"</string>
+    <string msgid="5506372337118822837" name="enable_metrics_logging">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> paremmaksi"</string>
+    <string msgid="4177264923999493614" name="enable_split_keyboard">"Ota jaettu näppäimistö käyttöön"</string>
+    <string msgid="3909945612939668554" name="english_ime_input_options">"Syöttövalinnat"</string>
+    <string msgid="5940510615957428904" name="english_ime_name">"Android-näppäimistö (AOSP)"</string>
+    <string msgid="5760361067176802794" name="english_ime_settings">"Android-näppäimistön asetukset (AOSP)"</string>
+    <string msgid="4443240334739381053" name="gesture_floating_preview_text">"Dynaaminen kelluva esikatselu"</string>
+    <string msgid="4472696213996203533" name="gesture_floating_preview_text_summary">"Näytä ehdotettu sana piirron aikana"</string>
+    <string msgid="826951152254563827" name="gesture_input">"Ota piirtokirjoitus käyttöön"</string>
+    <string msgid="9180350639305731231" name="gesture_input_summary">"Syötä sana piirtämällä kirjaimet sormellasi"</string>
+    <string msgid="3802333369335722221" name="gesture_preview_trail">"Näytä eleen jälki"</string>
+    <string msgid="2078291600664682496" name="gesture_space_aware">"Ilmausele"</string>
+    <string msgid="4371385818348528538" name="gesture_space_aware_summary">"Lisää välilyöntejä eleiden aikana liukumalla välilyöntinäppäimelle"</string>
+    <string msgid="3876892339342569259" name="go_to_settings">"Asetukset"</string>
+    <string msgid="6071847973466625007" name="has_dictionary">"Sanakirja saatavilla"</string>
+    <string msgid="5328219371839879161" name="help_and_feedback">"Ohje ja palaute"</string>
+    <string msgid="573678656946085380" name="hint_add_to_dictionary">"Tallenna koskettamalla uudelleen"</string>
+    <string msgid="3040385779511255101" name="hint_add_to_dictionary_without_word">"Tallenna koskettamalla tätä"</string>
+    <string msgid="4533689960308565519" name="include_other_imes_in_language_switch_list">"Käytä toista syöttötapaa"</string>
+    <string msgid="840637129103317635" name="include_other_imes_in_language_switch_list_summary">"Kielenvaihtonäppäin kattaa myös muut syöttötavat"</string>
+    <string msgid="180852772562189365" name="install_dict">"Asenna"</string>
+    <string msgid="2166964333903906734" name="key_preview_popup_dismiss_default_delay">"Oletus"</string>
+    <string msgid="6213164897443068248" name="key_preview_popup_dismiss_delay">"Näppäimen hylkäysviive"</string>
+    <string msgid="2096123151571458064" name="key_preview_popup_dismiss_no_delay">"Ei viivettä"</string>
+    <string msgid="8451164783510487501" name="keyboard_layout">"Näppäimistöteema"</string>
+    <string msgid="4309233698194565609" name="keyboard_layout_set">"Asettelu"</string>
+    <string msgid="6597407244976713364" name="keyboard_mode_date">"päivämäärä"</string>
+    <string msgid="3642804408726668808" name="keyboard_mode_date_time">"päivämäärä ja aika"</string>
+    <string msgid="1239682082047693644" name="keyboard_mode_email">"sähköposti"</string>
+    <string msgid="3812086215529493501" name="keyboard_mode_im">"viestit"</string>
+    <string msgid="5395042245837996809" name="keyboard_mode_number">"numero"</string>
+    <string msgid="2486230278064523665" name="keyboard_mode_phone">"puhelin"</string>
+    <string msgid="9138789594969187494" name="keyboard_mode_text">"teksti"</string>
+    <string msgid="8558297845514402675" name="keyboard_mode_time">"aika"</string>
+    <string msgid="8072011652949962550" name="keyboard_mode_url">"URL-osoite"</string>
+    <string msgid="4909551808526178852" name="keyboard_theme">"Näppäimistöteema"</string>
+    <string msgid="7564866296502630852" name="label_done_key">"Valm."</string>
+    <string msgid="4033615332628671065" name="label_go_key">"Siir."</string>
+    <string msgid="5586407279258592635" name="label_next_key">"Seur."</string>
+    <string msgid="2225922926459730642" name="label_pause_key">"Tauko"</string>
+    <string msgid="1421141755779895275" name="label_previous_key">"Edel."</string>
+    <string msgid="7965186050435796642" name="label_search_key">"Haku"</string>
+    <string msgid="482252074224462163" name="label_send_key">"Läh."</string>
+    <string msgid="5891247853595466039" name="label_wait_key">"Odota"</string>
+    <string msgid="3666971864764478269" name="language_selection_title">"Kielet"</string>
+    <string msgid="730467549913588780" name="last_update">"Päivitetty viimeksi"</string>
+    <string msgid="3072821352793492143" name="main_dict_description">"Pääsanakirja"</string>
+    <string msgid="4798763781818361168" name="main_dictionary">"Pääsanakirja"</string>
+    <string msgid="5638680861387748936" name="message_loading">"Ladataan…"</string>
+    <string msgid="4457761393932375219" name="message_updating">"Tarkistetaan päivityksiä"</string>
+    <string msgid="2073821619103904330" name="no_accounts_selected">"Tilejä ei ole valittu"</string>
+    <string msgid="8039920716566132611" name="no_dictionaries_available">"Ei sanak. saatavilla"</string>
+    <string msgid="6172462888202790482" name="not_now">"Ei nyt"</string>
+    <string msgid="123894815723512944" name="popup_on_keypress">"Ponnahdusikkuna painalluksella"</string>
+    <string msgid="2371835479734991364" name="prefs_block_potentially_offensive_summary">"Älä ehdota mahd. loukkaavia sanoja"</string>
+    <string msgid="5078480071057408934" name="prefs_block_potentially_offensive_title">"Estä loukkaavat sanat"</string>
+    <string msgid="5963640002335470112" name="prefs_enable_emoji_alt_physical_key">"Hymiö fyysisellä näppäimistöllä"</string>
+    <string msgid="5259484820941627827" name="prefs_enable_emoji_alt_physical_key_summary">"Fyysinen Alt-näppäin näyttää hymiövalikoiman."</string>
+    <string msgid="6102240298932897873" name="prefs_key_longpress_timeout_settings">"Pitkän painalluksen viive"</string>
+    <string msgid="6027007337036891623" name="prefs_keypress_sound_volume_settings">"Näppäinpainalluksen äänenvoimakkuus"</string>
+    <string msgid="7918341459947439226" name="prefs_keypress_vibration_duration_settings">"Painalluksen värinän kesto"</string>
+    <string msgid="8026799663445531637" name="prefs_show_suggestions">"Näytä korjausehdotukset"</string>
+    <string msgid="1583132279498502825" name="prefs_show_suggestions_summary">"Näytä sanaehdotukset kirjoitettaessa"</string>
+    <string msgid="4486081658752944606" name="remove">"Poista"</string>
+    <string msgid="7646738597196767214" name="save">"Tallenna"</string>
+    <string msgid="5709487854987078367" name="select_language">"Kielet"</string>
+    <string msgid="2786418968536696670" name="settings_screen_accounts">"Tilit ja tietosuoja"</string>
+    <string msgid="7472408607625972994" name="settings_screen_advanced">"Lisäasetukset"</string>
+    <string msgid="7358046399111611615" name="settings_screen_appearance">"Ulkoasu ja asettelut"</string>
+    <string msgid="1616818407747682955" name="settings_screen_correction">"Tekstin korjaus"</string>
+    <string msgid="8826372746901183556" name="settings_screen_gesture">"Piirtokirjoitus"</string>
+    <string msgid="2696713156722014624" name="settings_screen_preferences">"Asetukset"</string>
+    <string msgid="2137262503543943871" name="settings_screen_theme">"Teema"</string>
+    <string msgid="6268225104743331821" name="settings_system_default">"Järjestelmän oletusarvo"</string>
+    <string msgid="276559243409465389" name="setup_finish_action">"Valmis"</string>
+    <string msgid="371821437915144603" name="setup_next_action">"Seuraava vaihe"</string>
+    <string msgid="8936036460897347708" name="setup_start_action">"Aloita"</string>
+    <string msgid="4366513534999901728" name="setup_step1_action">"Ota käyttöön asetuksissa"</string>
+    <string msgid="10761482004957994" name="setup_step1_finished_instruction">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> on jo käytössä Kieli ja syöttötapa -asetuksissa, joten tämä vaihe on tehty. Siirrytään eteenpäin!"</string>
+    <string msgid="2578631936624637241" name="setup_step1_instruction">"Valitse <ns1:g id="APPLICATION_NAME">%s</ns1:g> Kieli ja syöttötapa -asetuksissa. Se antaa sovellukselle luvan toimia laitteessasi."</string>
+    <string msgid="3147967630253462315" name="setup_step1_title">"Ota <ns1:g id="APPLICATION_NAME">%s</ns1:g> käyttöön"</string>
+    <string msgid="1660330307159824337" name="setup_step2_action">"Vaihda syöttötapaa"</string>
+    <string msgid="9141481964870023336" name="setup_step2_instruction">"Valitse <ns1:g id="APPLICATION_NAME">%s</ns1:g> käytössä olevaksi tekstinsyöttötavaksi."</string>
+    <string msgid="6860725447906690594" name="setup_step2_title">"Siirry sovellukseen <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="600879797256942259" name="setup_step3_action">"Määritä lisää kieliä"</string>
+    <string msgid="8025981829605426000" name="setup_step3_instruction">"Nyt voit kirjoittaa kaikissa lempisovelluksissasi sovelluksen <ns1:g id="APPLICATION_NAME">%s</ns1:g> avulla."</string>
+    <string msgid="3154757183631490281" name="setup_step3_title">"Onneksi olkoon, valmista tuli!"</string>
+    <string msgid="6400373034871816182" name="setup_steps_title">"Sovelluksen <ns1:g id="APPLICATION_NAME">%s</ns1:g> asetukset"</string>
+    <string msgid="8150252008545768953" name="setup_welcome_additional_description">"ja piirtokirjoitus"</string>
+    <string msgid="6112821709832031715" name="setup_welcome_title">"Tervetuloa käyttämään sovellusta <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1583881200688185508" name="should_download_over_metered_prompt">"Laitteesi käyttökielelle on saatavilla sanakirja.&lt;br/> Suosittelemme <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g>-sanakirjan &lt;b>lataamista&lt;/b>, sillä se helpottaa laitteella kirjoittamista.&lt;br/> &lt;br/> Lataus kestää useimmiten muutaman minuutin 3G-yhteydellä. Latauksesta saatetaan periä maksu, ellei käytössäsi ole &lt;b>rajoittamatonta tiedonsiirtopakettia&lt;/b>.&lt;br/> Jos et ole varma tiedonsiirtosopimuksesi tyypistä, etsi käyttöösi Wi-Fi-yhteys, niin lataus alkaa automaattisesti.&lt;br/> &lt;br/> Vinkki: voit ladata ja poistaa sanakirjoja mobiililaitteesi &lt;b>Asetukset&lt;/b>-valikon &lt;b>Kieli ja syöttötapa&lt;/b> -osiossa."</string>
+    <string msgid="5915478828318774384" name="show_language_switch_key">"Kielenvaihtonäppäin"</string>
+    <string msgid="7343403647474265713" name="show_language_switch_key_summary">"Näytä, kun käytössä on useita syöttökieliä"</string>
+    <string msgid="5008028590593710830" name="show_setup_wizard_icon">"Näytä sovelluskuvake"</string>
+    <string msgid="4119998322536880213" name="show_setup_wizard_icon_summary">"Näytä sovelluskuvake käynnistysohjelmassa."</string>
+    <string msgid="6093592297198243644" name="sound_on_keypress">"Toista ääni näppäimiä painettaessa"</string>
+    <string msgid="1254221805440242662" name="spell_checker_service_name">"Android-oikoluku (AOSP)"</string>
+    <string msgid="4374325261868451570" name="spoken_accented_letter_00AA">"Feminiinisen järjestysluvun merkki"</string>
+    <string msgid="9031387673828823891" name="spoken_accented_letter_00B5">"Mikro-merkki"</string>
+    <string msgid="5045198452071207437" name="spoken_accented_letter_00BA">"Maskuliinisen järjestysluvun merkki"</string>
+    <string msgid="2260098367028134281" name="spoken_accented_letter_00DF">"Kaksois-s"</string>
+    <string msgid="2234515772182387086" name="spoken_accented_letter_00E0">"A ja gravis"</string>
+    <string msgid="7780174500802535063" name="spoken_accented_letter_00E1">"A ja akuutti"</string>
+    <string msgid="7054108480488102631" name="spoken_accented_letter_00E2">"A ja sirkumfleksi"</string>
+    <string msgid="8252569677935693343" name="spoken_accented_letter_00E3">"A ja tilde"</string>
+    <string msgid="6610118430986969466" name="spoken_accented_letter_00E4">"A ja treema"</string>
+    <string msgid="7630449270070348394" name="spoken_accented_letter_00E5">"A ja yläpuolinen ympyrä"</string>
+    <string msgid="701838036007000032" name="spoken_accented_letter_00E6">"Ligatuuri ae"</string>
+    <string msgid="2991289211702135310" name="spoken_accented_letter_00E7">"C ja sedilji"</string>
+    <string msgid="2080035251848179782" name="spoken_accented_letter_00E8">"E ja gravis"</string>
+    <string msgid="2708473976407506968" name="spoken_accented_letter_00E9">"E ja akuutti"</string>
+    <string msgid="1898848081635119449" name="spoken_accented_letter_00EA">"E ja sirkumfleksi"</string>
+    <string msgid="8318942663983499634" name="spoken_accented_letter_00EB">"E ja treema"</string>
+    <string msgid="7643810590358306098" name="spoken_accented_letter_00EC">"I ja gravis"</string>
+    <string msgid="8288035355103120759" name="spoken_accented_letter_00ED">"I ja akuutti"</string>
+    <string msgid="1137417730211688894" name="spoken_accented_letter_00EE">"I ja sirkumfleksi"</string>
+    <string msgid="8993714322731956785" name="spoken_accented_letter_00EF">"I ja treema"</string>
+    <string msgid="3427567511221967857" name="spoken_accented_letter_00F0">"Eth"</string>
+    <string msgid="6983294908255378605" name="spoken_accented_letter_00F1">"N ja tilde"</string>
+    <string msgid="2623804069332183695" name="spoken_accented_letter_00F2">"O ja gravis"</string>
+    <string msgid="8945987631729216917" name="spoken_accented_letter_00F3">"O ja akuutti"</string>
+    <string msgid="2415494299699717276" name="spoken_accented_letter_00F4">"O ja sirkumfleksi"</string>
+    <string msgid="7320512716652765243" name="spoken_accented_letter_00F5">"O ja tilde"</string>
+    <string msgid="9101179351242478555" name="spoken_accented_letter_00F6">"O ja treema"</string>
+    <string msgid="1488324280918884122" name="spoken_accented_letter_00F8">"O ja vinoviiva yli"</string>
+    <string msgid="2823570256527173278" name="spoken_accented_letter_00F9">"U ja gravis"</string>
+    <string msgid="6883092085077298608" name="spoken_accented_letter_00FA">"U ja akuutti"</string>
+    <string msgid="4948239400399514418" name="spoken_accented_letter_00FB">"U ja sirkumfleksi"</string>
+    <string msgid="2496066211694000442" name="spoken_accented_letter_00FC">"U ja treema"</string>
+    <string msgid="2400529610834233890" name="spoken_accented_letter_00FD">"Y ja akuutti"</string>
+    <string msgid="8788160115017853040" name="spoken_accented_letter_00FE">"Thorn"</string>
+    <string msgid="5225610161025124830" name="spoken_accented_letter_00FF">"Y ja treema"</string>
+    <string msgid="5573209280917268157" name="spoken_accented_letter_0101">"A ja pituusmerkki"</string>
+    <string msgid="2469151120095164730" name="spoken_accented_letter_0103">"A ja lyhyysmerkki"</string>
+    <string msgid="8312689789855786427" name="spoken_accented_letter_0105">"A ja ogonek"</string>
+    <string msgid="5708507895287798642" name="spoken_accented_letter_0107">"C ja akuutti"</string>
+    <string msgid="7008112603489583335" name="spoken_accented_letter_0109">"C ja sirkumfleksi"</string>
+    <string msgid="5641359473019753216" name="spoken_accented_letter_010B">"C ja yläpuolinen piste"</string>
+    <string msgid="1048661826408437168" name="spoken_accented_letter_010D">"C ja hattu"</string>
+    <string msgid="603374318657992205" name="spoken_accented_letter_010F">"D ja hattu"</string>
+    <string msgid="5517997642285938260" name="spoken_accented_letter_0111">"D ja poikkiviiva"</string>
+    <string msgid="2326009009311798997" name="spoken_accented_letter_0113">"E ja pituusmerkki"</string>
+    <string msgid="3964545407091037747" name="spoken_accented_letter_0115">"E ja lyhyysmerkki"</string>
+    <string msgid="8799753183781089777" name="spoken_accented_letter_0117">"E ja yläpuolinen piste"</string>
+    <string msgid="3772451226935709136" name="spoken_accented_letter_0119">"E ja ogonek"</string>
+    <string msgid="7663481332351461288" name="spoken_accented_letter_011B">"E ja hattu"</string>
+    <string msgid="1181326600595482369" name="spoken_accented_letter_011D">"G ja sirkumfleksi"</string>
+    <string msgid="6843415389823096647" name="spoken_accented_letter_011F">"G ja lyhyysmerkki"</string>
+    <string msgid="6205288708713306903" name="spoken_accented_letter_0121">"G ja yläpuolinen piste"</string>
+    <string msgid="2394277128105386261" name="spoken_accented_letter_0123">"G ja sedilji"</string>
+    <string msgid="6575866461277751345" name="spoken_accented_letter_0125">"H ja sirkumfleksi"</string>
+    <string msgid="1316971762214091641" name="spoken_accented_letter_0127">"H ja poikkiviiva"</string>
+    <string msgid="7824912405885325754" name="spoken_accented_letter_0129">"I ja tilde"</string>
+    <string msgid="6772690258769905270" name="spoken_accented_letter_012B">"I ja pituusmerkki"</string>
+    <string msgid="2933871131556503448" name="spoken_accented_letter_012D">"I ja lyhyysmerkki"</string>
+    <string msgid="1340511254985181663" name="spoken_accented_letter_012F">"I ja ogonek"</string>
+    <string msgid="5635600720566083969" name="spoken_accented_letter_0131">"Pisteetön I"</string>
+    <string msgid="7593704176516791941" name="spoken_accented_letter_0133">"Ligatuuri ij"</string>
+    <string msgid="4521109674238248436" name="spoken_accented_letter_0135">"J ja sirkumfleksi"</string>
+    <string msgid="5886444641003852175" name="spoken_accented_letter_0137">"K ja sedilji"</string>
+    <string msgid="4200294389170924853" name="spoken_accented_letter_0138">"Kra"</string>
+    <string msgid="3558015385412543517" name="spoken_accented_letter_013A">"L ja akuutti"</string>
+    <string msgid="1853639924813858734" name="spoken_accented_letter_013C">"L ja sedilji"</string>
+    <string msgid="7489345561739421886" name="spoken_accented_letter_013E">"L ja hattu"</string>
+    <string msgid="7946718707268270589" name="spoken_accented_letter_0140">"L ja piste keskellä"</string>
+    <string msgid="752931798111122240" name="spoken_accented_letter_0142">"L ja vino poikkiviiva"</string>
+    <string msgid="201843550323875352" name="spoken_accented_letter_0144">"N ja akuutti"</string>
+    <string msgid="3403847152606051818" name="spoken_accented_letter_0146">"N ja sedilji"</string>
+    <string msgid="9215300786722209338" name="spoken_accented_letter_0148">"N ja hattu"</string>
+    <string msgid="3191850286630154063" name="spoken_accented_letter_0149">"N, jota edeltää heittomerkki"</string>
+    <string msgid="8503022408522837410" name="spoken_accented_letter_014B">"Äng"</string>
+    <string msgid="4452323602550610641" name="spoken_accented_letter_014D">"O ja pituusmerkki"</string>
+    <string msgid="2795957717094385336" name="spoken_accented_letter_014F">"O ja lyhyysmerkki"</string>
+    <string msgid="8013704745216410244" name="spoken_accented_letter_0151">"O ja kaksoisakuutti"</string>
+    <string msgid="8410582495993285221" name="spoken_accented_letter_0153">"Ligatuuri oe"</string>
+    <string msgid="7601517174689798560" name="spoken_accented_letter_0155">"R ja akuutti"</string>
+    <string msgid="9071455715455643810" name="spoken_accented_letter_0157">"R ja sedilji"</string>
+    <string msgid="7726911392381543439" name="spoken_accented_letter_0159">"R ja hattu"</string>
+    <string msgid="1854129531164494117" name="spoken_accented_letter_015B">"S ja akuutti"</string>
+    <string msgid="4743571603550582530" name="spoken_accented_letter_015D">"S ja sirkumfleksi"</string>
+    <string msgid="1519945638631588761" name="spoken_accented_letter_015F">"S ja sedilji"</string>
+    <string msgid="7493478552029144246" name="spoken_accented_letter_0161">"S ja hattu"</string>
+    <string msgid="9103547637928833069" name="spoken_accented_letter_0163">"T ja sedilji"</string>
+    <string msgid="7306159398214872062" name="spoken_accented_letter_0165">"T ja hattu"</string>
+    <string msgid="5578767705098672443" name="spoken_accented_letter_0167">"T ja poikkiviiva"</string>
+    <string msgid="413046581387735371" name="spoken_accented_letter_0169">"U ja tilde"</string>
+    <string msgid="3209778874978859441" name="spoken_accented_letter_016B">"U ja pituusmerkki"</string>
+    <string msgid="2983326533258602840" name="spoken_accented_letter_016D">"U ja lyhyysmerkki"</string>
+    <string msgid="4416532499516387231" name="spoken_accented_letter_016F">"U ja yläpuolinen ympyrä"</string>
+    <string msgid="3435171971353200807" name="spoken_accented_letter_0171">"U ja kaksoisakuutti"</string>
+    <string msgid="4494154432483553480" name="spoken_accented_letter_0173">"U ja ogonek"</string>
+    <string msgid="2154545579611918513" name="spoken_accented_letter_0175">"W ja sirkumfleksi"</string>
+    <string msgid="4034463827306904781" name="spoken_accented_letter_0177">"Y ja sirkumfleksi"</string>
+    <string msgid="3368292232292925369" name="spoken_accented_letter_017A">"Z ja akuutti"</string>
+    <string msgid="2834484584505860430" name="spoken_accented_letter_017C">"Z ja yläpuolinen piste"</string>
+    <string msgid="1209240442434887098" name="spoken_accented_letter_017E">"Z ja hattu"</string>
+    <string msgid="317501463253362415" name="spoken_accented_letter_017F">"Pitkä s"</string>
+    <string msgid="630186564859044196" name="spoken_accented_letter_01A1">"O ja sarvi"</string>
+    <string msgid="8544012177684640443" name="spoken_accented_letter_01B0">"U ja sarvi"</string>
+    <string msgid="1960371842020076066" name="spoken_accented_letter_0219">"S ja alapuolinen pilkku"</string>
+    <string msgid="1398418662032919032" name="spoken_accented_letter_021B">"T ja alapuolinen pilkku"</string>
+    <string msgid="2464085263158415898" name="spoken_accented_letter_0259">"Švaa"</string>
+    <string msgid="688124877202887630" name="spoken_accented_letter_1EA1">"A ja alapuolinen piste"</string>
+    <string msgid="327960130366386256" name="spoken_accented_letter_1EA3">"A ja yläpuolinen koukku"</string>
+    <string msgid="637406363453769610" name="spoken_accented_letter_1EA5">"A sekä sirkumfleksi ja akuutti"</string>
+    <string msgid="1419591804181615409" name="spoken_accented_letter_1EA7">"A sekä sirkumfleksi ja gravis"</string>
+    <string msgid="6068887382734896756" name="spoken_accented_letter_1EA9">"A sekä sirkumfleksi ja yläpuolinen koukku"</string>
+    <string msgid="7236523151662538333" name="spoken_accented_letter_1EAB">"A sekä sirkumfleksi ja tilde"</string>
+    <string msgid="2363364864106332076" name="spoken_accented_letter_1EAD">"A sekä sirkumfleksi ja alapuolinen piste"</string>
+    <string msgid="1576329511464272935" name="spoken_accented_letter_1EAF">"A sekä lyhyysmerkki ja akuutti"</string>
+    <string msgid="4634735072816076592" name="spoken_accented_letter_1EB1">"A sekä lyhyysmerkki ja gravis"</string>
+    <string msgid="2325245849038771534" name="spoken_accented_letter_1EB3">"A sekä lyhyysmerkki ja yläpuolinen koukku"</string>
+    <string msgid="3720427596242746295" name="spoken_accented_letter_1EB5">"A sekä lyhyysmerkki ja tilde"</string>
+    <string msgid="700415535653646695" name="spoken_accented_letter_1EB7">"A sekä lyhyysmerkki ja alapuolinen piste"</string>
+    <string msgid="3901338692305890487" name="spoken_accented_letter_1EB9">"E ja alapuolinen piste"</string>
+    <string msgid="4028688699415417302" name="spoken_accented_letter_1EBB">"E ja yläpuolinen koukku"</string>
+    <string msgid="181253633045931897" name="spoken_accented_letter_1EBD">"E ja tilde"</string>
+    <string msgid="3309618845007944963" name="spoken_accented_letter_1EBF">"E sekä sirkumfleksi ja akuutti"</string>
+    <string msgid="8139046749226332542" name="spoken_accented_letter_1EC1">"E sekä sirkumfleksi ja gravis"</string>
+    <string msgid="3239674223053133383" name="spoken_accented_letter_1EC3">"E sekä sirkumfleksi ja yläpuolinen koukku"</string>
+    <string msgid="2216559244705714587" name="spoken_accented_letter_1EC5">"E sekä sirkumfleksi ja tilde"</string>
+    <string msgid="9012731468253986792" name="spoken_accented_letter_1EC7">"E sekä sirkumfleksi ja alapuolinen piste"</string>
+    <string msgid="2901917620195717034" name="spoken_accented_letter_1EC9">"I ja yläpuolinen koukku"</string>
+    <string msgid="5470387489820034621" name="spoken_accented_letter_1ECB">"I ja alapuolinen piste"</string>
+    <string msgid="1340122876914839806" name="spoken_accented_letter_1ECD">"O ja alapuolinen piste"</string>
+    <string msgid="2326921263882559755" name="spoken_accented_letter_1ECF">"O ja yläpuolinen koukku"</string>
+    <string msgid="2885683296042774958" name="spoken_accented_letter_1ED1">"O sekä sirkumfleksi ja akuutti"</string>
+    <string msgid="6857664926477376178" name="spoken_accented_letter_1ED3">"O sekä sirkumfleksi ja gravis"</string>
+    <string msgid="2015209467290624062" name="spoken_accented_letter_1ED5">"O sekä sirkumfleksi ja yläpuolinen koukku"</string>
+    <string msgid="7924481354960306389" name="spoken_accented_letter_1ED7">"O sekä sirkumfleksi ja tilde"</string>
+    <string msgid="7023315590332365554" name="spoken_accented_letter_1ED9">"O sekä sirkumfleksi ja alapuolinen piste"</string>
+    <string msgid="2379438944917634496" name="spoken_accented_letter_1EDB">"O sekä sarvi ja akuutti"</string>
+    <string msgid="8107077534204404085" name="spoken_accented_letter_1EDD">"O sekä sarvi ja gravis"</string>
+    <string msgid="1846880105528347966" name="spoken_accented_letter_1EDF">"O sekä sarvi ja yläpuolinen koukku"</string>
+    <string msgid="1520037313389776718" name="spoken_accented_letter_1EE1">"O sekä sarvi ja tilde"</string>
+    <string msgid="907964027171008963" name="spoken_accented_letter_1EE3">"O sekä sarvi ja alapuolinen piste"</string>
+    <string msgid="1522024630360038700" name="spoken_accented_letter_1EE5">"U ja alapuolinen piste"</string>
+    <string msgid="7815412228302952637" name="spoken_accented_letter_1EE7">"U ja yläpuolinen koukku"</string>
+    <string msgid="4219119671251485651" name="spoken_accented_letter_1EE9">"U sekä sarvi ja akuutti"</string>
+    <string msgid="4086009841269002231" name="spoken_accented_letter_1EEB">"U sekä sarvi ja gravis"</string>
+    <string msgid="3528151733528719847" name="spoken_accented_letter_1EED">"U sekä sarvi ja yläpuolinen koukku"</string>
+    <string msgid="3508548229409072119" name="spoken_accented_letter_1EEF">"U sekä sarvi ja tilde"</string>
+    <string msgid="1912816350401931115" name="spoken_accented_letter_1EF1">"U sekä sarvi ja alapuolinen piste"</string>
+    <string msgid="7211760439435946494" name="spoken_accented_letter_1EF3">"Y ja gravis"</string>
+    <string msgid="8998864482764007384" name="spoken_accented_letter_1EF5">"Y ja alapuolinen piste"</string>
+    <string msgid="922043627252869200" name="spoken_accented_letter_1EF7">"Y ja yläpuolinen koukku"</string>
+    <string msgid="6213977100552260366" name="spoken_accented_letter_1EF9">"Y ja tilde"</string>
+    <string msgid="8989324692167993804" name="spoken_auto_correct">"<ns1:g id="KEY_NAME">%1$s</ns1:g> korjaa sanan <ns1:g id="ORIGINAL_WORD">%2$s</ns1:g> sanaksi <ns1:g id="CORRECTED_WORD">%3$s</ns1:g>"</string>
+    <string msgid="7769449372355268412" name="spoken_auto_correct_obscured">"<ns1:g id="KEY_NAME">%1$s</ns1:g> suorittaa automaattisen korjauksen"</string>
+    <string msgid="3524914657934712026" name="spoken_close_more_keys_keyboard">"Vaihtoehtoiset merkit hylättiin"</string>
+    <string msgid="9118455416075032839" name="spoken_close_more_suggestions">"Vaihtoehtoiset ehdotukset hylättiin"</string>
+    <string msgid="4240549866156675799" name="spoken_current_text_is">"Nykyinen teksti on %s"</string>
+    <string msgid="431761808119616962" name="spoken_description_action_next">"Seuraava"</string>
+    <string msgid="2919072174697865110" name="spoken_description_action_previous">"Edellinen"</string>
+    <string msgid="1224851412185975036" name="spoken_description_caps_lock">"Vaihto"</string>
+    <string msgid="3878902286264983302" name="spoken_description_delete">"Delete"</string>
+    <string msgid="5644176501632325560" name="spoken_description_dot">"Piste"</string>
+    <string msgid="7990051553008088470" name="spoken_description_emoji">"Emoji"</string>
+    <string msgid="6818666779313544553" name="spoken_description_language_switch">"Vaihda kieli"</string>
+    <string msgid="6153138783813452464" name="spoken_description_mic">"Äänisyöte"</string>
+    <string msgid="4676004119618778911" name="spoken_description_mode_alpha">"Näppäimistötila"</string>
+    <string msgid="2061220553756692903" name="spoken_description_mode_phone">"Puhelintila"</string>
+    <string msgid="7879963803547701090" name="spoken_description_mode_phone_shift">"Puhelinsymbolit-tila"</string>
+    <string msgid="111186851131446691" name="spoken_description_mode_symbol">"Symbolit-tila"</string>
+    <string msgid="4305607977537665389" name="spoken_description_mode_symbol_shift">"Lisää symboleita -tila"</string>
+    <string msgid="3183692287397645708" name="spoken_description_return">"Enter"</string>
+    <string msgid="5099937658231911288" name="spoken_description_search">"Haku"</string>
+    <string msgid="7281251004003143204" name="spoken_description_settings">"Asetukset"</string>
+    <string msgid="7209798151676638728" name="spoken_description_shift">"Vaihto"</string>
+    <string msgid="3122704922642232605" name="spoken_description_shift_shifted">"Vaihto"</string>
+    <string msgid="7307477738053606881" name="spoken_description_shiftmode_locked">"Caps Lock päällä"</string>
+    <string msgid="5107180516341258979" name="spoken_description_shiftmode_on">"Vaihto päällä"</string>
+    <string msgid="5908716896642059145" name="spoken_description_space">"Välilyönti"</string>
+    <string msgid="3483198879916435717" name="spoken_description_symbols_shift">"Lisää symboleita"</string>
+    <string msgid="5179175466878186081" name="spoken_description_symbols_shift_shifted">"Symbolit"</string>
+    <string msgid="8210782459446866716" name="spoken_description_tab">"Sarkain"</string>
+    <string msgid="4081215210530031950" name="spoken_description_to_alpha">"Kirjaimet"</string>
+    <string msgid="4560261331530795682" name="spoken_description_to_numeric">"Numerot"</string>
+    <string msgid="8244903740201126590" name="spoken_description_to_symbol">"Symbolit"</string>
+    <string msgid="5139930082759824442" name="spoken_description_unknown">"Tuntematon merkki"</string>
+    <string msgid="4904835255229433916" name="spoken_description_upper_case">"Suuraakkonen <ns1:g id="LOWER_LETTER">%s</ns1:g>"</string>
+    <string msgid="456737544787823539" name="spoken_descrption_emoji_category_emoticons">"Hymiöt"</string>
+    <string msgid="5018340512472354640" name="spoken_descrption_emoji_category_nature">"Luonto"</string>
+    <string msgid="6116297906606195278" name="spoken_descrption_emoji_category_objects">"Esineet"</string>
+    <string msgid="8414196269847492817" name="spoken_descrption_emoji_category_people">"Ihmiset"</string>
+    <string msgid="1163315840948545317" name="spoken_descrption_emoji_category_places">"Paikat"</string>
+    <string msgid="4185344945205590692" name="spoken_descrption_emoji_category_recents">"Viimeisimmät"</string>
+    <string msgid="474680659024880601" name="spoken_descrption_emoji_category_symbols">"Symbolit"</string>
+    <string msgid="2859822817116803638" name="spoken_emoji_00A9">"Copyright-merkki"</string>
+    <string msgid="7708335454134589027" name="spoken_emoji_00AE">"Rekisteröidyn tavaramerkin merkki"</string>
+    <string msgid="1705216181345894600" name="spoken_emoji_1F004">"Mahjong-laatta, punainen lohikäärme"</string>
+    <string msgid="7601493592085987866" name="spoken_emoji_1F0CF">"Pelikortti, musta jokeri"</string>
+    <string msgid="3817698686602826773" name="spoken_emoji_1F170">"Veriryhmä A"</string>
+    <string msgid="3684218589626650242" name="spoken_emoji_1F171">"Veriryhmä B"</string>
+    <string msgid="2978809190364779029" name="spoken_emoji_1F17E">"Veriryhmä O"</string>
+    <string msgid="463634348668462040" name="spoken_emoji_1F17F">"Pysäköintialue"</string>
+    <string msgid="1650705325221496768" name="spoken_emoji_1F18E">"Veriryhmä AB"</string>
+    <string msgid="5386969264431429221" name="spoken_emoji_1F191">"CL neliön sisällä"</string>
+    <string msgid="8324226436829162496" name="spoken_emoji_1F192">"Sana COOL neliön sisällä"</string>
+    <string msgid="4731758603321515364" name="spoken_emoji_1F193">"Sana FREE neliön sisällä"</string>
+    <string msgid="4903128609556175887" name="spoken_emoji_1F194">"ID neliön sisällä"</string>
+    <string msgid="1433142500411060924" name="spoken_emoji_1F195">"Sana NEW neliön sisällä"</string>
+    <string msgid="8825160701159634202" name="spoken_emoji_1F196">"NG neliön sisällä"</string>
+    <string msgid="7841079241554176535" name="spoken_emoji_1F197">"OK neliön sisällä"</string>
+    <string msgid="7020298909426960622" name="spoken_emoji_1F198">"SOS neliön sisällä"</string>
+    <string msgid="5971252667136235630" name="spoken_emoji_1F199">"Sana UP ja huutomerkki neliön sisällä"</string>
+    <string msgid="4557270135899843959" name="spoken_emoji_1F19A">"VS neliön sisällä"</string>
+    <string msgid="7000490044681139002" name="spoken_emoji_1F201">"Katakana täällä neliön sisällä"</string>
+    <string msgid="8560906958695043947" name="spoken_emoji_1F202">"Katakana palvelu neliön sisällä"</string>
+    <string msgid="1496435317324514033" name="spoken_emoji_1F21A">"Ideogrammi maksuton neliön sisällä"</string>
+    <string msgid="609797148862445402" name="spoken_emoji_1F22F">"Ideogrammi varattu paikka neliön sisällä"</string>
+    <string msgid="8125716331632035820" name="spoken_emoji_1F232">"Ideogrammi kielto neliön sisällä"</string>
+    <string msgid="8749401090457355028" name="spoken_emoji_1F233">"Ideogrammi vapaita paikkoja neliön sisällä"</string>
+    <string msgid="3546951604285970768" name="spoken_emoji_1F234">"Ideogrammi hyväksyntä neliön sisällä"</string>
+    <string msgid="5320186982841793711" name="spoken_emoji_1F235">"Ideogrammi täynnä neliön sisällä"</string>
+    <string msgid="879755752069393034" name="spoken_emoji_1F236">"Ideogrammi maksettu neliön sisällä"</string>
+    <string msgid="6741807001205851437" name="spoken_emoji_1F237">"Ideogrammi kuukausittain neliön sisällä"</string>
+    <string msgid="5504414186438196912" name="spoken_emoji_1F238">"Ideogrammi tilaus neliön sisällä"</string>
+    <string msgid="1634067311597618959" name="spoken_emoji_1F239">"Ideogrammi alennus neliön sisällä"</string>
+    <string msgid="3107862957630169536" name="spoken_emoji_1F23A">"Ideogrammi liiketoiminta neliön sisällä"</string>
+    <string msgid="6586943922806727907" name="spoken_emoji_1F250">"Ideogrammi etu neliön sisällä"</string>
+    <string msgid="9099032855993346948" name="spoken_emoji_1F251">"Ideogrammi hyväksy ympyrän sisällä"</string>
+    <string msgid="4720098285295840383" name="spoken_emoji_1F300">"Pyörremyrsky"</string>
+    <string msgid="3601962477653752974" name="spoken_emoji_1F301">"Sumu"</string>
+    <string msgid="3404357123421753593" name="spoken_emoji_1F302">"Suljettu sateenvarjo"</string>
+    <string msgid="3899301321538188206" name="spoken_emoji_1F303">"Yömaisema"</string>
+    <string msgid="2767148930689050040" name="spoken_emoji_1F304">"Auringonnousu vuorilla"</string>
+    <string msgid="9165812924292061196" name="spoken_emoji_1F305">"Auringonnousu"</string>
+    <string msgid="5889294736109193104" name="spoken_emoji_1F306">"Kaupunkimaisema hämärässä"</string>
+    <string msgid="2714290867291163713" name="spoken_emoji_1F307">"Auringonlasku rakennusten taakse"</string>
+    <string msgid="688704703985173377" name="spoken_emoji_1F308">"Sateenkaari"</string>
+    <string msgid="6217981957992313528" name="spoken_emoji_1F309">"Silta yöllä"</string>
+    <string msgid="4329309263152110893" name="spoken_emoji_1F30A">"Vaahtopää"</string>
+    <string msgid="5729430693700923112" name="spoken_emoji_1F30B">"Tulivuori"</string>
+    <string msgid="2961230863217543082" name="spoken_emoji_1F30C">"Linnunrata"</string>
+    <string msgid="1113905673331547953" name="spoken_emoji_1F30D">"Maapallo, Eurooppa – Afrikka"</string>
+    <string msgid="5278512600749223671" name="spoken_emoji_1F30E">"Maapallo, Amerikat"</string>
+    <string msgid="5718144880978707493" name="spoken_emoji_1F30F">"Maapallo Aasia – Australia"</string>
+    <string msgid="2959618582975247601" name="spoken_emoji_1F310">"Maapallo ja pituuspiirit"</string>
+    <string msgid="623906380914895542" name="spoken_emoji_1F311">"Uudenkuun symboli"</string>
+    <string msgid="4458575672576125401" name="spoken_emoji_1F312">"Kasvavan kuunsirpin symboli"</string>
+    <string msgid="7599181787989497294" name="spoken_emoji_1F313">"Kuun ensimmäisen neljänneksen symboli"</string>
+    <string msgid="4898293184964365413" name="spoken_emoji_1F314">"Kasvavan puolikuun symboli"</string>
+    <string msgid="3218117051779496309" name="spoken_emoji_1F315">"Täysikuun symboli"</string>
+    <string msgid="2061317145777689569" name="spoken_emoji_1F316">"Vähenevän kuun symboli"</string>
+    <string msgid="2721090687319539049" name="spoken_emoji_1F317">"Kuun viimeisen neljänneksen symboli"</string>
+    <string msgid="3814091755648887570" name="spoken_emoji_1F318">"Vähenevän kuunsirpin symboli"</string>
+    <string msgid="4074299824890459465" name="spoken_emoji_1F319">"Kuunsirppi"</string>
+    <string msgid="3092285278116977103" name="spoken_emoji_1F31A">"Uusikuu, jolla kasvot"</string>
+    <string msgid="2658562138386927881" name="spoken_emoji_1F31B">"Ensimmäisen neljänneksen kuu, jolla kasvot"</string>
+    <string msgid="7914768515547867384" name="spoken_emoji_1F31C">"Viimeisen neljänneksen kuu, jolla kasvot"</string>
+    <string msgid="1925730459848297182" name="spoken_emoji_1F31D">"Täysikuu, jolla kasvot"</string>
+    <string msgid="8022112382524084418" name="spoken_emoji_1F31E">"Aurinko, jolla kasvot"</string>
+    <string msgid="1051661214137766369" name="spoken_emoji_1F31F">"Loistava tähti"</string>
+    <string msgid="5450591979068216115" name="spoken_emoji_1F320">"Tähdenlento"</string>
+    <string msgid="3115760035618051575" name="spoken_emoji_1F330">"Kastanja"</string>
+    <string msgid="5658888205290008691" name="spoken_emoji_1F331">"Taimi"</string>
+    <string msgid="2935650450421165938" name="spoken_emoji_1F332">"Havupuu"</string>
+    <string msgid="5898847427062482675" name="spoken_emoji_1F333">"Lehtipuu"</string>
+    <string msgid="6183375224678417894" name="spoken_emoji_1F334">"Palmu"</string>
+    <string msgid="5352418412103584941" name="spoken_emoji_1F335">"Kaktus"</string>
+    <string msgid="3839107352363566289" name="spoken_emoji_1F337">"Tulppaani"</string>
+    <string msgid="6389970364260468490" name="spoken_emoji_1F338">"Kirsikankukka"</string>
+    <string msgid="9128891447985256151" name="spoken_emoji_1F339">"Ruusu"</string>
+    <string msgid="2025828400095233078" name="spoken_emoji_1F33A">"Kiinanruusu"</string>
+    <string msgid="8163868254348448552" name="spoken_emoji_1F33B">"Auringonkukka"</string>
+    <string msgid="6850371206262335812" name="spoken_emoji_1F33C">"Kukka"</string>
+    <string msgid="9033484052864509610" name="spoken_emoji_1F33D">"Maissintähkä"</string>
+    <string msgid="2540173396638444120" name="spoken_emoji_1F33E">"Riisintähkä"</string>
+    <string msgid="4384823344364908558" name="spoken_emoji_1F33F">"Yrtti"</string>
+    <string msgid="3494255459156499305" name="spoken_emoji_1F340">"Neliapila"</string>
+    <string msgid="4581959481754990158" name="spoken_emoji_1F341">"Vaahteranlehti"</string>
+    <string msgid="3119068426871821222" name="spoken_emoji_1F342">"Pudonnut lehti"</string>
+    <string msgid="2663317495805149004" name="spoken_emoji_1F343">"Tuulessa leijaileva lehti"</string>
+    <string msgid="2738517881678722159" name="spoken_emoji_1F344">"Sieni"</string>
+    <string msgid="6135288642349085554" name="spoken_emoji_1F345">"Tomaatti"</string>
+    <string msgid="2075395322785406367" name="spoken_emoji_1F346">"Munakoiso"</string>
+    <string msgid="7753453754963890571" name="spoken_emoji_1F347">"Viinirypäleet"</string>
+    <string msgid="1247076837284932788" name="spoken_emoji_1F348">"Meloni"</string>
+    <string msgid="5563054555180611086" name="spoken_emoji_1F349">"Vesimeloni"</string>
+    <string msgid="4688661208570160524" name="spoken_emoji_1F34A">"Mandariini"</string>
+    <string msgid="4335318423164185706" name="spoken_emoji_1F34B">"Sitruuna"</string>
+    <string msgid="3712827239858159474" name="spoken_emoji_1F34C">"Banaani"</string>
+    <string msgid="7712521967162622936" name="spoken_emoji_1F34D">"Ananas"</string>
+    <string msgid="1859466882598614228" name="spoken_emoji_1F34E">"Punainen omena"</string>
+    <string msgid="8251711032295005633" name="spoken_emoji_1F34F">"Vihreä omena"</string>
+    <string msgid="625802980159197701" name="spoken_emoji_1F350">"Päärynä"</string>
+    <string msgid="4269460120610911895" name="spoken_emoji_1F351">"Persikka"</string>
+    <string msgid="965600953360182635" name="spoken_emoji_1F352">"Kirsikat"</string>
+    <string msgid="7068623879906925592" name="spoken_emoji_1F353">"Mansikka"</string>
+    <string msgid="45162285238888494" name="spoken_emoji_1F354">"Hampurilainen"</string>
+    <string msgid="9157587635526433283" name="spoken_emoji_1F355">"Pitsapala"</string>
+    <string msgid="2667196119149852244" name="spoken_emoji_1F356">"Lihainen luu"</string>
+    <string msgid="8022817413851052256" name="spoken_emoji_1F357">"Kanankoipi"</string>
+    <string msgid="3042693264748036476" name="spoken_emoji_1F358">"Riisikeksi"</string>
+    <string msgid="3988148661730121958" name="spoken_emoji_1F359">"Riisipallo"</string>
+    <string msgid="1763824172198327268" name="spoken_emoji_1F35A">"Keitetty riisi"</string>
+    <string msgid="62530406745717835" name="spoken_emoji_1F35B">"Curry ja riisi"</string>
+    <string msgid="7537756539198945509" name="spoken_emoji_1F35C">"Höyryävä kulho"</string>
+    <string msgid="8173523083861875196" name="spoken_emoji_1F35D">"Spagetti"</string>
+    <string msgid="2935428307894662571" name="spoken_emoji_1F35E">"Leipä"</string>
+    <string msgid="4840297386785728443" name="spoken_emoji_1F35F">"Ranskalaiset perunat"</string>
+    <string msgid="4094659855684686801" name="spoken_emoji_1F360">"Jamssi"</string>
+    <string msgid="6475486395784096109" name="spoken_emoji_1F361">"Dango"</string>
+    <string msgid="5004692577661076275" name="spoken_emoji_1F362">"Oden"</string>
+    <string msgid="1606603765717743806" name="spoken_emoji_1F363">"Sushi"</string>
+    <string msgid="6550457766169570811" name="spoken_emoji_1F364">"Friteeratut katkaravut"</string>
+    <string msgid="4963815540953316307" name="spoken_emoji_1F365">"Surimiviipale, jossa pyörrekuvio"</string>
+    <string msgid="7862401745277049404" name="spoken_emoji_1F366">"Pehmytjäätelö"</string>
+    <string msgid="7447972978281980414" name="spoken_emoji_1F367">"Murskattu jää"</string>
+    <string msgid="7790003146142724913" name="spoken_emoji_1F368">"Jäätelö"</string>
+    <string msgid="7383712944084857350" name="spoken_emoji_1F369">"Donitsi"</string>
+    <string msgid="2726271795913042295" name="spoken_emoji_1F36A">"Pikkuleipä"</string>
+    <string msgid="6342163604299875931" name="spoken_emoji_1F36B">"Suklaapatukka"</string>
+    <string msgid="2168934753998218790" name="spoken_emoji_1F36C">"Karamelli"</string>
+    <string msgid="3671507903799975792" name="spoken_emoji_1F36D">"Tikkari"</string>
+    <string msgid="4630541402785165902" name="spoken_emoji_1F36E">"Vanukas"</string>
+    <string msgid="5577915387425169439" name="spoken_emoji_1F36F">"Hunajapurkki"</string>
+    <string msgid="7243244547866114951" name="spoken_emoji_1F370">"Kakkuviipale"</string>
+    <string msgid="6731527040552916358" name="spoken_emoji_1F371">"Bento-lounaslaatikko"</string>
+    <string msgid="1635035323832181733" name="spoken_emoji_1F372">"Ruokapata"</string>
+    <string msgid="7799289534289221045" name="spoken_emoji_1F373">"Ruoanlaitto"</string>
+    <string msgid="5973820884987069131" name="spoken_emoji_1F374">"Haarukka ja veitsi"</string>
+    <string msgid="1074832087699617700" name="spoken_emoji_1F375">"Teekuppi ilman korvaa"</string>
+    <string msgid="6499274685584852067" name="spoken_emoji_1F376">"Sake-pullo ja kuppi"</string>
+    <string msgid="1762398562314172075" name="spoken_emoji_1F377">"Viinilasi"</string>
+    <string msgid="5528234560590117516" name="spoken_emoji_1F378">"Cocktail-lasi"</string>
+    <string msgid="790581290787943325" name="spoken_emoji_1F379">"Trooppinen drinkki"</string>
+    <string msgid="391966822450619516" name="spoken_emoji_1F37A">"Oluttuoppi"</string>
+    <string msgid="9015043286465670662" name="spoken_emoji_1F37B">"Kippistävät olutmukit"</string>
+    <string msgid="2532113819464508894" name="spoken_emoji_1F37C">"Tuttipullo"</string>
+    <string msgid="3487363857092458827" name="spoken_emoji_1F380">"Rusetti"</string>
+    <string msgid="614180683680675444" name="spoken_emoji_1F381">"Lahjapaketti"</string>
+    <string msgid="4720497171946687501" name="spoken_emoji_1F382">"Syntymäpäiväkakku"</string>
+    <string msgid="3536505941578757623" name="spoken_emoji_1F383">"Kurpitsalyhty"</string>
+    <string msgid="1797870204479059004" name="spoken_emoji_1F384">"Joulukuusi"</string>
+    <string msgid="1754174063483626367" name="spoken_emoji_1F385">"Joulupukki"</string>
+    <string msgid="2130445450758114746" name="spoken_emoji_1F386">"Ilotulitus"</string>
+    <string msgid="3403182563117999933" name="spoken_emoji_1F387">"Tähtisadetikku"</string>
+    <string msgid="2903047203723251804" name="spoken_emoji_1F388">"Ilmapallo"</string>
+    <string msgid="2352830665883549388" name="spoken_emoji_1F389">"Konfettipommi"</string>
+    <string msgid="6280428984773641322" name="spoken_emoji_1F38A">"Konfettipallo"</string>
+    <string msgid="4902225837479015489" name="spoken_emoji_1F38B">"Tanabata-puu"</string>
+    <string msgid="7623268024030989365" name="spoken_emoji_1F38C">"Liput ristikkäin"</string>
+    <string msgid="8237542796124408528" name="spoken_emoji_1F38D">"Japanilainen mäntykoriste"</string>
+    <string msgid="5373397476238212371" name="spoken_emoji_1F38E">"Japanilaiset nuket"</string>
+    <string msgid="8754091376829552844" name="spoken_emoji_1F38F">"Kalanmuotoiset tuulipussit"</string>
+    <string msgid="8903307048095431374" name="spoken_emoji_1F390">"Tuulikello"</string>
+    <string msgid="2134952069191911841" name="spoken_emoji_1F391">"Kuujuhla"</string>
+    <string msgid="6380405493914304737" name="spoken_emoji_1F392">"Koululaukku"</string>
+    <string msgid="6947890064872470996" name="spoken_emoji_1F393">"Valmistujaislakki"</string>
+    <string msgid="3572095190082826057" name="spoken_emoji_1F3A0">"Karusellihevonen"</string>
+    <string msgid="4300565511681058798" name="spoken_emoji_1F3A1">"Maailmanpyörä"</string>
+    <string msgid="15486093912232140" name="spoken_emoji_1F3A2">"Vuoristorata"</string>
+    <string msgid="921739319504942924" name="spoken_emoji_1F3A3">"Onki ja kala"</string>
+    <string msgid="7497596355346856950" name="spoken_emoji_1F3A4">"Mikrofoni"</string>
+    <string msgid="4290497821228183002" name="spoken_emoji_1F3A5">"Elokuvakamera"</string>
+    <string msgid="26019057872319055" name="spoken_emoji_1F3A6">"Elokuvateatteri"</string>
+    <string msgid="837856608794094105" name="spoken_emoji_1F3A7">"Kuulokkeet"</string>
+    <string msgid="2332260356509244587" name="spoken_emoji_1F3A8">"Taiteilijan paletti"</string>
+    <string msgid="9045869366525115256" name="spoken_emoji_1F3A9">"Silinterihattu"</string>
+    <string msgid="5728760354237132" name="spoken_emoji_1F3AA">"Sirkusteltta"</string>
+    <string msgid="1657997517193216284" name="spoken_emoji_1F3AB">"Lippu"</string>
+    <string msgid="4317366554314492152" name="spoken_emoji_1F3AC">"Klaffi"</string>
+    <string msgid="607157286336130470" name="spoken_emoji_1F3AD">"Näyttämötaide"</string>
+    <string msgid="2902308174671548150" name="spoken_emoji_1F3AE">"Videopeli"</string>
+    <string msgid="5420539221790296407" name="spoken_emoji_1F3AF">"Napakymppi"</string>
+    <string msgid="7440244806527891956" name="spoken_emoji_1F3B0">"Peliautomaatti"</string>
+    <string msgid="545544382391379234" name="spoken_emoji_1F3B1">"Biljardi"</string>
+    <string msgid="8302262034774787493" name="spoken_emoji_1F3B2">"Arpakuutio"</string>
+    <string msgid="5180870610771027520" name="spoken_emoji_1F3B3">"Keilailu"</string>
+    <string msgid="4723852033266071564" name="spoken_emoji_1F3B4">"Hanafuda-pelikortit"</string>
+    <string msgid="1998470239850548554" name="spoken_emoji_1F3B5">"Nuotti"</string>
+    <string msgid="3827730457113941705" name="spoken_emoji_1F3B6">"Nuotteja"</string>
+    <string msgid="5503403099445042180" name="spoken_emoji_1F3B7">"Saksofoni"</string>
+    <string msgid="3985658156795011430" name="spoken_emoji_1F3B8">"Kitara"</string>
+    <string msgid="5596295757967881451" name="spoken_emoji_1F3B9">"Koskettimet"</string>
+    <string msgid="4284064120340683558" name="spoken_emoji_1F3BA">"Trumpetti"</string>
+    <string msgid="2856598510069988745" name="spoken_emoji_1F3BB">"Viulu"</string>
+    <string msgid="1608424748821446230" name="spoken_emoji_1F3BC">"Nuottiviivasto"</string>
+    <string msgid="5490786111375627777" name="spoken_emoji_1F3BD">"Juoksupaita"</string>
+    <string msgid="1851613105691627931" name="spoken_emoji_1F3BE">"Tennismaila ja pallo"</string>
+    <string msgid="6862405997423247921" name="spoken_emoji_1F3BF">"Suksi ja mono"</string>
+    <string msgid="7421420756115104085" name="spoken_emoji_1F3C0">"Koripallo ja kori"</string>
+    <string msgid="6926537251677319922" name="spoken_emoji_1F3C1">"Ruutulippu"</string>
+    <string msgid="5708596929237987082" name="spoken_emoji_1F3C2">"Lumilautailija"</string>
+    <string msgid="5850982999510115824" name="spoken_emoji_1F3C3">"Juoksija"</string>
+    <string msgid="8468355585994639838" name="spoken_emoji_1F3C4">"Lainelautailija"</string>
+    <string msgid="9094474706847545409" name="spoken_emoji_1F3C6">"Palkintopokaali"</string>
+    <string msgid="8172206200368370116" name="spoken_emoji_1F3C7">"Laukkakilpailut"</string>
+    <string msgid="5619171461277597709" name="spoken_emoji_1F3C8">"Amerikkalainen jalkapallo"</string>
+    <string msgid="6371294008765871043" name="spoken_emoji_1F3C9">"Rugby-pallo"</string>
+    <string msgid="130977831787806932" name="spoken_emoji_1F3CA">"Uimari"</string>
+    <string msgid="6277213201655811842" name="spoken_emoji_1F3E0">"Talo"</string>
+    <string msgid="233476176077538885" name="spoken_emoji_1F3E1">"Talo ja puutarha"</string>
+    <string msgid="919736380093964570" name="spoken_emoji_1F3E2">"Toimistorakennus"</string>
+    <string msgid="6177606081825094184" name="spoken_emoji_1F3E3">"Japanilainen postitoimisto"</string>
+    <string msgid="717377871070970293" name="spoken_emoji_1F3E4">"Eurooppalainen postitoimisto"</string>
+    <string msgid="1350532500431776780" name="spoken_emoji_1F3E5">"Sairaala"</string>
+    <string msgid="342132788513806214" name="spoken_emoji_1F3E6">"Pankki"</string>
+    <string msgid="6322352038284944265" name="spoken_emoji_1F3E7">"Pankkiautomaatti"</string>
+    <string msgid="5864918444350599907" name="spoken_emoji_1F3E8">"Hotelli"</string>
+    <string msgid="7830416185375326938" name="spoken_emoji_1F3E9">"Japanilainen love-hotelli"</string>
+    <string msgid="5081084413084360479" name="spoken_emoji_1F3EA">"Päivittäistavarakauppa"</string>
+    <string msgid="7010966528205150525" name="spoken_emoji_1F3EB">"Koulu"</string>
+    <string msgid="4845978861878295154" name="spoken_emoji_1F3EC">"Tavaratalo"</string>
+    <string msgid="3980316226665215370" name="spoken_emoji_1F3ED">"Tehdas"</string>
+    <string msgid="1253964276770550248" name="spoken_emoji_1F3EE">"Izakaya-ravintolan lyhty"</string>
+    <string msgid="1128975573507389883" name="spoken_emoji_1F3EF">"Japanilainen linna"</string>
+    <string msgid="1544632297502291578" name="spoken_emoji_1F3F0">"Eurooppalainen linna"</string>
+    <string msgid="2063034795679578294" name="spoken_emoji_1F400">"Rotta"</string>
+    <string msgid="6736421616217369594" name="spoken_emoji_1F401">"Hiiri"</string>
+    <string msgid="7276670995895485604" name="spoken_emoji_1F402">"Härkä"</string>
+    <string msgid="8045709541897118928" name="spoken_emoji_1F403">"Vesipuhveli"</string>
+    <string msgid="5240777285676662335" name="spoken_emoji_1F404">"Lehmä"</string>
+    <string msgid="5163461930159540018" name="spoken_emoji_1F406">"Leopardi"</string>
+    <string msgid="6905370221172708160" name="spoken_emoji_1F407">"Jänis"</string>
+    <string msgid="1362164550508207284" name="spoken_emoji_1F408">"Kissa"</string>
+    <string msgid="8476130983168866013" name="spoken_emoji_1F409">"Lohikäärme"</string>
+    <string msgid="1149626786411545043" name="spoken_emoji_1F40A">"Krokotiili"</string>
+    <string msgid="5199104921208397643" name="spoken_emoji_1F40B">"Valas"</string>
+    <string msgid="2704006052881702675" name="spoken_emoji_1F40C">"Etana"</string>
+    <string msgid="8648186663643157522" name="spoken_emoji_1F40D">"Käärme"</string>
+    <string msgid="7219137467573327268" name="spoken_emoji_1F40E">"Hevonen"</string>
+    <string msgid="7834336676729040395" name="spoken_emoji_1F40F">"Pässi"</string>
+    <string msgid="8686765722255775031" name="spoken_emoji_1F410">"Vuohi"</string>
+    <string msgid="3585715397876383525" name="spoken_emoji_1F411">"Lammas"</string>
+    <string msgid="4924794582980077838" name="spoken_emoji_1F412">"Apina"</string>
+    <string msgid="1460475310405677377" name="spoken_emoji_1F413">"Kukko"</string>
+    <string msgid="5857296282631892219" name="spoken_emoji_1F414">"Kana"</string>
+    <string msgid="5920041074892949527" name="spoken_emoji_1F415">"Koira"</string>
+    <string msgid="4362403392912540286" name="spoken_emoji_1F416">"Sika"</string>
+    <string msgid="6836978415840795128" name="spoken_emoji_1F417">"Villisika"</string>
+    <string msgid="7926161463897783691" name="spoken_emoji_1F418">"Norsu"</string>
+    <string msgid="1055233959755784186" name="spoken_emoji_1F419">"Mustekala"</string>
+    <string msgid="5195666556511558060" name="spoken_emoji_1F41A">"Simpukankuori"</string>
+    <string msgid="7652480167465557832" name="spoken_emoji_1F41B">"Hyönteinen"</string>
+    <string msgid="1123461148697574239" name="spoken_emoji_1F41C">"Muurahainen"</string>
+    <string msgid="718579308764058851" name="spoken_emoji_1F41D">"Mehiläinen"</string>
+    <string msgid="6766305509608115467" name="spoken_emoji_1F41E">"Leppäkerttu"</string>
+    <string msgid="1207261298343160838" name="spoken_emoji_1F41F">"Kala"</string>
+    <string msgid="1041145003133609221" name="spoken_emoji_1F420">"Trooppinen kala"</string>
+    <string msgid="1748378324417438751" name="spoken_emoji_1F421">"Pallokala"</string>
+    <string msgid="4106724877523329148" name="spoken_emoji_1F422">"Kilpikonna"</string>
+    <string msgid="4077407945958691907" name="spoken_emoji_1F423">"Kuoriutuva kananpoika"</string>
+    <string msgid="6911326019270172283" name="spoken_emoji_1F424">"Kananpoika"</string>
+    <string msgid="5466514196557885577" name="spoken_emoji_1F425">"Eteenpäin katsova kananpoika"</string>
+    <string msgid="2163979138772892755" name="spoken_emoji_1F426">"Lintu"</string>
+    <string msgid="3585670324511212961" name="spoken_emoji_1F427">"Pingviini"</string>
+    <string msgid="7955440808647898579" name="spoken_emoji_1F428">"Koala"</string>
+    <string msgid="5028269352809819035" name="spoken_emoji_1F429">"Villakoira"</string>
+    <string msgid="4681926706404032484" name="spoken_emoji_1F42A">"Yksikyttyräinen kameli"</string>
+    <string msgid="2725166074981558322" name="spoken_emoji_1F42B">"Kaksikyttyräinen kameli"</string>
+    <string msgid="6764791873413727085" name="spoken_emoji_1F42C">"Delfiini"</string>
+    <string msgid="1033643138546864251" name="spoken_emoji_1F42D">"Hiiren pää"</string>
+    <string msgid="8099223337120508820" name="spoken_emoji_1F42E">"Lehmän pää"</string>
+    <string msgid="2104743989330781572" name="spoken_emoji_1F42F">"Tiikerin pää"</string>
+    <string msgid="525492897063150160" name="spoken_emoji_1F430">"Jäniksen pää"</string>
+    <string msgid="6051358666235016851" name="spoken_emoji_1F431">"Kissan pää"</string>
+    <string msgid="7698001871193018305" name="spoken_emoji_1F432">"Lohikäärmeen pää"</string>
+    <string msgid="3762356053512899326" name="spoken_emoji_1F433">"Valas ja vesisuihku"</string>
+    <string msgid="3619943222159943226" name="spoken_emoji_1F434">"Hevosen pää"</string>
+    <string msgid="59199202683252958" name="spoken_emoji_1F435">"Apinan pää"</string>
+    <string msgid="340544719369009828" name="spoken_emoji_1F436">"Koiran pää"</string>
+    <string msgid="1219818379784982585" name="spoken_emoji_1F437">"Sian pää"</string>
+    <string msgid="9128124743321008210" name="spoken_emoji_1F438">"Sammakon pää"</string>
+    <string msgid="1424161319554642266" name="spoken_emoji_1F439">"Hamsterin pää"</string>
+    <string msgid="6727645488430385584" name="spoken_emoji_1F43A">"Suden pää"</string>
+    <string msgid="5397170068392865167" name="spoken_emoji_1F43B">"Karhun pää"</string>
+    <string msgid="2715995734367032431" name="spoken_emoji_1F43C">"Pandan pää"</string>
+    <string msgid="6005480717951776597" name="spoken_emoji_1F43D">"Sian kärsä"</string>
+    <string msgid="8917626103219080547" name="spoken_emoji_1F43E">"Tassunjäljet"</string>
+    <string msgid="7144338258163384433" name="spoken_emoji_1F440">"Silmät"</string>
+    <string msgid="1905515392292676124" name="spoken_emoji_1F442">"Korva"</string>
+    <string msgid="1491504447758933115" name="spoken_emoji_1F443">"Nenä"</string>
+    <string msgid="3654613047946080332" name="spoken_emoji_1F444">"Suu"</string>
+    <string msgid="7024905244040509204" name="spoken_emoji_1F445">"Kieli"</string>
+    <string msgid="2150365643636471745" name="spoken_emoji_1F446">"Valkoinen käsi, ylös osoittava etusormi"</string>
+    <string msgid="8794022344940891388" name="spoken_emoji_1F447">"Valkoinen käsi, alas osoittava etusormi"</string>
+    <string msgid="3261812959215550650" name="spoken_emoji_1F448">"Valkoinen käsi, vasemmalle osoittava etusormi"</string>
+    <string msgid="4764447975177805991" name="spoken_emoji_1F449">"Valkoinen käsi, oikealle osoittava etusormi"</string>
+    <string msgid="7197417095486424841" name="spoken_emoji_1F44A">"Käsi nyrkissä"</string>
+    <string msgid="1975968945250833117" name="spoken_emoji_1F44B">"Vilkuttava käsi"</string>
+    <string msgid="3185919567897876562" name="spoken_emoji_1F44C">"OK-merkki"</string>
+    <string msgid="6182553970602667815" name="spoken_emoji_1F44D">"Peukalo pystyssä"</string>
+    <string msgid="8030851867365111809" name="spoken_emoji_1F44E">"Peukalo alaspäin"</string>
+    <string msgid="5148753662268213389" name="spoken_emoji_1F44F">"Taputtavat kädet"</string>
+    <string msgid="1012021072085157054" name="spoken_emoji_1F450">"Avoimet kämmenet"</string>
+    <string msgid="8257466714629051320" name="spoken_emoji_1F451">"Kruunu"</string>
+    <string msgid="4567394011149905466" name="spoken_emoji_1F452">"Naisen hattu"</string>
+    <string msgid="5978410551173163010" name="spoken_emoji_1F453">"Silmälasit"</string>
+    <string msgid="348469036193323252" name="spoken_emoji_1F454">"Kravatti"</string>
+    <string msgid="5665118831861433578" name="spoken_emoji_1F455">"T-paita"</string>
+    <string msgid="1890991330923356408" name="spoken_emoji_1F456">"Farkut"</string>
+    <string msgid="3904310482655702620" name="spoken_emoji_1F457">"Leninki"</string>
+    <string msgid="5704243858031107692" name="spoken_emoji_1F458">"Kimono"</string>
+    <string msgid="3553148747050035251" name="spoken_emoji_1F459">"Bikinit"</string>
+    <string msgid="1389654639484716101" name="spoken_emoji_1F45A">"Naisen paita"</string>
+    <string msgid="1113293170254222904" name="spoken_emoji_1F45B">"Kukkaro"</string>
+    <string msgid="3410257778598006936" name="spoken_emoji_1F45C">"Käsilaukku"</string>
+    <string msgid="812176504300064819" name="spoken_emoji_1F45D">"Pussukka"</string>
+    <string msgid="2901741399934723562" name="spoken_emoji_1F45E">"Miesten kenkä"</string>
+    <string msgid="6828566359287798863" name="spoken_emoji_1F45F">"Urheilujalkine"</string>
+    <string msgid="305863879170420855" name="spoken_emoji_1F460">"Korkokenkä"</string>
+    <string msgid="5160493217831417630" name="spoken_emoji_1F461">"Naisen sandaali"</string>
+    <string msgid="1722897795554863734" name="spoken_emoji_1F462">"Naisen saappaat"</string>
+    <string msgid="5850772903593010699" name="spoken_emoji_1F463">"Jalanjäljet"</string>
+    <string msgid="1228335905487734913" name="spoken_emoji_1F464">"Rintakuvan ääriviivat"</string>
+    <string msgid="4461307702499679879" name="spoken_emoji_1F465">"Rintakuvien ääriviivat"</string>
+    <string msgid="1938873085514108889" name="spoken_emoji_1F466">"Poika"</string>
+    <string msgid="8237080594860144998" name="spoken_emoji_1F467">"Tyttö"</string>
+    <string msgid="6081300722526675382" name="spoken_emoji_1F468">"Mies"</string>
+    <string msgid="1090140923076108158" name="spoken_emoji_1F469">"Nainen"</string>
+    <string msgid="5063570981942606595" name="spoken_emoji_1F46A">"Perhe"</string>
+    <string msgid="6795882374287327952" name="spoken_emoji_1F46B">"Mies ja nainen käsi kädessä"</string>
+    <string msgid="6844464165783964495" name="spoken_emoji_1F46C">"Kaksi miestä käsi kädessä"</string>
+    <string msgid="2316773068014053180" name="spoken_emoji_1F46D">"Kaksi naista käsi kädessä"</string>
+    <string msgid="5897625605860822401" name="spoken_emoji_1F46E">"Poliisi"</string>
+    <string msgid="7716871657717641490" name="spoken_emoji_1F46F">"Nainen, jolla on pupun korvat"</string>
+    <string msgid="6409995400510338892" name="spoken_emoji_1F470">"Morsian hunnussa"</string>
+    <string msgid="3058247860441670806" name="spoken_emoji_1F471">"Vaaleahiuksinen henkilö"</string>
+    <string msgid="3928854667819339142" name="spoken_emoji_1F472">"Mies, jolla aasialainen päähine"</string>
+    <string msgid="5921952095808988381" name="spoken_emoji_1F473">"Mies, jolla turbaani"</string>
+    <string msgid="1082237499496725183" name="spoken_emoji_1F474">"Vanha mies"</string>
+    <string msgid="7280323988642212761" name="spoken_emoji_1F475">"Vanha nainen"</string>
+    <string msgid="4713322657821088296" name="spoken_emoji_1F476">"Vauva"</string>
+    <string msgid="2197036131029221370" name="spoken_emoji_1F477">"Rakennustyöläinen"</string>
+    <string msgid="7245521193493488875" name="spoken_emoji_1F478">"Prinsessa"</string>
+    <string msgid="6876475321015553972" name="spoken_emoji_1F479">"Japanilainen hirviö"</string>
+    <string msgid="3900813633102703571" name="spoken_emoji_1F47A">"Japanilainen menninkäinen"</string>
+    <string msgid="2608250873194079390" name="spoken_emoji_1F47B">"Kummitus"</string>
+    <string msgid="3838699131276537421" name="spoken_emoji_1F47C">"Enkelivauva"</string>
+    <string msgid="2874077455888369538" name="spoken_emoji_1F47D">"Ulkoavaruuden olento"</string>
+    <string msgid="3642607168625579507" name="spoken_emoji_1F47E">"Avaruusolio"</string>
+    <string msgid="441605977269926252" name="spoken_emoji_1F47F">"Pikkupiru"</string>
+    <string msgid="3696253485164878739" name="spoken_emoji_1F480">"Kallo"</string>
+    <string msgid="320408708521966893" name="spoken_emoji_1F481">"Asiakaspalvelija"</string>
+    <string msgid="3424354860245608949" name="spoken_emoji_1F482">"Vartija"</string>
+    <string msgid="3221113594843849083" name="spoken_emoji_1F483">"Tanssija"</string>
+    <string msgid="7348014979080444885" name="spoken_emoji_1F484">"Huulipuna"</string>
+    <string msgid="6133507975565116339" name="spoken_emoji_1F485">"Kynsilakka"</string>
+    <string msgid="9085459968247394155" name="spoken_emoji_1F486">"Kasvohieronta"</string>
+    <string msgid="1479113637259592150" name="spoken_emoji_1F487">"Hiusten leikkaus"</string>
+    <string msgid="6922559285234100252" name="spoken_emoji_1F488">"Parturin pylväs"</string>
+    <string msgid="8114863680950147305" name="spoken_emoji_1F489">"Ruisku"</string>
+    <string msgid="8526843630145963032" name="spoken_emoji_1F48A">"Pilleri"</string>
+    <string msgid="2538528967897640292" name="spoken_emoji_1F48B">"Huulet"</string>
+    <string msgid="1681173271652890232" name="spoken_emoji_1F48C">"Rakkauskirje"</string>
+    <string msgid="8259886164999042373" name="spoken_emoji_1F48D">"Sormus"</string>
+    <string msgid="8777981696011111101" name="spoken_emoji_1F48E">"Jalokivi"</string>
+    <string msgid="741593675183677907" name="spoken_emoji_1F48F">"Suudelma"</string>
+    <string msgid="4482549128959806736" name="spoken_emoji_1F490">"Kukkakimppu"</string>
+    <string msgid="2305245307882441500" name="spoken_emoji_1F491">"Pariskunta ja sydän"</string>
+    <string msgid="3884119934804475732" name="spoken_emoji_1F492">"Häät"</string>
+    <string msgid="1208828371565525121" name="spoken_emoji_1F493">"Sykkivä sydän"</string>
+    <string msgid="6198876398509338718" name="spoken_emoji_1F494">"Särkynyt sydän"</string>
+    <string msgid="9206202744967130919" name="spoken_emoji_1F495">"Kaksi sydäntä"</string>
+    <string msgid="5436953041732207775" name="spoken_emoji_1F496">"Säihkyvä sydän"</string>
+    <string msgid="7285142863951448473" name="spoken_emoji_1F497">"Kasvava sydän"</string>
+    <string msgid="7940131245037575715" name="spoken_emoji_1F498">"Sydän ja nuoli"</string>
+    <string msgid="4453235040265550009" name="spoken_emoji_1F499">"Sininen sydän"</string>
+    <string msgid="6262178648366971405" name="spoken_emoji_1F49A">"Vihreä sydän"</string>
+    <string msgid="8085384999750714368" name="spoken_emoji_1F49B">"Keltainen sydän"</string>
+    <string msgid="453829540120898698" name="spoken_emoji_1F49C">"Violetti sydän"</string>
+    <string msgid="3460534750224161888" name="spoken_emoji_1F49D">"Sydän ja rusetti"</string>
+    <string msgid="4490636226072523867" name="spoken_emoji_1F49E">"Pyörivät sydämet"</string>
+    <string msgid="2059319756421226336" name="spoken_emoji_1F49F">"Sydänkoriste"</string>
+    <string msgid="1954850380550212038" name="spoken_emoji_1F4A0">"Vinoneliö, jossa on sisällä piste"</string>
+    <string msgid="403137413540909021" name="spoken_emoji_1F4A1">"Hehkulamppu"</string>
+    <string msgid="2604192053295622063" name="spoken_emoji_1F4A2">"Vihan symboli"</string>
+    <string msgid="6378351742957821735" name="spoken_emoji_1F4A3">"Pommi"</string>
+    <string msgid="7217736258870346625" name="spoken_emoji_1F4A4">"Unen symboli"</string>
+    <string msgid="5401995723541239858" name="spoken_emoji_1F4A5">"Törmäyksen symboli"</string>
+    <string msgid="3837802182716483848" name="spoken_emoji_1F4A6">"Hikipisarat"</string>
+    <string msgid="5718438987757885141" name="spoken_emoji_1F4A7">"Pisara"</string>
+    <string msgid="4472108229720006377" name="spoken_emoji_1F4A8">"Liikkeen symboli"</string>
+    <string msgid="1240958472788430032" name="spoken_emoji_1F4A9">"Kakkakasa"</string>
+    <string msgid="8427525538635146416" name="spoken_emoji_1F4AA">"Hauis"</string>
+    <string msgid="5484114759939427459" name="spoken_emoji_1F4AB">"Huimauksen symboli"</string>
+    <string msgid="5571196638219612682" name="spoken_emoji_1F4AC">"Puhekupla"</string>
+    <string msgid="353174619257798652" name="spoken_emoji_1F4AD">"Ajatuskupla"</string>
+    <string msgid="1223142786927162641" name="spoken_emoji_1F4AE">"Valkoinen kukka"</string>
+    <string msgid="3526278354452138397" name="spoken_emoji_1F4AF">"Sadan pisteen symboli"</string>
+    <string msgid="4124102195175124156" name="spoken_emoji_1F4B0">"Rahasäkki"</string>
+    <string msgid="8339494003418572905" name="spoken_emoji_1F4B1">"Valuutanvaihto"</string>
+    <string msgid="3179159430187243132" name="spoken_emoji_1F4B2">"Paksu dollarin symboli"</string>
+    <string msgid="5375412518221759596" name="spoken_emoji_1F4B3">"Luottokortti"</string>
+    <string msgid="1068592463669453204" name="spoken_emoji_1F4B4">"Seteli, jossa jenin symboli"</string>
+    <string msgid="1426708699891832564" name="spoken_emoji_1F4B5">"Seteli, jossa dollarin symboli"</string>
+    <string msgid="8289249930736444837" name="spoken_emoji_1F4B6">"Seteli, jossa euron symboli"</string>
+    <string msgid="5245100496860739429" name="spoken_emoji_1F4B7">"Seteli, jossa punnan symboli"</string>
+    <string msgid="4401099580477164440" name="spoken_emoji_1F4B8">"Setelinippu, jolla siivet"</string>
+    <string msgid="647509393536679903" name="spoken_emoji_1F4B9">"Noususuuntainen kaavio, jossa jenin symboli"</string>
+    <string msgid="1269737854891046321" name="spoken_emoji_1F4BA">"Paikka"</string>
+    <string msgid="6252883563347816451" name="spoken_emoji_1F4BB">"Tietokone"</string>
+    <string msgid="6182597732218446206" name="spoken_emoji_1F4BC">"Salkku"</string>
+    <string msgid="5820961044768829176" name="spoken_emoji_1F4BD">"Minilevy"</string>
+    <string msgid="4754542485835379808" name="spoken_emoji_1F4BE">"Levyke"</string>
+    <string msgid="2237481756984721795" name="spoken_emoji_1F4BF">"Optinen levy"</string>
+    <string msgid="491582501089694461" name="spoken_emoji_1F4C0">"DVD-levy"</string>
+    <string msgid="6645461382494158111" name="spoken_emoji_1F4C1">"Tiedostokansio"</string>
+    <string msgid="8095638715523765338" name="spoken_emoji_1F4C2">"Avaa tiedostokansio"</string>
+    <string msgid="3727274466173970142" name="spoken_emoji_1F4C3">"Alhaalta käpristynyt sivu"</string>
+    <string msgid="4382570710795501612" name="spoken_emoji_1F4C4">"Sivu edestä"</string>
+    <string msgid="8693944622627762487" name="spoken_emoji_1F4C5">"Kalenteri"</string>
+    <string msgid="8469908708708424640" name="spoken_emoji_1F4C6">"Kalenteri, irtirevittävät sivut"</string>
+    <string msgid="2665313547987324495" name="spoken_emoji_1F4C7">"Kortihakemisto"</string>
+    <string msgid="8007686702282833600" name="spoken_emoji_1F4C8">"Noususuuntainen kaavio"</string>
+    <string msgid="2271951411192893684" name="spoken_emoji_1F4C9">"Laskusuuntainen kaavio"</string>
+    <string msgid="3525692829622381444" name="spoken_emoji_1F4CA">"Pylväskaavio"</string>
+    <string msgid="977639227554095521" name="spoken_emoji_1F4CB">"Leikepöytä"</string>
+    <string msgid="156107396088741574" name="spoken_emoji_1F4CC">"Nasta"</string>
+    <string msgid="4266572175361190231" name="spoken_emoji_1F4CD">"Pyöreäpäinen nasta"</string>
+    <string msgid="6294288509864968290" name="spoken_emoji_1F4CE">"Paperiliitin"</string>
+    <string msgid="149679400831136810" name="spoken_emoji_1F4CF">"Suora viivain"</string>
+    <string msgid="8130339336619202915" name="spoken_emoji_1F4D0">"Kolmioviivain"</string>
+    <string msgid="5852176364856284968" name="spoken_emoji_1F4D1">"Kirjanmerkit"</string>
+    <string msgid="2276810154105920052" name="spoken_emoji_1F4D2">"Kierreselkäinen vihko"</string>
+    <string msgid="5873386492793610808" name="spoken_emoji_1F4D3">"Muistikirja"</string>
+    <string msgid="4754469936418776360" name="spoken_emoji_1F4D4">"Muistikirja, jossa koristekansi"</string>
+    <string msgid="4642713351802778905" name="spoken_emoji_1F4D5">"Suljettu kirja"</string>
+    <string msgid="6987347918381807186" name="spoken_emoji_1F4D6">"Avoin kirja"</string>
+    <string msgid="7813394163241379223" name="spoken_emoji_1F4D7">"Vihreä kirja"</string>
+    <string msgid="7189799718984979521" name="spoken_emoji_1F4D8">"Sininen kirja"</string>
+    <string msgid="3874664073186440225" name="spoken_emoji_1F4D9">"Oranssi kirja"</string>
+    <string msgid="872212072924287762" name="spoken_emoji_1F4DA">"Kirjat"</string>
+    <string msgid="2015183603583392969" name="spoken_emoji_1F4DB">"Nimilappu"</string>
+    <string msgid="5075845110932456783" name="spoken_emoji_1F4DC">"Rulla"</string>
+    <string msgid="2494006707147586786" name="spoken_emoji_1F4DD">"Muistio"</string>
+    <string msgid="7883008605002117671" name="spoken_emoji_1F4DE">"Puhelimen kuuloke"</string>
+    <string msgid="3538610110623780465" name="spoken_emoji_1F4DF">"Hakulaite"</string>
+    <string msgid="2960778342609543077" name="spoken_emoji_1F4E0">"Faksi"</string>
+    <string msgid="6269733703719242108" name="spoken_emoji_1F4E1">"Satelliittiantenni"</string>
+    <string msgid="1987535386302883116" name="spoken_emoji_1F4E2">"Julkisen tilan kovaääninen"</string>
+    <string msgid="5588916572878599224" name="spoken_emoji_1F4E3">"Megafoni"</string>
+    <string msgid="2063561529097749707" name="spoken_emoji_1F4E4">"Lähtevien lokero"</string>
+    <string msgid="3232462702926143576" name="spoken_emoji_1F4E5">"Saapuvien lokero"</string>
+    <string msgid="3399454337197561635" name="spoken_emoji_1F4E6">"Paketti"</string>
+    <string msgid="5557136988503873238" name="spoken_emoji_1F4E7">"Sähköpostin symboli"</string>
+    <string msgid="30698793974124123" name="spoken_emoji_1F4E8">"Saapuva kirjekuori"</string>
+    <string msgid="5947550337678643166" name="spoken_emoji_1F4E9">"Kirjekuori alaspäin osoittavan nuolen alla"</string>
+    <string msgid="772614045207213751" name="spoken_emoji_1F4EA">"Suljettu postilaatikko lippu alhaalla"</string>
+    <string msgid="6491414165464146137" name="spoken_emoji_1F4EB">"Suljettu postilaatikko lippu ylhäällä"</string>
+    <string msgid="7369517138779988438" name="spoken_emoji_1F4EC">"Avattu postilaatikko lippu ylhäällä"</string>
+    <string msgid="5657520436285454241" name="spoken_emoji_1F4ED">"Avattu postilaatikko lippu alhaalla"</string>
+    <string msgid="8464138906243608614" name="spoken_emoji_1F4EE">"Postilaatikko"</string>
+    <string msgid="8801427577198798226" name="spoken_emoji_1F4EF">"Postitorvi"</string>
+    <string msgid="6330208624731662525" name="spoken_emoji_1F4F0">"Sanomalehti"</string>
+    <string msgid="3966503935581675695" name="spoken_emoji_1F4F1">"Matkapuhelin"</string>
+    <string msgid="1057540341746100087" name="spoken_emoji_1F4F2">"Matkapuhelin, jonka vasemmalla puolella on sitä osoittava nuoli"</string>
+    <string msgid="5003984447315754658" name="spoken_emoji_1F4F3">"Värinätila"</string>
+    <string msgid="5549847566968306253" name="spoken_emoji_1F4F4">"Matkapuhelin pois käytöstä"</string>
+    <string msgid="3660199448671699238" name="spoken_emoji_1F4F5">"Ei matkapuhelimia"</string>
+    <string msgid="2676974903233268860" name="spoken_emoji_1F4F6">"Antennisymboli ja palkit"</string>
+    <string msgid="2643891943105989039" name="spoken_emoji_1F4F7">"Kamera"</string>
+    <string msgid="4475626303058218048" name="spoken_emoji_1F4F9">"Videokamera"</string>
+    <string msgid="1079796186652960775" name="spoken_emoji_1F4FA">"Televisio"</string>
+    <string msgid="3848729587403760645" name="spoken_emoji_1F4FB">"Radio"</string>
+    <string msgid="8370432508874310054" name="spoken_emoji_1F4FC">"Videokasetti"</string>
+    <string msgid="2389947994502144547" name="spoken_emoji_1F500">"Kaksi ristikkäistä oikealle osoittavaa nuolta"</string>
+    <string msgid="2132188352433347009" name="spoken_emoji_1F501">"Ympyrä, jossa myötäpäivään oikealle ja vasemmalle osoittavat nuolet"</string>
+    <string msgid="2361976580513178391" name="spoken_emoji_1F502">"Ympyrä, jossa myötäpäivään oikealle ja vasemmalle osoittavat nuolet ja jonka päällä ympyröity numero yksi"</string>
+    <string msgid="8936283551917858793" name="spoken_emoji_1F503">"Ympyrä, jossa myötäpäivään ylös ja alas osoittavat nuolet"</string>
+    <string msgid="708290317843535943" name="spoken_emoji_1F504">"Ympyrä, jossa vastapäivään ylös ja alas osoittavat nuolet"</string>
+    <string msgid="6348909939004951860" name="spoken_emoji_1F505">"Alhaisen kirkkauden symboli"</string>
+    <string msgid="4449609297521280173" name="spoken_emoji_1F506">"Suuren kirkkauden symboli"</string>
+    <string msgid="7136386694923708448" name="spoken_emoji_1F507">"Yliviivattu kaiutin"</string>
+    <string msgid="5063567689831527865" name="spoken_emoji_1F508">"Kaiutin"</string>
+    <string msgid="3948050077992370791" name="spoken_emoji_1F509">"Kaiutin ja yksi ääniaalto"</string>
+    <string msgid="5818194948677277197" name="spoken_emoji_1F50A">"Kaiutin ja kolme ääniaaltoa"</string>
+    <string msgid="8083470451266295876" name="spoken_emoji_1F50B">"Akku"</string>
+    <string msgid="7793219132036431680" name="spoken_emoji_1F50C">"Pistoke"</string>
+    <string msgid="8140244710637926780" name="spoken_emoji_1F50D">"Vasemmalle osoittava suurennuslasi"</string>
+    <string msgid="4751821352839693365" name="spoken_emoji_1F50E">"Oikealle osoittava suurennuslasi"</string>
+    <string msgid="915079280472199605" name="spoken_emoji_1F50F">"Lukko ja mustekynä"</string>
+    <string msgid="7658381761691758318" name="spoken_emoji_1F510">"Suljettu lukko ja avain"</string>
+    <string msgid="262319867774655688" name="spoken_emoji_1F511">"Avain"</string>
+    <string msgid="5628688337255115175" name="spoken_emoji_1F512">"Lukko"</string>
+    <string msgid="8579201846619420981" name="spoken_emoji_1F513">"Avoin lukko"</string>
+    <string msgid="7027268683047322521" name="spoken_emoji_1F514">"Soittokello"</string>
+    <string msgid="8903179856036069242" name="spoken_emoji_1F515">"Yliviivattu soittokello"</string>
+    <string msgid="108097933937925381" name="spoken_emoji_1F516">"Kirjanmerkki"</string>
+    <string msgid="2450846665734313397" name="spoken_emoji_1F517">"Linkin symboli"</string>
+    <string msgid="7028220286841437832" name="spoken_emoji_1F518">"Valintanappi"</string>
+    <string msgid="8211189165075445687" name="spoken_emoji_1F519">"Sana BACK, jonka yläpuolella vasemmalle osoittava nuoli"</string>
+    <string msgid="823966751787338892" name="spoken_emoji_1F51A">"Sana END, jonka yläpuolella vasemmalle osoittava nuoli"</string>
+    <string msgid="5920570742107943382" name="spoken_emoji_1F51B">"Sana ON ja huutomerkki, yläpuolella vasemmalle ja oikealle osoittava nuoli"</string>
+    <string msgid="110609810659826676" name="spoken_emoji_1F51C">"Sana SOON, jonka yläpuolella oikealle osoittava nuoli"</string>
+    <string msgid="4087697222026095447" name="spoken_emoji_1F51D">"Sana TOP, jonka yläpuolella ylös osoittava nuoli"</string>
+    <string msgid="8512873526157201775" name="spoken_emoji_1F51E">"Ikäraja 18 vuotta"</string>
+    <string msgid="8673370823728653973" name="spoken_emoji_1F51F">"Näppäin 10"</string>
+    <string msgid="7335109890337048900" name="spoken_emoji_1F520">"Latinalaisten isojen kirjainten symboli"</string>
+    <string msgid="2693185864450925778" name="spoken_emoji_1F521">"Latinalaisten pienten kirjainten symboli"</string>
+    <string msgid="8419130286280673347" name="spoken_emoji_1F522">"Numeroiden symboli"</string>
+    <string msgid="3318053476401719421" name="spoken_emoji_1F523">"Symbolien symboli"</string>
+    <string msgid="1625073997522316331" name="spoken_emoji_1F524">"Latinalaisten kirjainten symboli"</string>
+    <string msgid="4083884189172963790" name="spoken_emoji_1F525">"Tuli"</string>
+    <string msgid="2035494936742643580" name="spoken_emoji_1F526">"Taskulamppu"</string>
+    <string msgid="134257142354034271" name="spoken_emoji_1F527">"Jakoavain"</string>
+    <string msgid="700627429570609375" name="spoken_emoji_1F528">"Vasara"</string>
+    <string msgid="7480548235904988573" name="spoken_emoji_1F529">"Mutteri ja pultti"</string>
+    <string msgid="7613580031502317893" name="spoken_emoji_1F52A">"Hochoveitsi"</string>
+    <string msgid="4554906608328118613" name="spoken_emoji_1F52B">"Pistooli"</string>
+    <string msgid="1330294501371770790" name="spoken_emoji_1F52C">"Mikroskooppi"</string>
+    <string msgid="7549551775445177140" name="spoken_emoji_1F52D">"Kaukoputki"</string>
+    <string msgid="4457099417872625141" name="spoken_emoji_1F52E">"Kristallipallo"</string>
+    <string msgid="8899031001317442792" name="spoken_emoji_1F52F">"Kuusisakarainen tähti, jossa keskellä piste"</string>
+    <string msgid="3572898444281774023" name="spoken_emoji_1F530">"Japanilainen aloittelijan merkki"</string>
+    <string msgid="5225633376450025396" name="spoken_emoji_1F531">"Trident-symboli"</string>
+    <string msgid="9169568490485180779" name="spoken_emoji_1F532">"Musta neliönmuotoinen painike"</string>
+    <string msgid="6554193837201918598" name="spoken_emoji_1F533">"Valkoinen neliönmuotoinen painike"</string>
+    <string msgid="8339298801331865340" name="spoken_emoji_1F534">"Suuri punainen ympyrä"</string>
+    <string msgid="1227403104835533512" name="spoken_emoji_1F535">"Suuri sininen ympyrä"</string>
+    <string msgid="5477372445510469331" name="spoken_emoji_1F536">"Suuri oranssi vinoneliö"</string>
+    <string msgid="3158915214347274626" name="spoken_emoji_1F537">"Suuri sininen vinoneliö"</string>
+    <string msgid="4300084249474451991" name="spoken_emoji_1F538">"Pieni oranssi vinoneliö"</string>
+    <string msgid="6535159756325742275" name="spoken_emoji_1F539">"Pieni sininen vinoneliö"</string>
+    <string msgid="3728196273988781389" name="spoken_emoji_1F53A">"Ylöspäin osoittava punainen kolmio"</string>
+    <string msgid="7182097039614128707" name="spoken_emoji_1F53B">"Alaspäin osoittava punainen kolmio"</string>
+    <string msgid="4077022046319615029" name="spoken_emoji_1F53C">"Ylöspäin osoittava pieni punainen kolmio"</string>
+    <string msgid="3939112784894620713" name="spoken_emoji_1F53D">"Alaspäin osoittava pieni punainen kolmio"</string>
+    <string msgid="7761392621689986218" name="spoken_emoji_1F550">"Kellotaulu, kello yksi"</string>
+    <string msgid="2699448504113431716" name="spoken_emoji_1F551">"Kellotaulu, kello kaksi"</string>
+    <string msgid="5872107867411853750" name="spoken_emoji_1F552">"Kellotaulu, kello kolme"</string>
+    <string msgid="8490966286158640743" name="spoken_emoji_1F553">"Kellotaulu, kello neljä"</string>
+    <string msgid="7662585417832909280" name="spoken_emoji_1F554">"Kellotaulu, kello viisi"</string>
+    <string msgid="5564698204520412009" name="spoken_emoji_1F555">"Kellotaulu, kello kuusi"</string>
+    <string msgid="7325712194836512205" name="spoken_emoji_1F556">"Kellotaulu, kello seitsemän"</string>
+    <string msgid="4398343183682848693" name="spoken_emoji_1F557">"Kellotaulu, kello kahdeksan"</string>
+    <string msgid="3110507820404018172" name="spoken_emoji_1F558">"Kellotaulu, kello yhdeksän"</string>
+    <string msgid="2972160366448337839" name="spoken_emoji_1F559">"Kellotaulu, kello kymmenen"</string>
+    <string msgid="5568112876681714834" name="spoken_emoji_1F55A">"Kellotaulu, kello yksitoista"</string>
+    <string msgid="6731739890330659276" name="spoken_emoji_1F55B">"Kellotaulu, kello kaksitoista"</string>
+    <string msgid="7838853679879115890" name="spoken_emoji_1F55C">"Kellotaulu, kello puoli kaksi"</string>
+    <string msgid="3518832144255922544" name="spoken_emoji_1F55D">"Kellotaulu, kello puoli kolme"</string>
+    <string msgid="3092760695634993002" name="spoken_emoji_1F55E">"Kellotaulu, kello puoli neljä"</string>
+    <string msgid="2326720311892906763" name="spoken_emoji_1F55F">"Kellotaulu, kello puoli viisi"</string>
+    <string msgid="5771339179963924448" name="spoken_emoji_1F560">"Kellotaulu, kello puoli kuusi"</string>
+    <string msgid="3139944777062475382" name="spoken_emoji_1F561">"Kellotaulu, kello puoli seitsemän"</string>
+    <string msgid="8273944611162457084" name="spoken_emoji_1F562">"Kellotaulu, kello puoli kahdeksan"</string>
+    <string msgid="8643976903718136299" name="spoken_emoji_1F563">"Kellotaulu, kello puoli yhdeksän"</string>
+    <string msgid="3511070239796141638" name="spoken_emoji_1F564">"Kellotaulu, kello puoli kymmenen"</string>
+    <string msgid="4567451985272963088" name="spoken_emoji_1F565">"Kellotaulu, kello puoli yksitoista"</string>
+    <string msgid="2790552288169929810" name="spoken_emoji_1F566">"Kellotaulu, kello puoli kaksitoista"</string>
+    <string msgid="9026037362100689337" name="spoken_emoji_1F567">"Kellotaulu, kello puoli yksi"</string>
+    <string msgid="9037503671676124015" name="spoken_emoji_1F5FB">"Fuji-vuori"</string>
+    <string msgid="1409415995817242150" name="spoken_emoji_1F5FC">"Tokio-torni"</string>
+    <string msgid="2562726956654429582" name="spoken_emoji_1F5FD">"Vapaudenpatsas"</string>
+    <string msgid="1184469756905210580" name="spoken_emoji_1F5FE">"Japanin kartta"</string>
+    <string msgid="6003594799354942297" name="spoken_emoji_1F5FF">"Moai-kivipatsas"</string>
+    <string msgid="7601109464776835283" name="spoken_emoji_1F600">"Virnistävä naama"</string>
+    <string msgid="746026523967444503" name="spoken_emoji_1F601">"Virnistävä naama silmät sirrillään"</string>
+    <string msgid="8354558091785198246" name="spoken_emoji_1F602">"Naama ja ilon kyyneleet"</string>
+    <string msgid="3861022912544159823" name="spoken_emoji_1F603">"Hymyilevä naama, suu auki"</string>
+    <string msgid="5119021072966343531" name="spoken_emoji_1F604">"Hymyilevä naama, suu auki ja silmät sirrillään"</string>
+    <string msgid="6140813923973561735" name="spoken_emoji_1F605">"Hymyilevä naama, suu auki ja kylmä hiki"</string>
+    <string msgid="3549936813966832799" name="spoken_emoji_1F606">"Hymyilevä naama, suu auki ja silmät kiinni"</string>
+    <string msgid="2826424078212384817" name="spoken_emoji_1F607">"Hymyilevä naama ja sädekehä"</string>
+    <string msgid="7343559595089811640" name="spoken_emoji_1F608">"Hymyilevä naama ja sarvet"</string>
+    <string msgid="5481030187207504405" name="spoken_emoji_1F609">"Silmää iskevä naama"</string>
+    <string msgid="5023337769148679767" name="spoken_emoji_1F60A">"Hymyilevä naama, silmät sirrillään"</string>
+    <string msgid="3005248217216195694" name="spoken_emoji_1F60B">"Naama ja huulia lipova kieli"</string>
+    <string msgid="349384012958268496" name="spoken_emoji_1F60C">"Helpottunut naama"</string>
+    <string msgid="7921853137164938391" name="spoken_emoji_1F60D">"Hymyilevä naama ja sydämenmuotoiset silmät"</string>
+    <string msgid="441718886380605643" name="spoken_emoji_1F60E">"Hymyilevä naama ja aurinkolasit"</string>
+    <string msgid="2674453144890180538" name="spoken_emoji_1F60F">"Virnistävä naama"</string>
+    <string msgid="3225675825334102369" name="spoken_emoji_1F610">"Naamalla perusilme"</string>
+    <string msgid="7199179827619679668" name="spoken_emoji_1F611">"Ilmeetön naama"</string>
+    <string msgid="985081329745137998" name="spoken_emoji_1F612">"Kyllästynyt naama"</string>
+    <string msgid="5548607684830303562" name="spoken_emoji_1F613">"Naama ja kylmä hiki"</string>
+    <string msgid="3196305665259916390" name="spoken_emoji_1F614">"Mietteliäs naama"</string>
+    <string msgid="3051674239303969101" name="spoken_emoji_1F615">"Ymmällä oleva naama"</string>
+    <string msgid="8124887056243813089" name="spoken_emoji_1F616">"Hämmentynyt naama"</string>
+    <string msgid="7052733625511122870" name="spoken_emoji_1F617">"Naama ja pusuhuulet"</string>
+    <string msgid="408207170572303753" name="spoken_emoji_1F618">"Lentosuukko ja silmänisku"</string>
+    <string msgid="8645430335143153645" name="spoken_emoji_1F619">"Naama ja pusuhuulet, silmät sirrillään"</string>
+    <string msgid="2882157190974340247" name="spoken_emoji_1F61A">"Naama ja pusuhuulet, silmät kiinni"</string>
+    <string msgid="3765927202787211499" name="spoken_emoji_1F61B">"Kieltä näyttävä naama"</string>
+    <string msgid="198943912107589389" name="spoken_emoji_1F61C">"Silmää iskevä ja kieltä näyttävä naama"</string>
+    <string msgid="7643546385877816182" name="spoken_emoji_1F61D">"Kieltä näyttävä naama, silmät kiinni"</string>
+    <string msgid="1528732952202098364" name="spoken_emoji_1F61E">"Pettynyt naama"</string>
+    <string msgid="1853664164636082404" name="spoken_emoji_1F61F">"Huolestunut naama"</string>
+    <string msgid="6051942001307375830" name="spoken_emoji_1F620">"Vihainen naama"</string>
+    <string msgid="2114711878097257704" name="spoken_emoji_1F621">"Mököttävä naama"</string>
+    <string msgid="29291014645931822" name="spoken_emoji_1F622">"Itkevä naama"</string>
+    <string msgid="7803959833595184773" name="spoken_emoji_1F623">"Sinnikäs naama"</string>
+    <string msgid="8637637647725752799" name="spoken_emoji_1F624">"Voitokas naama"</string>
+    <string msgid="6153625183493635030" name="spoken_emoji_1F625">"Pettynyt mutta huojentunut naama"</string>
+    <string msgid="6179485689935562950" name="spoken_emoji_1F626">"Surullinen naama, suu auki"</string>
+    <string msgid="8566204052903012809" name="spoken_emoji_1F627">"Tuskainen naama"</string>
+    <string msgid="8875777401624904224" name="spoken_emoji_1F628">"Pelokas naama"</string>
+    <string msgid="1411538490319190118" name="spoken_emoji_1F629">"Uupunut naama"</string>
+    <string msgid="4726686726690289969" name="spoken_emoji_1F62A">"Uninen naama"</string>
+    <string msgid="3221980473921623613" name="spoken_emoji_1F62B">"Väsynyt naama"</string>
+    <string msgid="4616356691941225182" name="spoken_emoji_1F62C">"Irvistävä naama"</string>
+    <string msgid="4283677508698812232" name="spoken_emoji_1F62D">"Rajusti itkevä naama"</string>
+    <string msgid="726083405284353894" name="spoken_emoji_1F62E">"Naama, suu auki"</string>
+    <string msgid="7746620088234710962" name="spoken_emoji_1F62F">"Pelokas naama"</string>
+    <string msgid="3298804852155581163" name="spoken_emoji_1F630">"Naama, suu auki ja kylmä hiki"</string>
+    <string msgid="1603391150954646779" name="spoken_emoji_1F631">"Pelosta kirkuva naama"</string>
+    <string msgid="4846193232203976013" name="spoken_emoji_1F632">"Hämmästynyt naama"</string>
+    <string msgid="4023593836629700443" name="spoken_emoji_1F633">"Punastunut naama"</string>
+    <string msgid="3155265083246248129" name="spoken_emoji_1F634">"Nukkuva naama"</string>
+    <string msgid="4616691133452764482" name="spoken_emoji_1F635">"Naama taju kankaalla"</string>
+    <string msgid="947000211822375683" name="spoken_emoji_1F636">"Naama ilman suuta"</string>
+    <string msgid="1269551267347165774" name="spoken_emoji_1F637">"Naama ja suumaski"</string>
+    <string msgid="3410766467496872301" name="spoken_emoji_1F638">"Virnistävä kissan naama, silmät sirrillään"</string>
+    <string msgid="1833417519781022031" name="spoken_emoji_1F639">"Kissan naama ja ilon kyyneleet"</string>
+    <string msgid="8566294484007152613" name="spoken_emoji_1F63A">"Hymyilevä kissan naama, suu auki"</string>
+    <string msgid="74417995938927571" name="spoken_emoji_1F63B">"Hymyilevä kissan naama, sydämen muotoiset silmät"</string>
+    <string msgid="6472812005729468870" name="spoken_emoji_1F63C">"Kissan naama, kuivakka hymy"</string>
+    <string msgid="1638398369553349509" name="spoken_emoji_1F63D">"Kissan naama, pusuhuulet ja silmät kiinni"</string>
+    <string msgid="6788969063020278986" name="spoken_emoji_1F63E">"Mököttävä kissan naama"</string>
+    <string msgid="1207234562459550185" name="spoken_emoji_1F63F">"Itkevä kissan naama"</string>
+    <string msgid="6023054549904329638" name="spoken_emoji_1F640">"Uupunut kissan naama"</string>
+    <string msgid="5202090629227587076" name="spoken_emoji_1F645">"Naama ja epäonnistumisen ele"</string>
+    <string msgid="6734425134415138134" name="spoken_emoji_1F646">"Naama, OK-ele"</string>
+    <string msgid="1090285518444205483" name="spoken_emoji_1F647">"Syvään kumartava henkilö"</string>
+    <string msgid="8978535230610522356" name="spoken_emoji_1F648">"Silmänsä peittänyt apina"</string>
+    <string msgid="8486145279809495102" name="spoken_emoji_1F649">"Korvansa peittänyt apina"</string>
+    <string msgid="1237524974033228660" name="spoken_emoji_1F64A">"Suunsa peittänyt apina"</string>
+    <string msgid="4251150782016370475" name="spoken_emoji_1F64B">"Iloinen henkilö yksi käsi pystyssä"</string>
+    <string msgid="5446231430684558344" name="spoken_emoji_1F64C">"Juhliva henkilö molemmat kädet pystyssä"</string>
+    <string msgid="4646485595309482342" name="spoken_emoji_1F64D">"Henkilö otsa kurtussa"</string>
+    <string msgid="3376579939836656097" name="spoken_emoji_1F64E">"Henkilö ja mököttävä ilme"</string>
+    <string msgid="1044439574356230711" name="spoken_emoji_1F64F">"Henkilö, jolla kämmenet yhdessä"</string>
+    <string msgid="513263736012689059" name="spoken_emoji_1F680">"Raketti"</string>
+    <string msgid="9201341783850525339" name="spoken_emoji_1F681">"Helikopteri"</string>
+    <string msgid="8046933583867498698" name="spoken_emoji_1F682">"Höyryveturi"</string>
+    <string msgid="8772750354339223092" name="spoken_emoji_1F683">"Junanvaunu"</string>
+    <string msgid="346396777356203608" name="spoken_emoji_1F684">"Pikajuna"</string>
+    <string msgid="1237059817190832730" name="spoken_emoji_1F685">"Luotijuna"</string>
+    <string msgid="3525197227223620343" name="spoken_emoji_1F686">"Juna"</string>
+    <string msgid="5110143437960392837" name="spoken_emoji_1F687">"Metro"</string>
+    <string msgid="4702085029871797965" name="spoken_emoji_1F688">"Kevyt raideliikenne"</string>
+    <string msgid="2375851019798817094" name="spoken_emoji_1F689">"Asema"</string>
+    <string msgid="6368370859718717198" name="spoken_emoji_1F68A">"Raitiovaunu"</string>
+    <string msgid="2920160427117436633" name="spoken_emoji_1F68B">"Raitiovaunun vaunu"</string>
+    <string msgid="1061520934758810864" name="spoken_emoji_1F68C">"Bussi"</string>
+    <string msgid="2890059031360969304" name="spoken_emoji_1F68D">"Bussi edestä"</string>
+    <string msgid="6234042976027309654" name="spoken_emoji_1F68E">"Johdinauto"</string>
+    <string msgid="5871099334672012107" name="spoken_emoji_1F68F">"Bussipysäkki"</string>
+    <string msgid="8080964620200195262" name="spoken_emoji_1F690">"Pikkubussi"</string>
+    <string msgid="999173032408730501" name="spoken_emoji_1F691">"Ambulanssi"</string>
+    <string msgid="1712863785341849487" name="spoken_emoji_1F692">"Paloauto"</string>
+    <string msgid="7987109037389768934" name="spoken_emoji_1F693">"Poliisiauto"</string>
+    <string msgid="6061658916653884608" name="spoken_emoji_1F694">"Poliisiauto edestä"</string>
+    <string msgid="6913445460364247283" name="spoken_emoji_1F695">"Taksi"</string>
+    <string msgid="6391604457418285404" name="spoken_emoji_1F696">"Taksi edestä"</string>
+    <string msgid="7978399334396733790" name="spoken_emoji_1F697">"Auto"</string>
+    <string msgid="7006050861129732018" name="spoken_emoji_1F698">"Auto edestä"</string>
+    <string msgid="630317052666590607" name="spoken_emoji_1F699">"Maastoauto"</string>
+    <string msgid="4739797891735823577" name="spoken_emoji_1F69A">"Kuorma-auto"</string>
+    <string msgid="4715997280786620649" name="spoken_emoji_1F69B">"Kuorma-auto"</string>
+    <string msgid="5557395610750818161" name="spoken_emoji_1F69C">"Traktori"</string>
+    <string msgid="5467164189942951047" name="spoken_emoji_1F69D">"Yksiraiteinen rautatie"</string>
+    <string msgid="169238196389832234" name="spoken_emoji_1F69E">"Vuoristojuna"</string>
+    <string msgid="7508128757012845102" name="spoken_emoji_1F69F">"Riippuva rautatie"</string>
+    <string msgid="8733056213790160147" name="spoken_emoji_1F6A0">"Köysirata"</string>
+    <string msgid="4666516337749347253" name="spoken_emoji_1F6A1">"Köysirata"</string>
+    <string msgid="4511220588943129583" name="spoken_emoji_1F6A2">"Laiva"</string>
+    <string msgid="8412962252222205387" name="spoken_emoji_1F6A3">"Soutuvene"</string>
+    <string msgid="8867571300266339211" name="spoken_emoji_1F6A4">"Pikavene"</string>
+    <string msgid="7650260812741963884" name="spoken_emoji_1F6A5">"Vaakasuuntaiset liikennevalot"</string>
+    <string msgid="485575967773793454" name="spoken_emoji_1F6A6">"Pystysuuntaiset liikennevalot"</string>
+    <string msgid="6411048933816976794" name="spoken_emoji_1F6A7">"Rakennustyömaan merkki"</string>
+    <string msgid="6345717218374788364" name="spoken_emoji_1F6A8">"Poliisiauton hälytysvalo"</string>
+    <string msgid="6586380356807600412" name="spoken_emoji_1F6A9">"Kolmiolippu"</string>
+    <string msgid="8954448167261738885" name="spoken_emoji_1F6AA">"Ovi"</string>
+    <string msgid="5313946262888343544" name="spoken_emoji_1F6AB">"Kulku kielletty -merkki"</string>
+    <string msgid="6946858177965948288" name="spoken_emoji_1F6AC">"Tupakointisymboli"</string>
+    <string msgid="6320088669185507241" name="spoken_emoji_1F6AD">"Tupakointi kielletty"</string>
+    <string msgid="1062469925352817189" name="spoken_emoji_1F6AE">"Roskat roskakoriin -symboli"</string>
+    <string msgid="2286668056123642208" name="spoken_emoji_1F6AF">"Älä roskaa -symboli"</string>
+    <string msgid="179424763882990952" name="spoken_emoji_1F6B0">"Juomaveden symboli"</string>
+    <string msgid="5585212805429161877" name="spoken_emoji_1F6B1">"Juomakelvottoman veden symboli"</string>
+    <string msgid="1771885082068421875" name="spoken_emoji_1F6B2">"Polkupyörä"</string>
+    <string msgid="8033779581263314408" name="spoken_emoji_1F6B3">"Pyöräily kielletty"</string>
+    <string msgid="1999538449018476947" name="spoken_emoji_1F6B4">"Pyöräilijä"</string>
+    <string msgid="340846352660993117" name="spoken_emoji_1F6B5">"Maastopyöräilijä"</string>
+    <string msgid="4351024386495098336" name="spoken_emoji_1F6B6">"Jalankulkija"</string>
+    <string msgid="4564800655866838802" name="spoken_emoji_1F6B7">"Jalankulku kieletty"</string>
+    <string msgid="3020531906940267349" name="spoken_emoji_1F6B8">"Lapsia-varoitusmerkki"</string>
+    <string msgid="1207095844125041251" name="spoken_emoji_1F6B9">"Miehen symboli"</string>
+    <string msgid="2346879310071017531" name="spoken_emoji_1F6BA">"Naisen symboli"</string>
+    <string msgid="2370172469642078526" name="spoken_emoji_1F6BB">"WC"</string>
+    <string msgid="5558827593563530851" name="spoken_emoji_1F6BC">"Vauvan symboli"</string>
+    <string msgid="9213590243049835957" name="spoken_emoji_1F6BD">"WC"</string>
+    <string msgid="394016533781742491" name="spoken_emoji_1F6BE">"WC"</string>
+    <string msgid="906336365928291207" name="spoken_emoji_1F6BF">"Suihku"</string>
+    <string msgid="4592099854378821599" name="spoken_emoji_1F6C0">"Kylpy"</string>
+    <string msgid="2845056048320031158" name="spoken_emoji_1F6C1">"Kylpyamme"</string>
+    <string msgid="8117262514698011877" name="spoken_emoji_1F6C2">"Passintarkastus"</string>
+    <string msgid="1176342001834630675" name="spoken_emoji_1F6C3">"Tulli"</string>
+    <string msgid="1477622834179978886" name="spoken_emoji_1F6C4">"Matkatavaroiden nouto"</string>
+    <string msgid="2495834050856617451" name="spoken_emoji_1F6C5">"Matkatavaroiden säilytys"</string>
+    <string msgid="153340916701508663" name="spoken_emoji_203C">"Kaksi huutomerkkiä"</string>
+    <string msgid="4877256448299555371" name="spoken_emoji_2049">"Huutomerkki ja kysymysmerkki"</string>
+    <string msgid="9188440722954720429" name="spoken_emoji_2122">"Tavaramerkin merkki"</string>
+    <string msgid="9114342638917304327" name="spoken_emoji_2139">"Tietolähde"</string>
+    <string msgid="8055202727034946680" name="spoken_emoji_2194">"Nuoli vasemmalle ja oikealle"</string>
+    <string msgid="8028122253301087407" name="spoken_emoji_2195">"Nuoli ylös ja alas"</string>
+    <string msgid="4019164898967854363" name="spoken_emoji_2196">"Nuoli vasemmalle ylös"</string>
+    <string msgid="4255723717709017801" name="spoken_emoji_2197">"Nuoli oikealle ylös"</string>
+    <string msgid="1452063451313622090" name="spoken_emoji_2198">"Nuoli oikealle alas"</string>
+    <string msgid="6942722693368807849" name="spoken_emoji_2199">"Nuoli vasemmalle alas"</string>
+    <string msgid="5204750172335111188" name="spoken_emoji_21A9">"Koukkunuoli vasemmalle"</string>
+    <string msgid="3950259884359247006" name="spoken_emoji_21AA">"Koukkunuoli oikealle"</string>
+    <string msgid="6751448803233874993" name="spoken_emoji_231A">"Katso"</string>
+    <string msgid="5956428809948426182" name="spoken_emoji_231B">"Tiimalasi"</string>
+    <string msgid="4022497733535162237" name="spoken_emoji_23E9">"Musta oikealle osoittava kaksoiskolmio"</string>
+    <string msgid="2251396938087774944" name="spoken_emoji_23EA">"Musta vasemmalle osoittava kaksoiskolmio"</string>
+    <string msgid="3746885195641491865" name="spoken_emoji_23EB">"Musta ylös osoittava kaksoiskolmio"</string>
+    <string msgid="7852372752901163416" name="spoken_emoji_23EC">"Musta alas osoittava kaksoiskolmio"</string>
+    <string msgid="8474219588750627870" name="spoken_emoji_23F0">"Herätyskello"</string>
+    <string msgid="166900119581024371" name="spoken_emoji_23F3">"Tiimalasi ja hiekka"</string>
+    <string msgid="3948348737566038470" name="spoken_emoji_24C2">"Ympyröity iso M-kirjain"</string>
+    <string msgid="7865181015100227349" name="spoken_emoji_25AA">"Pieni musta neliö"</string>
+    <string msgid="6446532820937381457" name="spoken_emoji_25AB">"Pieni valkoinen neliö"</string>
+    <string msgid="2423897708496040947" name="spoken_emoji_25B6">"Musta oikealle osoittava kolmio"</string>
+    <string msgid="3595083440074484934" name="spoken_emoji_25C0">"Musta vasemmalle osoittava kolmio"</string>
+    <string msgid="4838691986881215419" name="spoken_emoji_25FB">"Suuri valkoinen neliö"</string>
+    <string msgid="7008859564991191050" name="spoken_emoji_25FC">"Suuri musta neliö"</string>
+    <string msgid="7673439755069217479" name="spoken_emoji_25FD">"Valkoinen neliö"</string>
+    <string msgid="6782214109919768923" name="spoken_emoji_25FE">"Musta neliö"</string>
+    <string msgid="2272722634618990413" name="spoken_emoji_2600">"Musta aurinko"</string>
+    <string msgid="6205136889311537150" name="spoken_emoji_2601">"Pilvi"</string>
+    <string msgid="8670395193046424238" name="spoken_emoji_260E">"Musta puhelin"</string>
+    <string msgid="4530550203347054611" name="spoken_emoji_2611">"Valittu kyselyruutu"</string>
+    <string msgid="1612791247861229500" name="spoken_emoji_2614">"Sateenvarjo ja sadepisarat"</string>
+    <string msgid="3320562382424018588" name="spoken_emoji_2615">"Kuuma juoma"</string>
+    <string msgid="4690554173549768467" name="spoken_emoji_261D">"Valkoinen käsi, ylös osoittava etusormi"</string>
+    <string msgid="3170094381521989300" name="spoken_emoji_263A">"Valkoinen hymyilevä naama"</string>
+    <string msgid="4621241062667020673" name="spoken_emoji_2648">"Oinas"</string>
+    <string msgid="7694461245947059086" name="spoken_emoji_2649">"Härkä"</string>
+    <string msgid="1258074605878705030" name="spoken_emoji_264A">"Kaksoset"</string>
+    <string msgid="4409219914377810956" name="spoken_emoji_264B">"Rapu"</string>
+    <string msgid="6520255367817054163" name="spoken_emoji_264C">"Leijona"</string>
+    <string msgid="1504758945499854018" name="spoken_emoji_264D">"Neitsyt"</string>
+    <string msgid="2354847104530633519" name="spoken_emoji_264E">"Vaaka"</string>
+    <string msgid="5822933280406416112" name="spoken_emoji_264F">"Skorpioni"</string>
+    <string msgid="4832481156714796163" name="spoken_emoji_2650">"Jousimies"</string>
+    <string msgid="840953134601595090" name="spoken_emoji_2651">"Kauris"</string>
+    <string msgid="3586925968718775281" name="spoken_emoji_2652">"Vesimies"</string>
+    <string msgid="8420547731496254492" name="spoken_emoji_2653">"Kalat"</string>
+    <string msgid="4541170554542412536" name="spoken_emoji_2660">"Musta patasymboli"</string>
+    <string msgid="3669352721942285724" name="spoken_emoji_2663">"Musta ristisymboli"</string>
+    <string msgid="6347941599683765843" name="spoken_emoji_2665">"Musta herttasymboli"</string>
+    <string msgid="8296769213401115999" name="spoken_emoji_2666">"Musta ruutusymboli"</string>
+    <string msgid="7063148281053820386" name="spoken_emoji_2668">"Kuuma lähde"</string>
+    <string msgid="21716857176812762" name="spoken_emoji_267B">"Musta kierrätysmerkki"</string>
+    <string msgid="8833496533226475443" name="spoken_emoji_267F">"Pyörätuolin symboli"</string>
+    <string msgid="7443148847598433088" name="spoken_emoji_2693">"Ankkuri"</string>
+    <string msgid="6272635532992727510" name="spoken_emoji_26A0">"Varoitusmerkki"</string>
+    <string msgid="5604749644693339145" name="spoken_emoji_26A1">"Korkean jännitteen symboli"</string>
+    <string msgid="8005748091690377153" name="spoken_emoji_26AA">"Valkoinen ympyrä"</string>
+    <string msgid="1655910278422753244" name="spoken_emoji_26AB">"Musta ympyrä"</string>
+    <string msgid="1545218197938889737" name="spoken_emoji_26BD">"Jalkapallo"</string>
+    <string msgid="8959760533076498209" name="spoken_emoji_26BE">"Pesäpallo"</string>
+    <string msgid="3045791757044255626" name="spoken_emoji_26C4">"Lumiukko ilman lunta"</string>
+    <string msgid="5580129409712578639" name="spoken_emoji_26C5">"Aurinko pilven takana"</string>
+    <string msgid="8963656417276062998" name="spoken_emoji_26CE">"Käärmeenkantaja"</string>
+    <string msgid="2231451988209604130" name="spoken_emoji_26D4">"Kielletty ajosuunta"</string>
+    <string msgid="7513319636103804907" name="spoken_emoji_26EA">"Kirkko"</string>
+    <string msgid="7134115206158891037" name="spoken_emoji_26F2">"Suihkulähde"</string>
+    <string msgid="4912302210162075465" name="spoken_emoji_26F3">"Lippu reiässä"</string>
+    <string msgid="4766328116769075217" name="spoken_emoji_26F5">"Purjevene"</string>
+    <string msgid="5888017494809199037" name="spoken_emoji_26FA">"Teltta"</string>
+    <string msgid="2417060622927453534" name="spoken_emoji_26FD">"Polttoainepumppu"</string>
+    <string msgid="4005741160717451912" name="spoken_emoji_2702">"Mustat sakset"</string>
+    <string msgid="164605766946697759" name="spoken_emoji_2705">"Valkoinen valintamerkki"</string>
+    <string msgid="7153840886849268988" name="spoken_emoji_2708">"Lentokone"</string>
+    <string msgid="2217319160724311369" name="spoken_emoji_2709">"Kirjekuori"</string>
+    <string msgid="508347232762319473" name="spoken_emoji_270A">"Nyrkki"</string>
+    <string msgid="6640562128327753423" name="spoken_emoji_270B">"Pystyssä oleva kämmen"</string>
+    <string msgid="1344288035704944581" name="spoken_emoji_270C">"Voitonmerkki"</string>
+    <string msgid="6108251586067318718" name="spoken_emoji_270F">"Lyijykynä"</string>
+    <string msgid="6320544535087710482" name="spoken_emoji_2712">"Musta kynänkärki"</string>
+    <string msgid="1968242800064001654" name="spoken_emoji_2714">"Paksu valintamerkki"</string>
+    <string msgid="511941294762977228" name="spoken_emoji_2716">"Paksu kertomerkki"</string>
+    <string msgid="5650330815808691881" name="spoken_emoji_2728">"Tuikkivat tähdet"</string>
+    <string msgid="8915809595141157327" name="spoken_emoji_2733">"Kahdeksansakarainen tähti"</string>
+    <string msgid="4846583547980754332" name="spoken_emoji_2734">"Kahdeksansakarainen musta tähti"</string>
+    <string msgid="4350636647760161042" name="spoken_emoji_2744">"Lumihiutale"</string>
+    <string msgid="3718282973916474455" name="spoken_emoji_2747">"Kipinä"</string>
+    <string msgid="2752145886733295314" name="spoken_emoji_274C">"Ristimerkki"</string>
+    <string msgid="4262918689871098338" name="spoken_emoji_274E">"Valkoinen ristimerkki mustalla taustalla"</string>
+    <string msgid="6935897159942119808" name="spoken_emoji_2753">"Musta koristeellinen kysymysmerkki"</string>
+    <string msgid="7277504915105532954" name="spoken_emoji_2754">"Valkoinen koristeellinen kysymysmerkki"</string>
+    <string msgid="6853076969826960210" name="spoken_emoji_2755">"Valkoinen koristeellinen huutomerkki"</string>
+    <string msgid="3707907828776912174" name="spoken_emoji_2757">"Paksu huutomerkki"</string>
+    <string msgid="4214257843609432167" name="spoken_emoji_2764">"Väritetty sydän"</string>
+    <string msgid="6563954833786162168" name="spoken_emoji_2795">"Paksu plusmerkki"</string>
+    <string msgid="5990926508250772777" name="spoken_emoji_2796">"Paksu miinusmerkki"</string>
+    <string msgid="24694184172879174" name="spoken_emoji_2797">"Paksu jakomerkki"</string>
+    <string msgid="3513434778263100580" name="spoken_emoji_27A1">"Musta nuoli oikealle"</string>
+    <string msgid="203395646864662198" name="spoken_emoji_27B0">"Silmukka"</string>
+    <string msgid="4940514642375640510" name="spoken_emoji_27BF">"Kaksoissilmukka"</string>
+    <string msgid="9062130477982973457" name="spoken_emoji_2934">"Oikealle ja ylös osoittava nuoli"</string>
+    <string msgid="6198710960720232074" name="spoken_emoji_2935">"Oikealle ja alas osoittava nuoli"</string>
+    <string msgid="4813405635410707690" name="spoken_emoji_2B05">"Musta nuoli vasemmalle"</string>
+    <string msgid="1223172079106250748" name="spoken_emoji_2B06">"Musta nuoli ylös"</string>
+    <string msgid="1599124424746596150" name="spoken_emoji_2B07">"Musta nuoli alas"</string>
+    <string msgid="3461247311988501626" name="spoken_emoji_2B1B">"Suuri musta neliö"</string>
+    <string msgid="5793146430145248915" name="spoken_emoji_2B1C">"Suuri valkoinen neliö"</string>
+    <string msgid="3850845519526950524" name="spoken_emoji_2B50">"Valkoinen tähti"</string>
+    <string msgid="9137882158811541824" name="spoken_emoji_2B55">"Paksu suuri ympyrä"</string>
+    <string msgid="4609172241893565639" name="spoken_emoji_3030">"Aaltoviiva"</string>
+    <string msgid="2545833934975907505" name="spoken_emoji_303D">"Vuorottelumerkki"</string>
+    <string msgid="928912923628973800" name="spoken_emoji_3297">"Ideogrammi onnittelu ympyrän sisällä"</string>
+    <string msgid="3930347573693668426" name="spoken_emoji_3299">"Ideogrammi salaisuus ympyrän sisällä"</string>
+    <string msgid="5981009928135394306" name="spoken_emoji_unknown">"Tuntematon emoji-merkki"</string>
+    <string msgid="2410905667389534573" name="spoken_emoticon_3A_2D_21_20">"Kyllästynyt naama"</string>
+    <string msgid="2481260475945560438" name="spoken_emoticon_3A_2D_24_20">"Nolostunut naama"</string>
+    <string msgid="5612342617244114291" name="spoken_emoticon_3A_2D_2A_20">"Naama ja pusuhuulet"</string>
+    <string msgid="2223507987759905920" name="spoken_emoticon_3A_2D_5B_20">"Kurttuotsainen naama"</string>
+    <string msgid="532695091593447238" name="spoken_emoticon_3A_4F_20">"Yllättynyt naama"</string>
+    <string msgid="1063205250387128068" name="spoken_emoticon_42_2D_29_20">"Naama aurinkolasit silmillä"</string>
+    <string msgid="4250215619373459752" name="spoken_empty_suggestion">"Ei ehdotusta."</string>
+    <string msgid="4743162182646977944" name="spoken_letter_0049">"Suuraakkonen I"</string>
+    <string msgid="4766619646231612274" name="spoken_letter_0130">"Suuraakkonen I ja yläpuolinen piste"</string>
+    <string msgid="1711276837961785646" name="spoken_no_text_entered">"Ei kirjoitettua tekstiä"</string>
+    <string msgid="6832897688371903747" name="spoken_open_more_keys_keyboard">"Vaihtoehtoisia merkkejä on saatavilla"</string>
+    <string msgid="4231720702882969760" name="spoken_open_more_suggestions">"Vaihtoehtoisia ehdotuksia on saatavilla"</string>
+    <string msgid="4281758332905123408" name="spoken_symbol_00A1">"Ylösalainen huutomerkki"</string>
+    <string msgid="4093069643313064892" name="spoken_symbol_00AB">"Vasemmalle osoittava kaksinkertainen kulmalainausmerkki"</string>
+    <string msgid="2447718728927874920" name="spoken_symbol_00B7">"Rivinkeskinen piste"</string>
+    <string msgid="8026257165451461231" name="spoken_symbol_00B9">"Yläindeksi yksi"</string>
+    <string msgid="1102740075655373928" name="spoken_symbol_00BB">"Oikealle osoittava kaksinkertainen kulmalainausmerkki"</string>
+    <string msgid="6233794752573788098" name="spoken_symbol_00BF">"Ylösalainen kysymysmerkki"</string>
+    <string msgid="4886476295598930225" name="spoken_symbol_2018">"Ylösalainen puolilainausmerkki"</string>
+    <string msgid="8892530161598134083" name="spoken_symbol_2019">"Puolilainausmerkki"</string>
+    <string msgid="2072987157683446644" name="spoken_symbol_201A">"Rivinalinen puolilainausmerkki"</string>
+    <string msgid="4588048378803665427" name="spoken_symbol_201C">"Ylösalainen kokolainausmerkki"</string>
+    <string msgid="1642776849495925895" name="spoken_symbol_201D">"Kokolainausmerkki"</string>
+    <string msgid="9084628638189344431" name="spoken_symbol_2020">"Risti"</string>
+    <string msgid="5081396468559426475" name="spoken_symbol_2021">"Kaksoisristi"</string>
+    <string msgid="9068837172419431755" name="spoken_symbol_2030">"Promillemerkki"</string>
+    <string msgid="3014506329156664396" name="spoken_symbol_2032">"Yläpuolinen indeksointipilkku"</string>
+    <string msgid="1251022699713475088" name="spoken_symbol_2033">"Kaksinkertainen yläpuolinen indeksointipilkku"</string>
+    <string msgid="6989616457213775957" name="spoken_symbol_2039">"Vasemmalle osoittava kulmapuolilainausmerkki"</string>
+    <string msgid="31245095449823701" name="spoken_symbol_203A">"Oikealle osoittava kulmapuolilainausmerkki"</string>
+    <string msgid="2116717717093306894" name="spoken_symbol_2074">"Yläindeksi neljä"</string>
+    <string msgid="1706731172134246659" name="spoken_symbol_207F">"Yläindeksi latinalainen pienaakkonen n"</string>
+    <string msgid="2159994270622444689" name="spoken_symbol_20B1">"Peson merkki"</string>
+    <string msgid="7289404939366976829" name="spoken_symbol_2105">"Care of -merkki"</string>
+    <string msgid="827804523596125414" name="spoken_symbol_2192">"Nuoli oikealle"</string>
+    <string msgid="2659541693445985717" name="spoken_symbol_2193">"Nuoli alas"</string>
+    <string msgid="4457188084269117343" name="spoken_symbol_2205">"Tyhjä joukko"</string>
+    <string msgid="4856786565708380687" name="spoken_symbol_2206">"Delta"</string>
+    <string msgid="5092061257745123554" name="spoken_symbol_2264">"Pienempi tai yhtä suuri kuin -merkki"</string>
+    <string msgid="1907966479878036357" name="spoken_symbol_2265">"Suurempi tai yhtä suuri kuin -merkki"</string>
+    <string msgid="5202920479405857753" name="spoken_symbol_2605">"Musta tähti"</string>
+    <string msgid="717298227061173706" name="spoken_symbol_unknown">"Tuntematon symboli"</string>
+    <string msgid="4313642710742229868" name="spoken_use_headphones">"Liitä kuulokkeet, niin kuulet mitä näppäimiä painat kirjoittaessasi salasanaa."</string>
+    <string msgid="7483586578074549196" name="subtype_emoji">"Emoji"</string>
+    <string msgid="88170601942311355" name="subtype_en_GB">"englanti (Iso-Britannia)"</string>
+    <string msgid="6160452336634534239" name="subtype_en_US">"englanti (Yhdysvallat)"</string>
+    <string msgid="5583145191430180200" name="subtype_es_US">"espanja (Yhdysvallat)"</string>
+    <string msgid="3353673321203202922" name="subtype_generic_compact">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (tiivis)"</string>
+    <string msgid="8584594350973800586" name="subtype_generic_traditional">"<ns1:g id="LANGUAGE_NAME">%s</ns1:g> (perinteinen)"</string>
+    <string msgid="8860448146262798623" name="subtype_hi_ZZ">"Hindienglanti"</string>
+    <string msgid="8576443440738143764" name="subtype_locale">"Kieli"</string>
+    <string msgid="7137390094240139495" name="subtype_no_language">"Ei kieltä (aakkoset)"</string>
+    <string msgid="8144348527575640087" name="subtype_no_language_azerty">"Aakkoset (AZERTY)"</string>
+    <string msgid="5837418400010302623" name="subtype_no_language_colemak">"Aakkoset (Colemak)"</string>
+    <string msgid="1564494667584718094" name="subtype_no_language_dvorak">"Aakkoset (Dvorak)"</string>
+    <string msgid="5354918232046200018" name="subtype_no_language_pcqwerty">"Aakkoset (PC)"</string>
+    <string msgid="244337630616742604" name="subtype_no_language_qwerty">"aakkoset (QWERTY)"</string>
+    <string msgid="443066912507547976" name="subtype_no_language_qwertz">"Aakkoset (QWERTZ)"</string>
+    <string msgid="9059219552986034343" name="subtype_sr_ZZ">"serbialainen (latinal.)"</string>
+    <string msgid="1931018968641592304" name="subtype_with_layout_en_GB">"englanti (UK) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="8809311287529805422" name="subtype_with_layout_en_US">"englanti (US) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="510930471167541338" name="subtype_with_layout_es_US">"espanja (US) (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="6827402953860547044" name="subtype_with_layout_hi_ZZ">"Hindienglanti (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="2859024772719772407" name="subtype_with_layout_sr_ZZ">"serbialainen (<ns1:g id="KEYBOARD_LAYOUT">%s</ns1:g>)"</string>
+    <string msgid="3321216593719006162" name="switch_accounts">"Vaihda tiliä"</string>
+    <string msgid="3088838136743277721" name="sync_now_title">"Synkronoi"</string>
+    <string msgid="6128155879830851739" name="toast_downloading_suggestions">"Ladataan: kielen <ns1:g id="LANGUAGE_NAME">%1$s</ns1:g> ehdotukset ovat pian käytettävissä."</string>
+    <string msgid="4435317977804180815" name="use_contacts_dict">"Ehdota yht.tietojen nimiä"</string>
+    <string msgid="6599983334507879959" name="use_contacts_dict_summary">"Käytä yhteystietojen nimiä ehdotuksissa ja korjauksissa"</string>
+    <string msgid="8754413382543307713" name="use_contacts_for_spellchecking_option_summary">"Oikeinkirjoituksen tarkistus käyttää yhteystietojasi."</string>
+    <string msgid="5374120998125353898" name="use_contacts_for_spellchecking_option_title">"Hae yht.tietojen nimiä"</string>
+    <string msgid="8781529969425082860" name="use_double_space_period">"Kaksoisvälilyönti = piste"</string>
+    <string msgid="6532892187247952799" name="use_double_space_period_summary">"Välilyönnin kaksoisnapautus lisää tekstiin pisteen ja välilyönnin"</string>
+    <string msgid="5167396352105467626" name="use_personalized_dicts">"Räätälöidyt ehdotukset"</string>
+    <string msgid="590432261305469627" name="use_personalized_dicts_summary">"Ehdotusten parannus viestinnän ja kirjoitettujen tietojen avulla"</string>
+    <string msgid="5431919401558285473" name="user_dict_fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ"</string>
+    <string msgid="4703129507388332950" name="user_dict_settings_add_dialog_confirm">"OK"</string>
+    <string msgid="2716586567241724126" name="user_dict_settings_add_dialog_less_options">"Väh. vaihtoeht."</string>
+    <string msgid="5671682004887093112" name="user_dict_settings_add_dialog_more_options">"Lisäasetukset"</string>
+    <string msgid="4096700390211748168" name="user_dict_settings_add_dialog_title">"Lisää sanakirjaan"</string>
+    <string msgid="4738643440987277705" name="user_dict_settings_add_locale_option_name">"Kieli:"</string>
+    <string msgid="1254195365689387076" name="user_dict_settings_add_menu_title">"Lisää"</string>
+    <string msgid="5818914331629278758" name="user_dict_settings_add_screen_title">"Ilmaus"</string>
+    <string msgid="2265453012555060178" name="user_dict_settings_add_shortcut_hint">"Valinnainen pikanäppäin"</string>
+    <string msgid="3094731590655523777" name="user_dict_settings_add_shortcut_option_name">"Pikanäppäin:"</string>
+    <string msgid="4902434148985906707" name="user_dict_settings_add_word_hint">"Kirjoita sana"</string>
+    <string msgid="6665558053408962865" name="user_dict_settings_add_word_option_name">"Sana:"</string>
+    <string msgid="8276126583216298886" name="user_dict_settings_all_languages">"Kaikille kielille"</string>
+    <string msgid="8142932447689461181" name="user_dict_settings_context_menu_delete_title">"Poista"</string>
+    <string msgid="6812255903472456302" name="user_dict_settings_context_menu_edit_title">"Muokkaa"</string>
+    <string msgid="110413335187193859" name="user_dict_settings_delete">"Poista"</string>
+    <string msgid="3765774633869590352" name="user_dict_settings_edit_dialog_title">"Muokkaa sanaa"</string>
+    <string msgid="558499587532668203" name="user_dict_settings_empty_text">"Käyttäjän sanakirjassa ei ole yhtään sanaa. Voit lisätä sanan koskettamalla Lisää (+) -painiketta."</string>
+    <string msgid="7131268499685180461" name="user_dict_settings_more_languages">"Lisää kieliä…"</string>
+    <string msgid="3582332055892252845" name="user_dictionaries">"Käyttäjän sanakirjat"</string>
+    <string msgid="2715354215568469385" name="version_text">"Versio <ns1:g id="VERSION_NUMBER">%1$s</ns1:g>"</string>
+    <string msgid="5258079494276955460" name="vibrate_on_keypress">"Käytä värinää näppäimiä painettaessa"</string>
+    <string msgid="3583258583521397548" name="voice_input">"Äänisyötenäppäin"</string>
+    <string msgid="8141750303464726129" name="voice_input_disabled_summary">"Äänen syöttötapoja ei ole otettu käyttöön. Tarkista Kieli ja syöttötapa -asetukset."</string>
+</resources>
