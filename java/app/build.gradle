@@ -1,29 +1,65 @@
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.model.application'
 
-android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+model {
+    android {
+        compileSdkVersion = 23
+        buildToolsVersion = "23.0.2"
 
-    defaultConfig {
-        applicationId "com.android.inputmethod.latin"
-        minSdkVersion 14
-        targetSdkVersion 23
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_7
-            targetCompatibility JavaVersion.VERSION_1_7
-        }
+        defaultConfig.with {
+            applicationId = "com.android.inputmethod.latin"
+            minSdkVersion.apiLevel = 14
+            targetSdkVersion.apiLevel = 23
 
-        testApplicationId "com.android.inputmethod.latin.tests"
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
-    }
 
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            compileOptions.with {
+                sourceCompatibility = JavaVersion.VERSION_1_7
+                targetCompatibility = JavaVersion.VERSION_1_7
+            }
+
+            testApplicationId = "com.android.inputmethod.latin.tests"
+            testInstrumentationRunner ="android.support.test.runner.AndroidJUnitRunner"
         }
     }
+
+    android.ndk {
+        moduleName = "jni_latinime"
+
+        cppFlags += "-I${file("src/main/jni")}".toString()
+        cppFlags += "-I${file("src/main/jni/src")}".toString()
+        cppFlags += "-std=c++11"
+    }
+
+    android.aaptOptions {
+        noCompress = "dict"
+    }
+
+    android.lintOptions {
+        checkReleaseBuilds = false
+    }
+
+    android.productFlavors {
+        create("all")
+
+        create("targetPlatforms") {
+            ndk.abiFilters += ["x86", "armeabi", "armeabi-v7a"]
+        }
+    }
+
+
+    android.buildTypes {
+        debug {
+            buildConfigFields.with {
+                create() {
+                    type = "String"
+                    name = "cppFlags"
+                    value += "-DFLAG_DBG -funwind-tables -fno-inline"
+                }
+            }
+        }
+    }
+
 }
+
 
 dependencies {
     compile 'com.android.support:support-v4:23.1.1'

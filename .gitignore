@@ -1,2 +1,6 @@
 java/gen/
 java/bin/
+java/.gradle
+java/.idea/libraries/
+java/app/build/**
+java/.idea/**
