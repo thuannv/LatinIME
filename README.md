@@ -1,14 +1,17 @@
 # Building LatinIME with Android Studio
+
 Hi Guys!
+
 I've configured the LatinIME for working with Android Studio.
 
-**The project contains 2 branches:**
+## The project contains 2 branches:
 
 **1.** master -> for working normally with Java only
+
 **2.** native-developement -> for working with NDK support for suggestion module
 
 
-**Starting developing by follow steps below:**
+## Starting your development by follow steps below:
 
 **1.** Clone this project
 
